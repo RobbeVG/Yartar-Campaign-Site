@@ -1,0 +1,79 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-monster
+tags:
+- ttrpg-cli/compendium/src/5e/pabtso
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/humanoid/gnome
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- "Rivibiddel"
+---
+# [Rivibiddel](3.Mechanics/bestiary/npc/rivibiddel-pabtso.md)
+*Source: Phandelver and Below: The Shattered Obelisk p. 122*  
+
+```statblock
+"name": "Rivibiddel (PaBTSO)"
+"size": "Small"
+"type": "humanoid"
+"subtype": "gnome"
+"alignment": "Neutral Good"
+"ac": !!int "15"
+"ac_class": "[chain shirt](3.Mechanics/items/chain-shirt-xphb.md)"
+"hp": !!int "16"
+"hit_dice": "3d6 + 6"
+"modifier": !!int "2"
+"stats":
+  - !!int "15"
+  - !!int "14"
+  - !!int "14"
+  - !!int "12"
+  - !!int "10"
+  - !!int "9"
+"speed": "15 ft."
+"skillsaves":
+  - "name": "[Investigation](3.Mechanics/rules/skills.md#Investigation)"
+    "desc": "+3"
+  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+    "desc": "+2"
+  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+    "desc": "+4"
+"gear":
+  - "[war pick](3.Mechanics/items/war-pick-xphb.md)"
+"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 12"
+"languages": "Gnomish, Terran, Undercommon"
+"cr": "1/2"
+"traits":
+  - "desc": "Rivibiddel's innate spellcasting ability is Intelligence (spell save\
+      \ DC 11). It can innately cast the following spells, requiring no material components:\n\
+      \n**At will:** [nondetection](3.Mechanics/spells/nondetection-xphb.md) (self\
+      \ only)\n\n**1/day each:** [blindness/deafness](3.Mechanics/spells/blindness-deafness-xphb.md),\
+      \ [blur](3.Mechanics/spells/blur-xphb.md), [disguise self](3.Mechanics/spells/disguise-self-xphb.md)"
+    "name": "Innate Spellcasting"
+  - "desc": "Rivibiddel has advantage on Dexterity ([Stealth](3.Mechanics/rules/skills.md#Stealth))\
+      \ checks made to hide in rocky terrain."
+    "name": "Stone Camouflage"
+  - "desc": "Rivibiddel has advantage on Intelligence, Wisdom, and Charisma saving\
+      \ throws against magic."
+    "name": "Gnome Cunning"
+"actions":
+  - "desc": "*Melee Weapon Attack:* dice:1d20+4|noform|noparens|text(+4) to hit,\
+      \ reach 5 ft., one target. *Hit:* dice:1d8+2|noform|noparens|avg|text(6) (1d8\
+      \ + 2) piercing damage."
+    "name": "War Pick"
+  - "desc": "*Ranged Weapon Attack:* dice:1d20+4|noform|noparens|text(+4) to hit,\
+      \ range 30/120 ft., one creature. *Hit:* dice:1d4+2|noform|noparens|avg|text(4)\
+      \ (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution\
+      \ saving throw or be [poisoned](3.Mechanics/rules/conditions.md#Poisoned) for\
+      \ 1 minute. The target can repeat the saving throw at the end of each of its\
+      \ turns, ending the effect on itself on a success"
+    "name": "Poisoned Dart"
+"source":
+  - "PaBTSO"
+"image": "file://bestiary/tokens/PaBTSO/Rivibiddel.webp"
+```
+^statblock

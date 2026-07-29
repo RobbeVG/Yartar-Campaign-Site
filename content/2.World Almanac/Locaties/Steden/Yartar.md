@@ -9,14 +9,12 @@ marker:
 ---
 **Yartar** (uitgesprokel als: / YAR-tarr) is een stadje in de [[Sword Coast]].
 
-![[Yartar.base]]
-
 ```base
 views:
   - type: leaflet-map
     name: Map
     mapName: Yartar
-    image: https://www.worldanvil.com/uploads/images/9d666bf4baf0dd62fba90fddcb6248fc.jpg
+    image: assets/yartar.jpg
     height: 460
     minZoom: -1
     maxZoom: 2
@@ -24,6 +22,5 @@ views:
     zoomDelta: 0.33
     scale: "0.2"
     unit: miles
-
 ```
 

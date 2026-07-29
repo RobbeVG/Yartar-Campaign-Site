@@ -1,0 +1,9 @@
+views:
+  - type: leaflet-map
+    name: Map
+    height: 540
+    image: ""
+    defaultZoom: 0
+    maxZoom: 2
+    zoomDelta: 0.5
+    minZoom: 0

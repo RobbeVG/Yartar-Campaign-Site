@@ -1,0 +1,8 @@
+filters:
+  and:
+    - and:
+        - '!file.inFolder("templates")'
+        - '!file.inFolder("0.DM Notes")'
+views:
+  - type: table
+    name: Table

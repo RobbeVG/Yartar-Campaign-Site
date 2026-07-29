@@ -1,0 +1,11 @@
+views:
+  - type: leaflet-map
+    name: Map
+    image: assets/SwordCoastMap_MedRes.jpg
+    height: 560
+    defaultZoom: -3
+    minZoom: -4
+    maxZoom: 0
+    mapName: Sword Coast
+    scale: "0.2754820937"
+    unit: miles

@@ -38,34 +38,25 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
 | 5 | Part of a loose organization that adheres to timeless rituals and guards natural secrets. |
 | 6 | A warden who minds the underpinnings of reality and protects against extraplanar threats. |
 ^druid-traditions
+
 ```ad-statblock
 title: Druid
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Druid.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 13 
-- **Hit Points** 44 (8d8 + 8) 
+- **Hit Points** 44 (`8d8 + 8`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|12 (+1)|13 (+1)|12 (+1)|16 (+3)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Medicine](3.Mechanics/rules/skills.md#Medicine) +5, [Nature](3.Mechanics/rules/skills.md#Nature) +3, [Perception](3.Mechanics/rules/skills.md#Perception) +5
+- **Senses** passive Perception 15
 - **Gear** [studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)
-- **Senses** Passive Perception 15
 - **Languages** Common, Druidic, Sylvan
 - **Challenge** 2
 

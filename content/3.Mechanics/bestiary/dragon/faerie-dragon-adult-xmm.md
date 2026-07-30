@@ -27,34 +27,26 @@ The pranks of faerie dragon adults tend to lead others to people in need or wron
 
 Faerie dragons are cat-size pranksters with draconic features, butterfly-like wings, and scales of warm hues as youths and cool hues as adults.
 
+## Statblock
+
 ```ad-statblock
 title: Faerie Dragon Adult
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Faerie%20Dragon%20Adult.webp#token)
-*Tiny Dragon, Chaotic Good*
+*Tiny dragon, Chaotic Good*
 
 - **Armor Class** 15 
-- **Hit Points** 35 (10d4 + 10) 
+- **Hit Points** 35 (`10d4 + 10`) 
 - **Speed** 10 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 3 | -4 | -4 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 20 | +5 | +5 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 3 (-4)|20 (+5)|13 (+1)|14 (+2)|12 (+1)|16 (+3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +4, [Perception](3.Mechanics/rules/skills.md#Perception) +3, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 13
-- **Languages** Draconic, Sylvan; Telepathy 60 ft. (faerie dragons only)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Languages** Draconic, Sylvan; telepathy 60 ft. (faerie dragons only)
 - **Challenge** 2
 
 ## Traits

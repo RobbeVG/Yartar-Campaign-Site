@@ -13,13 +13,6 @@ tags:
 title: "Revenant"
 aliases:
 - "Revenant"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [stunned](3.Mechanics/rules/conditions.md#Stunned)
 ---
 # Revenant
 *Source: Monster Manual (2024) p. 259*  
@@ -36,36 +29,28 @@ Revenants possess the bodies they had in life, using them to hunt down their kil
 
 Wrathful spirits bent on revenge, revenants possess corpses and other materials, using them to seek justice or vent their rage on those who wronged them. Revenants refuse to rest until those they seek to punish are no more. If their bodies are destroyed, revenants claim new forms and continue their ruthless quests.
 
+## Statblock
+
 ```ad-statblock
 title: Revenant
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Revenant.webp#token)
-*Medium Undead, Neutral*
+*Medium undead, Neutral*
 
 - **Armor Class** 13 
-- **Hit Points** 127 (15d8 + 60) 
+- **Hit Points** 127 (`15d8 + 60`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | **+7** |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 16 | +3 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | **+7** |
-|Cha| 18 | +4 | **+7** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|14 (+2)|18 (+4)|13 (+1)|16 (+3)|18 (+4)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +7, Constitution +7, Wisdom +6, Charisma +7
 - **Skills** ⏤
-- **Damage Resistances** Necrotic, Psychic
-- **Damage Immunities** Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Stunned](3.Mechanics/rules/conditions.md#Stunned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 13
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Damage Resistances** necrotic, psychic
+- **Damage Immunities** poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [stunned](3.Mechanics/rules/conditions.md#Stunned)
 - **Languages** Common plus one other language
 - **Challenge** 5
 

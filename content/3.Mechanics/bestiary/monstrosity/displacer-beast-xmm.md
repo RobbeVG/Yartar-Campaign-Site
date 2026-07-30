@@ -33,34 +33,25 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
 > 
 > The murderous fury of a displacer beast is fit only for nightmares, of which I've been haunted since narrowly escaping one's ambush. I'm certain that beast stalks me still.
 
+
 ```ad-statblock
 title: Displacer Beast
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Displacer%20Beast.webp#token)
-*Large Monstrosity, Lawful Evil*
+*Large monstrosity, Lawful Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 76 (9d10 + 27) 
+- **Hit Points** 76 (`9d10 + 27`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|15 (+2)|16 (+3)| 6 (-2)|12 (+1)| 8 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 11
-- **Languages** Understands Sylvan but can't speak
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Languages** understands Sylvan but can't speak
 - **Challenge** 3
 
 ## Traits

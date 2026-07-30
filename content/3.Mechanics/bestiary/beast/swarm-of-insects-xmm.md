@@ -17,15 +17,6 @@ tags:
 title: "Swarm of Insects"
 aliases:
 - "Swarm of Insects"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [grappled](3.Mechanics/rules/conditions.md#Grappled)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
-- [restrained](3.Mechanics/rules/conditions.md#Restrained)
-- [stunned](3.Mechanics/rules/conditions.md#Stunned)
 ---
 # Swarm of Insects
 *Source: Monster Manual (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -39,35 +30,26 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![A druid calls on animals of the hills and mountains to aid her cause](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Hills%20and%20Mountains.webp)
 ![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
+
 ```ad-statblock
 title: Swarm of Insects
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Swarm%20of%20Insects.webp#token)
-*Medium Beast, Unaligned*
+*Medium beast, Unaligned*
 
 - **Armor Class** 11 
-- **Hit Points** 19 (3d8 + 6) 
+- **Hit Points** 19 (`3d8 + 6`) 
 - **Speed** 20 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 3 | -4 | -4 |
-|Int| 1 | -5 | -5 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 7 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 1 | -5 | -5 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 3 (-4)|13 (+1)|14 (+2)| 1 (-5)| 7 (-2)| 1 (-5)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Resistances** Bludgeoning, Piercing, Slashing
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained), [Stunned](3.Mechanics/rules/conditions.md#Stunned)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., Passive Perception 8
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception 8
+- **Damage Resistances** bludgeoning, piercing, slashing
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained), [stunned](3.Mechanics/rules/conditions.md#Stunned)
 - **Languages** —
 - **Challenge** 1/2
 

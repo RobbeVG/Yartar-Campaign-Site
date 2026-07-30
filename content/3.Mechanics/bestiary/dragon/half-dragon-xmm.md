@@ -31,34 +31,25 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
 > 
 > What blessing demands more yet inspires greater works than the blood of Tiamat?
 
+
 ```ad-statblock
 title: Half-Dragon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Half-Dragon.webp#token)
-*Medium Dragon, Neutral*
+*Medium dragon, Neutral*
 
 - **Armor Class** 18 
-- **Hit Points** 105 (14d8 + 42) 
+- **Hit Points** 105 (`14d8 + 42`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | **+5** |
-|Wis| 15 | +2 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|14 (+2)|16 (+3)|10 (+0)|15 (+2)|14 (+2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +5, Wisdom +5
 - **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Damage Resistances** Damage type chosen for the Draconic Origin trait below
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 15
 - **Languages** Common, Draconic
 - **Challenge** 5
 

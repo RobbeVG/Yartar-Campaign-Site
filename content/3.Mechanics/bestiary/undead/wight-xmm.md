@@ -16,9 +16,6 @@ tags:
 title: "Wight"
 aliases:
 - "Wight"
-conditionImmunities:
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Wight
 *Source: Monster Manual (2024) p. 332. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -52,37 +49,28 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
 | 7 | Prove it was the greatest warrior to ever live. |
 | 8 | Seek its stolen heart or other treasure. |
 ^wight-motives
+
 ```ad-statblock
 title: Wight
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Wight.webp#token)
-*Medium Undead, Neutral Evil*
+*Medium undead, Neutral Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 82 (11d8 + 33) 
+- **Hit Points** 82 (`11d8 + 33`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|14 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +3, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
-- **Damage Resistances** Necrotic
-- **Damage Immunities** Poison
-- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Damage Resistances** necrotic
+- **Damage Immunities** poison
+- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Gear** [studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 13
 - **Languages** Common plus one other language
 - **Challenge** 3
 

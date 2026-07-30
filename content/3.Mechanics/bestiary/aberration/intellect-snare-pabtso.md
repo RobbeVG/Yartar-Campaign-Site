@@ -10,11 +10,6 @@ tags:
 title: "Intellect Snare"
 aliases:
 - "Intellect Snare"
-conditionImmunities:
-- [blinded](3.Mechanics/rules/conditions.md#Blinded)
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
 ---
 # Intellect Snare
 *Source: Phandelver and Below: The Shattered Obelisk p. 208*  
@@ -23,36 +18,27 @@ conditionImmunities:
 When the strange horrors of the Far Realm rip at the minds of individuals, some of those wayward shreds of thought conglomerate to form an intellect snare. An intellect snare appears as a writhing ball of tentacles, echoing with the cacophonous sounds of every thought the snare has consumed.
 
 Intellect snares are scavengers, often found scouring the aftermath of a mind flayer attack to feast on whatever hapless creatures are left behind. An intellect snare feeds by wrapping a creature in one of its tentacles and then siphoning shreds of thought, leaving a tattered mind in its wake.
+
 ```ad-statblock
 title: Intellect Snare
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Intellect%20Snare.webp#token)
-*Small Aberration, Typically  Neutral Evil*
+*Small aberration, typically  Neutral Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 99 (18d6 + 36) 
+- **Hit Points** 99 (`18d6 + 36`) 
 - **Speed** 0 ft., fly 45 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13 | +1 | +1 |
-|Int| 23 | +6 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | +4 |
-|Wis| 17 | +3 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 11 | +0 | **+3** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|13 (+1)|18 (+4)|15 (+2)|23 (+6)|17 (+3)|11 (+0)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Intelligence +9, Wisdom +6, Charisma +3
 - **Skills** ⏤
-- **Damage Immunities** Psychic
-- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Prone](3.Mechanics/rules/conditions.md#Prone)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 Ft. (can't see beyond this radius), Passive Perception 13
-- **Languages** Deep Speech, Telepathy 120 ft.
+- **Senses** [blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 ft. (can't see beyond this radius), passive Perception 13
+- **Damage Immunities** psychic
+- **Condition Immunities** [blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened), [prone](3.Mechanics/rules/conditions.md#Prone)
+- **Languages** Deep Speech, telepathy 120 ft.
 - **Challenge** 8
 
 ## Traits

@@ -83,34 +83,26 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 > When the Corpse Moon rises and the Chum-Tide washes in, up rise the Gogglers from their pits beneath the waves. Burbling and noisome they come, fishing night's shores as we do dawn's waves.
 
 
+## Statblock
+
 ```ad-statblock
 title: Kuo-toa
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Kuo-toa.webp#token)
-*Medium Aberration, Neutral Evil*
+*Medium aberration, Neutral Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 18 (4d8) 
+- **Hit Points** 18 (`4d8`) 
 - **Speed** 30 ft., swim 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13 | +1 | +1 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 11 | +0 | +0 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|13 (+1)|10 (+0)|11 (+0)|11 (+0)|10 (+0)| 8 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., [Truesight](3.Mechanics/rules/senses.md#Truesight) 30 ft., passive Perception 14
 - **Gear** [spear](3.Mechanics/items/spear-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., [Truesight](3.Mechanics/rules/senses.md#Truesight) 30 Ft., Passive Perception 14
 - **Languages** Undercommon
 - **Challenge** 1/4
 

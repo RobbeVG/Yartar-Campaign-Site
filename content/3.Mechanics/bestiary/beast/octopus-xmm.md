@@ -24,33 +24,24 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![A druid calls on animals of the hills and mountains to aid her cause](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Hills%20and%20Mountains.webp)
 ![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
+
 ```ad-statblock
 title: Octopus
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Octopus.webp#token)
-*Small Beast, Unaligned*
+*Small beast, Unaligned*
 
 - **Armor Class** 12 
-- **Hit Points** 3 (1d6) 
+- **Hit Points** 3 (`1d6`) 
 - **Speed** 5 ft., swim 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 4 | -3 | -3 |
-|Int| 3 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 11 | +0 | +0 |
-|Cha| 4 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 4 (-3)|15 (+2)|11 (+0)| 3 (-4)|10 (+0)| 4 (-3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +2, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 30 Ft., Passive Perception 12
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 30 ft., passive Perception 12
 - **Languages** —
 - **Challenge** 0
 

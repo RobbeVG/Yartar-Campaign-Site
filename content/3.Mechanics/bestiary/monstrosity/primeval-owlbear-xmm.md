@@ -41,33 +41,25 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
 | 4 | Passages through the earth or hollow trees. |
 ^owlbear-den-features
 
+## Statblock
+
 ```ad-statblock
 title: Primeval Owlbear
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Primeval%20Owlbear.webp#token)
-*Huge Monstrosity, Unaligned*
+*Huge monstrosity, Unaligned*
 
 - **Armor Class** 16 
-- **Hit Points** 126 (12d12 + 48) 
+- **Hit Points** 126 (`12d12 + 48`) 
 - **Speed** 40 ft., climb 40 ft., fly 5 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 22 | +6 | +6 |
-|Int| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 15 | +2 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 19 | +4 | **+7** |
-|Cha| 7 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|22 (+6)|14 (+2)|19 (+4)| 8 (-1)|15 (+2)| 7 (-2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Constitution +7, Wisdom +5
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +8
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 18
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 18
 - **Languages** —
 - **Challenge** 7
 

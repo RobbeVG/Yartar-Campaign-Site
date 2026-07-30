@@ -35,33 +35,25 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
 
 
+## Statblock
+
 ```ad-statblock
 title: Gnoll Warrior
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gnoll%20Warrior.webp#token)
-*Medium Fiend, Chaotic Evil*
+*Medium fiend, Chaotic Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 27 (6d8) 
+- **Hit Points** 27 (`6d8`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 14 | +2 | +2 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 11 | +0 | +0 |
-|Cha| 7 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|12 (+1)|11 (+0)| 6 (-2)|10 (+0)| 7 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Gnoll
 - **Challenge** 1/2
 

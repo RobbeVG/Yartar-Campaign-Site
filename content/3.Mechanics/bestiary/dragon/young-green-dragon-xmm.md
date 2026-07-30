@@ -11,8 +11,6 @@ tags:
 title: "Young Green Dragon"
 aliases:
 - "Young Green Dragon"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Young Green Dragon
 *Source: Monster Manual (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -35,35 +33,27 @@ Despite their might, most green dragons disdain physical violence, viewing comba
 
 Green dragons lair in ancient forests, often shaping stands of massive trees into compounds of interwoven branches, hollow trunks, and caverns amid mighty roots. They might also dwell amid forested ruins, particularly the former homes of those they've conquered.
 
+## Statblock
+
 ```ad-statblock
 title: Young Green Dragon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Young%20Green%20Dragon.webp#token)
-*Large Dragon (chromatic), Lawful Evil*
+*Large dragon (chromatic), Lawful Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 136 (16d10 + 48) 
+- **Hit Points** 136 (`16d10 + 48`) 
 - **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | **+4** |
-|Wis| 13 | +1 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | +3 |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +4, Wisdom +4
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 17
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 17
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Common, Draconic
 - **Challenge** 8
 

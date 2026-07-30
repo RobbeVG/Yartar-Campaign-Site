@@ -37,33 +37,25 @@ Cowardly cousins to chromatic dragons, kobolds serve draconic overlords as warri
 
 Kobolds' scales resemble those of chromatic dragons that live near their warrens. Rarely, kobolds possess features evocative of metallic dragons or other dragon-like creatures.
 
+## Statblock
+
 ```ad-statblock
 title: Winged Kobold
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Winged%20Kobold.webp#token)
-*Small Dragon, Neutral*
+*Small dragon, Neutral*
 
 - **Armor Class** 15 
-- **Hit Points** 10 (4d6 - 4) 
+- **Hit Points** 10 (`4d6 - 4`) 
 - **Speed** 30 ft., fly 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 7 | -2 | -2 |
-|Int| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 7 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 9 | -1 | -1 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 7 (-2)|16 (+3)| 9 (-1)| 8 (-1)| 7 (-2)| 8 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 8
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 8
 - **Languages** Common, Draconic
 - **Challenge** 1/4
 

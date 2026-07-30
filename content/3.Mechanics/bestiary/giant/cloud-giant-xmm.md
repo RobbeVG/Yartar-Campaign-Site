@@ -26,33 +26,24 @@ aliases:
 Cloud giants use the power of the skies to observe and subtly influence the world. These giants resemble humans with hair ranging from silver to blue and with skin in cloudlike shades from stark white to twilight hues. Curved canines grow in their upper jaws, extending past their lower lips. In battle, they attack with weapons wreathed in storm clouds and throw roaring thunderheads.
 
 Most cloud giants inhabit citadels crowning tremendous mountains or magical palaces that drift amid the clouds. Many of these giants believe they possess similarly lofty status or purpose. Some view themselves as godlike beings who can manipulate and steal from terrestrial beings with impunity. Others claim their long lives and place among the clouds grant them unique perspectives, so they chronicle what they witness in the world below without interfering. In either case, cloud giants often possess fabulous magical treasures, either claimed from across the world or created by (and gigantically sized for) themselves.
+
 ```ad-statblock
 title: Cloud Giant
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cloud%20Giant.webp#token)
-*Huge Giant, Neutral*
+*Huge giant, Neutral*
 
 - **Armor Class** 14 
-- **Hit Points** 200 (16d12 + 96) 
+- **Hit Points** 200 (`16d12 + 96`) 
 - **Speed** 40 ft., fly 20 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 27 | +8 | +8 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 16 | +3 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 22 | +6 | **+10** |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|27 (+8)|10 (+0)|22 (+6)|12 (+1)|16 (+3)|16 (+3)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Constitution +10, Wisdom +7
 - **Skills** [Insight](3.Mechanics/rules/skills.md#Insight) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +11
-- **Senses** Passive Perception 21
+- **Senses** passive Perception 21
 - **Languages** Common, Giant
 - **Challenge** 9
 

@@ -25,35 +25,27 @@ Psionic goblins often struggle to handle the turbulent psychic energy within the
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Psionic%20Goblins.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Goblin Psi Commander
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Goblin%20Psi%20Commander.webp#token)
-*Small Aberration (goblinoid), Any Alignment*
+*Small aberration (goblinoid), Any alignment*
 
 - **Armor Class** 16 ([studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md))
-- **Hit Points** 58 (13d6 + 13) 
+- **Hit Points** 58 (`13d6 + 13`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12 | +1 | +1 |
-|Int| 17 | +3 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 19 | +4 | +4 |
-|Wis| 15 | +2 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|19 (+4)|13 (+1)|17 (+3)|15 (+2)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Intelligence +5, Wisdom +4
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +8
-- **Damage Resistances** Psychic
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
-- **Languages** Common, Goblin, Telepathy 60 ft.
+- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Damage Resistances** psychic
+- **Languages** Common, Goblin, telepathy 60 ft.
 - **Challenge** 4
 
 ## Traits

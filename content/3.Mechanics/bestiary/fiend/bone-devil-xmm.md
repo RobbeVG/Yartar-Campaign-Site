@@ -12,8 +12,6 @@ tags:
 title: "Bone Devil"
 aliases:
 - "Bone Devil"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Bone Devil
 *Source: Monster Manual (2024) p. 52. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -47,37 +45,28 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
 | 3 | Find someone who broke a deal with a devil. |
 | 4 | Slay someone or steal something as part of its pact with a wicked magic-user. |
 ^bone-devil-objectives
+
 ```ad-statblock
 title: Bone Devil
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bone%20Devil.webp#token)
-*Large Fiend (devil), Lawful Evil*
+*Large fiend (devil), Lawful Evil*
 
 - **Armor Class** 16 
-- **Hit Points** 161 (17d10 + 68) 
+- **Hit Points** 161 (`17d10 + 68`) 
 - **Speed** 40 ft., fly 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | **+8** |
-|Int| 13 | +1 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 14 | +2 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | +4 |
-|Cha| 16 | +3 | **+7** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|16 (+3)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Strength +8, Intelligence +5, Wisdom +6, Charisma +7
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +7, [Insight](3.Mechanics/rules/skills.md#Insight) +6
-- **Damage Resistances** Cold
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), Passive Perception 12
-- **Languages** Infernal; Telepathy 120 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive Perception 12
+- **Damage Resistances** cold
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Infernal; telepathy 120 ft.
 - **Challenge** 9
 
 ## Traits

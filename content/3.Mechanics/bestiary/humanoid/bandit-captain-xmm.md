@@ -47,34 +47,26 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 | 6 | Takes what they need to survive. |
 ^bandit-motivations
 
+## Statblock
+
 ```ad-statblock
 title: Bandit Captain
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bandit%20Captain.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 15 
-- **Hit Points** 52 (8d8 + 16) 
+- **Hit Points** 52 (`8d8 + 16`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | **+4** |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | **+5** |
-|Wis| 11 | +0 | **+2** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Strength +4, Dexterity +5, Wisdom +2
 - **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +4, [Deception](3.Mechanics/rules/skills.md#Deception) +4
+- **Senses** passive Perception 10
 - **Gear** [pistol](3.Mechanics/items/pistol-xphb.md), [scimitar](3.Mechanics/items/scimitar-xphb.md), [studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)
-- **Senses** Passive Perception 10
 - **Languages** Common, Thieves' cant
 - **Challenge** 2
 

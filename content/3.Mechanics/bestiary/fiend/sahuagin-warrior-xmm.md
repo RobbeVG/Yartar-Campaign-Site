@@ -37,34 +37,26 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Sahuagin.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Sahuagin Warrior
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sahuagin%20Warrior.webp#token)
-*Medium Fiend, Lawful Evil*
+*Medium fiend, Lawful Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 22 (4d8 + 4) 
+- **Hit Points** 22 (`4d8 + 4`) 
 - **Speed** 30 ft., swim 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13 | +1 | +1 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 9 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|13 (+1)|11 (+0)|12 (+1)|12 (+1)|13 (+1)| 9 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5
-- **Damage Resistances** Acid, Cold
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 15
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 15
+- **Damage Resistances** acid, cold
 - **Languages** Sahuagin
 - **Challenge** 1/2
 

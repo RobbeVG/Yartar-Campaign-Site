@@ -13,34 +13,25 @@ aliases:
 ---
 # Giant Insect (Wasp)
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+
 ```ad-statblock
 title: Giant Insect (Wasp)
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Giant%20Insect%20%28Wasp%29.webp#token)
-*Large Beast, Unaligned*
+*Large beast, Unaligned*
 
 - **Armor Class** (11 + the spell's level)
 - **Hit Points** 30 + 10 for each spell level above 4  (30 + 10 for each spell level above 4)
 - **Speed** 40 ft., climb 40 ft., fly 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 4 | -3 | -3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 3 | -4 | -4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|13 (+1)|15 (+2)| 4 (-3)|14 (+2)| 3 (-4)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
-- **Languages** Understands the languages you know
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Languages** understands the languages you know
 - **Challenge** 
 
 ## Traits

@@ -52,34 +52,26 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 > Shining One, light my hours. Enkindle my soul, and inspire my deeds. Chase the shadows from my path, and let me walk in your brilliance.
 
 
+## Statblock
+
 ```ad-statblock
 title: Archpriest
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Archpriest.webp#token)
-*Small or Medium Humanoid (cleric), Neutral*
+*Small or Medium humanoid (cleric), Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 240 (32d8 + 96) 
+- **Hit Points** 240 (`32d8 + 96`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | **+7** |
-|Int| 14 | +2 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 21 | +5 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | **+7** |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|12 (+1)|17 (+3)|14 (+2)|21 (+5)|14 (+2)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Strength +7, Constitution +7, Intelligence +6, Wisdom +9
 - **Skills** [Insight](3.Mechanics/rules/skills.md#Insight) +9, [Medicine](3.Mechanics/rules/skills.md#Medicine) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +9, [Religion](3.Mechanics/rules/skills.md#Religion) +10
+- **Senses** passive Perception 19
 - **Gear** [chain mail](3.Mechanics/items/chain-mail-xphb.md), [holy symbol](3.Mechanics/items/holy-symbol-xphb.md)
-- **Senses** Passive Perception 19
 - **Languages** Common plus two other languages
 - **Challenge** 12
 

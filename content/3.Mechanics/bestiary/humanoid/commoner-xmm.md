@@ -102,34 +102,25 @@ Town crier
 Weaver
 
 Youngster
+
 ```ad-statblock
 title: Commoner
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Commoner.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 10 
-- **Hit Points** 4 (1d8) 
+- **Hit Points** 4 (`1d8`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 10 | +0 | +0 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
+- **Senses** passive Perception 10
 - **Gear** [club](3.Mechanics/items/club-xphb.md)
-- **Senses** Passive Perception 10
 - **Languages** Common
 - **Challenge** 0
 

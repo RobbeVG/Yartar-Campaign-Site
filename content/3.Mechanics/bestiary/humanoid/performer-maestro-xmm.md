@@ -94,34 +94,26 @@ Wrestler
 > Welcome, one! Welcome, all! Welcome to the short, and welcome to the tall! Welcome angels, welcome fiends, welcome to all from walks between! Welcome to the Carnival!
 
 
+## Statblock
+
 ```ad-statblock
 title: Performer Maestro
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Performer%20Maestro.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 18 
-- **Hit Points** 110 (17d8 + 34) 
+- **Hit Points** 110 (`17d8 + 34`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12 | +1 | +1 |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | **+7** |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 19 | +4 | **+7** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|18 (+4)|14 (+2)|13 (+1)|14 (+2)|19 (+4)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +7, Charisma +7
 - **Skills** [Acrobatics](3.Mechanics/rules/skills.md#Acrobatics) +10, [Athletics](3.Mechanics/rules/skills.md#Athletics) +4, [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Performance](3.Mechanics/rules/skills.md#Performance) +10, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
+- **Senses** passive Perception 15
 - **Gear** [rapier](3.Mechanics/items/rapier-xphb.md)
-- **Senses** Passive Perception 15
 - **Languages** Common plus one other language
 - **Challenge** 6
 

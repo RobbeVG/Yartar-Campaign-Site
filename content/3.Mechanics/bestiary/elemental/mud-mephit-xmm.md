@@ -12,9 +12,6 @@ tags:
 title: "Mud Mephit"
 aliases:
 - "Mud Mephit"
-conditionImmunities:
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Mud Mephit
 *Source: Monster Manual (2024) p. 207*  
@@ -38,35 +35,27 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 > I am Seamusxanthuszenus, Slayer of Fiends, Merchant Most Excellent, Purveyor of Death!
 
 
+## Statblock
+
 ```ad-statblock
 title: Mud Mephit
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mud%20Mephit.webp#token)
-*Small Elemental, Neutral Evil*
+*Small elemental, Neutral Evil*
 
 - **Armor Class** 11 
-- **Hit Points** 13 (3d6 + 3) 
+- **Hit Points** 13 (`3d6 + 3`) 
 - **Speed** 20 ft., fly 20 ft., swim 20 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 8 | -1 | -1 |
-|Int| 9 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 7 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (-1)|12 (+1)|12 (+1)| 9 (-1)|11 (+0)| 7 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
-- **Damage Immunities** Poison
-- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Damage Immunities** poison
+- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Primordial (Aquan, Terran)
 - **Challenge** 1/4
 

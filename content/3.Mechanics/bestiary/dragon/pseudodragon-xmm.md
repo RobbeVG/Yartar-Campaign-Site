@@ -58,34 +58,25 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
 > 
 > If you want to keep a pseudodragon happy, get used to thinking of yourself as its familiar.
 
+
 ```ad-statblock
 title: Pseudodragon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Pseudodragon.webp#token)
-*Tiny Dragon, Neutral Good*
+*Tiny dragon, Neutral Good*
 
 - **Armor Class** 14 
-- **Hit Points** 10 (3d4 + 3) 
+- **Hit Points** 10 (`3d4 + 3`) 
 - **Speed** 15 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 6 | -2 | -2 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6 (-2)|15 (+2)|13 (+1)|10 (+0)|12 (+1)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 15
-- **Languages** Understands Common and Draconic but can't speak
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Languages** understands Common and Draconic but can't speak
 - **Challenge** 1/4
 
 ## Traits

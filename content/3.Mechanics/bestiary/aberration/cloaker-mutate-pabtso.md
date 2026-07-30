@@ -10,9 +10,6 @@ tags:
 title: "Cloaker Mutate"
 aliases:
 - "Cloaker Mutate"
-conditionImmunities:
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Cloaker Mutate
 *Source: Phandelver and Below: The Shattered Obelisk p. 212*  
@@ -34,36 +31,28 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Mutates.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Cloaker Mutate
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Cloaker%20Mutate.webp#token)
-*Large Aberration, Typically  Chaotic Neutral*
+*Large aberration, typically  Chaotic Neutral*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 143 (22d10 + 22) 
+- **Hit Points** 143 (`22d10 + 22`) 
 - **Speed** 10 ft., fly 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|15 (+2)|12 (+1)|18 (+4)|13 (+1)|11 (+0)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Damage Resistances** Necrotic, Poison, Psychic
-- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 11
-- **Languages** Deep Speech, Telepathy 60 ft., Undercommon
+- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Damage Resistances** necrotic, poison, psychic
+- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Deep Speech, telepathy 60 ft., Undercommon
 - **Challenge** 10
 
 ## Traits

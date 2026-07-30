@@ -11,8 +11,6 @@ tags:
 title: "Cloaker"
 aliases:
 - "Cloaker"
-conditionImmunities:
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
 # Cloaker
 *Source: Monster Manual (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -30,34 +28,25 @@ Cloakers are mysterious Underdark predators, named by adventurers for their rese
 Cloakers sometimes gather in Underdark enclaves, but they rarely build settlements or form social structures. Most operate as solitary predators, lurking in dismal subterranean reaches or abandoned dungeons—sometimes for months at a time—as they wait for prey to pass. They use their mottled hides to blend in with their surroundings. When unsuspecting prey nears, cloakers unfurl and attempt to latch on and then smother their victims in their powerful wings.
 
 Cloakers delight in frightening foes. In addition to their methods of ambush, cloakers can create illusory duplicates of themselves and emit surreal moans that non-cloakers find terrifying in unexplainable, primal ways. Cloakers might antagonize explorers lost in the Underdark for days, terrorizing and scattering them before attacking. They rarely converse with other beings, except to whisper eerie riddles to those they're about to consume.
+
 ```ad-statblock
 title: Cloaker
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cloaker.webp#token)
-*Large Aberration, Chaotic Neutral*
+*Large aberration, Chaotic Neutral*
 
 - **Armor Class** 14 
-- **Hit Points** 91 (14d10 + 14) 
+- **Hit Points** 91 (`14d10 + 14`) 
 - **Speed** 10 ft., fly 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 7 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|15 (+2)|12 (+1)|13 (+1)|14 (+2)| 7 (-2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Condition Immunities** [Frightened](3.Mechanics/rules/conditions.md#Frightened)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 12
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 12
+- **Condition Immunities** [frightened](3.Mechanics/rules/conditions.md#Frightened)
 - **Languages** Deep Speech, Undercommon
 - **Challenge** 8
 

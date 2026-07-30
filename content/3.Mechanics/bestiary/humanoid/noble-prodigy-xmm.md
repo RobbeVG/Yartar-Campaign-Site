@@ -27,33 +27,25 @@ Noble prodigies trace their lineage to a legendary hero, a demigod, a dragon, or
 
 Nobles encompass a variety of people with social influence. They might be rulers, wealthy merchants, callous bureaucrats, or the idle elite.
 
+## Statblock
+
 ```ad-statblock
 title: Noble Prodigy
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Noble%20Prodigy.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 148 (27d8 + 27) 
+- **Hit Points** 148 (`27d8 + 27`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 8 | -1 | -1 |
-|Int| 15 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | **+7** |
-|Wis| 14 | +2 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | **+5** |
-|Cha| 19 | +4 | **+8** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (-1)|16 (+3)|12 (+1)|15 (+2)|14 (+2)|19 (+4)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +7, Constitution +5, Wisdom +6, Charisma +8
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +8
-- **Senses** Passive Perception 16
+- **Senses** passive Perception 16
 - **Languages** Common plus two other languages
 - **Challenge** 10
 

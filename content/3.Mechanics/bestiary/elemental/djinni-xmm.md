@@ -28,34 +28,25 @@ aliases:
 As genies of wind and skies, djinn personify freedom and might. They can control wind and travel as swiftly as a breeze. They might be as serene as drifting clouds or as tempestuous as storms, but most djinn relish their freedom and desire to discover the wonders of the multiverse. Djinn often know many stories, and they might share such lore with those who offer their own exciting stories in trade.
 
 While many djinn create airy palaces on stormy coasts or high in the clouds, untold numbers dwell on the Elemental Plane of Air. In floating cities, djinn collect tales and experiences from across the planes of existence, sharing them in fabulous forums, libraries, and theaters. The greatest of these cities is the Citadel of Ice and Steel, in which wind-sculpted towers contain a city-size trove of incredible knowledge and treasures that defy belief.
+
 ```ad-statblock
 title: Djinni
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Djinni.webp#token)
-*Large Elemental (genie), Chaotic Good*
+*Large elemental (genie), Chaotic Good*
 
 - **Armor Class** 17 
-- **Hit Points** 218 (19d10 + 114) 
+- **Hit Points** 218 (`19d10 + 114`) 
 - **Speed** 30 ft., fly 90 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 21 | +5 | +5 |
-|Int| 15 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | **+6** |
-|Wis| 16 | +3 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 22 | +6 | +6 |
-|Cha| 20 | +5 | +5 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|21 (+5)|15 (+2)|22 (+6)|15 (+2)|16 (+3)|20 (+5)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +6, Wisdom +7
 - **Skills** ⏤
-- **Damage Immunities** Lightning, Thunder
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 13
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 13
+- **Damage Immunities** lightning, thunder
 - **Languages** Primordial (Auran)
 - **Challenge** 11
 

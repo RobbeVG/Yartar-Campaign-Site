@@ -12,8 +12,6 @@ tags:
 title: "Marilith"
 aliases:
 - "Marilith"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Marilith
 *Source: Monster Manual (2024) p. 204. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -27,37 +25,28 @@ conditionImmunities:
 - **Treasure.** [Armaments](3.Mechanics/tables/random-magic-items-armaments.md)  
 
 Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged blades. With these cursed weapons and experience from countless battles, they lead other demons to slaughter virtuous souls. They often command droves of weaker demons.
+
 ```ad-statblock
 title: Marilith
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Marilith.webp#token)
-*Large Fiend (demon), Chaotic Evil*
+*Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 16 
-- **Hit Points** 220 (21d10 + 105) 
+- **Hit Points** 220 (`21d10 + 105`) 
 - **Speed** 40 ft., climb 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | **+9** |
-|Int| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 20 | +5 | +5 |
-|Wis| 16 | +3 | **+8** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | **+10** |
-|Cha| 20 | +5 | **+10** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|20 (+5)|20 (+5)|18 (+4)|16 (+3)|20 (+5)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Strength +9, Constitution +10, Wisdom +8, Charisma +10
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +8
-- **Damage Resistances** Cold, Fire, Lightning
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 18
-- **Languages** Abyssal; Telepathy 120 ft.
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 18
+- **Damage Resistances** cold, fire, lightning
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Abyssal; telepathy 120 ft.
 - **Challenge** 16
 
 ## Traits

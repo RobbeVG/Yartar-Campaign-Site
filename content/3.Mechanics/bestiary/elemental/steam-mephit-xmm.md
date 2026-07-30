@@ -12,9 +12,6 @@ tags:
 title: "Steam Mephit"
 aliases:
 - "Steam Mephit"
-conditionImmunities:
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Steam Mephit
 *Source: Monster Manual (2024) p. 208. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -38,35 +35,27 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 > I am Seamusxanthuszenus, Slayer of Fiends, Merchant Most Excellent, Purveyor of Death!
 
 
+## Statblock
+
 ```ad-statblock
 title: Steam Mephit
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Steam%20Mephit.webp#token)
-*Small Elemental, Neutral Evil*
+*Small elemental, Neutral Evil*
 
 - **Armor Class** 10 
-- **Hit Points** 17 (5d6) 
+- **Hit Points** 17 (`5d6`) 
 - **Speed** 30 ft., fly 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 5 | -3 | -3 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 10 | +0 | +0 |
-|Cha| 12 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 5 (-3)|11 (+0)|10 (+0)|11 (+0)|10 (+0)|12 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +2
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Primordial (Aquan, Ignan)
 - **Challenge** 1/4
 

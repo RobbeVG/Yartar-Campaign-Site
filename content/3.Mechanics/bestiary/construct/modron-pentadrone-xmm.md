@@ -12,8 +12,6 @@ tags:
 title: "Modron Pentadrone"
 aliases:
 - "Modron Pentadrone"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
 ---
 # Modron Pentadrone
 *Source: Monster Manual (2024) p. 218*  
@@ -61,34 +59,26 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 > The guide swore "beep boop" meant "hello, friend." I don't know why they're after us!
 
 
+## Statblock
+
 ```ad-statblock
 title: Modron Pentadrone
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Modron%20Pentadrone.webp#token)
-*Large Construct, Lawful Neutral*
+*Large construct, Lawful Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 32 (5d10 + 5) 
+- **Hit Points** 32 (`5d10 + 5`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 13 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|13 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 14
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 14
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed)
 - **Languages** Modron
 - **Challenge** 2
 

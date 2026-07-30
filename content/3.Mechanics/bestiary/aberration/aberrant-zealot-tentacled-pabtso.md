@@ -10,45 +10,30 @@ tags:
 title: "Aberrant Zealot (Tentacled)"
 aliases:
 - "Aberrant Zealot (Tentacled)"
-conditionImmunities:
-- [blinded](3.Mechanics/rules/conditions.md#Blinded)
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [grappled](3.Mechanics/rules/conditions.md#Grappled)
-- [restrained](3.Mechanics/rules/conditions.md#Restrained)
 ---
 # Aberrant Zealot (Tentacled)
 *Source: Phandelver and Below: The Shattered Obelisk p. 181*  
+
 ```ad-statblock
 title: Aberrant Zealot (Tentacled)
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Aberrant%20Zealot%20%28Tentacled%29.webp#token)
-*Medium Aberration, Typically  Chaotic Evil*
+*Medium aberration, typically  Chaotic Evil*
 
 - **Armor Class** 16 ([studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md))
-- **Hit Points** 93 (17d8 + 17) 
+- **Hit Points** 93 (`17d8 + 17`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | **+7** |
-|Wis| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 19 | +4 | **+7** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|18 (+4)|12 (+1)|13 (+1)| 8 (-1)|19 (+4)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +7, Charisma +7
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5
-- **Damage Resistances** Psychic
-- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Restrained](3.Mechanics/rules/conditions.md#Restrained)
+- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., [truesight](3.Mechanics/rules/senses.md#Truesight) 10 ft., passive Perception 15
+- **Damage Resistances** psychic
+- **Condition Immunities** [blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled), [restrained](3.Mechanics/rules/conditions.md#Restrained)
 - **Gear** [shortsword](3.Mechanics/items/shortsword-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., [Truesight](3.Mechanics/rules/senses.md#Truesight) 10 Ft., Passive Perception 15
 - **Languages** Common, Deep Speech
 - **Challenge** 8
 

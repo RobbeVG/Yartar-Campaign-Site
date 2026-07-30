@@ -12,8 +12,6 @@ tags:
 title: "Erinyes"
 aliases:
 - "Erinyes"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Erinyes
 *Source: Monster Manual (2024) p. 114. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -31,37 +29,28 @@ Erinyes, also known as furies, are winged devils clad in fiendish armor. These f
 Erinyes often serve archdevils and guard the order of the Nine Hells against trespassers and escapees. Although they're prone to wrathful outbursts, erinyes cooperate well with other devils. They sometimes hunt in trios with other erinyes, forging infamous reputations for themselves.
 
 When not in the service of a diabolical master, erinyes hunt wicked souls. They pursue quarries relentlessly, across the multiverse and for ages if need be. While they might be summoned to serve evil magic-users, erinyes also listen for oaths and curses sworn in their names. In rare cases, wronged mortals who call out with just rage might be heard by an erinyes who appears to take vengeance on their behalf. Once erinyes are so summoned, they won't leave without claiming the soul of either their quarry or the mortal who summoned them.
+
 ```ad-statblock
 title: Erinyes
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Erinyes.webp#token)
-*Medium Fiend (devil), Lawful Evil*
+*Medium fiend (devil), Lawful Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 178 (21d8 + 84) 
+- **Hit Points** 178 (`21d8 + 84`) 
 - **Speed** 30 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | **+7** |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | **+8** |
-|Cha| 18 | +4 | **+8** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|16 (+3)|18 (+4)|14 (+2)|14 (+2)|18 (+4)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +7, Constitution +8, Charisma +8
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +8
-- **Damage Resistances** Cold
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 16
-- **Languages** Infernal; Telepathy 120 ft.
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 16
+- **Damage Resistances** cold
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Infernal; telepathy 120 ft.
 - **Challenge** 12
 
 ## Traits

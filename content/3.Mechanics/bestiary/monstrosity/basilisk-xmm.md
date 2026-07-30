@@ -47,33 +47,24 @@ The remains of [Petrified](3.Mechanics/rules/conditions.md#Petrified) creatures 
 | 7 | Someone caught in a comic pose or making a regrettable face. |
 | 8 | A victim now being used as a nest for insects or other vermin. |
 ^petrified-basilisk-victims
+
 ```ad-statblock
 title: Basilisk
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Basilisk.webp#token)
-*Medium Monstrosity, Unaligned*
+*Medium monstrosity, Unaligned*
 
 - **Armor Class** 15 
-- **Hit Points** 52 (8d8 + 16) 
+- **Hit Points** 52 (`8d8 + 16`) 
 - **Speed** 20 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 2 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 8 | -1 | -1 |
-|Wis| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 7 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)| 8 (-1)|15 (+2)| 2 (-4)| 8 (-1)| 7 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Languages** —
 - **Challenge** 3
 

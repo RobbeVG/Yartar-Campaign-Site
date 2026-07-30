@@ -36,34 +36,26 @@ Ogres are selfish raiders and hulking gluttons spawned of hateful supernatural f
 
 Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Vaprak. They magically emerge from the earth of lands corrupted by evil gods, sinister magic, or ancient curses. Some bear evidence of the places that spawned them, sporting rocky calluses, mossy growths, or frozen scars.
 
+## Statblock
+
 ```ad-statblock
 title: Ogrillon Ogre
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ogrillon%20Ogre.webp#token)
-*Large Giant, Chaotic Evil*
+*Large giant, Chaotic Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 52 (7d10 + 14) 
+- **Hit Points** 52 (`7d10 + 14`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 7 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 9 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|10 (+0)|14 (+2)| 7 (-2)| 9 (-1)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Gear** [battleaxe](3.Mechanics/items/battleaxe-xphb.md), three [javelins](3.Mechanics/items/javelin-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
 - **Languages** Common, Giant
 - **Challenge** 1
 

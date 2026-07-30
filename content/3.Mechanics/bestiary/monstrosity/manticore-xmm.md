@@ -48,33 +48,24 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
 | 7 | Serve a creature as a steed until the sun sets. |
 | 8 | Try to locate something from its vantage point in the sky. |
 ^manticore-negotiations
+
 ```ad-statblock
 title: Manticore
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Manticore.webp#token)
-*Large Monstrosity, Lawful Evil*
+*Large monstrosity, Lawful Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 68 (8d10 + 24) 
+- **Hit Points** 68 (`8d10 + 24`) 
 - **Speed** 30 ft., fly 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 7 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | +3 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|16 (+3)|17 (+3)| 7 (-2)|12 (+1)| 8 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 11
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Languages** Common
 - **Challenge** 3
 

@@ -24,34 +24,25 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![A druid calls on animals of the hills and mountains to aid her cause](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Hills%20and%20Mountains.webp)
 ![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
+
 ```ad-statblock
 title: Giant Fire Beetle
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Giant%20Fire%20Beetle.webp#token)
-*Small Beast, Unaligned*
+*Small beast, Unaligned*
 
 - **Armor Class** 13 
-- **Hit Points** 4 (1d6 + 1) 
+- **Hit Points** 4 (`1d6 + 1`) 
 - **Speed** 30 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 8 | -1 | -1 |
-|Int| 1 | -5 | -5 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 7 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 3 | -4 | -4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (-1)|10 (+0)|12 (+1)| 1 (-5)| 7 (-2)| 3 (-4)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Resistances** Fire
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., Passive Perception 8
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception 8
+- **Damage Resistances** fire
 - **Languages** —
 - **Challenge** 0
 

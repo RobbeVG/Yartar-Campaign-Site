@@ -78,34 +78,26 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Cultists.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Cultist Hierophant
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cultist%20Hierophant.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 144 (17d8 + 68) 
+- **Hit Points** 144 (`17d8 + 68`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 14 | +2 | +2 |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | +4 |
-|Wis| 16 | +3 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | +4 |
-|Cha| 20 | +5 | **+9** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|18 (+4)|18 (+4)|13 (+1)|16 (+3)|20 (+5)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Wisdom +7, Charisma +9
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +9, [Religion](3.Mechanics/rules/skills.md#Religion) +5
+- **Senses** passive Perception 17
 - **Gear** [breastplate](3.Mechanics/items/breastplate-xphb.md), [holy symbol](3.Mechanics/items/holy-symbol-xphb.md)
-- **Senses** Passive Perception 17
 - **Languages** Celestial, Common
 - **Challenge** 10
 

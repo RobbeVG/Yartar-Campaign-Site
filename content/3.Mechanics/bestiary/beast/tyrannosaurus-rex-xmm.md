@@ -24,33 +24,24 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![A druid calls on animals of the hills and mountains to aid her cause](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Hills%20and%20Mountains.webp)
 ![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
+
 ```ad-statblock
 title: Tyrannosaurus Rex
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Tyrannosaurus%20Rex.webp#token)
-*Huge Beast (dinosaur), Unaligned*
+*Huge beast (dinosaur), Unaligned*
 
 - **Armor Class** 13 
-- **Hit Points** 136 (13d12 + 52) 
+- **Hit Points** 136 (`13d12 + 52`) 
 - **Speed** 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 25 | +7 | **+10** |
-|Int| 2 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 12 | +1 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 19 | +4 | +4 |
-|Cha| 9 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|25 (+7)|10 (+0)|19 (+4)| 2 (-4)|12 (+1)| 9 (-1)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +10, Wisdom +4
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4
-- **Senses** Passive Perception 14
+- **Senses** passive Perception 14
 - **Languages** —
 - **Challenge** 8
 

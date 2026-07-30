@@ -14,9 +14,6 @@ tags:
 title: "Skeleton"
 aliases:
 - "Skeleton"
-conditionImmunities:
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Skeleton
 *Source: Monster Manual (2024) p. 282, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -47,38 +44,30 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 | 6 | Stands guard at the post it protected in life. |
 ^skeleton-pantomimes
 
+## Statblock
+
 ```ad-statblock
 title: Skeleton
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Skeleton.webp#token)
-*Medium Undead, Lawful Evil*
+*Medium undead, Lawful Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 13 (2d8 + 4) 
+- **Hit Points** 13 (`2d8 + 4`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 5 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|16 (+3)|15 (+2)| 6 (-2)| 8 (-1)| 5 (-3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Vulnerabilities** Bludgeoning
-- **Damage Immunities** Poison
-- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Damage Vulnerabilities** bludgeoning
+- **Damage Immunities** poison
+- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Gear** [shortbow](3.Mechanics/items/shortbow-xphb.md), [shortsword](3.Mechanics/items/shortsword-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
-- **Languages** Understands Common plus one other language but can't speak
+- **Languages** understands Common plus one other language but can't speak
 - **Challenge** 1/4
 
 ## Actions

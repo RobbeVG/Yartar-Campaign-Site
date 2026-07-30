@@ -24,33 +24,24 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![A druid calls on animals of the hills and mountains to aid her cause](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Hills%20and%20Mountains.webp)
 ![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
+
 ```ad-statblock
 title: Ape
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ape.webp#token)
-*Medium Beast, Unaligned*
+*Medium beast, Unaligned*
 
 - **Armor Class** 12 
-- **Hit Points** 19 (3d8 + 6) 
+- **Hit Points** 19 (`3d8 + 6`) 
 - **Speed** 30 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 7 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|14 (+2)|14 (+2)| 6 (-2)|12 (+1)| 7 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +3
-- **Senses** Passive Perception 13
+- **Senses** passive Perception 13
 - **Languages** —
 - **Challenge** 1/2
 

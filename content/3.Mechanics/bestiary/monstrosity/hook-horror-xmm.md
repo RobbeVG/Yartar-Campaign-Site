@@ -26,33 +26,24 @@ aliases:
 Hook horrors are beaked predators whose forelimbs end in massive, hook-like claws. They flourish in the cavernous mazes of the Underdark, with its miles-deep trenches and stalactite forests suspended over empty darkness, where they barrel through caves and swing across cavern ceilings.
 
 Hook horrors feed opportunistically on plants, fungi, and any creatures that come close enough to hook. To perceive their surroundings, hook horrors echolocate via a range of noises, from banging on rocks and their own bodies to vocalizations that sound like strange squawks, screams, or clicks. Only hook horrors know the meaning of these noises, but many people who explore the Underdark or live near deep-reaching caves have sought the sources of such sounds only to fall victim to hungry hook horrors.
+
 ```ad-statblock
 title: Hook Horror
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hook%20Horror.webp#token)
-*Large Monstrosity, Neutral*
+*Large monstrosity, Neutral*
 
 - **Armor Class** 15 
-- **Hit Points** 75 (10d10 + 20) 
+- **Hit Points** 75 (`10d10 + 20`) 
 - **Speed** 30 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | **+4** |
-|Cha| 7 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|10 (+0)|15 (+2)| 6 (-2)|12 (+1)| 7 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Constitution +4
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 15
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 15
 - **Languages** Hook Horror
 - **Challenge** 3
 

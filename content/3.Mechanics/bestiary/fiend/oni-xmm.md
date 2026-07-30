@@ -39,34 +39,25 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
 | 3 | Luring other monsters to the settlement. |
 | 4 | Playing drums that keep everyone awake. |
 ^oni-troubles
+
 ```ad-statblock
 title: Oni
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Oni.webp#token)
-*Large Fiend, Lawful Evil*
+*Large fiend, Lawful Evil*
 
 - **Armor Class** 17 
-- **Hit Points** 119 (14d10 + 42) 
+- **Hit Points** 119 (`14d10 + 42`) 
 - **Speed** 30 ft., fly 30 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | **+3** |
-|Wis| 12 | +1 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | **+6** |
-|Cha| 15 | +2 | **+5** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|11 (+0)|16 (+3)|14 (+2)|12 (+1)|15 (+2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +3, Constitution +6, Wisdom +4, Charisma +5
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +5, [Deception](3.Mechanics/rules/skills.md#Deception) +8, [Perception](3.Mechanics/rules/skills.md#Perception) +4
-- **Damage Resistances** Cold
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Damage Resistances** cold
 - **Languages** Common, Giant
 - **Challenge** 7
 

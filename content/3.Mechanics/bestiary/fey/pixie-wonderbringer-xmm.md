@@ -29,33 +29,25 @@ Energetic entertainers, wonderbringers use their magic in defense of the wildern
 
 Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They invisibly observe those who enter their wooded homes, revealing themselves to those with friendly intentions. Those who are unfriendly become the targets of pixies' pranks.
 
+## Statblock
+
 ```ad-statblock
 title: Pixie Wonderbringer
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Pixie%20Wonderbringer.webp#token)
-*Tiny Fey, Neutral Good*
+*Tiny fey, Neutral Good*
 
 - **Armor Class** 15 
-- **Hit Points** 60 (24d4) 
+- **Hit Points** 60 (`24d4`) 
 - **Speed** 10 ft., fly 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 2 | -4 | -4 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 20 | +5 | +5 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 10 | +0 | +0 |
-|Cha| 18 | +4 | +4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 2 (-4)|20 (+5)|10 (+0)|11 (+0)|14 (+2)|18 (+4)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +3, [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Stealth](3.Mechanics/rules/skills.md#Stealth) +8
-- **Senses** Passive Perception 15
+- **Senses** passive Perception 15
 - **Languages** Common, Elvish, Sylvan
 - **Challenge** 5
 

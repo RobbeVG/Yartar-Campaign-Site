@@ -18,15 +18,6 @@ tags:
 title: "Swarm of Stirges"
 aliases:
 - "Swarm of Stirges"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [grappled](3.Mechanics/rules/conditions.md#Grappled)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
-- [restrained](3.Mechanics/rules/conditions.md#Restrained)
-- [stunned](3.Mechanics/rules/conditions.md#Stunned)
 ---
 # Swarm of Stirges
 *Source: Monster Manual (2024) p. 299*  
@@ -55,35 +46,27 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
 | 4 | The remains of a gigantic, dead creature. |
 ^stirge-roosts
 
+## Statblock
+
 ```ad-statblock
 title: Swarm of Stirges
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Swarm%20of%20Stirges.webp#token)
-*Medium Monstrosity, Unaligned*
+*Medium monstrosity, Unaligned*
 
 - **Armor Class** 14 
-- **Hit Points** 36 (8d8) 
+- **Hit Points** 36 (`8d8`) 
 - **Speed** 10 ft., fly 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 4 | -3 | -3 |
-|Int| 2 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 11 | +0 | +0 |
-|Cha| 6 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 4 (-3)|16 (+3)|11 (+0)| 2 (-4)| 8 (-1)| 6 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Resistances** Bludgeoning, Piercing, Slashing
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained), [Stunned](3.Mechanics/rules/conditions.md#Stunned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Damage Resistances** bludgeoning, piercing, slashing
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained), [stunned](3.Mechanics/rules/conditions.md#Stunned)
 - **Languages** —
 - **Challenge** 2
 

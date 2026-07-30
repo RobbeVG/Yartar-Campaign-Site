@@ -55,34 +55,26 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 
 ![A vampire familiar provides a meal for a vampire spawn](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Vampires.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Vampire Spawn
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Vampire%20Spawn.webp#token)
-*Small or Medium Undead, Neutral Evil*
+*Small or Medium undead, Neutral Evil*
 
 - **Armor Class** 16 
-- **Hit Points** 90 (12d8 + 36) 
+- **Hit Points** 90 (`12d8 + 36`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | **+6** |
-|Wis| 10 | +0 | **+3** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 12 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|16 (+3)|16 (+3)|11 (+0)|10 (+0)|12 (+1)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +6, Wisdom +3
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +3, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Damage Resistances** Necrotic
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 13
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Damage Resistances** necrotic
 - **Languages** Common plus one other language
 - **Challenge** 5
 

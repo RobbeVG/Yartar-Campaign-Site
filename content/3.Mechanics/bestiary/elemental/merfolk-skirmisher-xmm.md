@@ -28,33 +28,25 @@ Merfolk skirmishers defend their homes from aquatic monsters and invaders from t
 
 Beneath the waves dwell merfolk, mysterious creatures that merge the features of humans and sea creatures. Some are curious about land dwellers, while others view them with suspicion.
 
+## Statblock
+
 ```ad-statblock
 title: Merfolk Skirmisher
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Merfolk%20Skirmisher.webp#token)
-*Medium Elemental, Neutral*
+*Medium elemental, Neutral*
 
 - **Armor Class** 11 
-- **Hit Points** 11 (2d8 + 2) 
+- **Hit Points** 11 (`2d8 + 2`) 
 - **Speed** 10 ft., swim 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 12 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|13 (+1)|12 (+1)|11 (+0)|14 (+2)|12 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** Passive Perception 12
+- **Senses** passive Perception 12
 - **Languages** Common, Primordial (Aquan)
 - **Challenge** 1/8
 

@@ -12,8 +12,6 @@ tags:
 title: "Vrock"
 aliases:
 - "Vrock"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Vrock
 *Source: Monster Manual (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -27,37 +25,28 @@ conditionImmunities:
 - **Treasure.** [Armaments](3.Mechanics/tables/random-magic-items-armaments.md)  
 
 Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and slaughter. Their filthy feathers carry magical toxins from the Lower Planes, creating a noxious cloud capable of killing those who escape the vrocks' vicious beaks and claws. To further terrorize their foes, vrocks unleash an otherworldly screech so terrible it can halt creatures in their tracks.
+
 ```ad-statblock
 title: Vrock
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Vrock.webp#token)
-*Large Fiend (demon), Chaotic Evil*
+*Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 152 (16d10 + 64) 
+- **Hit Points** 152 (`16d10 + 64`) 
 - **Speed** 40 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | **+5** |
-|Wis| 13 | +1 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | +4 |
-|Cha| 8 | -1 | **+2** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|15 (+2)|18 (+4)| 8 (-1)|13 (+1)| 8 (-1)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +5, Wisdom +4, Charisma +2
 - **Skills** ⏤
-- **Damage Resistances** Cold, Fire, Lightning
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 11
-- **Languages** Abyssal; Telepathy 120 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Damage Resistances** cold, fire, lightning
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Abyssal; telepathy 120 ft.
 - **Challenge** 6
 
 ## Traits

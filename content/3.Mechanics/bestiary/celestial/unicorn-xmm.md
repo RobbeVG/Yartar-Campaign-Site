@@ -13,10 +13,6 @@ tags:
 title: "Unicorn"
 aliases:
 - "Unicorn"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Unicorn
 *Source: Monster Manual (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -34,36 +30,27 @@ Unicorns are majestic defenders of forests. They are revered by many Fey and oth
 ### Unicorn Lairs
 
 Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures live.
+
 ```ad-statblock
 title: Unicorn
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Unicorn.webp#token)
-*Large Celestial, Lawful Good*
+*Large celestial, Lawful Good*
 
 - **Armor Class** 12 
-- **Hit Points** 97 (13d10 + 26) 
+- **Hit Points** 97 (`13d10 + 26`) 
 - **Speed** 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 17 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|14 (+2)|15 (+2)|11 (+0)|17 (+3)|16 (+3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Immunities** Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 13
-- **Languages** Celestial, Elvish, Sylvan; Telepathy 120 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Damage Immunities** poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Celestial, Elvish, Sylvan; telepathy 120 ft.
 - **Challenge** 5
 
 ## Traits

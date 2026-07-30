@@ -10,42 +10,30 @@ tags:
 title: "Celestial Spirit (Defender)"
 aliases:
 - "Celestial Spirit (Defender)"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
 # Celestial Spirit (Defender)
 *Source: Player's Handbook (2024) p. 323*  
+
 ```ad-statblock
 title: Celestial Spirit (Defender)
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Celestial%20Spirit%20%28Defender%29.webp#token)
-*Large Celestial, Neutral*
+*Large celestial, Neutral*
 
 - **Armor Class** (13 + the spell's level)
 - **Hit Points** 40 + 10 for each spell level above 5  (40 + 10 for each spell level above 5)
 - **Speed** 30 ft., fly 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|14 (+2)|16 (+3)|10 (+0)|14 (+2)|16 (+3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Resistances** Radiant
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
-- **Languages** Celestial, Understands the languages you know
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Damage Resistances** radiant
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- **Languages** Celestial, understands the languages you know
 - **Challenge** 
 
 ## Actions

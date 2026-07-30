@@ -35,35 +35,27 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 > When a sahuagin comes at you, it doesn't seem to be living until it bites you. Then the thing's black eyes turn red as hellfire and the waves foam crimson. Then comes the screaming.
 
 
+## Statblock
+
 ```ad-statblock
 title: Sahuagin Baron
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sahuagin%20Baron.webp#token)
-*Large Fiend, Lawful Evil*
+*Large fiend, Lawful Evil*
 
 - **Armor Class** 16 
-- **Hit Points** 76 (9d10 + 27) 
+- **Hit Points** 76 (`9d10 + 27`) 
 - **Speed** 30 ft., swim 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | **+5** |
-|Wis| 13 | +1 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | **+6** |
-|Cha| 17 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|15 (+2)|16 (+3)|14 (+2)|13 (+1)|17 (+3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +5, Constitution +6, Wisdom +4
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +7
-- **Damage Resistances** Acid, Cold
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 17
+- **Damage Resistances** acid, cold
 - **Gear** [breastplate](3.Mechanics/items/breastplate-xphb.md), [trident](3.Mechanics/items/trident-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 17
 - **Languages** Sahuagin
 - **Challenge** 5
 

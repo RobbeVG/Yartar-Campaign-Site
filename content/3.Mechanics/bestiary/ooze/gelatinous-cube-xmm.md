@@ -11,13 +11,6 @@ tags:
 title: "Gelatinous Cube"
 aliases:
 - "Gelatinous Cube"
-conditionImmunities:
-- [blinded](3.Mechanics/rules/conditions.md#Blinded)
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [deafened](3.Mechanics/rules/conditions.md#Deafened)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
 ---
 # Gelatinous Cube
 *Source: Monster Manual (2024) p. 129. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -45,35 +38,26 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
 | 5 | Skeleton belonging to a famous adventurer. |
 | 6 | Tablet bearing a mysterious message. |
 ^gelatinous-cube-debris
+
 ```ad-statblock
 title: Gelatinous Cube
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gelatinous%20Cube.webp#token)
-*Large Ooze, Unaligned*
+*Large ooze, Unaligned*
 
 - **Armor Class** 6 
-- **Hit Points** 63 (6d10 + 30) 
+- **Hit Points** 63 (`6d10 + 30`) 
 - **Speed** 15 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 14 | +2 | +2 |
-|Int| 1 | -5 | -5 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 3 | -4 | -4 |
-|Wis| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | +5 |
-|Cha| 1 | -5 | -5 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)| 3 (-4)|20 (+5)| 1 (-5)| 6 (-2)| 1 (-5)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Immunities** Acid
-- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Deafened](3.Mechanics/rules/conditions.md#Deafened), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Prone](3.Mechanics/rules/conditions.md#Prone)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 8
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception 8
+- **Damage Immunities** acid
+- **Condition Immunities** [blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [prone](3.Mechanics/rules/conditions.md#Prone)
 - **Languages** —
 - **Challenge** 2
 

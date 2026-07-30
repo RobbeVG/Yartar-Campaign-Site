@@ -12,10 +12,6 @@ tags:
 title: "Vampire Nightbringer"
 aliases:
 - "Vampire Nightbringer"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
 # Vampire Nightbringer
 *Source: Monster Manual (2024) p. 316*  
@@ -57,35 +53,27 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > Darling, you are simply delicious...
 
 
+## Statblock
+
 ```ad-statblock
 title: Vampire Nightbringer
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Vampire%20Nightbringer.webp#token)
-*Small or Medium Undead, Neutral Evil*
+*Small or Medium undead, Neutral Evil*
 
 - **Armor Class** 16 
-- **Hit Points** 142 (19d8 + 57) 
+- **Hit Points** 142 (`19d8 + 57`) 
 - **Speed** 30 ft., fly 30 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | **+7** |
-|Wis| 14 | +2 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|18 (+4)|16 (+3)|13 (+1)|14 (+2)|15 (+2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +7, Wisdom +5
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
-- **Damage Immunities** Cold, Necrotic
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 15
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 15
+- **Damage Immunities** cold, necrotic
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened)
 - **Languages** Common plus one other language
 - **Challenge** 8
 

@@ -35,34 +35,26 @@ Black dragons hoard tarnished symbols of hope and relics of fallen empires. The 
 
 Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by decay.
 
+## Statblock
+
 ```ad-statblock
 title: Ancient Black Dragon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ancient%20Black%20Dragon.webp#token)
-*Gargantuan Dragon (chromatic), Chaotic Evil*
+*Gargantuan dragon (chromatic), Chaotic Evil*
 
 - **Armor Class** 22 
-- **Hit Points** 367 (21d20 + 147) 
+- **Hit Points** 367 (`21d20 + 147`) 
 - **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 27 | +8 | +8 |
-|Int| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | **+9** |
-|Wis| 15 | +2 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 25 | +7 | +7 |
-|Cha| 22 | +6 | +6 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|22 (+6)|
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +9, Wisdom +9
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +16, [Stealth](3.Mechanics/rules/skills.md#Stealth) +9
-- **Damage Immunities** Acid
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 26
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 26
+- **Damage Immunities** acid
 - **Languages** Common, Draconic
 - **Challenge** 21
 

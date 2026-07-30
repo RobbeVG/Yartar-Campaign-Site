@@ -31,33 +31,25 @@ Packs of worgs roam harsh frontiers and cursed lands. They sometimes conspire wi
 
 Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These sapient predators can speak and often taunt their prey, enjoying the taste of fear in their meals.
 
+## Statblock
+
 ```ad-statblock
 title: Worg
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Worg.webp#token)
-*Large Fey, Neutral Evil*
+*Large fey, Neutral Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 26 (4d10 + 4) 
+- **Hit Points** 26 (`4d10 + 4`) 
 - **Speed** 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 7 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|13 (+1)|13 (+1)| 7 (-2)|11 (+0)| 8 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Languages** Goblin, Worg
 - **Challenge** 1/2
 

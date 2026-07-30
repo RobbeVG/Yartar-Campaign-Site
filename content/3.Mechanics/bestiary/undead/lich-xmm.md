@@ -11,12 +11,6 @@ tags:
 title: "Lich"
 aliases:
 - "Lich"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Lich
 *Source: Monster Manual (2024) p. 196. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -67,38 +61,29 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
 > 
 > Ambition can become an addiction of the mind and spirit. It builds beyond a driving flame into an insidious inferno that burns a mage hollow until only the desire for more magical power remains
 
+
 ```ad-statblock
 title: Lich
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Lich.webp#token)
-*Medium Undead (wizard), Neutral Evil*
+*Medium undead (wizard), Neutral Evil*
 
 - **Armor Class** 20 
-- **Hit Points** 315 (42d8 + 126) 
+- **Hit Points** 315 (`42d8 + 126`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 11 | +0 | +0 |
-|Int| 21 | +5 | **+12** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | **+10** |
-|Wis| 14 | +2 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | **+10** |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|16 (+3)|16 (+3)|21 (+5)|14 (+2)|16 (+3)|
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +10, Constitution +10, Intelligence +12, Wisdom +9
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +19, [History](3.Mechanics/rules/skills.md#History) +12, [Insight](3.Mechanics/rules/skills.md#Insight) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +9
-- **Damage Resistances** Cold, Lightning
-- **Damage Immunities** Necrotic, Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 19
+- **Damage Resistances** cold, lightning
+- **Damage Immunities** necrotic, poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Gear** [component pouch](3.Mechanics/items/component-pouch-xphb.md)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 19
-- **Languages** All
+- **Languages** all
 - **Challenge** 21
 
 ## Traits

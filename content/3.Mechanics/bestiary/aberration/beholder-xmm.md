@@ -11,8 +11,6 @@ tags:
 title: "Beholder"
 aliases:
 - "Beholder"
-conditionImmunities:
-- [prone](3.Mechanics/rules/conditions.md#Prone)
 ---
 # Beholder
 *Source: Monster Manual (2024) p. 36*  
@@ -38,34 +36,25 @@ Beholders are a particular threat to adventurers because both gravitate toward m
 ### Beholder Lairs
 
 Beholders lurk in cavern complexes they've carved using their eye rays deep in the Underdark or in lairs created for them by their servants.
+
 ```ad-statblock
 title: Beholder
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Beholder.webp#token)
-*Large Aberration, Lawful Evil*
+*Large aberration, Lawful Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 190 (20d10 + 80) 
+- **Hit Points** 190 (`20d10 + 80`) 
 - **Speed** 5 ft., fly 40 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 17 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 15 | +2 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | **+9** |
-|Cha| 17 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|14 (+2)|18 (+4)|17 (+3)|15 (+2)|17 (+3)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Constitution +9, Wisdom +7
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +12
-- **Condition Immunities** [Prone](3.Mechanics/rules/conditions.md#Prone)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 22
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 22
+- **Condition Immunities** [prone](3.Mechanics/rules/conditions.md#Prone)
 - **Languages** Deep Speech, Undercommon
 - **Challenge** 13
 

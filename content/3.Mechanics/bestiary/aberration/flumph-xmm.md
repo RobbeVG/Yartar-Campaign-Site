@@ -64,35 +64,26 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
 ^flumph-colors-and-emotions
 
 *Rarely seen; potentially no human equivalent
+
 ```ad-statblock
 title: Flumph
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Flumph.webp#token)
-*Small Aberration, Lawful Good*
+*Small aberration, Lawful Good*
 
 - **Armor Class** 12 
-- **Hit Points** 7 (2d6) 
+- **Hit Points** 7 (`2d6`) 
 - **Speed** 5 ft., fly 30 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 6 | -2 | -2 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 10 | +0 | +0 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6 (-2)|15 (+2)|10 (+0)|14 (+2)|14 (+2)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +4, [History](3.Mechanics/rules/skills.md#History) +4, [Religion](3.Mechanics/rules/skills.md#Religion) +4
-- **Damage Vulnerabilities** Psychic
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
-- **Languages** Understands Undercommon but can't speak; Telepathy 60 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Damage Vulnerabilities** psychic
+- **Languages** understands Undercommon but can't speak; telepathy 60 ft.
 - **Challenge** 1/8
 
 ## Traits

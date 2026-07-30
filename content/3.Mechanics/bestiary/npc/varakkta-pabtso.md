@@ -14,33 +14,24 @@ aliases:
 # Varakkta
 *Source: Phandelver and Below: The Shattered Obelisk p. 174*  
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Varakkta.webp#center)
+
 ```ad-statblock
 title: Varakkta
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Varakkta.webp#token)
-*Medium Humanoid (gith), Lawful Evil*
+*Medium humanoid (gith), Lawful Evil*
 
 - **Armor Class** 18 ([plate armor](3.Mechanics/items/plate-armor-xphb.md))
-- **Hit Points** 91 (14d8 + 28) 
+- **Hit Points** 91 (`14d8 + 28`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 14 | +2 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 14 | +2 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | **+5** |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|14 (+2)|15 (+2)|14 (+2)|14 (+2)|15 (+2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Constitution +5, Intelligence +5, Wisdom +5
 - **Skills** ⏤
-- **Senses** Passive Perception 12
+- **Senses** passive Perception 12
 - **Languages** Gith
 - **Challenge** 8
 

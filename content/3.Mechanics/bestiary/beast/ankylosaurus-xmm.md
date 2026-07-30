@@ -24,33 +24,24 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![A druid calls on animals of the hills and mountains to aid her cause](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Hills%20and%20Mountains.webp)
 ![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
+
 ```ad-statblock
 title: Ankylosaurus
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ankylosaurus.webp#token)
-*Huge Beast (dinosaur), Unaligned*
+*Huge beast (dinosaur), Unaligned*
 
 - **Armor Class** 15 
-- **Hit Points** 68 (8d12 + 16) 
+- **Hit Points** 68 (`8d12 + 16`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | **+6** |
-|Int| 2 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 5 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|11 (+0)|15 (+2)| 2 (-4)|12 (+1)| 5 (-3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Strength +6
 - **Skills** ⏤
-- **Senses** Passive Perception 11
+- **Senses** passive Perception 11
 - **Languages** —
 - **Challenge** 3
 

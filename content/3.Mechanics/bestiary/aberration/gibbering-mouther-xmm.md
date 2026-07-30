@@ -11,8 +11,6 @@ tags:
 title: "Gibbering Mouther"
 aliases:
 - "Gibbering Mouther"
-conditionImmunities:
-- [prone](3.Mechanics/rules/conditions.md#Prone)
 ---
 # Gibbering Mouther
 *Source: Monster Manual (2024) p. 133. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -47,34 +45,25 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
 > 
 > Alas, the Elder Elves made a fatal mistake. When the Dragon's Tear comet next returned, the Vast Gate—still keyed to the Far Realm of alien entities—linked to the comet and opened again. And what emerged, ululating profanities, sang unnameable hungers into an unguarded world.
 
+
 ```ad-statblock
 title: Gibbering Mouther
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gibbering%20Mouther.webp#token)
-*Medium Aberration, Chaotic Neutral*
+*Medium aberration, Chaotic Neutral*
 
 - **Armor Class** 9 
-- **Hit Points** 52 (7d8 + 21) 
+- **Hit Points** 52 (`7d8 + 21`) 
 - **Speed** 20 ft., swim 20 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 3 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 8 | -1 | -1 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 6 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)| 8 (-1)|16 (+3)| 3 (-4)|10 (+0)| 6 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Condition Immunities** [Prone](3.Mechanics/rules/conditions.md#Prone)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Condition Immunities** [prone](3.Mechanics/rules/conditions.md#Prone)
 - **Languages** —
 - **Challenge** 2
 

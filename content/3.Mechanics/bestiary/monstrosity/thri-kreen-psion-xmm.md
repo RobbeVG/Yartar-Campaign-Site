@@ -33,35 +33,27 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
 > I would tell you now the tale of the first Ka'Cha, the first thri-kreen who knew and taught the truth: that the clutch is all.
 
 
+## Statblock
+
 ```ad-statblock
 title: Thri-kreen Psion
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Thri-kreen%20Psion.webp#token)
-*Medium Monstrosity, Neutral*
+*Medium monstrosity, Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 149 (23d8 + 46) 
+- **Hit Points** 149 (`23d8 + 46`) 
 - **Speed** 40 ft., fly 20 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | **+7** |
-|Int| 19 | +4 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | **+5** |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | **+5** |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|15 (+2)|14 (+2)|19 (+4)|12 (+1)|11 (+0)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +7, Dexterity +5, Constitution +5, Intelligence +7
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +8
-- **Damage Resistances** Psychic
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
-- **Languages** Thri-kreen; Telepathy 120 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Damage Resistances** psychic
+- **Languages** Thri-kreen; telepathy 120 ft.
 - **Challenge** 8
 
 ## Actions

@@ -11,16 +11,6 @@ tags:
 title: "Banshee"
 aliases:
 - "Banshee"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [grappled](3.Mechanics/rules/conditions.md#Grappled)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
-- [restrained](3.Mechanics/rules/conditions.md#Restrained)
 ---
 # Banshee
 *Source: Monster Manual (2024) p. 29*  
@@ -50,36 +40,27 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
 | 5 | Seek the return of a stolen treasure. |
 | 6 | Slay those more beautiful than it was in life. |
 ^banshee-sorrows
+
 ```ad-statblock
 title: Banshee
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Banshee.webp#token)
-*Medium Undead, Chaotic Evil*
+*Medium undead, Chaotic Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 54 (12d8) 
+- **Hit Points** 54 (`12d8`) 
 - **Speed** 5 ft., fly 40 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 1 | -5 | -5 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 11 | +0 | **+2** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 10 | +0 | +0 |
-|Cha| 17 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 (-5)|14 (+2)|10 (+0)|12 (+1)|11 (+0)|17 (+3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +2
 - **Skills** ⏤
-- **Damage Resistances** Acid, Bludgeoning, Fire, Lightning, Piercing, Slashing, Thunder
-- **Damage Immunities** Cold, Necrotic, Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Damage Resistances** acid, bludgeoning, fire, lightning, piercing, slashing, thunder
+- **Damage Immunities** cold, necrotic, poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained)
 - **Languages** Common, Elvish
 - **Challenge** 4
 

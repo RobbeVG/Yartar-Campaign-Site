@@ -52,34 +52,26 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 > Shining One, light my hours. Enkindle my soul, and inspire my deeds. Chase the shadows from my path, and let me walk in your brilliance.
 
 
+## Statblock
+
 ```ad-statblock
 title: Priest
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Priest.webp#token)
-*Small or Medium Humanoid (cleric), Neutral*
+*Small or Medium humanoid (cleric), Neutral*
 
 - **Armor Class** 13 
-- **Hit Points** 38 (7d8 + 7) 
+- **Hit Points** 38 (`7d8 + 7`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 13 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|10 (+0)|12 (+1)|13 (+1)|16 (+3)|13 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Medicine](3.Mechanics/rules/skills.md#Medicine) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Religion](3.Mechanics/rules/skills.md#Religion) +5
+- **Senses** passive Perception 15
 - **Gear** [chain shirt](3.Mechanics/items/chain-shirt-xphb.md), [holy symbol](3.Mechanics/items/holy-symbol-xphb.md), [mace](3.Mechanics/items/mace-xphb.md)
-- **Senses** Passive Perception 15
 - **Languages** Common plus one other language
 - **Challenge** 2
 

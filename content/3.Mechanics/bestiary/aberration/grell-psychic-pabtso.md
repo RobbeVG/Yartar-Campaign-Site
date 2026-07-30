@@ -10,42 +10,30 @@ tags:
 title: "Grell Psychic"
 aliases:
 - "Grell Psychic"
-conditionImmunities:
-- [blinded](3.Mechanics/rules/conditions.md#Blinded)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
 ---
 # Grell Psychic
 *Source: Phandelver and Below: The Shattered Obelisk p. 145*  
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Grell%20Psychic.webp#center)
+
 ```ad-statblock
 title: Grell Psychic
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Grell%20Psychic.webp#token)
-*Medium Aberration, Chaotic Evil*
+*Medium aberration, Chaotic Evil*
 
 - **Armor Class** 12 (15 with [mage armor](3.Mechanics/spells/mage-armor-xphb.md))
-- **Hit Points** 66 (12d8 + 12) 
+- **Hit Points** 66 (`12d8 + 12`) 
 - **Speed** 10 ft., fly 30 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|14 (+2)|13 (+1)|12 (+1)|11 (+0)|14 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Damage Immunities** Lightning
-- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Prone](3.Mechanics/rules/conditions.md#Prone)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft. (blind beyond this radius), Passive Perception 14
+- **Senses** [blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 14
+- **Damage Immunities** lightning
+- **Condition Immunities** [blinded](3.Mechanics/rules/conditions.md#Blinded), [prone](3.Mechanics/rules/conditions.md#Prone)
 - **Languages** Deep Speech, Grell
 - **Challenge** 4
 

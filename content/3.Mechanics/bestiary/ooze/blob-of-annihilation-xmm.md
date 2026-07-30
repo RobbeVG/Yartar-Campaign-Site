@@ -11,18 +11,6 @@ tags:
 title: "Blob of Annihilation"
 aliases:
 - "Blob of Annihilation"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [grappled](3.Mechanics/rules/conditions.md#Grappled)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
-- [restrained](3.Mechanics/rules/conditions.md#Restrained)
-- [stunned](3.Mechanics/rules/conditions.md#Stunned)
-- [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 ---
 # Blob of Annihilation
 *Source: Monster Manual (2024) p. 47*  
@@ -64,36 +52,27 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 | 9 | The skull of a death god. |
 | 10 | A tarrasque that just died. |
 ^blob-of-annihilation-contents
+
 ```ad-statblock
 title: Blob of Annihilation
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Blob%20of%20Annihilation.webp#token)
-*Gargantuan Ooze (titan), Neutral Evil*
+*Gargantuan ooze (titan), Neutral Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 448 (23d20 + 207) 
+- **Hit Points** 448 (`23d20 + 207`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 27 | +8 | +8 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | **+9** |
-|Wis| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 28 | +9 | **+16** |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|27 (+8)|14 (+2)|28 (+9)|10 (+0)|16 (+3)|10 (+0)|
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +9, Constitution +16
 - **Skills** ⏤
-- **Damage Resistances** Bludgeoning, Piercing, Slashing
-- **Damage Immunities** Acid, Necrotic, Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained), [Stunned](3.Mechanics/rules/conditions.md#Stunned), [Unconscious](3.Mechanics/rules/conditions.md#Unconscious)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 Ft., Passive Perception 13
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 ft., passive Perception 13
+- **Damage Resistances** bludgeoning, piercing, slashing
+- **Damage Immunities** acid, necrotic, poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained), [stunned](3.Mechanics/rules/conditions.md#Stunned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 - **Languages** —
 - **Challenge** 23
 

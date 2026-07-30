@@ -12,8 +12,6 @@ tags:
 title: "Doppelganger"
 aliases:
 - "Doppelganger"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
 ---
 # Doppelganger
 *Source: Monster Manual (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -48,34 +46,25 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
 > 
 > Meeting yourself is the surest way to realize you're not as charming as you think you are.
 
+
 ```ad-statblock
 title: Doppelganger
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Doppelganger.webp#token)
-*Medium Monstrosity, Neutral*
+*Medium monstrosity, Neutral*
 
 - **Armor Class** 14 
-- **Hit Points** 52 (8d8 + 16) 
+- **Hit Points** 52 (`8d8 + 16`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 11 | +0 | +0 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | +4 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|18 (+4)|14 (+2)|11 (+0)|12 (+1)|14 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +6, [Insight](3.Mechanics/rules/skills.md#Insight) +3
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 11
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed)
 - **Languages** Common plus three other languages
 - **Challenge** 3
 

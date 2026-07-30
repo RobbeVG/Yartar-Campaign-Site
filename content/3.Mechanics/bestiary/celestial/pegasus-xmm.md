@@ -47,34 +47,25 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
 > 
 > Pegasi are the cherished steeds of our creator, Corellon. To see one is a blessing, but to ride one proves nothing less than the love of the gods.
 
+
 ```ad-statblock
 title: Pegasus
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Pegasus.webp#token)
-*Large Celestial, Chaotic Good*
+*Large celestial, Chaotic Good*
 
 - **Armor Class** 12 
-- **Hit Points** 59 (7d10 + 21) 
+- **Hit Points** 59 (`7d10 + 21`) 
 - **Speed** 60 ft., fly 90 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | **+4** |
-|Wis| 15 | +2 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | **+5** |
-|Cha| 13 | +1 | **+3** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|13 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +4, Constitution +5, Wisdom +4, Charisma +3
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +6
-- **Senses** Passive Perception 16
-- **Languages** Understands Celestial, Common, Elvish, And Sylvan but can't speak
+- **Senses** passive Perception 16
+- **Languages** understands Celestial, Common, Elvish, and Sylvan but can't speak
 - **Challenge** 2
 
 ## Actions

@@ -12,15 +12,6 @@ tags:
 title: "Swarm of Larvae"
 aliases:
 - "Swarm of Larvae"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [grappled](3.Mechanics/rules/conditions.md#Grappled)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
-- [restrained](3.Mechanics/rules/conditions.md#Restrained)
-- [stunned](3.Mechanics/rules/conditions.md#Stunned)
 ---
 # Swarm of Larvae
 *Source: Monster Manual (2024) p. 193*  
@@ -39,36 +30,28 @@ Souls condemned to the Lower Planes often become larvae—repulsive, maggot-like
 
 Larvae that survive on the Lower Planes long enough can eventually transform into other sorts of lesser Fiends.
 
+## Statblock
+
 ```ad-statblock
 title: Swarm of Larvae
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Swarm%20of%20Larvae.webp#token)
-*Large Fiend, Neutral Evil*
+*Large fiend, Neutral Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 22 (3d10 + 6) 
+- **Hit Points** 22 (`3d10 + 6`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 14 | +2 | +2 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 2 | -4 | -4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|11 (+0)|14 (+2)| 6 (-2)|12 (+1)| 2 (-4)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Resistances** Bludgeoning, Piercing, Slashing
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained), [Stunned](3.Mechanics/rules/conditions.md#Stunned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 11
-- **Languages** Understands all but can't speak
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Damage Resistances** bludgeoning, piercing, slashing
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained), [stunned](3.Mechanics/rules/conditions.md#Stunned)
+- **Languages** understands all but can't speak
 - **Challenge** 1
 
 ## Traits

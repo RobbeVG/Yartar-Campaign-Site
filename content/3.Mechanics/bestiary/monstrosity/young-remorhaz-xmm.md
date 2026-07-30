@@ -27,34 +27,26 @@ Young remorhazes scorch and consume any creatures they can chase down and overwh
 
 Remorhazes are centipede-like terrors that burrow through snow and ice to ambush smaller creatures that trespass in their frozen territories.
 
+## Statblock
+
 ```ad-statblock
 title: Young Remorhaz
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Young%20Remorhaz.webp#token)
-*Large Monstrosity, Unaligned*
+*Large monstrosity, Unaligned*
 
 - **Armor Class** 14 
-- **Hit Points** 93 (11d10 + 33) 
+- **Hit Points** 93 (`11d10 + 33`) 
 - **Speed** 30 ft., burrow 20 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 3 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | +3 |
-|Cha| 4 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|13 (+1)|17 (+3)| 3 (-4)|10 (+0)| 4 (-3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Immunities** Cold, Fire
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Tremorsense 60 ft., Passive Perception 10
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., Tremorsense 60 ft., passive Perception 10
+- **Damage Immunities** cold, fire
 - **Languages** —
 - **Challenge** 5
 

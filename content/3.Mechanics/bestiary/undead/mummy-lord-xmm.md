@@ -12,12 +12,6 @@ tags:
 title: "Mummy Lord"
 aliases:
 - "Mummy Lord"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Mummy Lord
 *Source: Monster Manual (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -70,36 +64,28 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Mummies.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Mummy Lord
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mummy%20Lord.webp#token)
-*Small or Medium Undead (cleric), Lawful Evil*
+*Small or Medium undead (cleric), Lawful Evil*
 
 - **Armor Class** 17 
-- **Hit Points** 187 (25d8 + 75) 
+- **Hit Points** 187 (`25d8 + 75`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 11 | +0 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 19 | +4 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | +3 |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|10 (+0)|17 (+3)|11 (+0)|19 (+4)|16 (+3)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Intelligence +5, Wisdom +9
 - **Skills** [History](3.Mechanics/rules/skills.md#History) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +9, [Religion](3.Mechanics/rules/skills.md#Religion) +5
-- **Damage Vulnerabilities** Fire
-- **Damage Immunities** Necrotic, Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 60 Ft., Passive Perception 19
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 60 ft., passive Perception 19
+- **Damage Vulnerabilities** fire
+- **Damage Immunities** necrotic, poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Common plus three other languages
 - **Challenge** 15
 

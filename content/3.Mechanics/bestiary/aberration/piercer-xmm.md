@@ -31,33 +31,24 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
 > 
 > Rule 8: Never trust a stalactite
 
+
 ```ad-statblock
 title: Piercer
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Piercer.webp#token)
-*Medium Aberration, Unaligned*
+*Medium aberration, Unaligned*
 
 - **Armor Class** 15 
-- **Hit Points** 22 (3d8 + 9) 
+- **Hit Points** 22 (`3d8 + 9`) 
 - **Speed** 5 ft., climb 15 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13 | +1 | +1 |
-|Int| 1 | -5 | -5 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 7 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 3 | -4 | -4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|13 (+1)|13 (+1)|16 (+3)| 1 (-5)| 7 (-2)| 3 (-4)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 8
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 8
 - **Languages** —
 - **Challenge** 1/2
 

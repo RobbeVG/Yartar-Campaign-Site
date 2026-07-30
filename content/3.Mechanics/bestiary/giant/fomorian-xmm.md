@@ -41,33 +41,24 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
 > 
 > All-Father Annam banished his son, Karontor, for Karontor's part in the fomorian assault on the Feywild. That day, the ordning—the hierarchy of the giants and their gods—changed forever, and the fomorians were part of it no more.
 
+
 ```ad-statblock
 title: Fomorian
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Fomorian.webp#token)
-*Huge Giant, Chaotic Evil*
+*Huge giant, Chaotic Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 172 (15d12 + 75) 
+- **Hit Points** 172 (`15d12 + 75`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 23 | +6 | +6 |
-|Int| 9 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | +5 |
-|Cha| 6 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|23 (+6)|10 (+0)|20 (+5)| 9 (-1)|14 (+2)| 6 (-2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +8, [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 18
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 18
 - **Languages** Giant, Undercommon
 - **Challenge** 8
 

@@ -27,34 +27,26 @@ Faerie dragon youths are quick to use their euphoria-inducing breath on rude or 
 
 Faerie dragons are cat-size pranksters with draconic features, butterfly-like wings, and scales of warm hues as youths and cool hues as adults.
 
+## Statblock
+
 ```ad-statblock
 title: Faerie Dragon Youth
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Faerie%20Dragon%20Youth.webp#token)
-*Tiny Dragon, Chaotic Good*
+*Tiny dragon, Chaotic Good*
 
 - **Armor Class** 13 
-- **Hit Points** 21 (6d4 + 6) 
+- **Hit Points** 21 (`6d4 + 6`) 
 - **Speed** 10 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 3 | -4 | -4 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 3 (-4)|16 (+3)|12 (+1)|12 (+1)|12 (+1)|14 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +3, [Perception](3.Mechanics/rules/skills.md#Perception) +3, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 13
-- **Languages** Draconic, Sylvan; Telepathy 60 ft. (faerie dragons only)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Languages** Draconic, Sylvan; telepathy 60 ft. (faerie dragons only)
 - **Challenge** 1
 
 ## Traits

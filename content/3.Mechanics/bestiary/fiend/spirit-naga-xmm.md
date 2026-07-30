@@ -13,9 +13,6 @@ tags:
 title: "Spirit Naga"
 aliases:
 - "Spirit Naga"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Spirit Naga
 *Source: Monster Manual (2024) p. 297. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -45,35 +42,26 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 | 5 | A rival is spying on it. |
 | 6 | Someone's treasure rightfully belongs to it. |
 ^spirit-naga-grievances
+
 ```ad-statblock
 title: Spirit Naga
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Spirit%20Naga.webp#token)
-*Large Fiend, Chaotic Evil*
+*Large fiend, Chaotic Evil*
 
 - **Armor Class** 17 
-- **Hit Points** 135 (18d10 + 36) 
+- **Hit Points** 135 (`18d10 + 36`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 17 | +3 | **+6** |
-|Wis| 15 | +2 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | **+5** |
-|Cha| 16 | +3 | **+6** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|17 (+3)|14 (+2)|16 (+3)|15 (+2)|16 (+3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +6, Constitution +5, Wisdom +5, Charisma +6
 - **Skills** ⏤
-- **Damage Immunities** Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Damage Immunities** poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Abyssal, Common
 - **Challenge** 8
 

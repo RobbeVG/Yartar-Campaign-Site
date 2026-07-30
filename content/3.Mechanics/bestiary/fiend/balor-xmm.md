@@ -12,10 +12,6 @@ tags:
 title: "Balor"
 aliases:
 - "Balor"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Balor
 *Source: Monster Manual (2024) p. 26. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -29,37 +25,28 @@ conditionImmunities:
 - **Treasure.** [Armaments](3.Mechanics/tables/random-magic-items-armaments.md)  
 
 Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these demonic warlords seethe with wrath, their rage erupting in waves of fire and as a pair of vicious weapons: a sword of crackling lightning and a whip of lashing flames. A balor's fury persists until the moment of its demise, at which point it explodes—a last act of vengeance against those who slew it. Demon lords and evil gods harness balors' rage by making balors commanders of armies or guardians of grave secrets.
+
 ```ad-statblock
 title: Balor
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Balor.webp#token)
-*Huge Fiend (demon), Chaotic Evil*
+*Huge fiend (demon), Chaotic Evil*
 
 - **Armor Class** 19 
-- **Hit Points** 287 (23d12 + 138) 
+- **Hit Points** 287 (`23d12 + 138`) 
 - **Speed** 40 ft., fly 80 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 26 | +8 | +8 |
-|Int| 20 | +5 | +5 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 16 | +3 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 22 | +6 | **+12** |
-|Cha| 22 | +6 | +6 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|26 (+8)|15 (+2)|22 (+6)|20 (+5)|16 (+3)|22 (+6)|
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Constitution +12, Wisdom +9
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +9
-- **Damage Resistances** Cold, Lightning
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 19
-- **Languages** Abyssal; Telepathy 120 ft.
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 19
+- **Damage Resistances** cold, lightning
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Abyssal; telepathy 120 ft.
 - **Challenge** 19
 
 ## Traits

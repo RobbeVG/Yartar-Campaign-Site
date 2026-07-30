@@ -11,10 +11,6 @@ tags:
 title: "Death Knight Aspirant"
 aliases:
 - "Death Knight Aspirant"
-conditionImmunities:
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Death Knight Aspirant
 *Source: Monster Manual (2024) p. 93*  
@@ -31,35 +27,27 @@ When the leader of a villainous order rises as a death knight, their wicked devo
 
 Champions of evil, death knights are armor-clad, skeletal warlords. Combining devastating martial prowess and blasphemous magic, these undying tyrants lead unholy legions against the living or brood in cursed citadels. Every death knight is haunted by a legacy of tragedy and dishonor that drives it to commit greater evils.
 
+## Statblock
+
 ```ad-statblock
 title: Death Knight Aspirant
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Death%20Knight%20Aspirant.webp#token)
-*Small or Medium Undead, Chaotic Evil*
+*Small or Medium undead, Chaotic Evil*
 
 - **Armor Class** 20 
-- **Hit Points** 178 (21d8 + 84) 
+- **Hit Points** 178 (`21d8 + 84`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 20 | +5 | +5 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | **+4** |
-|Wis| 12 | +1 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | +4 |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|20 (+5)|10 (+0)|18 (+4)|10 (+0)|12 (+1)|16 (+3)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +4, Wisdom +5
 - **Skills** ⏤
-- **Damage Immunities** Necrotic, Poison
-- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 11
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Damage Immunities** necrotic, poison
+- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Abyssal, Common
 - **Challenge** 11
 

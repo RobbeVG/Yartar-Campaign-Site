@@ -13,8 +13,6 @@ tags:
 title: "Azer Pyromancer"
 aliases:
 - "Azer Pyromancer"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Azer Pyromancer
 *Source: Monster Manual (2024) p. 25*  
@@ -31,35 +29,27 @@ Azer pyromancers conjure flames from the Elemental Plane of Fire to defend thems
 
 Azers are living bronze folk who work the primal elements of creation to craft weapons and magical wonders among the multiverse's mightiest infernos.
 
+## Statblock
+
 ```ad-statblock
 title: Azer Pyromancer
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Azer%20Pyromancer.webp#token)
-*Medium Elemental, Lawful Neutral*
+*Medium elemental, Lawful Neutral*
 
 - **Armor Class** 18 
-- **Hit Points** 97 (13d8 + 39) 
+- **Hit Points** 97 (`13d8 + 39`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 18 | +4 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | **+6** |
-|Cha| 13 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|14 (+2)|16 (+3)|12 (+1)|18 (+4)|13 (+1)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Constitution +6, Wisdom +7
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +4, [Perception](3.Mechanics/rules/skills.md#Perception) +7
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** Passive Perception 17
+- **Senses** passive Perception 17
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Primordial (Ignan)
 - **Challenge** 6
 

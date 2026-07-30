@@ -43,34 +43,25 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
 > 
 > I hunt evil like the great cat hunts its prey, but evil will not long yield to blade alone. It takes strength, honor, and sometimes a little more.
 
+
 ```ad-statblock
 title: Weretiger
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Weretiger.webp#token)
-*Small or Medium Monstrosity (lycanthrope), Neutral*
+*Small or Medium monstrosity (lycanthrope), Neutral*
 
 - **Armor Class** 12 
-- **Hit Points** 120 (16d8 + 48) 
+- **Hit Points** 120 (`16d8 + 48`) 
 - **Speed** 30 ft., 40 ft. (tiger form only)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Gear** [longbow](3.Mechanics/items/longbow-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 15
 - **Languages** Common (can't speak in tiger form)
 - **Challenge** 4
 

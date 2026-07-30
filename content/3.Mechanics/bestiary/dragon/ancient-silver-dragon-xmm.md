@@ -36,34 +36,26 @@ Silver dragons take inspiration from legendary heroes and have grand ambitions. 
 
 Silver dragons typically lair in picturesque mountain retreats or on sculpted cloud "islands."
 
+## Statblock
+
 ```ad-statblock
 title: Ancient Silver Dragon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ancient%20Silver%20Dragon.webp#token)
-*Gargantuan Dragon (metallic), Lawful Good*
+*Gargantuan dragon (metallic), Lawful Good*
 
 - **Armor Class** 22 
-- **Hit Points** 468 (24d20 + 216) 
+- **Hit Points** 468 (`24d20 + 216`) 
 - **Speed** 40 ft., fly 80 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 30 | +10 | +10 |
-|Int| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | **+7** |
-|Wis| 15 | +2 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 29 | +9 | +9 |
-|Cha| 26 | +8 | +8 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|26 (+8)|
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +7, Wisdom +9
 - **Skills** [History](3.Mechanics/rules/skills.md#History) +11, [Perception](3.Mechanics/rules/skills.md#Perception) +16, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
-- **Damage Immunities** Cold
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 26
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 26
+- **Damage Immunities** cold
 - **Languages** Common, Draconic
 - **Challenge** 23
 

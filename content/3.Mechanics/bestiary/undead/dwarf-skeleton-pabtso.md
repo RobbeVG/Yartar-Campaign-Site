@@ -10,44 +10,32 @@ tags:
 title: "Dwarf Skeleton"
 aliases:
 - "Dwarf Skeleton"
-conditionImmunities:
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Dwarf Skeleton
 *Source: Phandelver and Below: The Shattered Obelisk p. 123*  
+
 ```ad-statblock
 title: Dwarf Skeleton
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Dwarf%20Skeleton.webp#token)
-*Medium Undead, Lawful Evil*
+*Medium undead, Lawful Evil*
 
 - **Armor Class** 13 ([chain shirt](3.Mechanics/items/chain-shirt-xphb.md))
-- **Hit Points** 26 (4d8 + 8) 
+- **Hit Points** 26 (`4d8 + 8`) 
 - **Speed** 25 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 5 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|10 (+0)|15 (+2)| 6 (-2)| 8 (-1)| 5 (-3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Vulnerabilities** Bludgeoning
-- **Damage Immunities** Poison
-- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Damage Vulnerabilities** bludgeoning
+- **Damage Immunities** poison
+- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Gear** [battleaxe](3.Mechanics/items/battleaxe-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
-- **Languages** Understands Dwarvish but can't speak
+- **Languages** understands Dwarvish but can't speak
 - **Challenge** 1/2
 
 ## Traits

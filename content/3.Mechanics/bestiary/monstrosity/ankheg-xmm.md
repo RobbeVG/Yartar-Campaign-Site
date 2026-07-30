@@ -49,33 +49,24 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
 | 7 | A stray farm or woodland animal. |
 | 8 | A viciously mauled scarecrow. |
 ^ankheg-tunnel-discoveries
+
 ```ad-statblock
 title: Ankheg
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ankheg.webp#token)
-*Large Monstrosity, Unaligned*
+*Large monstrosity, Unaligned*
 
 - **Armor Class** 14 
-- **Hit Points** 45 (6d10 + 12) 
+- **Hit Points** 45 (`6d10 + 12`) 
 - **Speed** 30 ft., burrow 10 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 1 | -5 | -5 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 6 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|11 (+0)|14 (+2)| 1 (-5)|13 (+1)| 6 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Tremorsense 60 ft., Passive Perception 11
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., Tremorsense 60 ft., passive Perception 11
 - **Languages** —
 - **Challenge** 2
 

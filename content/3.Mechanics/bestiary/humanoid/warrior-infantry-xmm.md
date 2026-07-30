@@ -52,34 +52,26 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 > Make way, evil! I'm armed to the teeth and packing a hamster!
 
 
+## Statblock
+
 ```ad-statblock
 title: Warrior Infantry
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Warrior%20Infantry.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 13 
-- **Hit Points** 9 (2d8) 
+- **Hit Points** 9 (`2d8`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13 | +1 | +1 |
-|Int| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 11 | +0 | +0 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|13 (+1)|11 (+0)|11 (+0)| 8 (-1)|11 (+0)| 8 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
+- **Senses** passive Perception 10
 - **Gear** [chain shirt](3.Mechanics/items/chain-shirt-xphb.md), [spear](3.Mechanics/items/spear-xphb.md)
-- **Senses** Passive Perception 10
 - **Languages** Common
 - **Challenge** 1/8
 

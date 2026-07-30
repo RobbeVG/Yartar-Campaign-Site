@@ -35,33 +35,24 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
 > 
 > The tree had a wee village nestled in its boughs, I swear. Next thing I knew, I was lyin' face-down in the dirt. My head was full of stars, an' when I stood up an' looked around, both the tree an' the wee village were gone.
 
+
 ```ad-statblock
 title: Sprite
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sprite.webp#token)
-*Tiny Fey, Neutral Good*
+*Tiny fey, Neutral Good*
 
 - **Armor Class** 15 
-- **Hit Points** 10 (4d4) 
+- **Hit Points** 10 (`4d4`) 
 - **Speed** 10 ft., fly 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 3 | -4 | -4 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | +4 |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 10 | +0 | +0 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 3 (-4)|18 (+4)|10 (+0)|14 (+2)|13 (+1)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +3, [Stealth](3.Mechanics/rules/skills.md#Stealth) +8
-- **Senses** Passive Perception 13
+- **Senses** passive Perception 13
 - **Languages** Common, Elvish, Sylvan
 - **Challenge** 1/4
 

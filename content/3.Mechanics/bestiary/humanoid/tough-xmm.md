@@ -32,34 +32,26 @@ Bodyguards, belligerents, and laborers, toughs rely on their physical strength t
 > There are two answers to every question: ours, and the wrong one.
 
 
+## Statblock
+
 ```ad-statblock
 title: Tough
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Tough.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 12 
-- **Hit Points** 32 (5d8 + 10) 
+- **Hit Points** 32 (`5d8 + 10`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|12 (+1)|14 (+2)|10 (+0)|10 (+0)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
+- **Senses** passive Perception 10
 - **Gear** [heavy crossbow](3.Mechanics/items/heavy-crossbow-xphb.md), [leather armor](3.Mechanics/items/leather-armor-xphb.md), [mace](3.Mechanics/items/mace-xphb.md)
-- **Senses** Passive Perception 10
 - **Languages** Common
 - **Challenge** 1/2
 

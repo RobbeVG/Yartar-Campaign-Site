@@ -40,35 +40,26 @@ Treants defend and are shaped by secrets of the forest. Roll on or choose a resu
 | 5 | Rooted on a hero's burial mound and animates trees that look like questing knights. |
 | 6 | Scarred by a fire and holds the bones of the arsonist who started it in a hollow. |
 ^treant-secrets
+
 ```ad-statblock
 title: Treant
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Treant.webp#token)
-*Huge Plant, Chaotic Good*
+*Huge plant, Chaotic Good*
 
 - **Armor Class** 16 
-- **Hit Points** 138 (12d12 + 60) 
+- **Hit Points** 138 (`12d12 + 60`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 23 | +6 | +6 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 8 | -1 | -1 |
-|Wis| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 21 | +5 | +5 |
-|Cha| 12 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|23 (+6)| 8 (-1)|21 (+5)|12 (+1)|16 (+3)|12 (+1)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Vulnerabilities** Fire
-- **Damage Resistances** Bludgeoning, Piercing
-- **Senses** Passive Perception 13
+- **Senses** passive Perception 13
+- **Damage Vulnerabilities** fire
+- **Damage Resistances** bludgeoning, piercing
 - **Languages** Common, Druidic, Elvish, Sylvan
 - **Challenge** 9
 

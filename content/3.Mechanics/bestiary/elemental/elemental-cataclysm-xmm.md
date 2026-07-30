@@ -12,20 +12,6 @@ tags:
 title: "Elemental Cataclysm"
 aliases:
 - "Elemental Cataclysm"
-conditionImmunities:
-- [blinded](3.Mechanics/rules/conditions.md#Blinded)
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [deafened](3.Mechanics/rules/conditions.md#Deafened)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [grappled](3.Mechanics/rules/conditions.md#Grappled)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
-- [restrained](3.Mechanics/rules/conditions.md#Restrained)
-- [stunned](3.Mechanics/rules/conditions.md#Stunned)
-- [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 ---
 # Elemental Cataclysm
 *Source: Monster Manual (2024) p. 111*  
@@ -59,35 +45,26 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
 | 7 | River where previously there was none. |
 | 8 | Series of dramatic rock formations. |
 ^elemental-alterations
+
 ```ad-statblock
 title: Elemental Cataclysm
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Elemental%20Cataclysm.webp#token)
-*Gargantuan Elemental (titan), Chaotic Neutral*
+*Gargantuan elemental (titan), Chaotic Neutral*
 
 - **Armor Class** 20 
-- **Hit Points** 370 (20d20 + 160) 
+- **Hit Points** 370 (`20d20 + 160`) 
 - **Speed** 60 ft., burrow 60 ft., fly 80 ft. (hover), swim 80 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 26 | +8 | +8 |
-|Int| 9 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 19 | +4 | **+11** |
-|Wis| 14 | +2 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 27 | +8 | **+15** |
-|Cha| 9 | -1 | **+6** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|26 (+8)|19 (+4)|27 (+8)| 9 (-1)|14 (+2)| 9 (-1)|
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +11, Constitution +15, Wisdom +9, Charisma +6
 - **Skills** ⏤
-- **Damage Immunities** Acid, Cold, Fire, Lightning, Poison, Thunder
-- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Deafened](3.Mechanics/rules/conditions.md#Deafened), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained), [Stunned](3.Mechanics/rules/conditions.md#Stunned), [Unconscious](3.Mechanics/rules/conditions.md#Unconscious)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 150 Ft., Passive Perception 12
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 150 ft., passive Perception 12
+- **Damage Immunities** acid, cold, fire, lightning, poison, thunder
+- **Condition Immunities** [blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained), [stunned](3.Mechanics/rules/conditions.md#Stunned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 - **Languages** Primordial
 - **Challenge** 22
 

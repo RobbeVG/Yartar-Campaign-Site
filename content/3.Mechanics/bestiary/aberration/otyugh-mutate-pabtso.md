@@ -10,8 +10,6 @@ tags:
 title: "Otyugh Mutate"
 aliases:
 - "Otyugh Mutate"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Otyugh Mutate
 *Source: Phandelver and Below: The Shattered Obelisk p. 213*  
@@ -33,36 +31,28 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Mutates.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Otyugh Mutate
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Otyugh%20Mutate.webp#token)
-*Large Aberration, Typically  Neutral*
+*Large aberration, typically  Neutral*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 76 (8d10 + 32) 
+- **Hit Points** 76 (`8d10 + 32`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | **+7** |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 15 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | **+7** |
-|Cha| 6 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|11 (+0)|18 (+4)|10 (+0)|15 (+2)| 6 (-2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +7, Constitution +7
 - **Skills** ⏤
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 12
-- **Languages** Otyugh, Telepathy 120 ft.
+- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 12
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Otyugh, telepathy 120 ft.
 - **Challenge** 6
 
 ## Traits

@@ -32,34 +32,26 @@ Bodyguards, belligerents, and laborers, toughs rely on their physical strength t
 > There are two answers to every question: ours, and the wrong one.
 
 
+## Statblock
+
 ```ad-statblock
 title: Tough Boss
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Tough%20Boss.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 82 (11d8 + 33) 
+- **Hit Points** 82 (`11d8 + 33`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | **+5** |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | **+5** |
-|Cha| 11 | +0 | **+2** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|14 (+2)|16 (+3)|11 (+0)|10 (+0)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Strength +5, Constitution +5, Charisma +2
 - **Skills** ⏤
+- **Senses** passive Perception 10
 - **Gear** [chain mail](3.Mechanics/items/chain-mail-xphb.md), [heavy crossbow](3.Mechanics/items/heavy-crossbow-xphb.md), [warhammer](3.Mechanics/items/warhammer-xphb.md)
-- **Senses** Passive Perception 10
 - **Languages** Common plus one other language
 - **Challenge** 4
 

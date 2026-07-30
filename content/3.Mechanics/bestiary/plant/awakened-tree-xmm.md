@@ -32,35 +32,27 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
 > Just because we protect the forest doesn't mean it's defenseless.
 
 
+## Statblock
+
 ```ad-statblock
 title: Awakened Tree
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Awakened%20Tree.webp#token)
-*Huge Plant, Neutral*
+*Huge plant, Neutral*
 
 - **Armor Class** 13 
-- **Hit Points** 59 (7d12 + 14) 
+- **Hit Points** 59 (`7d12 + 14`) 
 - **Speed** 20 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 6 | -2 | -2 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 7 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)| 6 (-2)|15 (+2)|10 (+0)|10 (+0)| 7 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Vulnerabilities** Fire
-- **Damage Resistances** Bludgeoning, Piercing
-- **Senses** Passive Perception 10
+- **Senses** passive Perception 10
+- **Damage Vulnerabilities** fire
+- **Damage Resistances** bludgeoning, piercing
 - **Languages** Common plus one other language
 - **Challenge** 2
 

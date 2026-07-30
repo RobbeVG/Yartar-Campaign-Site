@@ -27,34 +27,26 @@ Myconid sovereigns resemble towering myconid adults with elaborate fungal growth
 
 Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. These ambulatory fungal creatures tend to their sanctuaries and avoid becoming embroiled in the conflicts of other creatures. They use specialized spores to communicate, to alert one another to danger, and to defend themselves. When myconids encounter others beings, they use mind-linking spores to allow nearby creatures to telepathically share thoughts. Nevertheless, myconids' goals remain mysterious to most non-fungal creatures.
 
+## Statblock
+
 ```ad-statblock
 title: Myconid Sovereign
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Myconid%20Sovereign.webp#token)
-*Large Plant, Lawful Neutral*
+*Large plant, Lawful Neutral*
 
 - **Armor Class** 13 
-- **Hit Points** 45 (6d10 + 12) 
+- **Hit Points** 45 (`6d10 + 12`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12 | +1 | +1 |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 15 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|10 (+0)|14 (+2)|13 (+1)|15 (+2)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 12
-- **Languages** Telepathy 240 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 12
+- **Languages** telepathy 240 ft.
 - **Challenge** 2
 
 ## Traits

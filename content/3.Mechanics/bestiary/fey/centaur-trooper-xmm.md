@@ -30,34 +30,26 @@ Centaur troopers are knight-like guardians. Many are suspicious of non-Fey creat
 
 Centaurs are defenders of forests, plains, and sites of primeval power. With upper bodies like humans' and the lower bodies of horses, centaurs charge into battle against those who would harm their allies.
 
+## Statblock
+
 ```ad-statblock
 title: Centaur Trooper
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Centaur%20Trooper.webp#token)
-*Large Fey, Neutral Good*
+*Large fey, Neutral Good*
 
 - **Armor Class** 16 
-- **Hit Points** 45 (6d10 + 12) 
+- **Hit Points** 45 (`6d10 + 12`) 
 - **Speed** 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 9 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|14 (+2)|14 (+2)| 9 (-1)|13 (+1)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +3
+- **Senses** passive Perception 13
 - **Gear** [breastplate](3.Mechanics/items/breastplate-xphb.md), [longbow](3.Mechanics/items/longbow-xphb.md), [pike](3.Mechanics/items/pike-xphb.md)
-- **Senses** Passive Perception 13
 - **Languages** Elvish, Sylvan
 - **Challenge** 2
 

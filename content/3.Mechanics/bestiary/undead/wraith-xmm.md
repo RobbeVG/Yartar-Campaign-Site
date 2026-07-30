@@ -13,16 +13,6 @@ tags:
 title: "Wraith"
 aliases:
 - "Wraith"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [grappled](3.Mechanics/rules/conditions.md#Grappled)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
-- [restrained](3.Mechanics/rules/conditions.md#Restrained)
-- [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 ---
 # Wraith
 *Source: Monster Manual (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -58,36 +48,27 @@ Wraiths might arise from a single powerfully evil soul or other baleful forces. 
 | 9 | The vile dreams of a slumbering god. |
 | 10 | The voracity of a life-hungry realm, such as the Shadowfell or Negative Plane. |
 ^wraith-manifestations
+
 ```ad-statblock
 title: Wraith
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Wraith.webp#token)
-*Small or Medium Undead, Neutral Evil*
+*Small or Medium undead, Neutral Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 67 (9d8 + 27) 
+- **Hit Points** 67 (`9d8 + 27`) 
 - **Speed** 5 ft., fly 60 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 6 | -2 | -2 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6 (-2)|16 (+3)|16 (+3)|12 (+1)|14 (+2)|15 (+2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Resistances** Acid, Bludgeoning, Cold, Fire, Piercing, Slashing
-- **Damage Immunities** Necrotic, Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained), [Unconscious](3.Mechanics/rules/conditions.md#Unconscious)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Damage Resistances** acid, bludgeoning, cold, fire, piercing, slashing
+- **Damage Immunities** necrotic, poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 - **Languages** Common plus two other languages
 - **Challenge** 5
 

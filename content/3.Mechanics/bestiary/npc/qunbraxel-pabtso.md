@@ -19,34 +19,25 @@ aliases:
 Qunbraxel is an arrogant mind flayer warlock. Qunbraxel is always attended by four loyal grimlocks. They swap this duty with other grimlocks nearby, although Qunbraxel can hardly be bothered to tell one grimlock minion from another.
 
 Cut off from any elder brain Qunbraxel considers worthy, the mind flayer hopes to join the Ilvaash fanatics and receive power and insight from the Far Realm.
+
 ```ad-statblock
 title: Qunbraxel
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Qunbraxel.webp#token)
-*Medium Aberration (mind flayer, warlock), Lawful Evil*
+*Medium aberration (mind flayer, warlock), Lawful Evil*
 
 - **Armor Class** 12 (15 with [mage armor](3.Mechanics/spells/mage-armor-xphb.md))
-- **Hit Points** 112 (15d8 + 45) 
+- **Hit Points** 112 (`15d8 + 45`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 11 | +0 | +0 |
-|Int| 19 | +4 | **+8** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 15 | +2 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | +3 |
-|Cha| 19 | +4 | **+8** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|14 (+2)|17 (+3)|19 (+4)|15 (+2)|19 (+4)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Intelligence +8, Wisdom +6, Charisma +8
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +8, [Insight](3.Mechanics/rules/skills.md#Insight) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 16
-- **Languages** Deep Speech, Telepathy 60 ft., Undercommon
+- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Languages** Deep Speech, telepathy 60 ft., Undercommon
 - **Challenge** 9
 
 ## Traits

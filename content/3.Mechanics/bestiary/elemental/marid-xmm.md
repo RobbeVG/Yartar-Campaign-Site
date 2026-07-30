@@ -29,34 +29,25 @@ aliases:
 Marids surge with the power of the seas, using it to manipulate the waves or create water. These genies typically dwell in or near bodies of water. While gentle marids make homes amid springs, oases, and serene pools, tempestuous marids inhabit sea stacks, whirlpools, and treacherous coasts. Marids vary in appearance, their bodies reflecting the colors of the waves while distinctive fins and scales accent their features. Marids lend their powers and knowledge of the seas to those who defend the marids' watery realms or who offer them pleasing gifts. Marids appreciate rare aquatic treasures, such as colorful pearls, shell instruments, or delicacies from distant seas.
 
 Marids hail from the Elemental Plane of Water, where they live in wondrous homes drifting amid the endless ocean. Among these is the Citadel of Ten Thousand Pearls—a coral sphere studded with dozens of domed theaters and libraries—and the air-filled, cosmopolitan City of Glass.
+
 ```ad-statblock
 title: Marid
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Marid.webp#token)
-*Large Elemental (genie), Chaotic Neutral*
+*Large elemental (genie), Chaotic Neutral*
 
 - **Armor Class** 17 
-- **Hit Points** 229 (17d10 + 136) 
+- **Hit Points** 229 (`17d10 + 136`) 
 - **Speed** 30 ft., fly 60 ft., swim 90 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 22 | +6 | +6 |
-|Int| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | **+5** |
-|Wis| 17 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 26 | +8 | +8 |
-|Cha| 18 | +4 | **+8** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|22 (+6)|12 (+1)|26 (+8)|18 (+4)|17 (+3)|18 (+4)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +5, Charisma +8
 - **Skills** ⏤
-- **Damage Resistances** Acid, Cold, Lightning
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 13
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 13
+- **Damage Resistances** acid, cold, lightning
 - **Languages** Primordial (Aquan)
 - **Challenge** 11
 

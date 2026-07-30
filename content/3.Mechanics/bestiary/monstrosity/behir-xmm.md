@@ -33,34 +33,25 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
 > 
 > You wouldn't believe all the great stuff I've swallowed! Now just climb on in here, and you can keep whatever you find.
 
+
 ```ad-statblock
 title: Behir
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Behir.webp#token)
-*Huge Monstrosity, Neutral Evil*
+*Huge monstrosity, Neutral Evil*
 
 - **Armor Class** 17 
-- **Hit Points** 168 (16d12 + 64) 
+- **Hit Points** 168 (`16d12 + 64`) 
 - **Speed** 50 ft., climb 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 23 | +6 | +6 |
-|Int| 7 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | +4 |
-|Cha| 12 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|23 (+6)|16 (+3)|18 (+4)| 7 (-2)|14 (+2)|12 (+1)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
-- **Damage Immunities** Lightning
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 Ft., Passive Perception 16
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 ft., passive Perception 16
+- **Damage Immunities** lightning
 - **Languages** Draconic
 - **Challenge** 11
 

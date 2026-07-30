@@ -11,8 +11,6 @@ tags:
 title: "Empyrean Iota"
 aliases:
 - "Empyrean Iota"
-conditionImmunities:
-- [prone](3.Mechanics/rules/conditions.md#Prone)
 ---
 # Empyrean Iota
 *Source: Monster Manual (2024) p. 112*  
@@ -48,36 +46,28 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 > One day I might be the god of storms—mind countless followers, answer prayers, change whole worlds—but, until then, I do what I please.
 
 
+## Statblock
+
 ```ad-statblock
 title: Empyrean Iota
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Empyrean%20Iota.webp#token)
 *Medium  (titan), Neutral*
 
 - **Armor Class** 13 
-- **Hit Points** 22 (5d8) 
+- **Hit Points** 22 (`5d8`) 
 - **Speed** 5 ft., fly 30 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 1 | -5 | -5 |
-|Int| 15 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 10 | +0 | +0 |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 (-5)|14 (+2)|10 (+0)|15 (+2)|16 (+3)|16 (+3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [History](3.Mechanics/rules/skills.md#History) +4, [Insight](3.Mechanics/rules/skills.md#Insight) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +5
-- **Damage Resistances** Bludgeoning, Piercing, Slashing
-- **Condition Immunities** [Prone](3.Mechanics/rules/conditions.md#Prone)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 30 Ft., Passive Perception 15
-- **Languages** All
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 30 ft., passive Perception 15
+- **Damage Resistances** bludgeoning, piercing, slashing
+- **Condition Immunities** [prone](3.Mechanics/rules/conditions.md#Prone)
+- **Languages** all
 - **Challenge** 1
 
 ## Traits

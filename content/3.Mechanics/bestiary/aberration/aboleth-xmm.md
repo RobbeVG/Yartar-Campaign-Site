@@ -51,34 +51,25 @@ Aboleths' alien goals and methods are often mysterious to other creatures. Roll 
 ### Aboleth Lairs
 
 Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spaces for their terrestrial servants and to hold treasures that would be damaged by water.
+
 ```ad-statblock
 title: Aboleth
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Aboleth.webp#token)
-*Large Aberration, Lawful Evil*
+*Large aberration, Lawful Evil*
 
 - **Armor Class** 17 
-- **Hit Points** 150 (20d10 + 40) 
+- **Hit Points** 150 (`20d10 + 40`) 
 - **Speed** 10 ft., swim 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 21 | +5 | +5 |
-|Int| 18 | +4 | **+8** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 9 | -1 | **+3** |
-|Wis| 15 | +2 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | **+6** |
-|Cha| 18 | +4 | +4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|21 (+5)| 9 (-1)|15 (+2)|18 (+4)|15 (+2)|18 (+4)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +3, Constitution +6, Intelligence +8, Wisdom +6
 - **Skills** [History](3.Mechanics/rules/skills.md#History) +12, [Perception](3.Mechanics/rules/skills.md#Perception) +10
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 20
-- **Languages** Deep Speech; Telepathy 120 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 20
+- **Languages** Deep Speech; telepathy 120 ft.
 - **Challenge** 10
 
 ## Traits

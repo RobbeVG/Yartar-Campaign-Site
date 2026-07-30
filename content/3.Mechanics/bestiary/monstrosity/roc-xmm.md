@@ -44,33 +44,24 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
 | 5 | Someone marooned in the nest. |
 | 6 | A statue of a knight riding a rearing steed. |
 ^roc-nest-remnants
+
 ```ad-statblock
 title: Roc
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Roc.webp#token)
-*Gargantuan Monstrosity, Unaligned*
+*Gargantuan monstrosity, Unaligned*
 
 - **Armor Class** 15 
-- **Hit Points** 248 (16d20 + 80) 
+- **Hit Points** 248 (`16d20 + 80`) 
 - **Speed** 20 ft., fly 120 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 28 | +9 | +9 |
-|Int| 3 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | **+4** |
-|Wis| 10 | +0 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | +5 |
-|Cha| 9 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|28 (+9)|10 (+0)|20 (+5)| 3 (-4)|10 (+0)| 9 (-1)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +4, Wisdom +4
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +8
-- **Senses** Passive Perception 18
+- **Senses** passive Perception 18
 - **Languages** —
 - **Challenge** 11
 

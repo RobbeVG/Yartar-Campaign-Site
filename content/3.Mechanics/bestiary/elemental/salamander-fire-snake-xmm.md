@@ -38,36 +38,28 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 
 ![A salamander inferno master drives its salamander and fire snake minions to burn all they encounter](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Salamanders.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Salamander Fire Snake
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Salamander%20Fire%20Snake.webp#token)
-*Medium Elemental, Neutral Evil*
+*Medium elemental, Neutral Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 27 (6d8) 
+- **Hit Points** 27 (`6d8`) 
 - **Speed** 30 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12 | +1 | +1 |
-|Int| 7 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 11 | +0 | +0 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|14 (+2)|11 (+0)| 7 (-2)|10 (+0)| 8 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Vulnerabilities** Cold
-- **Damage Immunities** Fire
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
-- **Languages** Understands Primordial but can't speak
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Damage Vulnerabilities** cold
+- **Damage Immunities** fire
+- **Languages** understands Primordial but can't speak
 - **Challenge** 1
 
 ## Traits

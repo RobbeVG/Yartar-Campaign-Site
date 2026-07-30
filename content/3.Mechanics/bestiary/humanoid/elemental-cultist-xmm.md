@@ -78,34 +78,26 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Cultists.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Elemental Cultist
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Elemental%20Cultist.webp#token)
-*Small or Medium Humanoid, Chaotic Evil*
+*Small or Medium humanoid, Chaotic Evil*
 
 - **Armor Class** 16 
-- **Hit Points** 135 (18d8 + 54) 
+- **Hit Points** 135 (`18d8 + 54`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 18 | +4 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | **+6** |
-|Cha| 12 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|12 (+1)|16 (+3)|14 (+2)|18 (+4)|12 (+1)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Constitution +6, Wisdom +7
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Religion](3.Mechanics/rules/skills.md#Religion) +5
+- **Senses** passive Perception 17
 - **Gear** [chain mail](3.Mechanics/items/chain-mail-xphb.md)
-- **Senses** Passive Perception 17
 - **Languages** Common, Primordial
 - **Challenge** 8
 

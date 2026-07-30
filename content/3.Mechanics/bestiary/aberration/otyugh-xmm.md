@@ -38,34 +38,25 @@ Otyughs often bury themselves amid trash heaps and observe their surroundings wi
 | 3 | Telepathically transmits a message like "Happy good stuff here!" or "Help now! I'm too delicious?" |
 | 4 | Telepathically transmits an image of a large gemstone, crooked weapon, or soggy pastry. |
 ^otyugh-lures
+
 ```ad-statblock
 title: Otyugh
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Otyugh.webp#token)
-*Large Aberration, Neutral*
+*Large aberration, Neutral*
 
 - **Armor Class** 14 
-- **Hit Points** 104 (11d10 + 44) 
+- **Hit Points** 104 (`11d10 + 44`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 19 | +4 | **+7** |
-|Cha| 6 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|11 (+0)|19 (+4)| 6 (-2)|13 (+1)| 6 (-2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Constitution +7
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 11
-- **Languages** Otyugh; Telepathy 120 ft. (doesn't allow the receiving creature to respond telepathically)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Languages** Otyugh; telepathy 120 ft. (doesn't allow the receiving creature to respond telepathically)
 - **Challenge** 5
 
 ## Actions

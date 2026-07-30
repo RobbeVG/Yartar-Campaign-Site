@@ -10,45 +10,31 @@ tags:
 title: "Voalsh"
 aliases:
 - "Voalsh"
-conditionImmunities:
-- [blinded](3.Mechanics/rules/conditions.md#Blinded)
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
 ---
 # Voalsh
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Voalsh.webp#center)
+
 ```ad-statblock
 title: Voalsh
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Voalsh.webp#token)
-*Medium Aberration, Typically  Lawful Evil*
+*Medium aberration, typically  Lawful Evil*
 
 - **Armor Class** 15 ([breastplate](3.Mechanics/items/breastplate-xphb.md))
-- **Hit Points** 156 (24d8 + 48) 
+- **Hit Points** 156 (`24d8 + 48`) 
 - **Speed** 0 ft., fly 30 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 11 | +0 | +0 |
-|Int| 21 | +5 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 17 | +3 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 18 | +4 | **+8** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|12 (+1)|15 (+2)|21 (+5)|17 (+3)|18 (+4)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Intelligence +9, Wisdom +7, Charisma +8
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +9, [Insight](3.Mechanics/rules/skills.md#Insight) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Damage Resistances** Psychic
-- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Prone](3.Mechanics/rules/conditions.md#Prone)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., [Truesight](3.Mechanics/rules/senses.md#Truesight) 15 Ft., Passive Perception 17
-- **Languages** Deep Speech, Telepathy 120 ft., Undercommon
+- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., [truesight](3.Mechanics/rules/senses.md#Truesight) 15 ft., passive Perception 17
+- **Damage Resistances** psychic
+- **Condition Immunities** [blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened), [prone](3.Mechanics/rules/conditions.md#Prone)
+- **Languages** Deep Speech, telepathy 120 ft., Undercommon
 - **Challenge** 11
 
 ## Traits

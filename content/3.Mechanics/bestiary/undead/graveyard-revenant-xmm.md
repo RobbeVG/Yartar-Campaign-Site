@@ -13,15 +13,6 @@ tags:
 title: "Graveyard Revenant"
 aliases:
 - "Graveyard Revenant"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [stunned](3.Mechanics/rules/conditions.md#Stunned)
-- [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 ---
 # Graveyard Revenant
 *Source: Monster Manual (2024) p. 260*  
@@ -38,36 +29,28 @@ Graveyard revenants possess dozens of bodies that combine to form grotesque mass
 
 Wrathful spirits bent on revenge, revenants possess corpses and other materials, using them to seek justice or vent their rage on those who wronged them. Revenants refuse to rest until those they seek to punish are no more. If their bodies are destroyed, revenants claim new forms and continue their ruthless quests.
 
+## Statblock
+
 ```ad-statblock
 title: Graveyard Revenant
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Graveyard%20Revenant.webp#token)
-*Huge Undead, Neutral*
+*Huge undead, Neutral*
 
 - **Armor Class** 14 
-- **Hit Points** 161 (14d12 + 70) 
+- **Hit Points** 161 (`14d12 + 70`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 20 | +5 | **+8** |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 16 | +3 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | **+8** |
-|Cha| 18 | +4 | **+7** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|20 (+5)|14 (+2)|20 (+5)|13 (+1)|16 (+3)|18 (+4)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +8, Constitution +8, Wisdom +6, Charisma +7
 - **Skills** ⏤
-- **Damage Resistances** Necrotic, Psychic
-- **Damage Immunities** Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Stunned](3.Mechanics/rules/conditions.md#Stunned), [Unconscious](3.Mechanics/rules/conditions.md#Unconscious)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 13
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 13
+- **Damage Resistances** necrotic, psychic
+- **Damage Immunities** poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [stunned](3.Mechanics/rules/conditions.md#Stunned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 - **Languages** Common plus two other languages
 - **Challenge** 7
 

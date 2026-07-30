@@ -12,9 +12,6 @@ tags:
 title: "Smoke Mephit"
 aliases:
 - "Smoke Mephit"
-conditionImmunities:
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Smoke Mephit
 *Source: Monster Manual (2024) p. 208*  
@@ -38,35 +35,27 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 > I am Seamusxanthuszenus, Slayer of Fiends, Merchant Most Excellent, Purveyor of Death!
 
 
+## Statblock
+
 ```ad-statblock
 title: Smoke Mephit
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Smoke%20Mephit.webp#token)
-*Small Elemental, Neutral Evil*
+*Small elemental, Neutral Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 13 (3d6 + 3) 
+- **Hit Points** 13 (`3d6 + 3`) 
 - **Speed** 30 ft., fly 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 6 | -2 | -2 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6 (-2)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +2, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Primordial (Auran, Ignan)
 - **Challenge** 1/4
 

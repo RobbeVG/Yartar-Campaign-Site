@@ -42,33 +42,24 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
 | 5 | A gift given freely by a yugoloth. |
 | 6 | A vial filled with a ruler's tears. |
 ^green-hag-bargains
+
 ```ad-statblock
 title: Green Hag
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Green%20Hag.webp#token)
-*Medium Fey, Neutral Evil*
+*Medium fey, Neutral Evil*
 
 - **Armor Class** 17 
-- **Hit Points** 82 (11d8 + 33) 
+- **Hit Points** 82 (`11d8 + 33`) 
 - **Speed** 30 ft., swim 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|12 (+1)|16 (+3)|13 (+1)|14 (+2)|14 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +5, [Deception](3.Mechanics/rules/skills.md#Deception) +4, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Languages** Common, Elvish, Sylvan
 - **Challenge** 3
 

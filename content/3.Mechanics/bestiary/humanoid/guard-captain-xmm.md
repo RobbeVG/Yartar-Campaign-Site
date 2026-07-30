@@ -32,34 +32,26 @@ Guards protect people, places, and things, either for pay or from a sense of dut
 > To distinguish between Waterdeep's different groups of guardians, keep this handy mnemonic in mind: the Guard guards the walls while the Watch watches all.
 
 
+## Statblock
+
 ```ad-statblock
 title: Guard Captain
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Guard%20Captain.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 18 
-- **Hit Points** 75 (10d8 + 30) 
+- **Hit Points** 75 (`10d8 + 30`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 13 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|14 (+2)|16 (+3)|12 (+1)|14 (+2)|13 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +4
+- **Senses** passive Perception 14
 - **Gear** [breastplate](3.Mechanics/items/breastplate-xphb.md), six [javelins](3.Mechanics/items/javelin-xphb.md), [longsword](3.Mechanics/items/longsword-xphb.md), [shield](3.Mechanics/items/shield-xphb.md)
-- **Senses** Passive Perception 14
 - **Languages** Common
 - **Challenge** 4
 

@@ -39,34 +39,25 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
 | 3 | A new peryton hatches from each heart. |
 | 4 | A portal opens to the Lower Planes. |
 ^peryton-superstitions
+
 ```ad-statblock
 title: Peryton
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Peryton.webp#token)
-*Medium Monstrosity, Chaotic Evil*
+*Medium monstrosity, Chaotic Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 33 (6d8 + 6) 
+- **Hit Points** 33 (`6d8 + 6`) 
 - **Speed** 20 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 9 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|12 (+1)|13 (+1)| 9 (-1)|12 (+1)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
-- **Senses** Passive Perception 15
-- **Languages** Understands Common and Elvish but can't speak
+- **Senses** passive Perception 15
+- **Languages** understands Common and Elvish but can't speak
 - **Challenge** 2
 
 ## Traits

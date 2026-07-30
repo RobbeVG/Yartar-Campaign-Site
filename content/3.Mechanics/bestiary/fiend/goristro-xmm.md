@@ -12,8 +12,6 @@ tags:
 title: "Goristro"
 aliases:
 - "Goristro"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Goristro
 *Source: Monster Manual (2024) p. 150*  
@@ -34,36 +32,27 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 > 
 > Plot and strategize, bait and scheme, but hubris is no armor against ruin incarnate, and greater beings than you have fallen under the onslaught of the Abyss.
 
+
 ```ad-statblock
 title: Goristro
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Goristro.webp#token)
-*Huge Fiend (demon), Chaotic Evil*
+*Huge fiend (demon), Chaotic Evil*
 
 - **Armor Class** 19 
-- **Hit Points** 310 (23d12 + 161) 
+- **Hit Points** 310 (`23d12 + 161`) 
 - **Speed** 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 25 | +7 | **+13** |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | **+6** |
-|Wis| 13 | +1 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 25 | +7 | **+13** |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|25 (+7)|11 (+0)|25 (+7)| 6 (-2)|13 (+1)|14 (+2)|
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Strength +13, Dexterity +6, Constitution +13, Wisdom +7
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Survival](3.Mechanics/rules/skills.md#Survival) +7
-- **Damage Resistances** Cold, Fire, Lightning
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 17
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 17
+- **Damage Resistances** cold, fire, lightning
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Abyssal
 - **Challenge** 17
 

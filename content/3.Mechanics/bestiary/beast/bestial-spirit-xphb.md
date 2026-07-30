@@ -14,34 +14,25 @@ aliases:
 # Bestial Spirit
 *Source: Player's Handbook (2024) p. 323*  
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Bestial%20Spirit.webp#center)
+
 ```ad-statblock
 title: Bestial Spirit
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Bestial%20Spirit.webp#token)
-*Small Beast, Neutral*
+*Small beast, Neutral*
 
 - **Armor Class** (11 + the spell's level)
 - **Hit Points** 20 (Air only) or 30 (Land and Water only) + 5 for each spell level above 2  (20 (Air only) or 30 (Land and Water only) + 5 for each spell level above 2)
 - **Speed** 30 ft., climb 30 ft. (Land only), fly 60 ft. (Air only), swim 30 ft. (Water only)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 4 | -3 | -3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 5 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|11 (+0)|16 (+3)| 4 (-3)|14 (+2)| 5 (-3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
-- **Languages** Understands the languages you know
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Languages** understands the languages you know
 - **Challenge** 
 
 ## Traits

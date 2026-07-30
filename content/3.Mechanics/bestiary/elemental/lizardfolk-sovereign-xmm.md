@@ -12,8 +12,6 @@ tags:
 title: "Lizardfolk Sovereign"
 aliases:
 - "Lizardfolk Sovereign"
-conditionImmunities:
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
 # Lizardfolk Sovereign
 *Source: Monster Manual (2024) p. 197*  
@@ -30,34 +28,26 @@ Lizardfolk sovereigns undergo magical rites that imbue them with fantastic stren
 
 Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfolk are Humanoids with varied skills, some forge powerful bonds with the Elemental Plane of Earth, granting them magical connections to the cycle of growth and rebirth.
 
+## Statblock
+
 ```ad-statblock
 title: Lizardfolk Sovereign
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Lizardfolk%20Sovereign.webp#token)
-*Medium Elemental, Neutral*
+*Medium elemental, Neutral*
 
 - **Armor Class** 15 
-- **Hit Points** 78 (12d8 + 24) 
+- **Hit Points** 78 (`12d8 + 24`) 
 - **Speed** 30 ft., burrow 20 ft., swim 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 11 | +0 | **+2** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | **+4** |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|12 (+1)|15 (+2)|11 (+0)|11 (+0)|15 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Constitution +4, Wisdom +2
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Condition Immunities** [Frightened](3.Mechanics/rules/conditions.md#Frightened)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Condition Immunities** [frightened](3.Mechanics/rules/conditions.md#Frightened)
 - **Languages** Draconic, Primordial (Terran)
 - **Challenge** 4
 

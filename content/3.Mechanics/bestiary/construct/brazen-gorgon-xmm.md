@@ -13,9 +13,6 @@ tags:
 title: "Brazen Gorgon"
 aliases:
 - "Brazen Gorgon"
-conditionImmunities:
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
 ---
 # Brazen Gorgon
 *Source: Monster Manual (2024) p. 149*  
@@ -59,35 +56,27 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Gorgons.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Brazen Gorgon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Brazen%20Gorgon.webp#token)
-*Large Construct, Unaligned*
+*Large construct, Unaligned*
 
 - **Armor Class** 19 
-- **Hit Points** 161 (17d10 + 68) 
+- **Hit Points** 161 (`17d10 + 68`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 2 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 19 | +4 | +4 |
-|Cha| 7 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|14 (+2)|19 (+4)| 2 (-4)|14 (+2)| 7 (-2)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +10
-- **Damage Immunities** Fire
-- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Petrified](3.Mechanics/rules/conditions.md#Petrified)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 20
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 20
+- **Damage Immunities** fire
+- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [petrified](3.Mechanics/rules/conditions.md#Petrified)
 - **Languages** —
 - **Challenge** 9
 

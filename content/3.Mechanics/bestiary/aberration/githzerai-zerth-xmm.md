@@ -55,33 +55,25 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 > We githzerai crave a challenge, so that when Zerthimon returns, he shall find us ready. Thus we traveled to howling Limbo to make our new home.
 
 
+## Statblock
+
 ```ad-statblock
 title: Githzerai Zerth
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Githzerai%20Zerth.webp#token)
-*Medium Aberration (gith), Lawful Neutral*
+*Medium aberration (gith), Lawful Neutral*
 
 - **Armor Class** 17 
-- **Hit Points** 84 (13d8 + 26) 
+- **Hit Points** 84 (`13d8 + 26`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13 | +1 | **+4** |
-|Int| 16 | +3 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | **+7** |
-|Wis| 17 | +3 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 12 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|13 (+1)|18 (+4)|15 (+2)|16 (+3)|17 (+3)|12 (+1)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +4, Dexterity +7, Intelligence +6, Wisdom +6
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +6, [Insight](3.Mechanics/rules/skills.md#Insight) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +6
-- **Senses** Passive Perception 16
+- **Senses** passive Perception 16
 - **Languages** Common, Gith
 - **Challenge** 6
 

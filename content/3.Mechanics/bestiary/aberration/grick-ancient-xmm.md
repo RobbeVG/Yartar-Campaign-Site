@@ -30,33 +30,25 @@ Gricks are wormlike predators that burst from hiding—flailing and snapping—t
 
 Gricks' origins are unclear, but some suggest these creatures arise from natural worms or similar invertebrates mutated by magical phenomena. Many cite the presence of gricks in a region as evidence of portals to other planes of existence, legendary magic items, or powerful supernatural beings.
 
+## Statblock
+
 ```ad-statblock
 title: Grick Ancient
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Grick%20Ancient.webp#token)
-*Large Aberration, Unaligned*
+*Large aberration, Unaligned*
 
 - **Armor Class** 18 
-- **Hit Points** 135 (18d10 + 36) 
+- **Hit Points** 135 (`18d10 + 36`) 
 - **Speed** 30 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 4 | -3 | -3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 9 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|16 (+3)|15 (+2)| 4 (-3)|14 (+2)| 9 (-1)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Languages** —
 - **Challenge** 7
 

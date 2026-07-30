@@ -11,8 +11,6 @@ tags:
 title: "Gulthias Blight"
 aliases:
 - "Gulthias Blight"
-conditionImmunities:
-- [deafened](3.Mechanics/rules/conditions.md#Deafened)
 ---
 # Gulthias Blight
 *Source: Monster Manual (2024) p. 45*  
@@ -34,35 +32,27 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
 
 
+## Statblock
+
 ```ad-statblock
 title: Gulthias Blight
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gulthias%20Blight.webp#token)
-*Gargantuan Plant, Neutral Evil*
+*Gargantuan plant, Neutral Evil*
 
 - **Armor Class** 20 
-- **Hit Points** 264 (16d20 + 96) 
+- **Hit Points** 264 (`16d20 + 96`) 
 - **Speed** 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 25 | +7 | +7 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 22 | +6 | +6 |
-|Cha| 12 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|25 (+7)|10 (+0)|22 (+6)|10 (+0)|18 (+4)|12 (+1)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +9
-- **Damage Resistances** Fire, Necrotic
-- **Condition Immunities** [Deafened](3.Mechanics/rules/conditions.md#Deafened)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 Ft., Passive Perception 19
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 ft., passive Perception 19
+- **Damage Resistances** fire, necrotic
+- **Condition Immunities** [deafened](3.Mechanics/rules/conditions.md#Deafened)
 - **Languages** Common, Druidic
 - **Challenge** 16
 

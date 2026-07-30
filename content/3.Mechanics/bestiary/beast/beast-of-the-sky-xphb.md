@@ -14,34 +14,25 @@ aliases:
 # Beast of the Sky
 *Source: Player's Handbook (2024) p. 124*  
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Beast%20of%20the%20Sky.webp#center)
+
 ```ad-statblock
 title: Beast of the Sky
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Beast%20of%20the%20Sky.webp#token)
-*Small Beast, Neutral*
+*Small beast, Neutral*
 
 - **Armor Class** (13 plus your Wisdom modifier)
 - **Hit Points** 4 plus four times your Ranger level (the beast has a number of Hit Dice [d6s] equal to your Ranger level)  (4 plus four times your Ranger level (the beast has a number of Hit Dice [d6s] equal to your Ranger level))
 - **Speed** 10 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 6 | -2 | -2 |
-|Int| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6 (-2)|16 (+3)|13 (+1)| 8 (-1)|14 (+2)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
-- **Languages** Understands the languages you know
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Languages** understands the languages you know
 - **Challenge** 
 
 ## Traits

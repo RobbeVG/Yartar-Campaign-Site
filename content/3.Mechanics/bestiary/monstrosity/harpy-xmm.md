@@ -31,33 +31,24 @@ Hate-filled creatures, harpies strive to cause pain and bring an end to love and
 Harpies dwell in remote, dismal places tainted by tragedy and despair. Some tales claim harpies offended the gods and were transformed as a punishment; harpies might also be the descendants of such cursed souls.
 
 Every harpy sings a distinct song. While some songs are said to be heartbreaking in their beauty, others are wretched squawking and compel only the magically enthralled.
+
 ```ad-statblock
 title: Harpy
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Harpy.webp#token)
-*Medium Monstrosity, Chaotic Evil*
+*Medium monstrosity, Chaotic Evil*
 
 - **Armor Class** 11 
-- **Hit Points** 38 (7d8 + 7) 
+- **Hit Points** 38 (`7d8 + 7`) 
 - **Speed** 20 ft., fly 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12 | +1 | +1 |
-|Int| 7 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 13 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|13 (+1)|12 (+1)| 7 (-2)|10 (+0)|13 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** Passive Perception 10
+- **Senses** passive Perception 10
 - **Languages** Common
 - **Challenge** 1
 

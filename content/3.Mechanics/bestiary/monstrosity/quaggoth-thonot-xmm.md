@@ -11,8 +11,6 @@ tags:
 title: "Quaggoth Thonot"
 aliases:
 - "Quaggoth Thonot"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Quaggoth Thonot
 *Source: Monster Manual (2024) p. 251*  
@@ -33,35 +31,27 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Quaggoths.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Quaggoth Thonot
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Quaggoth%20Thonot.webp#token)
-*Medium Monstrosity, Chaotic Neutral*
+*Medium monstrosity, Chaotic Neutral*
 
 - **Armor Class** 15 
-- **Hit Points** 67 (9d8 + 27) 
+- **Hit Points** 67 (`9d8 + 27`) 
 - **Speed** 30 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 7 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|12 (+1)|16 (+3)| 6 (-2)|14 (+2)| 7 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +5
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 12
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 12
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Undercommon
 - **Challenge** 3
 

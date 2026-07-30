@@ -35,34 +35,26 @@ Brass dragons collect eclectic objects. While such items might seem like knickkn
 
 Brass dragons usually dwell in secret caves and canyons near well-traveled routes.
 
+## Statblock
+
 ```ad-statblock
 title: Ancient Brass Dragon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ancient%20Brass%20Dragon.webp#token)
-*Gargantuan Dragon (metallic), Chaotic Good*
+*Gargantuan dragon (metallic), Chaotic Good*
 
 - **Armor Class** 20 
-- **Hit Points** 332 (19d20 + 133) 
+- **Hit Points** 332 (`19d20 + 133`) 
 - **Speed** 40 ft., burrow 40 ft., fly 80 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 27 | +8 | +8 |
-|Int| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | **+6** |
-|Wis| 15 | +2 | **+8** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 25 | +7 | +7 |
-|Cha| 22 | +6 | +6 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|27 (+8)|10 (+0)|25 (+7)|16 (+3)|15 (+2)|22 (+6)|
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +6, Wisdom +8
 - **Skills** [History](3.Mechanics/rules/skills.md#History) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +14, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +12, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Damage Immunities** Fire
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 24
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 24
+- **Damage Immunities** fire
 - **Languages** Common, Draconic
 - **Challenge** 20
 

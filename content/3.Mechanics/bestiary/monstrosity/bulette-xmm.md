@@ -29,33 +29,25 @@ Bulettes range under vast territories. They often threaten animal herds, and the
 
 Also called "land sharks," bulettes are single-minded predators that burrow under, leap over, and burst through obstacles in pursuit of their quarry. They burrow rapidly just below ground. On sensing movement, they erupt from below, attempting to catch prey in their oversize maws.
 
+## Statblock
+
 ```ad-statblock
 title: Bulette
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bulette.webp#token)
-*Large Monstrosity, Unaligned*
+*Large monstrosity, Unaligned*
 
 - **Armor Class** 17 
-- **Hit Points** 94 (9d10 + 45) 
+- **Hit Points** 94 (`9d10 + 45`) 
 - **Speed** 40 ft., burrow 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 2 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 21 | +5 | +5 |
-|Cha| 5 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|11 (+0)|21 (+5)| 2 (-4)|10 (+0)| 5 (-3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +6
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Tremorsense 120 ft., Passive Perception 16
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., Tremorsense 120 ft., passive Perception 16
 - **Languages** —
 - **Challenge** 5
 

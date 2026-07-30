@@ -11,14 +11,6 @@ tags:
 title: "Ochre Jelly"
 aliases:
 - "Ochre Jelly"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [deafened](3.Mechanics/rules/conditions.md#Deafened)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [grappled](3.Mechanics/rules/conditions.md#Grappled)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
-- [restrained](3.Mechanics/rules/conditions.md#Restrained)
 ---
 # Ochre Jelly
 *Source: Monster Manual (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -50,36 +42,27 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
 | 5 | A skull with gold teeth worth `dice:1d4\|noform\|noparens\|avg` (`1d4`) GP. |
 | 6 | A spotless suit of metal armor. |
 ^ochre-jelly-leftovers
+
 ```ad-statblock
 title: Ochre Jelly
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ochre%20Jelly.webp#token)
-*Large Ooze, Unaligned*
+*Large ooze, Unaligned*
 
 - **Armor Class** 8 
-- **Hit Points** 52 (7d10 + 14) 
+- **Hit Points** 52 (`7d10 + 14`) 
 - **Speed** 20 ft., climb 20 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 2 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 6 | -2 | -2 |
-|Wis| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 1 | -5 | -5 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)| 6 (-2)|14 (+2)| 2 (-4)| 6 (-2)| 1 (-5)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Resistances** Acid
-- **Damage Immunities** Lightning, Slashing
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Deafened](3.Mechanics/rules/conditions.md#Deafened), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 8
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception 8
+- **Damage Resistances** acid
+- **Damage Immunities** lightning, slashing
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled), [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained)
 - **Languages** —
 - **Challenge** 2
 

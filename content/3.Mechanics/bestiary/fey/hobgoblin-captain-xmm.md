@@ -56,34 +56,26 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 | 6 | Help shortsighted merchants undermine a government or despoil the environment. |
 ^hobgoblin-strategies
 
+## Statblock
+
 ```ad-statblock
 title: Hobgoblin Captain
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hobgoblin%20Captain.webp#token)
-*Medium Fey (goblinoid), Lawful Evil*
+*Medium fey (goblinoid), Lawful Evil*
 
 - **Armor Class** 17 
-- **Hit Points** 58 (9d8 + 18) 
+- **Hit Points** 58 (`9d8 + 18`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 13 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Gear** [greatsword](3.Mechanics/items/greatsword-xphb.md), [half plate armor](3.Mechanics/items/half-plate-armor-xphb.md), [longbow](3.Mechanics/items/longbow-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
 - **Languages** Common, Goblin
 - **Challenge** 3
 

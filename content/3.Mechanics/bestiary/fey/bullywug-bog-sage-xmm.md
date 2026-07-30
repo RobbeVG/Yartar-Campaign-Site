@@ -27,34 +27,26 @@ Bullywug bog sages channel the magic of the swamp to sicken foes and speak with 
 
 Fey embodiments of swamplands, bullywugs protect the murky wilds and consider themselves cosmically favored for that role. These human-size, toad- or frog-like creatures have close relationships with the creatures of the swamp.
 
+## Statblock
+
 ```ad-statblock
 title: Bullywug Bog Sage
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bullywug%20Bog%20Sage.webp#token)
-*Medium Fey, Neutral*
+*Medium fey, Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 52 (8d8 + 16) 
+- **Hit Points** 52 (`8d8 + 16`) 
 - **Speed** 30 ft., swim 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 8 | -1 | -1 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 16 | +3 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | **+4** |
-|Cha| 12 | +1 | **+3** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (-1)|16 (+3)|14 (+2)|10 (+0)|16 (+3)|12 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Constitution +4, Wisdom +5, Charisma +3
 - **Skills** [Nature](3.Mechanics/rules/skills.md#Nature) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
+- **Senses** passive Perception 13
 - **Gear** [component pouch](3.Mechanics/items/component-pouch-xphb.md)
-- **Senses** Passive Perception 13
 - **Languages** Bullywug, Common
 - **Challenge** 4
 

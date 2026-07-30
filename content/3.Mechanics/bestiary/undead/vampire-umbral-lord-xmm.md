@@ -12,9 +12,6 @@ tags:
 title: "Vampire Umbral Lord"
 aliases:
 - "Vampire Umbral Lord"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
 ---
 # Vampire Umbral Lord
 *Source: Monster Manual (2024) p. 318*  
@@ -58,35 +55,27 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 
 ![A vampire familiar provides a meal for a vampire spawn](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Vampires.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Vampire Umbral Lord
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Vampire%20Umbral%20Lord.webp#token)
-*Small or Medium Undead, Lawful Evil*
+*Small or Medium undead, Lawful Evil*
 
 - **Armor Class** 16 
-- **Hit Points** 187 (22d8 + 88) 
+- **Hit Points** 187 (`22d8 + 88`) 
 - **Speed** 40 ft., climb 40 ft., fly 40 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 20 | +5 | **+10** |
-|Int| 19 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | **+9** |
-|Wis| 16 | +3 | **+8** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | +4 |
-|Cha| 21 | +5 | **+10** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|20 (+5)|18 (+4)|18 (+4)|19 (+4)|16 (+3)|21 (+5)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Strength +10, Dexterity +9, Wisdom +8, Charisma +10
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +13, [Stealth](3.Mechanics/rules/skills.md#Stealth) +9
-- **Damage Immunities** Cold, Necrotic
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 Ft., Passive Perception 23
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 ft., passive Perception 23
+- **Damage Immunities** cold, necrotic
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
 - **Languages** Common plus three other languages
 - **Challenge** 15
 

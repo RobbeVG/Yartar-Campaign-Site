@@ -31,34 +31,26 @@ Bugbear warriors serve those who offer them treasure, food, or the chance to hun
 
 Bugbears embody fear of the wilds and the menace of natural places. They're notoriously stealthy, and foes that venture into their territories often vanish without a trace.
 
+## Statblock
+
 ```ad-statblock
 title: Bugbear Warrior
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bugbear%20Warrior.webp#token)
-*Medium Fey (goblinoid), Chaotic Evil*
+*Medium fey (goblinoid), Chaotic Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 33 (6d8 + 6) 
+- **Hit Points** 33 (`6d8 + 6`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 9 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|14 (+2)|13 (+1)| 8 (-1)|11 (+0)| 9 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +6, [Survival](3.Mechanics/rules/skills.md#Survival) +2
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Gear** [hide armor](3.Mechanics/items/hide-armor-xphb.md), three [light hammers](3.Mechanics/items/light-hammer-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
 - **Languages** Common, Goblin
 - **Challenge** 1
 

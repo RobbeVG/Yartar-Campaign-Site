@@ -12,8 +12,6 @@ tags:
 title: "Modron Quadrone"
 aliases:
 - "Modron Quadrone"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
 ---
 # Modron Quadrone
 *Source: Monster Manual (2024) p. 218*  
@@ -61,34 +59,26 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 > The guide swore "beep boop" meant "hello, friend." I don't know why they're after us!
 
 
+## Statblock
+
 ```ad-statblock
 title: Modron Quadrone
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Modron%20Quadrone.webp#token)
-*Medium Construct, Lawful Neutral*
+*Medium construct, Lawful Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 22 (4d8 + 4) 
+- **Hit Points** 22 (`4d8 + 4`) 
 - **Speed** 30 ft., fly 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12 | +1 | +1 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +2
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 12
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 12
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed)
 - **Languages** Modron
 - **Challenge** 1
 

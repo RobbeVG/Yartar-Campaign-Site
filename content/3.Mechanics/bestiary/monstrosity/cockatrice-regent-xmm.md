@@ -11,8 +11,6 @@ tags:
 title: "Cockatrice Regent"
 aliases:
 - "Cockatrice Regent"
-conditionImmunities:
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
 ---
 # Cockatrice Regent
 *Source: Monster Manual (2024) p. 75*  
@@ -29,34 +27,26 @@ Bolder than their smaller cousins, cockatrice regents brim with unstable magical
 
 Cockatrices combine the features of irate roosters and starving reptiles. They petrify those they bite, their slightest peck turning their prey to stone.
 
+## Statblock
+
 ```ad-statblock
 title: Cockatrice Regent
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cockatrice%20Regent.webp#token)
-*Large Monstrosity, Unaligned*
+*Large monstrosity, Unaligned*
 
 - **Armor Class** 15 
-- **Hit Points** 136 (16d10 + 48) 
+- **Hit Points** 136 (`16d10 + 48`) 
 - **Speed** 30 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 3 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 16 | +3 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 5 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|14 (+2)|16 (+3)| 3 (-4)|16 (+3)| 5 (-3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Wisdom +6
 - **Skills** ⏤
-- **Condition Immunities** [Petrified](3.Mechanics/rules/conditions.md#Petrified)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 13
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 13
+- **Condition Immunities** [petrified](3.Mechanics/rules/conditions.md#Petrified)
 - **Languages** —
 - **Challenge** 8
 

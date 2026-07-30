@@ -12,13 +12,6 @@ tags:
 title: "Hydra"
 aliases:
 - "Hydra"
-conditionImmunities:
-- [blinded](3.Mechanics/rules/conditions.md#Blinded)
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [deafened](3.Mechanics/rules/conditions.md#Deafened)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [stunned](3.Mechanics/rules/conditions.md#Stunned)
-- [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 ---
 # Hydra
 *Source: Monster Manual (2024) p. 175. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -48,34 +41,25 @@ While many hydras claim their own territories, wicked deities might use them to 
 | 3 | Guard a magical herb that blooms once a year. |
 | 4 | Protect a font of poison that pollutes a river. |
 ^hydra-lairs
+
 ```ad-statblock
 title: Hydra
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hydra.webp#token)
-*Huge Monstrosity, Unaligned*
+*Huge monstrosity, Unaligned*
 
 - **Armor Class** 15 
-- **Hit Points** 184 (16d12 + 80) 
+- **Hit Points** 184 (`16d12 + 80`) 
 - **Speed** 40 ft., swim 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 20 | +5 | +5 |
-|Int| 2 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | +5 |
-|Cha| 7 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|20 (+5)|12 (+1)|20 (+5)| 2 (-4)|10 (+0)| 7 (-2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +6
-- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Deafened](3.Mechanics/rules/conditions.md#Deafened), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Stunned](3.Mechanics/rules/conditions.md#Stunned), [Unconscious](3.Mechanics/rules/conditions.md#Unconscious)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 16
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 16
+- **Condition Immunities** [blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened), [frightened](3.Mechanics/rules/conditions.md#Frightened), [stunned](3.Mechanics/rules/conditions.md#Stunned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 - **Languages** —
 - **Challenge** 8
 

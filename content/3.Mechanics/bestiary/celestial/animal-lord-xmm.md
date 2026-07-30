@@ -12,10 +12,6 @@ tags:
 title: "Animal Lord"
 aliases:
 - "Animal Lord"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [stunned](3.Mechanics/rules/conditions.md#Stunned)
 ---
 # Animal Lord
 *Source: Monster Manual (2024) p. 15*  
@@ -95,36 +91,27 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
 | 9 | Turtle |
 | 10 | Whale |
 ^sage-animal-lord-appearances
+
 ```ad-statblock
 title: Animal Lord
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Animal%20Lord.webp#token)
-*Medium Celestial, Neutral*
+*Medium celestial, Neutral*
 
 - **Armor Class** 19 
-- **Hit Points** 323 (34d8 + 170) 
+- **Hit Points** 323 (`34d8 + 170`) 
 - **Speed** 60 ft., fly 60 ft. (hover), swim 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 24 | +7 | +7 |
-|Int| 19 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 25 | +7 | +7 |
-|Wis| 23 | +6 | **+12** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | **+11** |
-|Cha| 22 | +6 | +6 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|24 (+7)|25 (+7)|20 (+5)|19 (+4)|23 (+6)|22 (+6)|
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Constitution +11, Wisdom +12
 - **Skills** [Acrobatics](3.Mechanics/rules/skills.md#Acrobatics) +13, [Athletics](3.Mechanics/rules/skills.md#Athletics) +13, [Perception](3.Mechanics/rules/skills.md#Perception) +18, [Stealth](3.Mechanics/rules/skills.md#Stealth) +13
-- **Damage Resistances** Cold, Fire, Necrotic, Psychic, Radiant
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Stunned](3.Mechanics/rules/conditions.md#Stunned)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 28
-- **Languages** All
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 28
+- **Damage Resistances** cold, fire, necrotic, psychic, radiant
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened), [stunned](3.Mechanics/rules/conditions.md#Stunned)
+- **Languages** all
 - **Challenge** 20
 
 ## Traits

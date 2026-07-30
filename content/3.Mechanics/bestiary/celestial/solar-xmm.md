@@ -12,11 +12,6 @@ tags:
 title: "Solar"
 aliases:
 - "Solar"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Solar
 *Source: Monster Manual (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -32,36 +27,27 @@ conditionImmunities:
 Solars stand as the final line of defense between unspeakable evils and the order of the multiverse. They are the servants of just deities and ageless forces of good. Their interests span the planes, but they rarely intervene in conflicts on the worlds of the Material Plane. When they act, they lead vast angelic hosts and wield holy weapons capable of laying low the wickedest Fiends.
 
 Solars can resurrect the dead and often use that power to enlist mortal aid. They bestow grand, new purposes on those they return to life. Solars don't enforce these destinies, but they trust in the potential of mortals to achieve great things.
+
 ```ad-statblock
 title: Solar
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Solar.webp#token)
-*Large Celestial (angel), Lawful Good*
+*Large celestial (angel), Lawful Good*
 
 - **Armor Class** 21 
-- **Hit Points** 297 (22d10 + 176) 
+- **Hit Points** 297 (`22d10 + 176`) 
 - **Speed** 50 ft., fly 150 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 26 | +8 | +8 |
-|Int| 25 | +7 | +7 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 22 | +6 | +6 |
-|Wis| 25 | +7 | +7 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 26 | +8 | +8 |
-|Cha| 30 | +10 | +10 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|26 (+8)|22 (+6)|26 (+8)|25 (+7)|25 (+7)|30 (+10)|
 
 - **Proficiency Bonus** +7
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +14
-- **Damage Immunities** Poison, Radiant
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 24
-- **Languages** All; Telepathy 120 ft.
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 24
+- **Damage Immunities** poison, radiant
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** all; telepathy 120 ft.
 - **Challenge** 21
 
 ## Traits

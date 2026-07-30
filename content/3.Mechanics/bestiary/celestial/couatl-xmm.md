@@ -31,36 +31,27 @@ Embodiments of prophecy and protectors of divine secrets, couatls ensure fate un
 Motivated by eternal mandates, couatls sometimes behave in inscrutable or antagonistic ways. They are inflexible and uncompromising, as their existences are fundamentally tied to their divine directives, but they harm other creatures only when absolutely necessary to achieve divine goals.
 
 Each couatl goes through a period of renewal at the end of an age. In a couatl's lifecycle, an age might correspond to a celestial calendar or some divine chronology. Near the age's end, the couatl lays a wondrous, rainbow-hued egg. When the age ends, the couatl dies. For a period—perhaps a single day, perhaps until an annual solar event—the couatl's work is unattended. Once this time passes, the same couatl that laid the egg hatches from it, fully grown and renewed to serve for another age.
+
 ```ad-statblock
 title: Couatl
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Couatl.webp#token)
-*Medium Celestial, Lawful Good*
+*Medium celestial, Lawful Good*
 
 - **Armor Class** 19 
-- **Hit Points** 60 (8d8 + 24) 
+- **Hit Points** 60 (`8d8 + 24`) 
 - **Speed** 30 ft., fly 90 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 20 | +5 | +5 |
-|Wis| 20 | +5 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | **+5** |
-|Cha| 18 | +4 | +4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|20 (+5)|17 (+3)|18 (+4)|20 (+5)|18 (+4)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Constitution +5, Wisdom +7
 - **Skills** ⏤
-- **Damage Resistances** Bludgeoning, Piercing, Slashing
-- **Damage Immunities** Psychic, Radiant
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 15
-- **Languages** All; Telepathy 120 ft.
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 15
+- **Damage Resistances** bludgeoning, piercing, slashing
+- **Damage Immunities** psychic, radiant
+- **Languages** all; telepathy 120 ft.
 - **Challenge** 4
 
 ## Traits

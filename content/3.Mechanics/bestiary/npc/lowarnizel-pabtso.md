@@ -10,45 +10,33 @@ tags:
 title: "Lowarnizel"
 aliases:
 - "Lowarnizel"
-conditionImmunities:
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
 ---
 # Lowarnizel
 *Source: Phandelver and Below: The Shattered Obelisk p. 181*  
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Lowarnizel.webp#right)
 
 Lowarnizel is a young amethyst dragon, and his companion is a lawful neutral human mage named Gossa. Both hate the Far Realm and anything tainted by it.
+
 ```ad-statblock
 title: Lowarnizel
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Lowarnizel.webp#token)
-*Large Dragon (young gem), Neutral*
+*Large dragon (young gem), Neutral*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 168 (16d10 + 80) 
+- **Hit Points** 168 (`16d10 + 80`) 
 - **Speed** 40 ft., fly 80 ft. (hover), swim 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 21 | +5 | +5 |
-|Int| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | **+5** |
-|Wis| 15 | +2 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 21 | +5 | **+9** |
-|Cha| 19 | +4 | **+8** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|21 (+5)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|19 (+4)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +5, Constitution +9, Wisdom +6, Charisma +8
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +12, [Perception](3.Mechanics/rules/skills.md#Perception) +10, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +8, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Damage Resistances** Force, Psychic
-- **Condition Immunities** [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Prone](3.Mechanics/rules/conditions.md#Prone)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 20
-- **Languages** Common, Draconic, Telepathy 120 ft.
+- **Senses** [blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 20
+- **Damage Resistances** force, psychic
+- **Condition Immunities** [frightened](3.Mechanics/rules/conditions.md#Frightened), [prone](3.Mechanics/rules/conditions.md#Prone)
+- **Languages** Common, Draconic, telepathy 120 ft.
 - **Challenge** 9
 
 ## Traits

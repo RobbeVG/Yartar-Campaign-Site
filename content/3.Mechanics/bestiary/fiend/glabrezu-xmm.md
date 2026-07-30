@@ -12,8 +12,6 @@ tags:
 title: "Glabrezu"
 aliases:
 - "Glabrezu"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Glabrezu
 *Source: Monster Manual (2024) p. 138. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -34,37 +32,28 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
 > 
 > Your companion's life, or what you've journeyed through infinity in search of! Make your choice.
 
+
 ```ad-statblock
 title: Glabrezu
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Glabrezu.webp#token)
-*Large Fiend (demon), Chaotic Evil*
+*Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 17 
-- **Hit Points** 189 (18d10 + 90) 
+- **Hit Points** 189 (`18d10 + 90`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 20 | +5 | **+9** |
-|Int| 19 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 17 | +3 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 21 | +5 | **+9** |
-|Cha| 16 | +3 | **+7** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|20 (+5)|15 (+2)|21 (+5)|19 (+4)|17 (+3)|16 (+3)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Strength +9, Constitution +9, Wisdom +7, Charisma +7
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +7
-- **Damage Resistances** Cold, Fire, Lightning
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 17
-- **Languages** Abyssal; Telepathy 120 ft.
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 17
+- **Damage Resistances** cold, fire, lightning
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Abyssal; telepathy 120 ft.
 - **Challenge** 9
 
 ## Traits

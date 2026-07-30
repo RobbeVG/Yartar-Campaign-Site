@@ -76,34 +76,26 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
 
+## Statblock
+
 ```ad-statblock
 title: Death Cultist
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Death%20Cultist.webp#token)
-*Small or Medium Humanoid, Neutral Evil*
+*Small or Medium humanoid, Neutral Evil*
 
 - **Armor Class** 17 
-- **Hit Points** 127 (15d8 + 60) 
+- **Hit Points** 127 (`15d8 + 60`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 16 | +3 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | **+7** |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|12 (+1)|18 (+4)|12 (+1)|16 (+3)|14 (+2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Constitution +7, Wisdom +6
 - **Skills** [Insight](3.Mechanics/rules/skills.md#Insight) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Religion](3.Mechanics/rules/skills.md#Religion) +4
+- **Senses** passive Perception 16
 - **Gear** [splint armor](3.Mechanics/items/splint-armor-xphb.md)
-- **Senses** Passive Perception 16
 - **Languages** Common
 - **Challenge** 8
 

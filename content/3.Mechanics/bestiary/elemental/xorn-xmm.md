@@ -13,10 +13,6 @@ tags:
 title: "Xorn"
 aliases:
 - "Xorn"
-conditionImmunities:
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Xorn
 *Source: Monster Manual (2024) p. 338. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -52,35 +48,26 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
 | 7 | A piece of a meteor or moon. |
 | 8 | The stone crowning a mountain peak. |
 ^xorn-delicacies
+
 ```ad-statblock
 title: Xorn
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Xorn.webp#token)
-*Medium Elemental, Neutral*
+*Medium elemental, Neutral*
 
 - **Armor Class** 19 
-- **Hit Points** 84 (8d8 + 48) 
+- **Hit Points** 84 (`8d8 + 48`) 
 - **Speed** 20 ft., burrow 20 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 22 | +6 | +6 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|10 (+0)|22 (+6)|11 (+0)|10 (+0)|11 (+0)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Damage Immunities** Poison
-- **Condition Immunities** [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Tremorsense 60 ft., Passive Perception 16
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., Tremorsense 60 ft., passive Perception 16
+- **Damage Immunities** poison
+- **Condition Immunities** [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Primordial (Terran)
 - **Challenge** 5
 

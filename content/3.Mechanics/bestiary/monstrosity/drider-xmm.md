@@ -41,33 +41,24 @@ Driders also appear when whole communities are transformed by a wicked god's wra
 | 5 | A mutation after exposure to chaotic planar energies or strange Underdark radiations. |
 | 6 | A punishment from a spiteful god, like Lolth or the Queen of Air and Darkness. |
 ^drider-metamorphoses
+
 ```ad-statblock
 title: Drider
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Drider.webp#token)
-*Large Monstrosity, Chaotic Evil*
+*Large monstrosity, Chaotic Evil*
 
 - **Armor Class** 19 
-- **Hit Points** 123 (13d10 + 52) 
+- **Hit Points** 123 (`13d10 + 52`) 
 - **Speed** 30 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 19 | +4 | +4 |
-|Wis| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | +4 |
-|Cha| 12 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|19 (+4)|18 (+4)|13 (+1)|16 (+3)|12 (+1)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Stealth](3.Mechanics/rules/skills.md#Stealth) +10
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 16
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 16
 - **Languages** Elvish, Undercommon
 - **Challenge** 6
 

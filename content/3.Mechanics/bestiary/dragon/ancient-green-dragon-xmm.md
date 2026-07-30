@@ -11,8 +11,6 @@ tags:
 title: "Ancient Green Dragon"
 aliases:
 - "Ancient Green Dragon"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Ancient Green Dragon
 *Source: Monster Manual (2024) p. 154. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -35,35 +33,27 @@ Despite their might, most green dragons disdain physical violence, viewing comba
 
 Green dragons lair in ancient forests, often shaping stands of massive trees into compounds of interwoven branches, hollow trunks, and caverns amid mighty roots. They might also dwell amid forested ruins, particularly the former homes of those they've conquered.
 
+## Statblock
+
 ```ad-statblock
 title: Ancient Green Dragon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ancient%20Green%20Dragon.webp#token)
-*Gargantuan Dragon (chromatic), Lawful Evil*
+*Gargantuan dragon (chromatic), Lawful Evil*
 
 - **Armor Class** 21 
-- **Hit Points** 402 (23d20 + 161) 
+- **Hit Points** 402 (`23d20 + 161`) 
 - **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 27 | +8 | +8 |
-|Int| 20 | +5 | +5 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | **+8** |
-|Wis| 17 | +3 | **+10** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 25 | +7 | +7 |
-|Cha| 22 | +6 | +6 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|22 (+6)|
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +8, Wisdom +10
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +13, [Perception](3.Mechanics/rules/skills.md#Perception) +17, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +13, [Stealth](3.Mechanics/rules/skills.md#Stealth) +8
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 27
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 27
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Common, Draconic
 - **Challenge** 22
 

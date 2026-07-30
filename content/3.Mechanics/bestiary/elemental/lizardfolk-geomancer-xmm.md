@@ -28,33 +28,25 @@ Lizardfolk geomancers draw magic from the natural world, using it to protect the
 
 Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfolk are Humanoids with varied skills, some forge powerful bonds with the Elemental Plane of Earth, granting them magical connections to the cycle of growth and rebirth.
 
+## Statblock
+
 ```ad-statblock
 title: Lizardfolk Geomancer
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Lizardfolk%20Geomancer.webp#token)
-*Medium Elemental, Neutral*
+*Medium elemental, Neutral*
 
 - **Armor Class** 13 
-- **Hit Points** 33 (6d8 + 6) 
+- **Hit Points** 33 (`6d8 + 6`) 
 - **Speed** 30 ft., burrow 20 ft., swim 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 15 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|10 (+0)|13 (+1)|10 (+0)|15 (+2)| 8 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Nature](3.Mechanics/rules/skills.md#Nature) +2, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
-- **Senses** Passive Perception 14
+- **Senses** passive Perception 14
 - **Languages** Draconic, Primordial (Terran)
 - **Challenge** 2
 

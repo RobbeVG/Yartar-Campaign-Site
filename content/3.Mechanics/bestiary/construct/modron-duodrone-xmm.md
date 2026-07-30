@@ -12,8 +12,6 @@ tags:
 title: "Modron Duodrone"
 aliases:
 - "Modron Duodrone"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
 ---
 # Modron Duodrone
 *Source: Monster Manual (2024) p. 217*  
@@ -61,34 +59,26 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 > The guide swore "beep boop" meant "hello, friend." I don't know why they're after us!
 
 
+## Statblock
+
 ```ad-statblock
 title: Modron Duodrone
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Modron%20Duodrone.webp#token)
-*Medium Construct, Lawful Neutral*
+*Medium construct, Lawful Neutral*
 
 - **Armor Class** 15 
-- **Hit Points** 11 (2d8 + 2) 
+- **Hit Points** 11 (`2d8 + 2`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 11 | +0 | +0 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 7 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|13 (+1)|12 (+1)| 6 (-2)|10 (+0)| 7 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 10
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 10
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed)
 - **Languages** Modron
 - **Challenge** 1/4
 

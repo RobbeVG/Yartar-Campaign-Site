@@ -36,33 +36,25 @@ The victory of the gith was short-lived. As Gith was forging her own burgeoning 
 
 When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaakith's line has continued to the githyanki's current ruler, Vlaakith the Lich-Queen. This undead tyrant compels her people to wage endless wars against mind flayers, githzerai, and any others that threaten githyanki supremacy.
 
+## Statblock
+
 ```ad-statblock
 title: Githyanki Dracomancer
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Githyanki%20Dracomancer.webp#token)
-*Medium Aberration (gith), Lawful Evil*
+*Medium aberration (gith), Lawful Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 255 (30d8 + 120) 
+- **Hit Points** 255 (`30d8 + 120`) 
 - **Speed** 30 ft., fly 30 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 20 | +5 | **+10** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | **+8** |
-|Wis| 16 | +3 | **+8** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | **+9** |
-|Cha| 18 | +4 | +4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|16 (+3)|18 (+4)|20 (+5)|16 (+3)|18 (+4)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Dexterity +8, Constitution +9, Intelligence +10, Wisdom +8
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +10, [Perception](3.Mechanics/rules/skills.md#Perception) +8
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., Passive Perception 18
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception 18
 - **Languages** Common, Draconic, Gith
 - **Challenge** 16
 

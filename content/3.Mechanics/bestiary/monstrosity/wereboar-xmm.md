@@ -26,34 +26,25 @@ aliases:
 - **Treasure.** Individual  
 
 Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-boar hybrids. Many wereboars suffer their shape-shifting nature as a curse, with some involuntarily transforming any time they perform a greedy act or indulge their selfish nature.
+
 ```ad-statblock
 title: Wereboar
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Wereboar.webp#token)
-*Small or Medium Monstrosity (lycanthrope), Neutral Evil*
+*Small or Medium monstrosity (lycanthrope), Neutral Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 97 (15d8 + 30) 
+- **Hit Points** 97 (`15d8 + 30`) 
 - **Speed** 30 ft., 40 ft. (boar form only)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|10 (+0)|15 (+2)|10 (+0)|11 (+0)| 8 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +2
+- **Senses** passive Perception 12
 - **Gear** six [javelins](3.Mechanics/items/javelin-xphb.md)
-- **Senses** Passive Perception 12
 - **Languages** Common (can't speak in boar form)
 - **Challenge** 4
 

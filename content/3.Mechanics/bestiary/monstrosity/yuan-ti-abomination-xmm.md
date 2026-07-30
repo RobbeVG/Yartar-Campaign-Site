@@ -14,8 +14,6 @@ tags:
 title: "Yuan-ti Abomination"
 aliases:
 - "Yuan-ti Abomination"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Yuan-ti Abomination
 *Source: Monster Manual (2024) p. 345*  
@@ -59,35 +57,27 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Yuan-ti.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Yuan-ti Abomination
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Yuan-ti%20Abomination.webp#token)
-*Large Monstrosity, Neutral Evil*
+*Large monstrosity, Neutral Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 127 (15d10 + 45) 
+- **Hit Points** 127 (`15d10 + 45`) 
 - **Speed** 40 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 17 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | +3 |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|16 (+3)|17 (+3)|17 (+3)|18 (+4)|15 (+2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 17
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 17
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Abyssal, Common, Draconic
 - **Challenge** 7
 

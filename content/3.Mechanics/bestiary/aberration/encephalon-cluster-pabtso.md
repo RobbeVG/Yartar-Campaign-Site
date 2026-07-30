@@ -10,8 +10,6 @@ tags:
 title: "Encephalon Cluster"
 aliases:
 - "Encephalon Cluster"
-conditionImmunities:
-- [blinded](3.Mechanics/rules/conditions.md#Blinded)
 ---
 # Encephalon Cluster
 *Source: Phandelver and Below: The Shattered Obelisk p. 205*  
@@ -23,35 +21,27 @@ An encephalon cluster pays no heed to an elder brain or its mind flayer progenit
 
 When an illithid colony lays its eggs dangerously close to a Far Realm rift, an egg sac has a chance to mutate into what is known as an encephalon cluster—a ravenous, slimy, psionic, brain-shaped mass that spawns horrors called encephalon gemmules.
 
+## Statblock
+
 ```ad-statblock
 title: Encephalon Cluster
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Encephalon%20Cluster.webp#token)
-*Large Aberration, Unaligned*
+*Large aberration, Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 110 (17d10 + 17) 
+- **Hit Points** 110 (`17d10 + 17`) 
 - **Speed** 20 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 23 | +6 | +6 |
-|Int| 5 | -3 | -3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 17 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 7 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|23 (+6)|10 (+0)|13 (+1)| 5 (-3)|17 (+3)| 7 (-2)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Resistances** Psychic
-- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft. (can't see beyond this radius), Passive Perception 13
+- **Senses** [blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft. (can't see beyond this radius), passive Perception 13
+- **Damage Resistances** psychic
+- **Condition Immunities** [blinded](3.Mechanics/rules/conditions.md#Blinded)
 - **Languages** —
 - **Challenge** 10
 

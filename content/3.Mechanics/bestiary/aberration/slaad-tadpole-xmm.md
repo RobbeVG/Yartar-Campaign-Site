@@ -44,35 +44,27 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Red%20and%20Blue%20Slaad.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Slaad Tadpole
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Slaad%20Tadpole.webp#token)
-*Tiny Aberration, Chaotic Neutral*
+*Tiny aberration, Chaotic Neutral*
 
 - **Armor Class** 12 
-- **Hit Points** 7 (3d4) 
+- **Hit Points** 7 (`3d4`) 
 - **Speed** 30 ft., burrow 10 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 7 | -2 | -2 |
-|Int| 3 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 5 | -3 | -3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 10 | +0 | +0 |
-|Cha| 3 | -4 | -4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 7 (-2)|15 (+2)|10 (+0)| 3 (-4)| 5 (-3)| 3 (-4)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
-- **Damage Resistances** Acid, Cold, Fire, Lightning, Thunder
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 7
-- **Languages** Understands Slaad but can't speak
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 7
+- **Damage Resistances** acid, cold, fire, lightning, thunder
+- **Languages** understands Slaad but can't speak
 - **Challenge** 1/8
 
 ## Traits

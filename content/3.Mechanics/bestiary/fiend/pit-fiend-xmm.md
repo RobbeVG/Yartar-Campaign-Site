@@ -12,8 +12,6 @@ tags:
 title: "Pit Fiend"
 aliases:
 - "Pit Fiend"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Pit Fiend
 *Source: Monster Manual (2024) p. 243. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -31,37 +29,28 @@ Masterminds of the Nine Hells and generals of infernal legions, pit fiends seek 
 Pit fiends are the nobility of the Nine Hells, and many rule Lower Planar fiefdoms, doomed mortal worlds, and other infernal redoubts. Most serve archdevils of the Nine Hells as they pursue their own ambitions. Ranks of lesser devils obey pit fiends, but these cunning tyrants remain on guard against betrayal from their servants.
 
 Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures with their mere presence. Despite their size and incredible physical and magical might, pit fiends are as likely to try to corrupt foes as they are to destroy them outright. Pit fiends' arrogance can lead them to underestimate mortal foes—a failing that can lead to their downfall.
+
 ```ad-statblock
 title: Pit Fiend
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Pit%20Fiend.webp#token)
-*Large Fiend (devil), Lawful Evil*
+*Large fiend (devil), Lawful Evil*
 
 - **Armor Class** 21 
-- **Hit Points** 337 (27d10 + 189) 
+- **Hit Points** 337 (`27d10 + 189`) 
 - **Speed** 30 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 26 | +8 | +8 |
-|Int| 22 | +6 | +6 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | **+8** |
-|Wis| 18 | +4 | **+10** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 24 | +7 | +7 |
-|Cha| 24 | +7 | +7 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|26 (+8)|14 (+2)|24 (+7)|22 (+6)|18 (+4)|24 (+7)|
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +8, Wisdom +10
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +10, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +19
-- **Damage Resistances** Cold
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 20
-- **Languages** Infernal; Telepathy 120 ft.
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 20
+- **Damage Resistances** cold
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Infernal; telepathy 120 ft.
 - **Challenge** 20
 
 ## Traits

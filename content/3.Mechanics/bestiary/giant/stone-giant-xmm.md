@@ -29,33 +29,24 @@ In cavernous depths and amid mountain canyons, stone giants contemplate the stre
 Stone giants rarely interfere in the affairs of other creatures, whether their smaller neighbors or other Giants. Most are slow to act, preferring to weather hardships or wait out perilous times. When roused to action—particularly when sites of ancient wonder or their homes are threatened—stone giants can unleash the might of mountains and crush foes with the force of an avalanche.
 
 Stone giants often ponder the mysteries of natural wonders, such as mountain spires, crystal formations, or mystical petroglyphs. Some know much about the magic and secret messages hidden within the earth. Those who confine themselves to the Underdark often regard the surface world and its inhabitants as dreams imagined into being by slumbering primordials, strange gods, or other entities.
+
 ```ad-statblock
 title: Stone Giant
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Stone%20Giant.webp#token)
-*Huge Giant, Neutral*
+*Huge giant, Neutral*
 
 - **Armor Class** 17 
-- **Hit Points** 126 (11d12 + 55) 
+- **Hit Points** 126 (`11d12 + 55`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 23 | +6 | +6 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | **+5** |
-|Wis| 12 | +1 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | **+8** |
-|Cha| 9 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|23 (+6)|15 (+2)|20 (+5)|10 (+0)|12 (+1)| 9 (-1)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +5, Constitution +8, Wisdom +4
 - **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +12, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Languages** Giant
 - **Challenge** 7
 

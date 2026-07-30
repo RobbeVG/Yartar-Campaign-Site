@@ -32,34 +32,26 @@ Guards protect people, places, and things, either for pay or from a sense of dut
 > To distinguish between Waterdeep's different groups of guardians, keep this handy mnemonic in mind: the Guard guards the walls while the Watch watches all.
 
 
+## Statblock
+
 ```ad-statblock
 title: Guard
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Guard.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 11 (2d8 + 2) 
+- **Hit Points** 11 (`2d8 + 2`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13 | +1 | +1 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|13 (+1)|12 (+1)|12 (+1)|10 (+0)|11 (+0)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +2
+- **Senses** passive Perception 12
 - **Gear** [chain shirt](3.Mechanics/items/chain-shirt-xphb.md), [shield](3.Mechanics/items/shield-xphb.md), [spear](3.Mechanics/items/spear-xphb.md)
-- **Senses** Passive Perception 12
 - **Languages** Common
 - **Challenge** 1/8
 

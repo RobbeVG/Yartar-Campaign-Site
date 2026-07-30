@@ -12,10 +12,6 @@ tags:
 title: "Ultroloth"
 aliases:
 - "Ultroloth"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Ultroloth
 *Source: Monster Manual (2024) p. 311*  
@@ -45,37 +41,28 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
 | 5 | Steal an invention and slay all who know of it. |
 | 6 | Unleash fiendish hordes on a foe's homeland. |
 ^ultroloth-conspiracies
+
 ```ad-statblock
 title: Ultroloth
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ultroloth.webp#token)
-*Medium Fiend (yugoloth), Neutral Evil*
+*Medium fiend (yugoloth), Neutral Evil*
 
 - **Armor Class** 19 
-- **Hit Points** 221 (26d8 + 104) 
+- **Hit Points** 221 (`26d8 + 104`) 
 - **Speed** 30 ft., fly 60 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 19 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 15 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | +4 |
-|Cha| 18 | +4 | +4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|16 (+3)|18 (+4)|19 (+4)|15 (+2)|18 (+4)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** ⏤
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Stealth](3.Mechanics/rules/skills.md#Stealth) +8
-- **Damage Resistances** Cold, Fire, Lightning
-- **Damage Immunities** Acid, Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 17
-- **Languages** Abyssal, Infernal; Telepathy 120 ft.
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 17
+- **Damage Resistances** cold, fire, lightning
+- **Damage Immunities** acid, poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Abyssal, Infernal; telepathy 120 ft.
 - **Challenge** 13
 
 ## Traits

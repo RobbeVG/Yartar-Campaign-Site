@@ -14,8 +14,6 @@ tags:
 title: "Yuan-ti Infiltrator"
 aliases:
 - "Yuan-ti Infiltrator"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Yuan-ti Infiltrator
 *Source: Monster Manual (2024) p. 342*  
@@ -55,36 +53,28 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 > Great magic, twisted and corrupted... Malice beyond reckoning... Flesh reshaped, becoming serpentine horrors...
 
 
+## Statblock
+
 ```ad-statblock
 title: Yuan-ti Infiltrator
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Yuan-ti%20Infiltrator.webp#token)
-*Medium Monstrosity, Neutral Evil*
+*Medium monstrosity, Neutral Evil*
 
 - **Armor Class** 11 
-- **Hit Points** 40 (9d8) 
+- **Hit Points** 40 (`9d8`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 11 | +0 | +0 |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 11 | +0 | +0 |
-|Cha| 12 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|12 (+1)|11 (+0)|13 (+1)|14 (+2)|12 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Gear** [scimitar](3.Mechanics/items/scimitar-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
 - **Languages** Abyssal, Common, Draconic
 - **Challenge** 1
 

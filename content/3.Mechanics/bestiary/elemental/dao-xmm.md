@@ -13,8 +13,6 @@ tags:
 title: "Dao"
 aliases:
 - "Dao"
-conditionImmunities:
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
 ---
 # Dao
 *Source: Monster Manual (2024) p. 89*  
@@ -35,34 +33,25 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
 > 
 > On the Elemental Plane of Earth, galaxies of gemstones twinkle over vaults of treasure. If dao are there, so is wealth worth hunting.
 
+
 ```ad-statblock
 title: Dao
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Dao.webp#token)
-*Large Elemental (genie), Neutral*
+*Large elemental (genie), Neutral*
 
 - **Armor Class** 18 
-- **Hit Points** 200 (16d10 + 112) 
+- **Hit Points** 200 (`16d10 + 112`) 
 - **Speed** 30 ft., burrow 30 ft., fly 30 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 23 | +6 | +6 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | **+5** |
-|Wis| 13 | +1 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 24 | +7 | +7 |
-|Cha| 18 | +4 | +4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|23 (+6)|12 (+1)|24 (+7)|12 (+1)|13 (+1)|18 (+4)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +5, Wisdom +5
 - **Skills** ⏤
-- **Condition Immunities** [Petrified](3.Mechanics/rules/conditions.md#Petrified)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 11
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Condition Immunities** [petrified](3.Mechanics/rules/conditions.md#Petrified)
 - **Languages** Primordial (Terran)
 - **Challenge** 11
 

@@ -42,33 +42,24 @@ Hippogriff migrations might take months or years, and sages frequently predict t
 | 5 | Nest full of hippogriff eggs atop a spire. |
 | 6 | Portal to the Feywild or an Upper Plane. |
 ^hippogriff-destination
+
 ```ad-statblock
 title: Hippogriff
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hippogriff.webp#token)
-*Large Monstrosity, Unaligned*
+*Large monstrosity, Unaligned*
 
 - **Armor Class** 11 
-- **Hit Points** 26 (4d10 + 4) 
+- **Hit Points** 26 (`4d10 + 4`) 
 - **Speed** 40 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 2 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|13 (+1)|13 (+1)| 2 (-4)|12 (+1)| 8 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5
-- **Senses** Passive Perception 15
+- **Senses** passive Perception 15
 - **Languages** —
 - **Challenge** 1
 

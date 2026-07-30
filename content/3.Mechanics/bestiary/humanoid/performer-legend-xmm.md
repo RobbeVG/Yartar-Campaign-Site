@@ -94,33 +94,25 @@ Wrestler
 > Welcome, one! Welcome, all! Welcome to the short, and welcome to the tall! Welcome angels, welcome fiends, welcome to all from walks between! Welcome to the Carnival!
 
 
+## Statblock
+
 ```ad-statblock
 title: Performer Legend
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Performer%20Legend.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 20 
-- **Hit Points** 162 (25d8 + 50) 
+- **Hit Points** 162 (`25d8 + 50`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12 | +1 | +1 |
-|Int| 15 | +2 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 20 | +5 | **+9** |
-|Wis| 16 | +3 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 20 | +5 | **+9** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|20 (+5)|14 (+2)|15 (+2)|16 (+3)|20 (+5)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +9, Intelligence +6, Wisdom +7, Charisma +9
 - **Skills** [Acrobatics](3.Mechanics/rules/skills.md#Acrobatics) +13, [Athletics](3.Mechanics/rules/skills.md#Athletics) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Performance](3.Mechanics/rules/skills.md#Performance) +13, [Stealth](3.Mechanics/rules/skills.md#Stealth) +9
-- **Senses** Passive Perception 17
+- **Senses** passive Perception 17
 - **Languages** Common plus two other languages
 - **Challenge** 10
 

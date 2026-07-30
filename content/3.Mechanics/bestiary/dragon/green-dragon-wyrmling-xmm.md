@@ -11,8 +11,6 @@ tags:
 title: "Green Dragon Wyrmling"
 aliases:
 - "Green Dragon Wyrmling"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Green Dragon Wyrmling
 *Source: Monster Manual (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -35,35 +33,27 @@ Despite their might, most green dragons disdain physical violence, viewing comba
 
 Green dragons lair in ancient forests, often shaping stands of massive trees into compounds of interwoven branches, hollow trunks, and caverns amid mighty roots. They might also dwell amid forested ruins, particularly the former homes of those they've conquered.
 
+## Statblock
+
 ```ad-statblock
 title: Green Dragon Wyrmling
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Green%20Dragon%20Wyrmling.webp#token)
-*Medium Dragon (chromatic), Lawful Evil*
+*Medium dragon (chromatic), Lawful Evil*
 
 - **Armor Class** 17 
-- **Hit Points** 38 (7d8 + 7) 
+- **Hit Points** 38 (`7d8 + 7`) 
 - **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | **+3** |
-|Wis| 11 | +0 | **+2** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 13 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +3, Wisdom +2
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Draconic
 - **Challenge** 2
 

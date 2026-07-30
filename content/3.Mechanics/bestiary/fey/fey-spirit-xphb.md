@@ -10,41 +10,30 @@ tags:
 title: "Fey Spirit"
 aliases:
 - "Fey Spirit"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
 ---
 # Fey Spirit
 *Source: Player's Handbook (2024) p. 326*  
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Fey%20Spirit.webp#center)
+
 ```ad-statblock
 title: Fey Spirit
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Fey%20Spirit.webp#token)
-*Small Fey, Neutral*
+*Small fey, Neutral*
 
 - **Armor Class** (12 + the spell's level)
 - **Hit Points** 30 + 10 for each spell level above 3  (30 + 10 for each spell level above 3)
 - **Speed** 30 ft., fly 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13 | +1 | +1 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|13 (+1)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|16 (+3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
-- **Languages** Sylvan, Understands the languages you know
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- **Languages** Sylvan, understands the languages you know
 - **Challenge** 
 
 ## Actions

@@ -30,34 +30,26 @@ Souls condemned to the Lower Planes often become larvae—repulsive, maggot-like
 
 Larvae that survive on the Lower Planes long enough can eventually transform into other sorts of lesser Fiends.
 
+## Statblock
+
 ```ad-statblock
 title: Larva
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Larva.webp#token)
-*Medium Fiend, Neutral Evil*
+*Medium fiend, Neutral Evil*
 
 - **Armor Class** 9 
-- **Hit Points** 9 (2d8) 
+- **Hit Points** 9 (`2d8`) 
 - **Speed** 20 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 9 | -1 | -1 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 9 | -1 | -1 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 10 | +0 | +0 |
-|Cha| 2 | -4 | -4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 9 (-1)| 9 (-1)|10 (+0)| 6 (-2)|10 (+0)| 2 (-4)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
-- **Languages** Understands Common plus one other language but can't speak
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Languages** understands Common plus one other language but can't speak
 - **Challenge** 0
 
 ## Actions

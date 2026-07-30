@@ -10,42 +10,29 @@ tags:
 title: "Draconic Spirit (Fire)"
 aliases:
 - "Draconic Spirit (Fire)"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Draconic Spirit (Fire)
 *Source: Player's Handbook (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+
 ```ad-statblock
 title: Draconic Spirit (Fire)
-*Large Dragon, Neutral*
+*Large dragon, Neutral*
 
 - **Armor Class** (14 + the spell's level)
 - **Hit Points** 50 + 10 for each spell level above 5  (50 + 10 for each spell level above 5)
 - **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | +3 |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|14 (+2)|17 (+3)|10 (+0)|14 (+2)|14 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Resistances** Acid, Cold, Fire, Lightning, Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
-- **Languages** Draconic, Understands the languages you know
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Damage Resistances** acid, cold, fire, lightning, poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Draconic, understands the languages you know
 - **Challenge** 
 
 ## Traits

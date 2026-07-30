@@ -76,34 +76,26 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
 
+## Statblock
+
 ```ad-statblock
 title: Cultist
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cultist.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 12 
-- **Hit Points** 9 (2d8) 
+- **Hit Points** 9 (`2d8`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 11 | +0 | +0 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 11 | +0 | **+2** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 10 | +0 | +0 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +2
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +2, [Religion](3.Mechanics/rules/skills.md#Religion) +2
+- **Senses** passive Perception 10
 - **Gear** [leather armor](3.Mechanics/items/leather-armor-xphb.md), [sickle](3.Mechanics/items/sickle-xphb.md)
-- **Senses** Passive Perception 10
 - **Languages** Common
 - **Challenge** 1/8
 

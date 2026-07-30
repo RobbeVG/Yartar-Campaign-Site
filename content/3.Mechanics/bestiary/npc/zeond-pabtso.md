@@ -10,42 +10,31 @@ tags:
 title: "Zeond"
 aliases:
 - "Zeond"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Zeond
 *Source: Phandelver and Below: The Shattered Obelisk p. 43*  
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Zeond.webp#center)
+
 ```ad-statblock
 title: Zeond
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Zeond.webp#token)
-*Tiny Fiend (demon), Chaotic Evil*
+*Tiny fiend (demon), Chaotic Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 7 (3d4) 
+- **Hit Points** 7 (`3d4`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 5 | -3 | -3 |
-|Int| 7 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 17 | +3 | +3 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 10 | +0 | +0 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 5 (-3)|17 (+3)|10 (+0)| 7 (-2)|10 (+0)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Damage Resistances** Cold; Fire; Lightning; Bludgeoning, Piercing, Slashing from nonmagical attacks
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 10
+- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 10
+- **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Abyssal, Common
 - **Challenge** 1
 

@@ -52,34 +52,26 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 > Make way, evil! I'm armed to the teeth and packing a hamster!
 
 
+## Statblock
+
 ```ad-statblock
 title: Warrior Commander
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Warrior%20Commander.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 18 
-- **Hit Points** 161 (19d8 + 76) 
+- **Hit Points** 161 (`19d8 + 76`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 21 | +5 | **+9** |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 20 | +5 | **+9** |
-|Wis| 16 | +3 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | **+8** |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|21 (+5)|20 (+5)|18 (+4)|14 (+2)|16 (+3)|14 (+2)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Strength +9, Dexterity +9, Constitution +8, Wisdom +7
 - **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +9, [Insight](3.Mechanics/rules/skills.md#Insight) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +7
+- **Senses** passive Perception 17
 - **Gear** [greatsword](3.Mechanics/items/greatsword-xphb.md), [longbow](3.Mechanics/items/longbow-xphb.md), [plate armor](3.Mechanics/items/plate-armor-xphb.md)
-- **Senses** Passive Perception 17
 - **Languages** Common plus one other language
 - **Challenge** 10
 

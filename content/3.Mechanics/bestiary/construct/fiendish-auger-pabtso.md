@@ -10,15 +10,6 @@ tags:
 title: "Fiendish Auger"
 aliases:
 - "Fiendish Auger"
-conditionImmunities:
-- [blinded](3.Mechanics/rules/conditions.md#Blinded)
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 ---
 # Fiendish Auger
 *Source: Phandelver and Below: The Shattered Obelisk p. 206*  
@@ -27,35 +18,26 @@ conditionImmunities:
 A fiendish auger is created when a wicked spirit enters an excavation drill, causing the hulking corkscrew bore to glow brightly with hellfire.
 
 Fueled by the fervent aggression of the evil spirit within, fiendish augers can rapidly churn through solid rock. However, those who employ a fiendish auger must keep a keen eye on the machine. Without careful instruction, a fiendish auger indiscriminately bores through creature and earth alike.
+
 ```ad-statblock
 title: Fiendish Auger
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Fiendish%20Auger.webp#token)
-*Huge Construct, Typically  Neutral Evil*
+*Huge construct, typically  Neutral Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 85 (9d12 + 27) 
+- **Hit Points** 85 (`9d12 + 27`) 
 - **Speed** 40 ft., burrow 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 23 | +6 | +6 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | +3 |
-|Cha| 5 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|23 (+6)|10 (+0)|17 (+3)| 6 (-2)|12 (+1)| 5 (-3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Unconscious](3.Mechanics/rules/conditions.md#Unconscious)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft. (can't see beyond this radius), Passive Perception 11
+- **Senses** [blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft. (can't see beyond this radius), passive Perception 11
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 - **Languages** —
 - **Challenge** 5
 

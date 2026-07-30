@@ -46,33 +46,25 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
 | 4 | The remains of a gigantic, dead creature. |
 ^stirge-roosts
 
+## Statblock
+
 ```ad-statblock
 title: Stirge
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Stirge.webp#token)
-*Tiny Monstrosity, Unaligned*
+*Tiny monstrosity, Unaligned*
 
 - **Armor Class** 13 
-- **Hit Points** 5 (2d4) 
+- **Hit Points** 5 (`2d4`) 
 - **Speed** 10 ft., fly 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 4 | -3 | -3 |
-|Int| 2 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 11 | +0 | +0 |
-|Cha| 6 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 4 (-3)|16 (+3)|11 (+0)| 2 (-4)| 8 (-1)| 6 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Languages** —
 - **Challenge** 1/8
 

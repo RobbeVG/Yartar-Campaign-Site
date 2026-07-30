@@ -52,34 +52,26 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 > Have you gazed on the Runes of Chaos, held the Death Moon Orb in your trembling hands, entered the Devouring Portal and walked the Paths of the Doomed, or sat at the left hand of Szass Tam during the Ritual of Twin Burnings? No? Then speak not to me of wizards. Speak not to me of Thay.
 
 
+## Statblock
+
 ```ad-statblock
 title: Mage
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mage.webp#token)
-*Small or Medium Humanoid (wizard), Neutral*
+*Small or Medium humanoid (wizard), Neutral*
 
 - **Armor Class** 15 
-- **Hit Points** 81 (18d8) 
+- **Hit Points** 81 (`18d8`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 9 | -1 | -1 |
-|Int| 17 | +3 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 12 | +1 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 11 | +0 | +0 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Intelligence +6, Wisdom +4
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +6, [History](3.Mechanics/rules/skills.md#History) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +4
+- **Senses** passive Perception 14
 - **Gear** [wand](3.Mechanics/items/wand-xphb.md)
-- **Senses** Passive Perception 14
 - **Languages** Common plus three other languages
 - **Challenge** 6
 

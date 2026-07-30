@@ -78,34 +78,26 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Cultists.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Fiend Cultist
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Fiend%20Cultist.webp#token)
-*Small or Medium Humanoid, Neutral Evil*
+*Small or Medium humanoid, Neutral Evil*
 
 - **Armor Class** 16 
-- **Hit Points** 127 (17d8 + 51) 
+- **Hit Points** 127 (`17d8 + 51`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 18 | +4 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | **+6** |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|15 (+2)|16 (+3)|12 (+1)|18 (+4)|10 (+0)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Constitution +6, Wisdom +7
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Religion](3.Mechanics/rules/skills.md#Religion) +4
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive Perception 17
 - **Gear** [breastplate](3.Mechanics/items/breastplate-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 Ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), Passive Perception 17
 - **Languages** Abyssal, Common, Infernal
 - **Challenge** 8
 

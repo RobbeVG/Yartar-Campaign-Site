@@ -38,33 +38,24 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
 | 3 | A poisonous swamp with labyrinthine paths. |
 | 4 | The ruins of a buried palace or temple. |
 ^minotaur-mazes
+
 ```ad-statblock
 title: Minotaur of Baphomet
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Minotaur%20of%20Baphomet.webp#token)
-*Large Monstrosity, Chaotic Evil*
+*Large monstrosity, Chaotic Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 85 (10d10 + 30) 
+- **Hit Points** 85 (`10d10 + 30`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 9 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|11 (+0)|16 (+3)| 6 (-2)|16 (+3)| 9 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Survival](3.Mechanics/rules/skills.md#Survival) +7
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 17
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 17
 - **Languages** Abyssal
 - **Challenge** 3
 

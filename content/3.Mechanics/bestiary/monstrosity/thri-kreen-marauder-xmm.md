@@ -33,34 +33,26 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
 > I would tell you now the tale of the first Ka'Cha, the first thri-kreen who knew and taught the truth: that the clutch is all.
 
 
+## Statblock
+
 ```ad-statblock
 title: Thri-kreen Marauder
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Thri-kreen%20Marauder.webp#token)
-*Medium Monstrosity, Neutral*
+*Medium monstrosity, Neutral*
 
 - **Armor Class** 15 
-- **Hit Points** 33 (6d8 + 6) 
+- **Hit Points** 33 (`6d8 + 6`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12 | +1 | +1 |
-|Int| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 7 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|15 (+2)|13 (+1)| 8 (-1)|12 (+1)| 7 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +3, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4, [Survival](3.Mechanics/rules/skills.md#Survival) +3
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 13
-- **Languages** Thri-kreen; Telepathy 60 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Languages** Thri-kreen; telepathy 60 ft.
 - **Challenge** 1
 
 ## Actions

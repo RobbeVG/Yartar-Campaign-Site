@@ -12,9 +12,6 @@ tags:
 title: "Nalfeshnee"
 aliases:
 - "Nalfeshnee"
-conditionImmunities:
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Nalfeshnee
 *Source: Monster Manual (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -35,37 +32,28 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
 > 
 > The Blood War—that ageless clash between devils and demons—helps ensure the balance of the multiverse. At times it makes unlikely allies, but never delude yourself into believing there's a lesser of two evil. I won't be thanking a demon for every day I'm spared a devil's lash.
 
+
 ```ad-statblock
 title: Nalfeshnee
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Nalfeshnee.webp#token)
-*Large Fiend (demon), Chaotic Evil*
+*Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 184 (16d10 + 96) 
+- **Hit Points** 184 (`16d10 + 96`) 
 - **Speed** 20 ft., fly 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 21 | +5 | +5 |
-|Int| 19 | +4 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 12 | +1 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 22 | +6 | **+11** |
-|Cha| 15 | +2 | **+7** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|21 (+5)|10 (+0)|22 (+6)|19 (+4)|12 (+1)|15 (+2)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Constitution +11, Intelligence +9, Wisdom +6, Charisma +7
 - **Skills** ⏤
-- **Damage Resistances** Cold, Fire, Lightning
-- **Damage Immunities** Poison
-- **Condition Immunities** [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 11
-- **Languages** Abyssal; Telepathy 120 ft.
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 11
+- **Damage Resistances** cold, fire, lightning
+- **Damage Immunities** poison
+- **Condition Immunities** [frightened](3.Mechanics/rules/conditions.md#Frightened), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Abyssal; telepathy 120 ft.
 - **Challenge** 13
 
 ## Traits

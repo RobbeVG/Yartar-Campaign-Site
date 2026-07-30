@@ -49,34 +49,26 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Bandits.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Bandit Crime Lord
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bandit%20Crime%20Lord.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 17 
-- **Hit Points** 169 (26d8 + 52) 
+- **Hit Points** 169 (`26d8 + 52`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 20 | +5 | **+9** |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | **+6** |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|20 (+5)|14 (+2)|18 (+4)|14 (+2)|15 (+2)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +9, Constitution +6
 - **Skills** [Acrobatics](3.Mechanics/rules/skills.md#Acrobatics) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +10, [Stealth](3.Mechanics/rules/skills.md#Stealth) +13
+- **Senses** passive Perception 20
 - **Gear** two [pistols](3.Mechanics/items/pistol-xphb.md), [scimitar](3.Mechanics/items/scimitar-xphb.md), [studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)
-- **Senses** Passive Perception 20
 - **Languages** Common, Thieves' cant
 - **Challenge** 11
 

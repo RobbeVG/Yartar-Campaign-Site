@@ -31,33 +31,24 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
 > 
 > Just assume there's no such thing as a stalactite.
 
+
 ```ad-statblock
 title: Darkmantle
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Darkmantle.webp#token)
-*Small Aberration, Unaligned*
+*Small aberration, Unaligned*
 
 - **Armor Class** 11 
-- **Hit Points** 22 (5d6 + 5) 
+- **Hit Points** 22 (`5d6 + 5`) 
 - **Speed** 10 ft., fly 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 2 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 5 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|12 (+1)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 10
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception 10
 - **Languages** —
 - **Challenge** 1/2
 

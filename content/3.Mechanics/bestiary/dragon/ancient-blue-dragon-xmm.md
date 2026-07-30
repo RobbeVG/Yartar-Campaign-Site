@@ -36,34 +36,26 @@ Regalia of rulership and artistic masterpieces fill blue dragons' hoards. These 
 
 Blue dragons dwell in arid lands. Their lairs might be death traps meant to entomb invaders or ostentatious fortresses where they plot domination.
 
+## Statblock
+
 ```ad-statblock
 title: Ancient Blue Dragon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ancient%20Blue%20Dragon.webp#token)
-*Gargantuan Dragon (chromatic), Lawful Evil*
+*Gargantuan dragon (chromatic), Lawful Evil*
 
 - **Armor Class** 22 
-- **Hit Points** 481 (26d20 + 208) 
+- **Hit Points** 481 (`26d20 + 208`) 
 - **Speed** 40 ft., burrow 40 ft., fly 80 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 29 | +9 | +9 |
-|Int| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | **+7** |
-|Wis| 17 | +3 | **+10** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 27 | +8 | +8 |
-|Cha| 25 | +7 | +7 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|25 (+7)|
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +7, Wisdom +10
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +17, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
-- **Damage Immunities** Lightning
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 27
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 27
+- **Damage Immunities** lightning
 - **Languages** Common, Draconic
 - **Challenge** 23
 

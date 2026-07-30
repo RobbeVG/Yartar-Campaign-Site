@@ -29,33 +29,25 @@ Aarakocra skirmishers are adept at fighting aerial foes amid the clouds. They of
 
 Aarakocra are birdlike folk who soar the skies of countless worlds and the endless expanses of the Elemental Plane of Air. They often resemble avians common to the lands where they dwell; some resemble hawks or condors, while others appear similar to hummingbirds or archaeopteryxes. In many lands, aarakocra tell of their ancient heroics resisting the wicked Queen of Chaos alongside the mysterious Wind Dukes of Aaqa.
 
+## Statblock
+
 ```ad-statblock
 title: Aarakocra Skirmisher
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Aarakocra%20Skirmisher.webp#token)
-*Medium Elemental, Neutral*
+*Medium elemental, Neutral*
 
 - **Armor Class** 12 
-- **Hit Points** 11 (2d8 + 2) 
+- **Hit Points** 11 (`2d8 + 2`) 
 - **Speed** 20 ft., fly 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|14 (+2)|12 (+1)|11 (+0)|12 (+1)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5
-- **Senses** Passive Perception 15
+- **Senses** passive Perception 15
 - **Languages** Aarakocra, Primordial (Auran)
 - **Challenge** 1/4
 

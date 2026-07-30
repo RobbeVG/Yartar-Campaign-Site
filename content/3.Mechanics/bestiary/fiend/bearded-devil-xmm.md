@@ -12,9 +12,6 @@ tags:
 title: "Bearded Devil"
 aliases:
 - "Bearded Devil"
-conditionImmunities:
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Bearded Devil
 *Source: Monster Manual (2024) p. 33. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -32,37 +29,28 @@ Bearded devils, also known as barbazus, fill the legions of the Nine Hells. Thes
 Left to their own devices, bearded devils encourage mortals to act callously and abuse their power, inflating their egos and inspiring petty tyrannies. Villains aligned with the Nine Hells call on bearded devils to serve as guardians, enforce their will, or fight in wicked armies.
 
 Bearded devils' eponymous beards consist of grotesque, tentacle-like growths. These squirming, barb-riddled beards carry poison capable of preventing magical healing. Bearded devils are also known for their distinctive glaives, through which they channel hellish energy. Those struck by these unnatural weapons suffer infernal wounds that grow worse until stanched or magically healed.
+
 ```ad-statblock
 title: Bearded Devil
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bearded%20Devil.webp#token)
-*Medium Fiend (devil), Lawful Evil*
+*Medium fiend (devil), Lawful Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 58 (9d8 + 18) 
+- **Hit Points** 58 (`9d8 + 18`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | **+5** |
-|Int| 9 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | **+4** |
-|Cha| 14 | +2 | **+4** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|15 (+2)|15 (+2)| 9 (-1)|11 (+0)|14 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Strength +5, Constitution +4, Charisma +4
 - **Skills** ⏤
-- **Damage Resistances** Cold
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), Passive Perception 10
-- **Languages** Infernal; Telepathy 120 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive Perception 10
+- **Damage Resistances** cold
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [frightened](3.Mechanics/rules/conditions.md#Frightened), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Infernal; telepathy 120 ft.
 - **Challenge** 3
 
 ## Traits

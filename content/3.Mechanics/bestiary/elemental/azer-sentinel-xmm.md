@@ -13,8 +13,6 @@ tags:
 title: "Azer Sentinel"
 aliases:
 - "Azer Sentinel"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Azer Sentinel
 *Source: Monster Manual (2024) p. 25. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -31,35 +29,27 @@ Azer sentinels defend their communities' smiths and channel their flames through
 
 Azers are living bronze folk who work the primal elements of creation to craft weapons and magical wonders among the multiverse's mightiest infernos.
 
+## Statblock
+
 ```ad-statblock
 title: Azer Sentinel
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Azer%20Sentinel.webp#token)
-*Medium Elemental, Lawful Neutral*
+*Medium elemental, Lawful Neutral*
 
 - **Armor Class** 17 
-- **Hit Points** 39 (6d8 + 12) 
+- **Hit Points** 39 (`6d8 + 12`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | **+4** |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|12 (+1)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Constitution +4
 - **Skills** ⏤
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** Passive Perception 11
+- **Senses** passive Perception 11
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Primordial (Ignan)
 - **Challenge** 2
 

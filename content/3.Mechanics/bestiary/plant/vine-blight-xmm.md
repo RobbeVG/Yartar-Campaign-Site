@@ -11,8 +11,6 @@ tags:
 title: "Vine Blight"
 aliases:
 - "Vine Blight"
-conditionImmunities:
-- [deafened](3.Mechanics/rules/conditions.md#Deafened)
 ---
 # Vine Blight
 *Source: Monster Manual (2024) p. 44*  
@@ -36,34 +34,26 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
 
 
+## Statblock
+
 ```ad-statblock
 title: Vine Blight
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Vine%20Blight.webp#token)
-*Medium Plant, Neutral Evil*
+*Medium plant, Neutral Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 19 (3d8 + 6) 
+- **Hit Points** 19 (`3d8 + 6`) 
 - **Speed** 20 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 5 | -3 | -3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 8 | -1 | -1 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 3 | -4 | -4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)| 8 (-1)|14 (+2)| 5 (-3)|10 (+0)| 3 (-4)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +1
-- **Condition Immunities** [Deafened](3.Mechanics/rules/conditions.md#Deafened)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 10
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception 10
+- **Condition Immunities** [deafened](3.Mechanics/rules/conditions.md#Deafened)
 - **Languages** Common
 - **Challenge** 1/2
 

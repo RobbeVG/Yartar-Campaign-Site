@@ -52,34 +52,26 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 > Make way, evil! I'm armed to the teeth and packing a hamster!
 
 
+## Statblock
+
 ```ad-statblock
 title: Warrior Veteran
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Warrior%20Veteran.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 17 
-- **Hit Points** 65 (10d8 + 20) 
+- **Hit Points** 65 (`10d8 + 20`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +2
+- **Senses** passive Perception 12
 - **Gear** [greatsword](3.Mechanics/items/greatsword-xphb.md), [heavy crossbow](3.Mechanics/items/heavy-crossbow-xphb.md), [splint armor](3.Mechanics/items/splint-armor-xphb.md)
-- **Senses** Passive Perception 12
 - **Languages** Common plus one other language
 - **Challenge** 3
 

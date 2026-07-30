@@ -10,9 +10,6 @@ tags:
 title: "Flesh Meld"
 aliases:
 - "Flesh Meld"
-conditionImmunities:
-- [blinded](3.Mechanics/rules/conditions.md#Blinded)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
 ---
 # Flesh Meld
 *Source: Phandelver and Below: The Shattered Obelisk p. 207*  
@@ -21,35 +18,26 @@ conditionImmunities:
 Squelching and quivering with insatiable hunger, a flesh meld is a hulking amalgamation of teeth, blood, and body parts. Sinuous appendages of gore, each ending in a gnashing mouth, bite at prey before yanking the piteous creatures into the flesh meld's core. The stench of death surrounds a flesh meld.
 
 When a creature is consumed by a flesh meld, the creature's mind is merged into the flesh meld's consciousness. More resilient minds may fight against this assimilation, but inevitably, the mind succumbs to the discordant chorus of thoughts to kill and consume.
+
 ```ad-statblock
 title: Flesh Meld
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Flesh%20Meld.webp#token)
-*Huge Aberration, Typically  Chaotic Evil*
+*Huge aberration, typically  Chaotic Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 95 (10d12 + 30) 
+- **Hit Points** 95 (`10d12 + 30`) 
 - **Speed** 30 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 21 | +5 | **+8** |
-|Int| 7 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | **+5** |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | +3 |
-|Cha| 5 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|21 (+5)|14 (+2)|17 (+3)| 7 (-2)|13 (+1)| 5 (-3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +8, Dexterity +5
 - **Skills** ⏤
-- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Prone](3.Mechanics/rules/conditions.md#Prone)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft. (can't see beyond this radius), Passive Perception 11
-- **Languages** Understands all but can't speak
+- **Senses** [blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft. (can't see beyond this radius), passive Perception 11
+- **Condition Immunities** [blinded](3.Mechanics/rules/conditions.md#Blinded), [prone](3.Mechanics/rules/conditions.md#Prone)
+- **Languages** understands all but can't speak
 - **Challenge** 7
 
 ## Traits

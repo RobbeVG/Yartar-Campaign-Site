@@ -36,34 +36,26 @@ The victory of the gith was short-lived. As Gith was forging her own burgeoning 
 
 When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaakith's line has continued to the githyanki's current ruler, Vlaakith the Lich-Queen. This undead tyrant compels her people to wage endless wars against mind flayers, githzerai, and any others that threaten githyanki supremacy.
 
+## Statblock
+
 ```ad-statblock
 title: Githyanki Warrior
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Githyanki%20Warrior.webp#token)
-*Medium Aberration (gith), Lawful Evil*
+*Medium aberration (gith), Lawful Evil*
 
 - **Armor Class** 17 
-- **Hit Points** 49 (9d8 + 9) 
+- **Hit Points** 49 (`9d8 + 9`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 13 | +1 | **+3** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 13 | +1 | **+3** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | **+3** |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|14 (+2)|12 (+1)|13 (+1)|13 (+1)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Constitution +3, Intelligence +3, Wisdom +3
 - **Skills** ⏤
+- **Senses** passive Perception 11
 - **Gear** [half plate armor](3.Mechanics/items/half-plate-armor-xphb.md)
-- **Senses** Passive Perception 11
 - **Languages** Common, Gith
 - **Challenge** 3
 

@@ -21,34 +21,26 @@ Some mind flayers dedicate their lives to channeling abstruse truths from beyond
 
 Mind flayers, also known as illithids, feast on the brains of Humanoids across the multiverse. They are distinguished by their purple-toned skin and octopus-like heads, from which extend writhing tentacles.
 
+## Statblock
+
 ```ad-statblock
 title: Mind Flayer Prophet
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Mind%20Flayer%20Prophet.webp#token)
-*Medium Aberration, Typically  Lawful Evil*
+*Medium aberration, typically  Lawful Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 97 (15d8 + 30) 
+- **Hit Points** 97 (`15d8 + 30`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 20 | +5 | **+8** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 17 | +3 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 17 | +3 | **+6** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|14 (+2)|14 (+2)|20 (+5)|17 (+3)|17 (+3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Intelligence +8, Wisdom +6, Charisma +6
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +8, [Insight](3.Mechanics/rules/skills.md#Insight) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 16
-- **Languages** Deep Speech, Telepathy 120 ft., Undercommon
+- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Languages** Deep Speech, telepathy 120 ft., Undercommon
 - **Challenge** 8
 
 ## Traits

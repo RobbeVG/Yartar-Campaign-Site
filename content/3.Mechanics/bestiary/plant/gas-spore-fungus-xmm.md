@@ -11,14 +11,6 @@ tags:
 title: "Gas Spore Fungus"
 aliases:
 - "Gas Spore Fungus"
-conditionImmunities:
-- [blinded](3.Mechanics/rules/conditions.md#Blinded)
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [deafened](3.Mechanics/rules/conditions.md#Deafened)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
 ---
 # Gas Spore Fungus
 *Source: Monster Manual (2024) p. 125*  
@@ -35,35 +27,27 @@ Gas spores are floating, orbicular fungi with rhizome growths and protuberances 
 
 The dank, sunless Underdark is a fertile breeding ground for weird and dangerous fungi.
 
+## Statblock
+
 ```ad-statblock
 title: Gas Spore Fungus
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gas%20Spore%20Fungus.webp#token)
-*Large Plant, Unaligned*
+*Large plant, Unaligned*
 
 - **Armor Class** 8 
-- **Hit Points** 13 (9d10 - 36) 
+- **Hit Points** 13 (`9d10 - 36`) 
 - **Speed** 5 ft., fly 10 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 5 | -3 | -3 |
-|Int| 1 | -5 | -5 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 1 | -5 | -5 |
-|Wis| 1 | -5 | -5 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 3 | -4 | -4 |
-|Cha| 1 | -5 | -5 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 5 (-3)| 1 (-5)| 3 (-4)| 1 (-5)| 1 (-5)| 1 (-5)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Immunities** Poison
-- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Deafened](3.Mechanics/rules/conditions.md#Deafened), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Prone](3.Mechanics/rules/conditions.md#Prone)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., Passive Perception 5
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception 5
+- **Damage Immunities** poison
+- **Condition Immunities** [blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened), [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone)
 - **Languages** —
 - **Challenge** 1/2
 

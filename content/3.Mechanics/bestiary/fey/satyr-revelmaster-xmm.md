@@ -29,33 +29,25 @@ Satyr revelmasters use magical music to change the moods of other creatures. The
 
 Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merrymaking—eating, drinking, performing, fighting, and frolicking.
 
+## Statblock
+
 ```ad-statblock
 title: Satyr Revelmaster
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Satyr%20Revelmaster.webp#token)
-*Medium Fey, Chaotic Neutral*
+*Medium fey, Chaotic Neutral*
 
 - **Armor Class** 17 
-- **Hit Points** 82 (15d8 + 15) 
+- **Hit Points** 82 (`15d8 + 15`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12 | +1 | +1 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | **+7** |
-|Wis| 14 | +2 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 17 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|18 (+4)|12 (+1)|12 (+1)|14 (+2)|17 (+3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +7, Wisdom +5
 - **Skills** [Acrobatics](3.Mechanics/rules/skills.md#Acrobatics) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Performance](3.Mechanics/rules/skills.md#Performance) +9
-- **Senses** Passive Perception 15
+- **Senses** passive Perception 15
 - **Languages** Common, Elvish, Sylvan
 - **Challenge** 6
 

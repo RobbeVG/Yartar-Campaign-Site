@@ -11,16 +11,6 @@ tags:
 title: "Demilich"
 aliases:
 - "Demilich"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [deafened](3.Mechanics/rules/conditions.md#Deafened)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
-- [stunned](3.Mechanics/rules/conditions.md#Stunned)
 ---
 # Demilich
 *Source: Monster Manual (2024) p. 96*  
@@ -38,36 +28,27 @@ A demilich is a skull harboring the remnants of a lich's wicked essence. If the 
 ### Demilich Lairs
 
 Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of these is the Tomb of Horrors, lair of the infamous Acererak.
+
 ```ad-statblock
 title: Demilich
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Demilich.webp#token)
-*Tiny Undead, Neutral Evil*
+*Tiny undead, Neutral Evil*
 
 - **Armor Class** 20 
-- **Hit Points** 180 (72d4) 
+- **Hit Points** 180 (`72d4`) 
 - **Speed** 5 ft., fly 30 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 1 | -5 | -5 |
-|Int| 20 | +5 | **+11** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 20 | +5 | **+11** |
-|Wis| 17 | +3 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 10 | +0 | **+6** |
-|Cha| 20 | +5 | +5 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 (-5)|20 (+5)|10 (+0)|20 (+5)|17 (+3)|20 (+5)|
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +11, Constitution +6, Intelligence +11, Wisdom +9
 - **Skills** ⏤
-- **Damage Resistances** Bludgeoning, Piercing, Slashing
-- **Damage Immunities** Necrotic, Poison, Psychic
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Deafened](3.Mechanics/rules/conditions.md#Deafened), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Prone](3.Mechanics/rules/conditions.md#Prone), [Stunned](3.Mechanics/rules/conditions.md#Stunned)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 13
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 13
+- **Damage Resistances** bludgeoning, piercing, slashing
+- **Damage Immunities** necrotic, poison, psychic
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone), [stunned](3.Mechanics/rules/conditions.md#Stunned)
 - **Languages** —
 - **Challenge** 18
 

@@ -10,9 +10,6 @@ tags:
 title: "Oculorb"
 aliases:
 - "Oculorb"
-conditionImmunities:
-- [blinded](3.Mechanics/rules/conditions.md#Blinded)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
 ---
 # Oculorb
 *Source: Phandelver and Below: The Shattered Obelisk p. 214*  
@@ -21,35 +18,26 @@ conditionImmunities:
 Many oculorbs are dreamed into existence by beholders. The Far Realm's strange power can pervade a beholder's dreams, resulting in the birth of an oculorb.
 
 Oculorbs resemble a slimy conglomeration of eyes in many sizes and shapes. They are dreaded even by the beholders that birth them. An oculorb is a tangle of negative emotions—the fury, melancholy, and obsession of its creator, all given gruesome, corporeal form. Like a beholder, an oculorb can fire beams of energy from its eyes, but an oculorb's eyes lack the more sophisticated magical nature of a beholder's eyestalks. Instead, an oculorb unleashes powerful waves of energy charged with negative emotions, cowing its foes with despair and ire.
+
 ```ad-statblock
 title: Oculorb
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Oculorb.webp#token)
-*Large Aberration, Typically  Chaotic Evil*
+*Large aberration, typically  Chaotic Evil*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 127 (15d10 + 45) 
+- **Hit Points** 127 (`15d10 + 45`) 
 - **Speed** 0 ft., fly 60 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13 | +1 | +1 |
-|Int| 14 | +2 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 15 | +2 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | +3 |
-|Cha| 19 | +4 | **+8** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|13 (+1)|10 (+0)|17 (+3)|14 (+2)|15 (+2)|19 (+4)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Intelligence +6, Wisdom +6, Charisma +8
 - **Skills** [Investigation](3.Mechanics/rules/skills.md#Investigation) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +10
-- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Prone](3.Mechanics/rules/conditions.md#Prone)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 60 Ft., Passive Perception 20
-- **Languages** Deep Speech, Telepathy 120 ft.
+- **Senses** [truesight](3.Mechanics/rules/senses.md#Truesight) 60 ft., passive Perception 20
+- **Condition Immunities** [blinded](3.Mechanics/rules/conditions.md#Blinded), [prone](3.Mechanics/rules/conditions.md#Prone)
+- **Languages** Deep Speech, telepathy 120 ft.
 - **Challenge** 9
 
 ## Traits

@@ -11,49 +11,34 @@ tags:
 title: "Oshundo the Alhoon"
 aliases:
 - "Oshundo the Alhoon"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Oshundo the Alhoon
 *Source: Phandelver and Below: The Shattered Obelisk p. 153*  
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Oshundo%20the%20Alhoon.webp#right)
 
 Oshundo lived in Illithinoch at the height of the mind flayer empire many centuries ago, but Oshundo was driven out for practicing arcane magic. It's obvious that this rejection still stings Oshundo, who refers to Illithinoch's long-dead leaders as "ignorant fools" who are "closed to the flexibility and power of arcane magic."
+
 ```ad-statblock
 title: Oshundo the Alhoon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Oshundo%20the%20Alhoon.webp#token)
-*Medium Undead (mind flayer, wizard), Neutral Evil*
+*Medium undead (mind flayer, wizard), Neutral Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 150 (20d8 + 60) 
+- **Hit Points** 150 (`20d8 + 60`) 
 - **Speed** 30 ft., fly 15 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 11 | +0 | +0 |
-|Int| 19 | +4 | **+8** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 17 | +3 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | **+7** |
-|Cha| 17 | +3 | **+7** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|12 (+1)|16 (+3)|19 (+4)|17 (+3)|17 (+3)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Constitution +7, Intelligence +8, Wisdom +7, Charisma +7
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +8, [History](3.Mechanics/rules/skills.md#History) +8, [Insight](3.Mechanics/rules/skills.md#Insight) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Damage Resistances** Cold, Lightning, Necrotic
-- **Damage Immunities** Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 17
-- **Languages** Common, Deep Speech, Telepathy 120 ft., Undercommon
+- **Senses** [truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 17
+- **Damage Resistances** cold, lightning, necrotic
+- **Damage Immunities** poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Common, Deep Speech, telepathy 120 ft., Undercommon
 - **Challenge** 10
 
 ## Traits

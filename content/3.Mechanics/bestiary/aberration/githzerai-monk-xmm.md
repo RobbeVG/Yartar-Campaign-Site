@@ -55,33 +55,25 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 > We githzerai crave a challenge, so that when Zerthimon returns, he shall find us ready. Thus we traveled to howling Limbo to make our new home.
 
 
+## Statblock
+
 ```ad-statblock
 title: Githzerai Monk
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Githzerai%20Monk.webp#token)
-*Medium Aberration (gith), Lawful Neutral*
+*Medium aberration (gith), Lawful Neutral*
 
 - **Armor Class** 14 
-- **Hit Points** 38 (7d8 + 7) 
+- **Hit Points** 38 (`7d8 + 7`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12 | +1 | **+3** |
-|Int| 13 | +1 | **+3** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | **+4** |
-|Wis| 14 | +2 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|15 (+2)|12 (+1)|13 (+1)|14 (+2)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Strength +3, Dexterity +4, Intelligence +3, Wisdom +4
 - **Skills** [Insight](3.Mechanics/rules/skills.md#Insight) +4, [Perception](3.Mechanics/rules/skills.md#Perception) +4
-- **Senses** Passive Perception 14
+- **Senses** passive Perception 14
 - **Languages** Common, Gith
 - **Challenge** 2
 

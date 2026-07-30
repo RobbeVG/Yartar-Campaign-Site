@@ -26,34 +26,25 @@ aliases:
 - **Treasure.** [Relics](3.Mechanics/tables/random-magic-items-relics.md)  
 
 When threatened or compelled by magic, werebears shape-shift from their humanoid forms into mighty bears or hybrids of those two forms. They scare off or sabotage those who threaten the wilds, and they frequently aid Fey, druids, or spirits of the wilderness, as many owe their magical nature to such forces. Werebears take the shape of bears common to the regions in which they dwell, with brown and polar bear forms being common.
+
 ```ad-statblock
 title: Werebear
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Werebear.webp#token)
-*Small or Medium Monstrosity (lycanthrope), Neutral Good*
+*Small or Medium monstrosity (lycanthrope), Neutral Good*
 
 - **Armor Class** 15 
-- **Hit Points** 135 (18d8 + 54) 
+- **Hit Points** 135 (`18d8 + 54`) 
 - **Speed** 30 ft., 40 ft. (bear form only), climb 30 ft. (bear form only)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | +3 |
-|Cha| 12 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|10 (+0)|17 (+3)|11 (+0)|12 (+1)|12 (+1)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +7
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 17
 - **Gear** four [handaxes](3.Mechanics/items/handaxe-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 17
 - **Languages** Common (can't speak in bear form)
 - **Challenge** 5
 

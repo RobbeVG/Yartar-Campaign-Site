@@ -11,11 +11,6 @@ tags:
 title: "Kraken"
 aliases:
 - "Kraken"
-conditionImmunities:
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [grappled](3.Mechanics/rules/conditions.md#Grappled)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [restrained](3.Mechanics/rules/conditions.md#Restrained)
 ---
 # Kraken
 *Source: Monster Manual (2024) p. 187. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -58,36 +53,27 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
 > 
 > A kraken dreams of casting its tentacles into the heavens and strangling that which birthed it, and when its dream exceeds its reach, it settles for the occasional passing ship.
 
+
 ```ad-statblock
 title: Kraken
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Kraken.webp#token)
-*Gargantuan Monstrosity (titan), Chaotic Evil*
+*Gargantuan monstrosity (titan), Chaotic Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 481 (26d20 + 208) 
+- **Hit Points** 481 (`26d20 + 208`) 
 - **Speed** 30 ft., swim 120 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 30 | +10 | **+17** |
-|Int| 22 | +6 | +6 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | **+7** |
-|Wis| 18 | +4 | **+11** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 26 | +8 | **+15** |
-|Cha| 20 | +5 | +5 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|30 (+10)|11 (+0)|26 (+8)|22 (+6)|18 (+4)|20 (+5)|
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Strength +17, Dexterity +7, Constitution +15, Wisdom +11
 - **Skills** [History](3.Mechanics/rules/skills.md#History) +13, [Perception](3.Mechanics/rules/skills.md#Perception) +11
-- **Damage Immunities** Cold, Lightning
-- **Condition Immunities** [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Restrained](3.Mechanics/rules/conditions.md#Restrained)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 21
-- **Languages** Understands Abyssal, Celestial, Infernal, and Primordial but can't speak; Telepathy 120 ft.
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 21
+- **Damage Immunities** cold, lightning
+- **Condition Immunities** [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [restrained](3.Mechanics/rules/conditions.md#Restrained)
+- **Languages** understands Abyssal, Celestial, Infernal, and Primordial but can't speak; telepathy 120 ft.
 - **Challenge** 23
 
 ## Traits

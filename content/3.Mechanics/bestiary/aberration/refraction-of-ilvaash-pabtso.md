@@ -10,14 +10,6 @@ tags:
 title: "Refraction of Ilvaash"
 aliases:
 - "Refraction of Ilvaash"
-conditionImmunities:
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [grappled](3.Mechanics/rules/conditions.md#Grappled)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
-- [restrained](3.Mechanics/rules/conditions.md#Restrained)
 ---
 # Refraction of Ilvaash
 *Source: Phandelver and Below: The Shattered Obelisk p. 197*  
@@ -26,37 +18,28 @@ conditionImmunities:
 Ilvaash was formed from the remains of the mind flayer god Ilsensine, the God-Brain. When Ilsensine left the Far Realm to establish a divine domain elsewhere, pieces of the God-Brain sloughed away and awoke to sentience. This is Ilvaash, the Dissonant Psyche.
 
 The refraction of Ilvaash wields only a sliver of the godlet's power but is nevertheless a formidable foe.
+
 ```ad-statblock
 title: Refraction of Ilvaash
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Refraction%20of%20Ilvaash.webp#token)
-*Huge Aberration (mind flayer), Lawful Evil*
+*Huge aberration (mind flayer), Lawful Evil*
 
 - **Armor Class** 11 (natural armor)
-- **Hit Points** 199 (21d12 + 63) 
+- **Hit Points** 199 (`21d12 + 63`) 
 - **Speed** 10 ft., fly 30 ft. (hover), swim 10 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 23 | +6 | **+11** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 20 | +5 | **+10** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | +3 |
-|Cha| 22 | +6 | +6 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|10 (+0)|17 (+3)|23 (+6)|20 (+5)|22 (+6)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Intelligence +11, Wisdom +10
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +11, [Insight](3.Mechanics/rules/skills.md#Insight) +15, [Intimidation](3.Mechanics/rules/skills.md#Intimidation) +11, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +11
-- **Damage Resistances** Bludgeoning, Piercing, Slashing from nonmagical attacks
-- **Damage Immunities** Poison, Psychic
-- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 Ft., Passive Perception 15
-- **Languages** Common, Deep Speech, Telepathy 100 miles, Undercommon
+- **Senses** [blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 ft., passive Perception 15
+- **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
+- **Damage Immunities** poison, psychic
+- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained)
+- **Languages** Common, Deep Speech, telepathy 100 miles, Undercommon
 - **Challenge** 15
 
 ## Traits

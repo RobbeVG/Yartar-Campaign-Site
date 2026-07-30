@@ -14,36 +14,27 @@ aliases:
 # Gwyn Oresong
 *Source: Phandelver and Below: The Shattered Obelisk p. 8*  
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Gwyn%20Oresong.webp#center)
+
 ```ad-statblock
 title: Gwyn Oresong
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Gwyn%20Oresong.webp#token)
-*Medium Humanoid (any race), Neutral Good*
+*Medium humanoid (any race), Neutral Good*
 
 - **Armor Class** 10 
-- **Hit Points** 9 (2d8) 
+- **Hit Points** 9 (`2d8`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 10 | +0 | +0 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|14 (+2)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Medicine](3.Mechanics/rules/skills.md#Medicine) +4, [Religion](3.Mechanics/rules/skills.md#Religion) +2
-- **Damage Resistances** Poison
+- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Damage Resistances** poison
 - **Gear** [club](3.Mechanics/items/club-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
-- **Languages** Any one language (usually Common), Dwarvish
+- **Languages** any one language (usually Common), Dwarvish
 - **Challenge** 1/4
 
 ## Traits

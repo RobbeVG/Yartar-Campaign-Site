@@ -29,33 +29,25 @@ Pixies spend their days frolicking and exploring and avoid direct conflict when 
 
 Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They invisibly observe those who enter their wooded homes, revealing themselves to those with friendly intentions. Those who are unfriendly become the targets of pixies' pranks.
 
+## Statblock
+
 ```ad-statblock
 title: Pixie
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Pixie.webp#token)
-*Tiny Fey, Neutral Good*
+*Tiny fey, Neutral Good*
 
 - **Armor Class** 15 
-- **Hit Points** 9 (6d4 - 6) 
+- **Hit Points** 9 (`6d4 - 6`) 
 - **Speed** 10 ft., fly 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 2 | -4 | -4 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 20 | +5 | +5 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 8 | -1 | -1 |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 2 (-4)|20 (+5)| 8 (-1)|10 (+0)|14 (+2)|15 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
-- **Senses** Passive Perception 14
+- **Senses** passive Perception 14
 - **Languages** Sylvan
 - **Challenge** 1/4
 

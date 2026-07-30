@@ -55,33 +55,25 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 > We githzerai crave a challenge, so that when Zerthimon returns, he shall find us ready. Thus we traveled to howling Limbo to make our new home.
 
 
+## Statblock
+
 ```ad-statblock
 title: Githzerai Psion
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Githzerai%20Psion.webp#token)
-*Medium Aberration (gith), Lawful Neutral*
+*Medium aberration (gith), Lawful Neutral*
 
 - **Armor Class** 18 
-- **Hit Points** 169 (26d8 + 52) 
+- **Hit Points** 169 (`26d8 + 52`) 
 - **Speed** 40 ft., fly 40 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12 | +1 | **+5** |
-|Int| 19 | +4 | **+8** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | **+8** |
-|Wis| 18 | +4 | **+8** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|18 (+4)|15 (+2)|19 (+4)|18 (+4)|14 (+2)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Strength +5, Dexterity +8, Intelligence +8, Wisdom +8
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +8, [Insight](3.Mechanics/rules/skills.md#Insight) +8, [Perception](3.Mechanics/rules/skills.md#Perception) +8
-- **Senses** Passive Perception 18
+- **Senses** passive Perception 18
 - **Languages** Common, Gith
 - **Challenge** 12
 

@@ -31,33 +31,25 @@ Dire worgs are larger than common worgs and possess a supernaturally terrifying 
 
 Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These sapient predators can speak and often taunt their prey, enjoying the taste of fear in their meals.
 
+## Statblock
+
 ```ad-statblock
 title: Dire Worg
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Dire%20Worg.webp#token)
-*Huge Fey, Neutral Evil*
+*Huge fey, Neutral Evil*
 
 - **Armor Class** 16 
-- **Hit Points** 147 (14d12 + 56) 
+- **Hit Points** 147 (`14d12 + 56`) 
 - **Speed** 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 22 | +6 | +6 |
-|Int| 7 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | **+6** |
-|Wis| 16 | +3 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | +4 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|22 (+6)|14 (+2)|18 (+4)| 7 (-2)|16 (+3)| 8 (-1)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +6, Wisdom +7
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +11
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 21
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 21
 - **Languages** Goblin, Sylvan, Worg
 - **Challenge** 10
 

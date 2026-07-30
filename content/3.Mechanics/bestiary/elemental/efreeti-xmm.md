@@ -33,34 +33,25 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
 > 
 > Imagine seas of platinum and liquid flame, the Crimson Pillar with fires hot enough to sear the gods, and the infinite delights of the City of Brass. Now imagine what my master offers...
 
+
 ```ad-statblock
 title: Efreeti
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Efreeti.webp#token)
-*Large Elemental (genie), Neutral*
+*Large elemental (genie), Neutral*
 
 - **Armor Class** 17 
-- **Hit Points** 212 (17d10 + 119) 
+- **Hit Points** 212 (`17d10 + 119`) 
 - **Speed** 40 ft., fly 60 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 22 | +6 | +6 |
-|Int| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 15 | +2 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 24 | +7 | +7 |
-|Cha| 19 | +4 | **+8** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|22 (+6)|12 (+1)|24 (+7)|16 (+3)|15 (+2)|19 (+4)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Wisdom +6, Charisma +8
 - **Skills** ⏤
-- **Damage Immunities** Fire
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 12
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 12
+- **Damage Immunities** fire
 - **Languages** Primordial (Ignan)
 - **Challenge** 11
 

@@ -10,46 +10,32 @@ tags:
 title: "Elemental Spirit"
 aliases:
 - "Elemental Spirit"
-conditionImmunities:
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Elemental Spirit
 *Source: Player's Handbook (2024) p. 325*  
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Elemental%20Spirit.webp#center)
+
 ```ad-statblock
 title: Elemental Spirit
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Elemental%20Spirit.webp#token)
-*Medium Elemental, Neutral*
+*Medium elemental, Neutral*
 
 - **Armor Class** (11 + the spell's level)
 - **Hit Points** 50 + 10 for each spell level above 4  (50 + 10 for each spell level above 4)
 - **Speed** 40 ft., burrow 40 ft. (Earth only), fly 40 ft. (hover; Air only), swim 40 ft. (Water only)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 4 | -3 | -3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | +3 |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|15 (+2)|17 (+3)| 4 (-3)|10 (+0)|16 (+3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Resistances** Lightning, Thunder (Air only)
-- **Damage Immunities** Poison; Fire (Fire only)
-- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
-- **Languages** Primordial, Understands the languages you know
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Damage Resistances** lightning, thunder (Air only)
+- **Damage Immunities** poison; fire (Fire only)
+- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Primordial, understands the languages you know
 - **Challenge** 
 
 ## Traits

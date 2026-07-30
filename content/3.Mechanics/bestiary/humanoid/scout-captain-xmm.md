@@ -27,34 +27,26 @@ Scout captains are experienced explorers and sharpshooters. They might lead band
 
 Scouts are warriors of the wilderness, trained in hunting and tracking. They might be explorers or trappers, or they could perform more martial roles as archers, bounty hunters, or outriders.
 
+## Statblock
+
 ```ad-statblock
 title: Scout Captain
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Scout%20Captain.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 15 
-- **Hit Points** 66 (12d8 + 12) 
+- **Hit Points** 66 (`12d8 + 12`) 
 - **Speed** 30 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 11 | +0 | +0 |
-|Int| 14 | +2 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | **+5** |
-|Wis| 15 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|16 (+3)|12 (+1)|14 (+2)|15 (+2)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +5, Intelligence +4
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7, [Survival](3.Mechanics/rules/skills.md#Survival) +6
+- **Senses** passive Perception 16
 - **Gear** [longbow](3.Mechanics/items/longbow-xphb.md), [shortsword](3.Mechanics/items/shortsword-xphb.md), [studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)
-- **Senses** Passive Perception 16
 - **Languages** Common plus one other language
 - **Challenge** 3
 

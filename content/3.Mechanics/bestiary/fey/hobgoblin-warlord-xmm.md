@@ -58,34 +58,26 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Hobgoblins.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Hobgoblin Warlord
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hobgoblin%20Warlord.webp#token)
-*Medium Fey (goblinoid), Lawful Evil*
+*Medium fey (goblinoid), Lawful Evil*
 
 - **Armor Class** 20 
-- **Hit Points** 112 (15d8 + 45) 
+- **Hit Points** 112 (`15d8 + 45`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 14 | +2 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | **+5** |
-|Wis| 11 | +0 | **+3** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 15 | +2 | **+5** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|14 (+2)|16 (+3)|14 (+2)|11 (+0)|15 (+2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +5, Intelligence +5, Wisdom +3, Charisma +5
 - **Skills** ⏤
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Gear** nine [javelins](3.Mechanics/items/javelin-xphb.md), [longsword](3.Mechanics/items/longsword-xphb.md), [plate armor](3.Mechanics/items/plate-armor-xphb.md), [shield](3.Mechanics/items/shield-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
 - **Languages** Common, Goblin
 - **Challenge** 6
 

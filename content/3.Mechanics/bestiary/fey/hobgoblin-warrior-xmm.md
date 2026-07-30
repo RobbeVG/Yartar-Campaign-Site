@@ -58,34 +58,26 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Hobgoblins.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Hobgoblin Warrior
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hobgoblin%20Warrior.webp#token)
-*Medium Fey (goblinoid), Lawful Evil*
+*Medium fey (goblinoid), Lawful Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 11 (2d8 + 2) 
+- **Hit Points** 11 (`2d8 + 2`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13 | +1 | +1 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 9 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|13 (+1)|12 (+1)|12 (+1)|10 (+0)|10 (+0)| 9 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Gear** [half plate armor](3.Mechanics/items/half-plate-armor-xphb.md), [longbow](3.Mechanics/items/longbow-xphb.md), [longsword](3.Mechanics/items/longsword-xphb.md), [shield](3.Mechanics/items/shield-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
 - **Languages** Common, Goblin
 - **Challenge** 1/2
 

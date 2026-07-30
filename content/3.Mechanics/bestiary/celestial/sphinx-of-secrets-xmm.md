@@ -13,9 +13,6 @@ tags:
 title: "Sphinx of Secrets"
 aliases:
 - "Sphinx of Secrets"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
 # Sphinx of Secrets
 *Source: Monster Manual (2024) p. 292*  
@@ -51,36 +48,28 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Sphinxes.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Sphinx of Secrets
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sphinx%20of%20Secrets.webp#token)
-*Large Celestial, Lawful Neutral*
+*Large celestial, Lawful Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 136 (16d10 + 48) 
+- **Hit Points** 136 (`16d10 + 48`) 
 - **Speed** 40 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 18 | +4 | +4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|15 (+2)|16 (+3)|18 (+4)|18 (+4)|18 (+4)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** [History](3.Mechanics/rules/skills.md#History) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Religion](3.Mechanics/rules/skills.md#Religion) +7
-- **Damage Resistances** Necrotic, Radiant
-- **Damage Immunities** Psychic
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 60 Ft., Passive Perception 17
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 60 ft., passive Perception 17
+- **Damage Resistances** necrotic, radiant
+- **Damage Immunities** psychic
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)
 - **Languages** Celestial, Common
 - **Challenge** 8
 

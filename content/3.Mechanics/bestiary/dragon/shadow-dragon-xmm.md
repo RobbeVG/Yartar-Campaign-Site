@@ -39,35 +39,26 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
 > 
 > If ye truly be adventurers of lore, seek the great shadowy wyrm who lairs beneath the Peaks of Thunder and return in triumph bearing aloft her fabled Eye of Shadow.
 
+
 ```ad-statblock
 title: Shadow Dragon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Shadow%20Dragon.webp#token)
-*Huge Dragon, Chaotic Evil*
+*Huge dragon, Chaotic Evil*
 
 - **Armor Class** 16 
-- **Hit Points** 189 (18d12 + 72) 
+- **Hit Points** 189 (`18d12 + 72`) 
 - **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 21 | +5 | +5 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 19 | +4 | **+9** |
-|Wis| 12 | +1 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | +4 |
-|Cha| 18 | +4 | +4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|21 (+5)|19 (+4)|18 (+4)|14 (+2)|12 (+1)|18 (+4)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Dexterity +9, Wisdom +6
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +11, [Stealth](3.Mechanics/rules/skills.md#Stealth) +14
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 21
 - **Damage Resistances** See Living Shadow
-- **Damage Immunities** Necrotic
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 21
+- **Damage Immunities** necrotic
 - **Languages** Common, Draconic
 - **Challenge** 13
 

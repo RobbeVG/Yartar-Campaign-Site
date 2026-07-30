@@ -48,36 +48,28 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 > One day I might be the god of storms—mind countless followers, answer prayers, change whole worlds—but, until then, I do what I please.
 
 
+## Statblock
+
 ```ad-statblock
 title: Empyrean
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Empyrean.webp#token)
 *Huge  (titan), Neutral*
 
 - **Armor Class** 22 
-- **Hit Points** 346 (21d12 + 210) 
+- **Hit Points** 346 (`21d12 + 210`) 
 - **Speed** 50 ft., fly 50 ft. (hover), swim 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 30 | +10 | **+17** |
-|Int| 21 | +5 | +5 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 21 | +5 | +5 |
-|Wis| 22 | +6 | **+13** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 30 | +10 | +10 |
-|Cha| 27 | +8 | +8 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|30 (+10)|21 (+5)|30 (+10)|21 (+5)|22 (+6)|27 (+8)|
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Strength +17, Wisdom +13
 - **Skills** [Insight](3.Mechanics/rules/skills.md#Insight) +13, [Perception](3.Mechanics/rules/skills.md#Perception) +13
-- **Damage Resistances** Bludgeoning, Piercing, Slashing
-- **Damage Immunities** Necrotic, Radiant
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 23
-- **Languages** All
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 23
+- **Damage Resistances** bludgeoning, piercing, slashing
+- **Damage Immunities** necrotic, radiant
+- **Languages** all
 - **Challenge** 23
 
 ## Traits

@@ -10,40 +10,29 @@ tags:
 title: "Chishinix' Head"
 aliases:
 - "Chishinix' Head"
-conditionImmunities:
-- [blinded](3.Mechanics/rules/conditions.md#Blinded)
 ---
 # Chishinix' Head
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  
+
 ```ad-statblock
 title: Chishinix' Head
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Chishinix%27%20Head.webp#token)
-*Tiny Aberration, Unaligned*
+*Tiny aberration, Unaligned*
 
 - **Armor Class** 14 
-- **Hit Points** 54 (12d4 + 24) 
+- **Hit Points** 54 (`12d4 + 24`) 
 - **Speed** 10 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 1 | -5 | -5 |
-|Int| 5 | -3 | -3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | +4 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 7 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 (-5)|18 (+4)|14 (+2)| 5 (-3)|12 (+1)| 7 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Resistances** Psychic
-- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft. (can't see beyond this radius), Passive Perception 11
+- **Senses** [blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft. (can't see beyond this radius), passive Perception 11
+- **Damage Resistances** psychic
+- **Condition Immunities** [blinded](3.Mechanics/rules/conditions.md#Blinded)
 - **Languages** —
 - **Challenge** 3
 

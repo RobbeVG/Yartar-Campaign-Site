@@ -12,8 +12,6 @@ tags:
 title: "Nycaloth"
 aliases:
 - "Nycaloth"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Nycaloth
 *Source: Monster Manual (2024) p. 229*  
@@ -43,37 +41,28 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
 | 3 | Destroy a city harboring enemy cultists. |
 | 4 | Liberate an imprisoned fiendish ally. |
 ^yugoloth-incursions
+
 ```ad-statblock
 title: Nycaloth
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Nycaloth.webp#token)
-*Large Fiend (yugoloth), Neutral Evil*
+*Large fiend (yugoloth), Neutral Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 152 (16d10 + 64) 
+- **Hit Points** 152 (`16d10 + 64`) 
 - **Speed** 40 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 20 | +5 | +5 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 19 | +4 | +4 |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|20 (+5)|11 (+0)|19 (+4)|12 (+1)|10 (+0)|15 (+2)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
-- **Damage Resistances** Cold, Fire, Lightning
-- **Damage Immunities** Acid, Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 14
-- **Languages** Abyssal, Infernal; Telepathy 60 ft.
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception 14
+- **Damage Resistances** cold, fire, lightning
+- **Damage Immunities** acid, poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Abyssal, Infernal; telepathy 60 ft.
 - **Challenge** 9
 
 ## Traits

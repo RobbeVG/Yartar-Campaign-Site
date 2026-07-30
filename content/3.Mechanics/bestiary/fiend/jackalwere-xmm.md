@@ -39,33 +39,24 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
 | 3 | Putting them to sleep, then stealing mounts or supplies. |
 | 4 | Sharing the location of hidden treasure, which turns out to be sunlight on sand or water. |
 ^jackalwere-tricks
+
 ```ad-statblock
 title: Jackalwere
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Jackalwere.webp#token)
-*Small Fiend, Chaotic Evil*
+*Small fiend, Chaotic Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 18 (4d6 + 4) 
+- **Hit Points** 18 (`4d6 + 4`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 11 | +0 | +0 |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|15 (+2)|12 (+1)|13 (+1)|11 (+0)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +4, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 Ft., Passive Perception 14
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 ft., passive Perception 14
 - **Languages** Common
 - **Challenge** 1/2
 

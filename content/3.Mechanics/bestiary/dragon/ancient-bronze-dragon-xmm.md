@@ -33,34 +33,26 @@ Bronze dragons enjoy the power and endless possibilities of the sea, and they of
 
 Bronze dragons usually make their homes near or under the sea.
 
+## Statblock
+
 ```ad-statblock
 title: Ancient Bronze Dragon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ancient%20Bronze%20Dragon.webp#token)
-*Gargantuan Dragon (metallic), Lawful Good*
+*Gargantuan dragon (metallic), Lawful Good*
 
 - **Armor Class** 22 
-- **Hit Points** 444 (24d20 + 192) 
+- **Hit Points** 444 (`24d20 + 192`) 
 - **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 29 | +9 | +9 |
-|Int| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | **+7** |
-|Wis| 17 | +3 | **+10** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 27 | +8 | +8 |
-|Cha| 25 | +7 | +7 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|25 (+7)|
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +7, Wisdom +10
 - **Skills** [Insight](3.Mechanics/rules/skills.md#Insight) +10, [Perception](3.Mechanics/rules/skills.md#Perception) +17, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
-- **Damage Immunities** Lightning
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 27
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 27
+- **Damage Immunities** lightning
 - **Languages** Common, Draconic
 - **Challenge** 22
 

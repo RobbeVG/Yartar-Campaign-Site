@@ -14,10 +14,6 @@ tags:
 title: "Beholder Zombie"
 aliases:
 - "Beholder Zombie"
-conditionImmunities:
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
 ---
 # Beholder Zombie
 *Source: Monster Manual (2024) p. 347*  
@@ -43,36 +39,28 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 > Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, "The dead come for Marais d'Tarascon! An army of the walking dead!"
 
 
+## Statblock
+
 ```ad-statblock
 title: Beholder Zombie
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Beholder%20Zombie.webp#token)
-*Large Undead, Neutral Evil*
+*Large undead, Neutral Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 93 (11d10 + 33) 
+- **Hit Points** 93 (`11d10 + 33`) 
 - **Speed** 5 ft., fly 20 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 14 | +2 | +2 |
-|Int| 3 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 8 | -1 | -1 |
-|Wis| 8 | -1 | **+2** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 5 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)| 8 (-1)|16 (+3)| 3 (-4)| 8 (-1)| 5 (-3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Wisdom +2
 - **Skills** ⏤
-- **Damage Immunities** Poison
-- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Prone](3.Mechanics/rules/conditions.md#Prone)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
-- **Languages** Understands Deep Speech and Undercommon but can't speak
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Damage Immunities** poison
+- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone)
+- **Languages** understands Deep Speech and Undercommon but can't speak
 - **Challenge** 5
 
 ## Traits

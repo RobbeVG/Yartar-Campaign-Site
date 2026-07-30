@@ -38,35 +38,27 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 
 ![A salamander inferno master drives its salamander and fire snake minions to burn all they encounter](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Salamanders.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Salamander Inferno Master
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Salamander%20Inferno%20Master.webp#token)
-*Large Elemental, Neutral Evil*
+*Large elemental, Neutral Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 256 (27d10 + 108) 
+- **Hit Points** 256 (`27d10 + 108`) 
 - **Speed** 40 ft., climb 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 24 | +7 | +7 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | **+8** |
-|Wis| 10 | +0 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | +4 |
-|Cha| 20 | +5 | +5 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|24 (+7)|16 (+3)|18 (+4)|14 (+2)|10 (+0)|20 (+5)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Dexterity +8, Wisdom +5
 - **Skills** ⏤
-- **Damage Vulnerabilities** Cold
-- **Damage Immunities** Fire
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 10
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 10
+- **Damage Vulnerabilities** cold
+- **Damage Immunities** fire
 - **Languages** Primordial (Ignan)
 - **Challenge** 15
 

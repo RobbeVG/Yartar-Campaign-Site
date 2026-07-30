@@ -25,35 +25,26 @@ aliases:
 - **Treasure.** [Armaments](3.Mechanics/tables/random-magic-items-armaments.md)  
 
 Among the tallest giants, storm giants live amid extreme forces of nature. In palaces at the bottom of the sea and castles floating amid the clouds, they revel in the power of mighty storms. When angered, they can shape the weather and call down devastating lightning. More often, though, these giants watch the rise and fall of nations and interpret supernatural omens, interfering in the world only when they're needed most.
+
 ```ad-statblock
 title: Storm Giant
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Storm%20Giant.webp#token)
-*Huge Giant, Chaotic Good*
+*Huge giant, Chaotic Good*
 
 - **Armor Class** 16 
-- **Hit Points** 230 (20d12 + 100) 
+- **Hit Points** 230 (`20d12 + 100`) 
 - **Speed** 50 ft., fly 25 ft. (hover), swim 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 29 | +9 | **+14** |
-|Int| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 20 | +5 | **+10** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | **+10** |
-|Cha| 18 | +4 | **+9** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|29 (+9)|14 (+2)|20 (+5)|16 (+3)|20 (+5)|18 (+4)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Strength +14, Constitution +10, Wisdom +10, Charisma +9
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +8, [Athletics](3.Mechanics/rules/skills.md#Athletics) +14, [History](3.Mechanics/rules/skills.md#History) +8, [Perception](3.Mechanics/rules/skills.md#Perception) +10
-- **Damage Resistances** Cold
-- **Damage Immunities** Lightning, Thunder
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., [Truesight](3.Mechanics/rules/senses.md#Truesight) 30 Ft., Passive Perception 20
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., [Truesight](3.Mechanics/rules/senses.md#Truesight) 30 ft., passive Perception 20
+- **Damage Resistances** cold
+- **Damage Immunities** lightning, thunder
 - **Languages** Common, Giant
 - **Challenge** 13
 

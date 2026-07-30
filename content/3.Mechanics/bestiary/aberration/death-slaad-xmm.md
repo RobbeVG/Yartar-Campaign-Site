@@ -42,35 +42,27 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
 
 
+## Statblock
+
 ```ad-statblock
 title: Death Slaad
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Death%20Slaad.webp#token)
-*Medium Aberration, Chaotic Evil*
+*Medium aberration, Chaotic Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 178 (21d8 + 84) 
+- **Hit Points** 178 (`21d8 + 84`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 20 | +5 | +5 |
-|Int| 15 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 19 | +4 | +4 |
-|Cha| 19 | +4 | +4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|20 (+5)|15 (+2)|19 (+4)|15 (+2)|10 (+0)|19 (+4)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +8
-- **Damage Resistances** Acid, Cold, Fire, Lightning, Thunder
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 18
-- **Languages** Common, Slaad; Telepathy 60 ft.
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 18
+- **Damage Resistances** acid, cold, fire, lightning, thunder
+- **Languages** Common, Slaad; telepathy 60 ft.
 - **Challenge** 10
 
 ## Traits

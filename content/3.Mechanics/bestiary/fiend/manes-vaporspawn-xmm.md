@@ -12,13 +12,6 @@ tags:
 title: "Manes Vaporspawn"
 aliases:
 - "Manes Vaporspawn"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [grappled](3.Mechanics/rules/conditions.md#Grappled)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [restrained](3.Mechanics/rules/conditions.md#Restrained)
 ---
 # Manes Vaporspawn
 *Source: Monster Manual (2024) p. 201*  
@@ -35,37 +28,29 @@ Vaporspawn arise from evil souls shattered by unspeakable torments or the depred
 
 The lowest form of demons, manes appear when truly loathsome souls are condemned to the Abyss. These misshapen demons have distorted features and bodies that crawl with Abyssal parasites. Overwhelmed by demonic urges and constant terror, manes know only shock and frenzied outbursts.
 
+## Statblock
+
 ```ad-statblock
 title: Manes Vaporspawn
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Manes%20Vaporspawn.webp#token)
-*Medium Fiend (demon), Chaotic Evil*
+*Medium fiend (demon), Chaotic Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 19 (3d8 + 6) 
+- **Hit Points** 19 (`3d8 + 6`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 14 | +2 | +2 |
-|Int| 5 | -3 | -3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 3 | -4 | -4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|12 (+1)|15 (+2)| 5 (-3)| 8 (-1)| 3 (-4)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Resistances** Cold, Fire, Lightning
-- **Damage Immunities** Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Restrained](3.Mechanics/rules/conditions.md#Restrained)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
-- **Languages** Understands Abyssal but can't speak
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Damage Resistances** cold, fire, lightning
+- **Damage Immunities** poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [restrained](3.Mechanics/rules/conditions.md#Restrained)
+- **Languages** understands Abyssal but can't speak
 - **Challenge** 1
 
 ## Traits

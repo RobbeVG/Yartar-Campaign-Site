@@ -13,33 +13,24 @@ aliases:
 ---
 # Giant Fly
 *Source: Dungeon Master's Guide (2024) p. 261*  
+
 ```ad-statblock
 title: Giant Fly
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XDMG/Giant%20Fly.webp#token)
-*Large Beast, Unaligned*
+*Large beast, Unaligned*
 
 - **Armor Class** 11 
-- **Hit Points** 19 (3d10 + 3) 
+- **Hit Points** 19 (`3d10 + 3`) 
 - **Speed** 30 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 14 | +2 | +2 |
-|Int| 2 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 3 | -4 | -4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|13 (+1)|13 (+1)| 2 (-4)|10 (+0)| 3 (-4)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** —
 - **Challenge** 0
 ```

@@ -16,33 +16,24 @@ aliases:
 
 
 A nothic is a monstrous creature with terrible talons and a single great eye. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
+
 ```ad-statblock
 title: Mind Flayer Nothic
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Mind%20Flayer%20Nothic.webp#token)
-*Medium Aberration, Neutral Evil*
+*Medium aberration, Neutral Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 45 (6d8 + 18) 
+- **Hit Points** 45 (`6d8 + 18`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 14 | +2 | +2 |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|16 (+3)|16 (+3)|13 (+1)|10 (+0)| 8 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +3, [Insight](3.Mechanics/rules/skills.md#Insight) +4, [Perception](3.Mechanics/rules/skills.md#Perception) +2, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 12
+- **Senses** [truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 12
 - **Languages** Undercommon
 - **Challenge** 2
 

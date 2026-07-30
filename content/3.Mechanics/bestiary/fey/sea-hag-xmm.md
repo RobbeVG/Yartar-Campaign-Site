@@ -41,33 +41,24 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
 | 5 | Ship captain and delivers passengers to the hag's pet sea monster. |
 | 6 | Wounded sailor and claims their ship was destroyed by merfolk or other peaceful people. |
 ^sea-hag-disguises
+
 ```ad-statblock
 title: Sea Hag
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sea%20Hag.webp#token)
-*Medium Fey, Chaotic Evil*
+*Medium fey, Chaotic Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 52 (7d8 + 21) 
+- **Hit Points** 52 (`7d8 + 21`) 
 - **Speed** 30 ft., swim 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 13 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|13 (+1)|16 (+3)|12 (+1)|12 (+1)|13 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 11
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Languages** Common, Giant, Primordial (Aquan)
 - **Challenge** 2
 

@@ -36,34 +36,26 @@ Red dragons believe themselves to be the greatest of all dragons and, by extensi
 
 Red dragons make their lairs in smoldering, unapproachable places such as volcanic mountains, burning wastelands, and ruins they've stolen from other creatures.
 
+## Statblock
+
 ```ad-statblock
 title: Adult Red Dragon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Adult%20Red%20Dragon.webp#token)
-*Huge Dragon (chromatic), Chaotic Evil*
+*Huge dragon (chromatic), Chaotic Evil*
 
 - **Armor Class** 19 
-- **Hit Points** 256 (19d12 + 133) 
+- **Hit Points** 256 (`19d12 + 133`) 
 - **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 27 | +8 | +8 |
-|Int| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | **+6** |
-|Wis| 13 | +1 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 25 | +7 | +7 |
-|Cha| 23 | +6 | +6 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|27 (+8)|10 (+0)|25 (+7)|16 (+3)|13 (+1)|23 (+6)|
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +6, Wisdom +7
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +13, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Damage Immunities** Fire
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 23
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 23
+- **Damage Immunities** fire
 - **Languages** Common, Draconic
 - **Challenge** 17
 

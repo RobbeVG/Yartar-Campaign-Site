@@ -33,34 +33,26 @@ Copper dragons typically live in caverns amid picturesque hills and rock formati
 
 Copper dragons typically inhabit multi-chamber caves and renovated ruins.
 
+## Statblock
+
 ```ad-statblock
 title: Copper Dragon Wyrmling
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Copper%20Dragon%20Wyrmling.webp#token)
-*Medium Dragon (metallic), Chaotic Good*
+*Medium dragon (metallic), Chaotic Good*
 
 - **Armor Class** 16 
-- **Hit Points** 22 (4d8 + 4) 
+- **Hit Points** 22 (`4d8 + 4`) 
 - **Speed** 30 ft., climb 30 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | **+3** |
-|Wis| 11 | +0 | **+2** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 13 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +3, Wisdom +2
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
-- **Damage Immunities** Acid
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Damage Immunities** acid
 - **Languages** Draconic
 - **Challenge** 1
 

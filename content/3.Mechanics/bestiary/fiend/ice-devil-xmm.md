@@ -12,8 +12,6 @@ tags:
 title: "Ice Devil"
 aliases:
 - "Ice Devil"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Ice Devil
 *Source: Monster Manual (2024) p. 176. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -38,36 +36,27 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
 > 
 > Part of the charm of ice devils is that they always think they're smarter than you. Mmm—there are few pleasures sweeter than proving a devil wrong.
 
+
 ```ad-statblock
 title: Ice Devil
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ice%20Devil.webp#token)
-*Large Fiend (devil), Lawful Evil*
+*Large fiend (devil), Lawful Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 228 (24d10 + 96) 
+- **Hit Points** 228 (`24d10 + 96`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 21 | +5 | +5 |
-|Int| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | **+7** |
-|Wis| 15 | +2 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | **+9** |
-|Cha| 18 | +4 | **+9** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|21 (+5)|14 (+2)|18 (+4)|18 (+4)|15 (+2)|18 (+4)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Dexterity +7, Constitution +9, Wisdom +7, Charisma +9
 - **Skills** [Insight](3.Mechanics/rules/skills.md#Insight) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +9
-- **Damage Immunities** Cold, Fire, Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 Ft., Passive Perception 17
-- **Languages** Infernal; Telepathy 120 ft.
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 ft., passive Perception 17
+- **Damage Immunities** cold, fire, poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Infernal; telepathy 120 ft.
 - **Challenge** 14
 
 ## Traits

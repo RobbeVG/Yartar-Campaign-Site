@@ -11,8 +11,6 @@ tags:
 title: "Twig Blight"
 aliases:
 - "Twig Blight"
-conditionImmunities:
-- [deafened](3.Mechanics/rules/conditions.md#Deafened)
 ---
 # Twig Blight
 *Source: Monster Manual (2024) p. 43*  
@@ -34,36 +32,28 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
 
 
+## Statblock
+
 ```ad-statblock
 title: Twig Blight
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Twig%20Blight.webp#token)
-*Small Plant, Neutral Evil*
+*Small plant, Neutral Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 7 (2d6) 
+- **Hit Points** 7 (`2d6`) 
 - **Speed** 20 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 6 | -2 | -2 |
-|Int| 4 | -3 | -3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 11 | +0 | +0 |
-|Cha| 3 | -4 | -4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6 (-2)|14 (+2)|11 (+0)| 4 (-3)| 8 (-1)| 3 (-4)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
-- **Damage Vulnerabilities** Fire
-- **Condition Immunities** [Deafened](3.Mechanics/rules/conditions.md#Deafened)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 9
-- **Languages** Understands Common but can't speak
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception 9
+- **Damage Vulnerabilities** fire
+- **Condition Immunities** [deafened](3.Mechanics/rules/conditions.md#Deafened)
+- **Languages** understands Common but can't speak
 - **Challenge** 1/8
 
 ## Traits

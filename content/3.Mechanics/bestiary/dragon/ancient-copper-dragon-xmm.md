@@ -33,34 +33,26 @@ Copper dragons typically live in caverns amid picturesque hills and rock formati
 
 Copper dragons typically inhabit multi-chamber caves and renovated ruins.
 
+## Statblock
+
 ```ad-statblock
 title: Ancient Copper Dragon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ancient%20Copper%20Dragon.webp#token)
-*Gargantuan Dragon (metallic), Chaotic Good*
+*Gargantuan dragon (metallic), Chaotic Good*
 
 - **Armor Class** 21 
-- **Hit Points** 367 (21d20 + 147) 
+- **Hit Points** 367 (`21d20 + 147`) 
 - **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 27 | +8 | +8 |
-|Int| 20 | +5 | +5 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | **+8** |
-|Wis| 17 | +3 | **+10** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 25 | +7 | +7 |
-|Cha| 22 | +6 | +6 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|22 (+6)|
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +8, Wisdom +10
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +13, [Perception](3.Mechanics/rules/skills.md#Perception) +17, [Stealth](3.Mechanics/rules/skills.md#Stealth) +8
-- **Damage Immunities** Acid
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 27
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 27
+- **Damage Immunities** acid
 - **Languages** Common, Draconic
 - **Challenge** 21
 

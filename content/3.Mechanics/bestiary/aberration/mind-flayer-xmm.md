@@ -47,36 +47,28 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
 | 6 | Sacrifice the mental energy of a planet's populace to take control of a githyanki bastion. |
 ^mind-flayer-machinations
 
+## Statblock
+
 ```ad-statblock
 title: Mind Flayer
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mind%20Flayer.webp#token)
-*Medium Aberration, Lawful Evil*
+*Medium aberration, Lawful Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 99 (18d8 + 18) 
+- **Hit Points** 99 (`18d8 + 18`) 
 - **Speed** 30 ft., fly 15 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 11 | +0 | +0 |
-|Int| 19 | +4 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | **+4** |
-|Wis| 17 | +3 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 17 | +3 | **+6** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|12 (+1)|12 (+1)|19 (+4)|17 (+3)|17 (+3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +4, Intelligence +7, Wisdom +6, Charisma +6
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +7, [Insight](3.Mechanics/rules/skills.md#Insight) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
-- **Damage Resistances** Psychic
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Damage Resistances** psychic
 - **Gear** [breastplate](3.Mechanics/items/breastplate-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 16
-- **Languages** Deep Speech, Undercommon; Telepathy 120 ft.
+- **Languages** Deep Speech, Undercommon; telepathy 120 ft.
 - **Challenge** 7
 
 ## Traits

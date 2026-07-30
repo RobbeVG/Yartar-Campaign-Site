@@ -49,34 +49,26 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 | 8 | Whale | A treasure chest |
 ^pirate-flags
 
+## Statblock
+
 ```ad-statblock
 title: Pirate Captain
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Pirate%20Captain.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 17 
-- **Hit Points** 84 (13d8 + 26) 
+- **Hit Points** 84 (`13d8 + 26`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | **+3** |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | **+7** |
-|Wis| 14 | +2 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 17 | +3 | **+6** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|18 (+4)|14 (+2)|10 (+0)|14 (+2)|17 (+3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +3, Dexterity +7, Wisdom +5, Charisma +6
 - **Skills** [Acrobatics](3.Mechanics/rules/skills.md#Acrobatics) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +5
+- **Senses** passive Perception 15
 - **Gear** [pistol](3.Mechanics/items/pistol-xphb.md), [rapier](3.Mechanics/items/rapier-xphb.md)
-- **Senses** Passive Perception 15
 - **Languages** Common plus one other language
 - **Challenge** 6
 

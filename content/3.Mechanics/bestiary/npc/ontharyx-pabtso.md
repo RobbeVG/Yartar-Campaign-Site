@@ -10,42 +10,30 @@ tags:
 title: "Ontharyx"
 aliases:
 - "Ontharyx"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
 # Ontharyx
 *Source: Phandelver and Below: The Shattered Obelisk p. 115*  
+
 ```ad-statblock
 title: Ontharyx
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Ontharyx.webp#token)
-*Medium Aberration, Any Alignment*
+*Medium aberration, Any alignment*
 
 - **Armor Class** 14 
-- **Hit Points** 65 (10d8 + 20) 
+- **Hit Points** 65 (`10d8 + 20`) 
 - **Speed** 30 ft., fly 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12 | +1 | +1 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | +4 |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|18 (+4)|14 (+2)|11 (+0)|13 (+1)|15 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +3, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Damage Resistances** Psychic
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 13
-- **Languages** Common, Telepathy 60 ft.
+- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 13
+- **Damage Resistances** psychic
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- **Languages** Common, telepathy 60 ft.
 - **Challenge** 4
 
 ## Traits

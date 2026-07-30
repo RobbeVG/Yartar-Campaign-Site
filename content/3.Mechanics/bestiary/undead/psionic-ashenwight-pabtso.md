@@ -10,13 +10,6 @@ tags:
 title: "Psionic Ashenwight"
 aliases:
 - "Psionic Ashenwight"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 ---
 # Psionic Ashenwight
 *Source: Phandelver and Below: The Shattered Obelisk p. 204*  
@@ -32,36 +25,28 @@ When a Humanoid consumed by cruelty and rage dies in an area corrupted by the Fa
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Ashenwights.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Psionic Ashenwight
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Psionic%20Ashenwight.webp#token)
-*Medium Undead, Typically  Neutral*
+*Medium undead, typically  Neutral*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 78 (12d8 + 24) 
+- **Hit Points** 78 (`12d8 + 24`) 
 - **Speed** 25 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | **+7** |
-|Int| 17 | +3 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 14 | +2 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | **+5** |
-|Cha| 6 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|13 (+1)|15 (+2)|17 (+3)|14 (+2)| 6 (-2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +7, Constitution +5, Intelligence +6, Wisdom +5
 - **Skills** ⏤
-- **Damage Resistances** Necrotic, Poison, Psychic
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Unconscious](3.Mechanics/rules/conditions.md#Unconscious)
-- **Senses** Passive Perception 12
-- **Languages** Telepathy 120 ft., Understands the languages it knew in life but can't speak
+- **Senses** passive Perception 12
+- **Damage Resistances** necrotic, poison, psychic
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
+- **Languages** telepathy 120 ft., understands the languages it knew in life but can't speak
 - **Challenge** 7
 
 ## Actions

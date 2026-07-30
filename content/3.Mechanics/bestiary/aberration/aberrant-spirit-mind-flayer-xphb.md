@@ -13,35 +13,26 @@ aliases:
 ---
 # Aberrant Spirit (Mind Flayer)
 *Source: Player's Handbook (2024) p. 322*  
+
 ```ad-statblock
 title: Aberrant Spirit (Mind Flayer)
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Aberrant%20Spirit%20%28Mind%20Flayer%29.webp#token)
-*Medium Aberration, Neutral*
+*Medium aberration, Neutral*
 
 - **Armor Class** (11 + the spell's level)
 - **Hit Points** 40 + 10 for each spell level above 4  (40 + 10 for each spell level above 4)
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 6 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|10 (+0)|15 (+2)|16 (+3)|10 (+0)| 6 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Immunities** Psychic
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
-- **Languages** Deep Speech, Understands the languages you know
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Damage Immunities** psychic
+- **Languages** Deep Speech, understands the languages you know
 - **Challenge** 
 
 ## Traits

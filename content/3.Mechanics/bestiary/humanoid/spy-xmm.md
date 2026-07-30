@@ -39,34 +39,26 @@ Spies gather information and disseminate lies, manipulating people to gain the r
 | 4 | A visitor from a different time or world. |
 ^spy-personas
 
+## Statblock
+
 ```ad-statblock
 title: Spy
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Spy.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 12 
-- **Hit Points** 27 (6d8) 
+- **Hit Points** 27 (`6d8`) 
 - **Speed** 30 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 10 | +0 | +0 |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +5, [Insight](3.Mechanics/rules/skills.md#Insight) +4, [Investigation](3.Mechanics/rules/skills.md#Investigation) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Sleight of Hand](3.Mechanics/rules/skills.md#Sleight%20of%20Hand) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
+- **Senses** passive Perception 16
 - **Gear** [hand crossbow](3.Mechanics/items/hand-crossbow-xphb.md), [shortsword](3.Mechanics/items/shortsword-xphb.md), [thieves' tools](3.Mechanics/items/thieves-tools-xphb.md)
-- **Senses** Passive Perception 16
 - **Languages** Common plus one other language
 - **Challenge** 1
 

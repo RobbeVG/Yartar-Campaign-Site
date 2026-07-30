@@ -29,35 +29,26 @@ Intellect devourers serve their mind flayer creators by consuming other creature
 > 
 > I know Durgan, and that wasn't Durgan. It was like something was wearing Durgan... like some sort of suit... a Durgan suit.
 
+
 ```ad-statblock
 title: Intellect Devourer
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Intellect%20Devourer.webp#token)
-*Tiny Aberration, Lawful Evil*
+*Tiny aberration, Lawful Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 28 (8d4 + 8) 
+- **Hit Points** 28 (`8d4 + 8`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 6 | -2 | -2 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6 (-2)|14 (+2)|13 (+1)|14 (+2)|11 (+0)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +2, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
-- **Damage Resistances** Psychic
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 12
-- **Languages** Understands Deep Speech but can't speak; Telepathy 60 ft.
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception 12
+- **Damage Resistances** psychic
+- **Languages** understands Deep Speech but can't speak; telepathy 60 ft.
 - **Challenge** 2
 
 ## Traits

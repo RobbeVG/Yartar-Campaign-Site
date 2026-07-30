@@ -12,8 +12,6 @@ tags:
 title: "Spined Devil"
 aliases:
 - "Spined Devil"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Spined Devil
 *Source: Monster Manual (2024) p. 296*  
@@ -41,37 +39,28 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 | 5 | The movements of extraplanar armies. |
 | 6 | Prophecies or secrets hidden by gods. |
 ^spined-devil-intelligence
+
 ```ad-statblock
 title: Spined Devil
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Spined%20Devil.webp#token)
-*Small Fiend (devil), Lawful Evil*
+*Small fiend (devil), Lawful Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 45 (10d6 + 10) 
+- **Hit Points** 45 (`10d6 + 10`) 
 - **Speed** 20 ft., fly 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|15 (+2)|12 (+1)|11 (+0)|14 (+2)| 8 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Resistances** Cold
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), Passive Perception 12
-- **Languages** Infernal; Telepathy 120 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive Perception 12
+- **Damage Resistances** cold
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Infernal; telepathy 120 ft.
 - **Challenge** 2
 
 ## Traits

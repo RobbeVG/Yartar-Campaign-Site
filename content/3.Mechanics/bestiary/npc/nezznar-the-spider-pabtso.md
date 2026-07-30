@@ -19,33 +19,24 @@ aliases:
 The Spider—a drow mastermind named Nezznar—is searching Wave Echo Cave for the Forge of Spells, a magical forge that was used by dwarves and gnomes in bygone days to fashion powerful magic items.
 
 The Spider wants Wave Echo Cave for himself, and he's taking steps to make sure no one else knows where it is.
+
 ```ad-statblock
 title: Nezznar the Spider
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Nezznar%20the%20Spider.webp#token)
-*Medium Humanoid (elf, wizard), Neutral Evil*
+*Medium humanoid (elf, wizard), Neutral Evil*
 
 - **Armor Class** 11 (14 with [mage armor](3.Mechanics/spells/mage-armor-xphb.md))
-- **Hit Points** 27 (6d8) 
+- **Hit Points** 27 (`6d8`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 9 | -1 | -1 |
-|Int| 16 | +3 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 14 | +2 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 10 | +0 | +0 |
-|Cha| 13 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 9 (-1)|13 (+1)|10 (+0)|16 (+3)|14 (+2)|13 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Intelligence +5, Wisdom +4
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 14
+- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 14
 - **Languages** Common, Elvish, Undercommon
 - **Challenge** 2
 

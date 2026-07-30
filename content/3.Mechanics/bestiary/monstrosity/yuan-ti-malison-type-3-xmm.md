@@ -14,8 +14,6 @@ tags:
 title: "Yuan-ti Malison (Type 3)"
 aliases:
 - "Yuan-ti Malison (Type 3)"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Yuan-ti Malison (Type 3)
 *Source: Monster Manual (2024) p. 344*  
@@ -61,35 +59,27 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Yuan-ti.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Yuan-ti Malison (Type 3)
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Yuan-ti%20Malison%20%28Type%203%29.webp#token)
-*Medium Monstrosity, Neutral Evil*
+*Medium monstrosity, Neutral Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 66 (12d8 + 12) 
+- **Hit Points** 66 (`12d8 + 12`) 
 - **Speed** 30 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 12 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|14 (+2)|13 (+1)|14 (+2)|16 (+3)|12 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** +4 (+6 while in snake form)
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 13
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Abyssal, Common, Draconic
 - **Challenge** 3
 

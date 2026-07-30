@@ -10,41 +10,30 @@ tags:
 title: "Fiendish Spirit (Yugoloth)"
 aliases:
 - "Fiendish Spirit (Yugoloth)"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Fiendish Spirit (Yugoloth)
 *Source: Player's Handbook (2024) p. 327*  
+
 ```ad-statblock
 title: Fiendish Spirit (Yugoloth)
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Fiendish%20Spirit%20%28Yugoloth%29.webp#token)
-*Large Fiend, Neutral*
+*Large fiend, Neutral*
 
 - **Armor Class** (12 + the spell's level)
 - **Hit Points** 60 + 15 for each spell level above 6  (60 + 15 for each spell level above 6)
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13 | +1 | +1 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|13 (+1)|16 (+3)|15 (+2)|10 (+0)|10 (+0)|16 (+3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Resistances** Fire
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Damage Resistances** fire
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Abyssal, Infernal, Telepathy 60 ft.
 - **Challenge** 
 

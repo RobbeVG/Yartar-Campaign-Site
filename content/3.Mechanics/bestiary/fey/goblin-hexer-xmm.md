@@ -42,33 +42,25 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 > Bree-yark!
 
 
+## Statblock
+
 ```ad-statblock
 title: Goblin Hexer
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Goblin%20Hexer.webp#token)
-*Small Fey (goblinoid), Chaotic Neutral*
+*Small fey (goblinoid), Chaotic Neutral*
 
 - **Armor Class** 13 
-- **Hit Points** 45 (10d6 + 10) 
+- **Hit Points** 45 (`10d6 + 10`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 8 | -1 | -1 |
-|Int| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (-1)|16 (+3)|12 (+1)|16 (+3)|10 (+0)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Sleight of Hand](3.Mechanics/rules/skills.md#Sleight%20of%20Hand) +5, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Common, Goblin
 - **Challenge** 3
 

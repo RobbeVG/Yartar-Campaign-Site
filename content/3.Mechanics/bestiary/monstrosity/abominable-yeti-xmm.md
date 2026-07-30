@@ -36,34 +36,26 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
 > In the yeti, I find no kinship, no understanding, no mercy. Theirs is not the might of the mountain or the magic of glacial wonders. Theirs is a world where harmony lies murdered and frozen.
 
 
+## Statblock
+
 ```ad-statblock
 title: Abominable Yeti
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Abominable%20Yeti.webp#token)
-*Huge Monstrosity, Chaotic Evil*
+*Huge monstrosity, Chaotic Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 137 (11d12 + 66) 
+- **Hit Points** 137 (`11d12 + 66`) 
 - **Speed** 40 ft., climb 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 24 | +7 | +7 |
-|Int| 9 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 22 | +6 | +6 |
-|Cha| 9 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|24 (+7)|10 (+0)|22 (+6)| 9 (-1)|13 (+1)| 9 (-1)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +9, [Stealth](3.Mechanics/rules/skills.md#Stealth) +8
-- **Damage Immunities** Cold
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 19
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 19
+- **Damage Immunities** cold
 - **Languages** Yeti
 - **Challenge** 9
 

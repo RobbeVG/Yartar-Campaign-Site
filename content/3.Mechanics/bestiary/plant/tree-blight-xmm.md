@@ -11,8 +11,6 @@ tags:
 title: "Tree Blight"
 aliases:
 - "Tree Blight"
-conditionImmunities:
-- [deafened](3.Mechanics/rules/conditions.md#Deafened)
 ---
 # Tree Blight
 *Source: Monster Manual (2024) p. 44*  
@@ -34,35 +32,27 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
 
 
+## Statblock
+
 ```ad-statblock
 title: Tree Blight
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Tree%20Blight.webp#token)
-*Huge Plant, Neutral Evil*
+*Huge plant, Neutral Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 115 (10d12 + 50) 
+- **Hit Points** 115 (`10d12 + 50`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 23 | +6 | +6 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | +5 |
-|Cha| 3 | -4 | -4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|23 (+6)|10 (+0)|20 (+5)| 6 (-2)|10 (+0)| 3 (-4)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Condition Immunities** [Deafened](3.Mechanics/rules/conditions.md#Deafened)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 10
-- **Languages** Understands Common and Druidic but can't speak
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception 10
+- **Condition Immunities** [deafened](3.Mechanics/rules/conditions.md#Deafened)
+- **Languages** understands Common and Druidic but can't speak
 - **Challenge** 7
 
 ## Actions

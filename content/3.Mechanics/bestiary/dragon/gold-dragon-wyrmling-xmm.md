@@ -34,34 +34,26 @@ Gold dragons favor grasslands and pristine forests, frequently dwelling near awe
 
 Gold dragons make their homes in places of natural and magical wonder.
 
+## Statblock
+
 ```ad-statblock
 title: Gold Dragon Wyrmling
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gold%20Dragon%20Wyrmling.webp#token)
-*Medium Dragon (metallic), Lawful Good*
+*Medium dragon (metallic), Lawful Good*
 
 - **Armor Class** 17 
-- **Hit Points** 60 (8d8 + 24) 
+- **Hit Points** 60 (`8d8 + 24`) 
 - **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | **+4** |
-|Wis| 11 | +0 | **+2** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | +3 |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|14 (+2)|17 (+3)|14 (+2)|11 (+0)|16 (+3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +4, Wisdom +2
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
-- **Damage Immunities** Fire
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Damage Immunities** fire
 - **Languages** Draconic
 - **Challenge** 3
 

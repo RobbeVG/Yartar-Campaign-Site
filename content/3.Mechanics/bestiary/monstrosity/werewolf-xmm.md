@@ -25,34 +25,25 @@ aliases:
 - **Treasure.** Any  
 
 Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid hybrids. Werewolves can shape-shift voluntarily, but many can't resist transforming during the nights of a full moon.
+
 ```ad-statblock
 title: Werewolf
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Werewolf.webp#token)
-*Small or Medium Monstrosity (lycanthrope), Chaotic Evil*
+*Small or Medium monstrosity (lycanthrope), Chaotic Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 71 (11d8 + 22) 
+- **Hit Points** 71 (`11d8 + 22`) 
 - **Speed** 30 ft., 40 ft. (wolf form only)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|14 (+2)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Gear** [longbow](3.Mechanics/items/longbow-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
 - **Languages** Common (can't speak in wolf form)
 - **Challenge** 3
 

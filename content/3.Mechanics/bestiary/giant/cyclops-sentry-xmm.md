@@ -32,33 +32,25 @@ Most cyclops sentries serve their divine progenitors and oppose those who would 
 
 Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vision, cyclopes can witness how future events are likely to occur.
 
+## Statblock
+
 ```ad-statblock
 title: Cyclops Sentry
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cyclops%20Sentry.webp#token)
-*Huge Giant, Chaotic Neutral*
+*Huge giant, Chaotic Neutral*
 
 - **Armor Class** 14 
-- **Hit Points** 138 (12d12 + 60) 
+- **Hit Points** 138 (`12d12 + 60`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 22 | +6 | +6 |
-|Int| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | +5 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|22 (+6)|11 (+0)|20 (+5)| 8 (-1)| 6 (-2)|10 (+0)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** Passive Perception 8
+- **Senses** passive Perception 8
 - **Languages** Giant
 - **Challenge** 6
 

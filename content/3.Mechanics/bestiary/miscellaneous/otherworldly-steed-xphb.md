@@ -14,6 +14,7 @@ aliases:
 # Otherworldly Steed
 *Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Otherworldly%20Steed.webp#center)
+
 ```ad-statblock
 title: Otherworldly Steed
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Otherworldly%20Steed.webp#token)
@@ -23,25 +24,15 @@ title: Otherworldly Steed
 - **Hit Points** 5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell's level)  (5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell's level))
 - **Speed** 60 ft., fly 60 ft. (requires level 4+ spell)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|12 (+1)|14 (+2)| 6 (-2)|12 (+1)| 8 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** Passive Perception 11
-- **Languages** Telepathy 1 mile (works only with you)
+- **Senses** passive Perception 11
+- **Languages** telepathy 1 mile (works only with you)
 - **Challenge** 
 
 ## Traits

@@ -54,34 +54,26 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Priests.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Priest Acolyte
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Priest%20Acolyte.webp#token)
-*Small or Medium Humanoid (cleric), Neutral*
+*Small or Medium humanoid (cleric), Neutral*
 
 - **Armor Class** 13 
-- **Hit Points** 11 (2d8 + 2) 
+- **Hit Points** 11 (`2d8 + 2`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 14 | +2 | +2 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|10 (+0)|12 (+1)|10 (+0)|14 (+2)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Medicine](3.Mechanics/rules/skills.md#Medicine) +4, [Religion](3.Mechanics/rules/skills.md#Religion) +2
+- **Senses** passive Perception 12
 - **Gear** [chain shirt](3.Mechanics/items/chain-shirt-xphb.md), [holy symbol](3.Mechanics/items/holy-symbol-xphb.md), [mace](3.Mechanics/items/mace-xphb.md)
-- **Senses** Passive Perception 12
 - **Languages** Common
 - **Challenge** 1/4
 

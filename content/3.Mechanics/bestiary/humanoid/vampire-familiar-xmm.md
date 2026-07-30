@@ -12,8 +12,6 @@ tags:
 title: "Vampire Familiar"
 aliases:
 - "Vampire Familiar"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed) (except from its vampire master)
 ---
 # Vampire Familiar
 *Source: Monster Manual (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -57,36 +55,28 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > Darling, you are simply delicious...
 
 
+## Statblock
+
 ```ad-statblock
 title: Vampire Familiar
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Vampire%20Familiar.webp#token)
-*Small or Medium Humanoid, Neutral Evil*
+*Small or Medium humanoid, Neutral Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 65 (10d8 + 20) 
+- **Hit Points** 65 (`10d8 + 20`) 
 - **Speed** 30 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | **+5** |
-|Wis| 10 | +0 | **+2** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|16 (+3)|15 (+2)|10 (+0)|10 (+0)|14 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +5, Wisdom +2
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
-- **Damage Resistances** Necrotic
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed) (except from its vampire master)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Damage Resistances** necrotic
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed) (except from its vampire master)
 - **Gear** ten [daggers](3.Mechanics/items/dagger-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
 - **Languages** Common plus one other language
 - **Challenge** 3
 

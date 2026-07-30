@@ -28,34 +28,26 @@ These merfolk mages use magic to manipulate water, storms, and sea creatures to 
 
 Beneath the waves dwell merfolk, mysterious creatures that merge the features of humans and sea creatures. Some are curious about land dwellers, while others view them with suspicion.
 
+## Statblock
+
 ```ad-statblock
 title: Merfolk Wavebender
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Merfolk%20Wavebender.webp#token)
-*Medium Elemental, Neutral*
+*Medium elemental, Neutral*
 
 - **Armor Class** 14 
-- **Hit Points** 97 (15d8 + 30) 
+- **Hit Points** 97 (`15d8 + 30`) 
 - **Speed** 10 ft., swim 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | **+7** |
-|Wis| 19 | +4 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | **+5** |
-|Cha| 15 | +2 | **+5** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|18 (+4)|14 (+2)|13 (+1)|19 (+4)|15 (+2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +7, Constitution +5, Wisdom +7, Charisma +5
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +7
-- **Damage Resistances** Cold
-- **Senses** Passive Perception 17
+- **Senses** passive Perception 17
+- **Damage Resistances** cold
 - **Languages** Common, Primordial (Aquan)
 - **Challenge** 6
 

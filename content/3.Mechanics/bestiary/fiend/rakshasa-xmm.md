@@ -13,9 +13,6 @@ tags:
 title: "Rakshasa"
 aliases:
 - "Rakshasa"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
 # Rakshasa
 *Source: Monster Manual (2024) p. 253. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -33,35 +30,26 @@ Masters of manipulation, rakshasas infiltrate communities to claim positions of 
 Rakshasas can withstand some degree of magic, but legends tell of blessed warriors felling them with crossbow bolts, arrows, or similar weapons.
 
 Rakshasas' appearances combine humanlike bodies with the features of animals and monsters. All rakshasas have a physical oddity that remains when they adopt magical disguises, such as palms where the backs of the hands would be on humans.
+
 ```ad-statblock
 title: Rakshasa
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Rakshasa.webp#token)
-*Medium Fiend, Lawful Evil*
+*Medium fiend, Lawful Evil*
 
 - **Armor Class** 17 
-- **Hit Points** 221 (26d8 + 104) 
+- **Hit Points** 221 (`26d8 + 104`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 14 | +2 | +2 |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 17 | +3 | +3 |
-|Wis| 16 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | +4 |
-|Cha| 20 | +5 | +5 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|17 (+3)|18 (+4)|13 (+1)|16 (+3)|20 (+5)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** ⏤
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +10, [Insight](3.Mechanics/rules/skills.md#Insight) +8, [Perception](3.Mechanics/rules/skills.md#Perception) +8
-- **Damage Vulnerabilities** Piercing damage from weapons wielded by creatures under the effect of a [Bless](3.Mechanics/spells/bless-xphb.md) Spell
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 60 Ft., Passive Perception 18
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 60 ft., passive Perception 18
+- **Damage Vulnerabilities** piercing damage from weapons wielded by creatures under the effect of a [Bless](3.Mechanics/spells/bless-xphb.md) spell
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)
 - **Languages** Common, Infernal
 - **Challenge** 13
 

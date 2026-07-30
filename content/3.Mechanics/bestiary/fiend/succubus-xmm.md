@@ -42,35 +42,26 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
 | 5 | Posing as a flattering underling. |
 | 6 | Taking the form of one in need of protection. |
 ^succubus-temptations
+
 ```ad-statblock
 title: Succubus
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Succubus.webp#token)
-*Medium Fiend, Neutral Evil*
+*Medium fiend, Neutral Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 71 (13d8 + 13) 
+- **Hit Points** 71 (`13d8 + 13`) 
 - **Speed** 30 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 8 | -1 | -1 |
-|Int| 15 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 17 | +3 | +3 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 20 | +5 | +5 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (-1)|17 (+3)|13 (+1)|15 (+2)|12 (+1)|20 (+5)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +9, [Insight](3.Mechanics/rules/skills.md#Insight) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +9, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
-- **Damage Resistances** Cold, Fire, Poison, Psychic
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 15
-- **Languages** Abyssal, Common, Infernal; Telepathy 60 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Damage Resistances** cold, fire, poison, psychic
+- **Languages** Abyssal, Common, Infernal; telepathy 60 ft.
 - **Challenge** 4
 
 ## Traits

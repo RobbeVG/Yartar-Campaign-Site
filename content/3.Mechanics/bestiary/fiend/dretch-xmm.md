@@ -12,8 +12,6 @@ tags:
 title: "Dretch"
 aliases:
 - "Dretch"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Dretch
 *Source: Monster Manual (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -35,37 +33,29 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 > Ah, the infinite wonders of the Abyss. If there's anything you don't like, you'll find it here.
 
 
+## Statblock
+
 ```ad-statblock
 title: Dretch
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Dretch.webp#token)
-*Small Fiend (demon), Chaotic Evil*
+*Small fiend (demon), Chaotic Evil*
 
 - **Armor Class** 11 
-- **Hit Points** 18 (4d6 + 4) 
+- **Hit Points** 18 (`4d6 + 4`) 
 - **Speed** 20 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12 | +1 | +1 |
-|Int| 5 | -3 | -3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 3 | -4 | -4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|11 (+0)|12 (+1)| 5 (-3)| 8 (-1)| 3 (-4)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Resistances** Cold, Fire, Lightning
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
-- **Languages** Abyssal; Telepathy 60 ft. (works only with creatures that understand Abyssal)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Damage Resistances** cold, fire, lightning
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Abyssal; telepathy 60 ft. (works only with creatures that understand Abyssal)
 - **Challenge** 1/4
 
 ## Actions

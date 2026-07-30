@@ -19,33 +19,24 @@ aliases:
 A former member of the Lords' Alliance, Glasstaff seized an opportunity in Phandalin to line his own pockets. Originally tasked with setting up a constabulary, he instead assembled a group of outlaws and local ruffians to secure his own position in town.
 
 Glasstaff puts on airs of gentility and courteous manners, addressing his bandits and ruffians as "my good fellows," and referring to sordid acts such as kidnapping or arson as "that unpleasant little business" or "those unfortunate events." He may refer to the characters as his "honored guests," and expresses regret that he cannot provide suitable entertainment for the occasion of their visit. Beneath his genteel demeanor, however, Glasstaff is just as violent and arrogant as any of the Redbrands.
+
 ```ad-statblock
 title: Iarno "Glasstaff" Albrek
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Iarno%20Glasstaff%20Albrek.webp#token)
-*Medium Humanoid (human, wizard), Lawful Evil*
+*Medium humanoid (human, wizard), Lawful Evil*
 
 - **Armor Class** 12 (16 with [mage armor](3.Mechanics/spells/mage-armor-xphb.md) and [staff of defense](3.Mechanics/items/staff-of-defense-pabtso.md))
-- **Hit Points** 22 (5d8) 
+- **Hit Points** 22 (`5d8`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 9 | -1 | -1 |
-|Int| 17 | +3 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 12 | +1 | **+3** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 11 | +0 | +0 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Intelligence +5, Wisdom +3
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +5, [History](3.Mechanics/rules/skills.md#History) +5
-- **Senses** Passive Perception 11
+- **Senses** passive Perception 11
 - **Languages** Common, Draconic, Dwarvish, Elvish
 - **Challenge** 1
 

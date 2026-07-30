@@ -41,35 +41,26 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 | 5 | A night hag herding larvae between planes. |
 | 6 | A wicked cavalier, such as a death knight, an erinyes, an incubus, or a vampire. |
 ^nightmare-riders
+
 ```ad-statblock
 title: Nightmare
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Nightmare.webp#token)
-*Large Fiend, Neutral Evil*
+*Large fiend, Neutral Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 68 (8d10 + 24) 
+- **Hit Points** 68 (`8d10 + 24`) 
 - **Speed** 60 ft., fly 90 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Immunities** Fire
-- **Senses** Passive Perception 11
-- **Languages** Understands Abyssal, Common, And Infernal but can't speak
+- **Senses** passive Perception 11
+- **Damage Immunities** fire
+- **Languages** understands Abyssal, Common, and Infernal but can't speak
 - **Challenge** 3
 
 ## Traits

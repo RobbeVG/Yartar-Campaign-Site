@@ -47,34 +47,26 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 | 6 | Takes what they need to survive. |
 ^bandit-motivations
 
+## Statblock
+
 ```ad-statblock
 title: Bandit Deceiver
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bandit%20Deceiver.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 130 (20d8 + 40) 
+- **Hit Points** 130 (`20d8 + 40`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 8 | -1 | -1 |
-|Int| 17 | +3 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | **+6** |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (-1)|16 (+3)|14 (+2)|17 (+3)|12 (+1)|16 (+3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +6, Intelligence +6
 - **Skills** [Acrobatics](3.Mechanics/rules/skills.md#Acrobatics) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +9
+- **Senses** passive Perception 14
 - **Gear** six [daggers](3.Mechanics/items/dagger-xphb.md), [wand](3.Mechanics/items/wand-xphb.md)
-- **Senses** Passive Perception 14
 - **Languages** Common, Thieves' cant
 - **Challenge** 7
 

@@ -11,8 +11,6 @@ tags:
 title: "Archmage"
 aliases:
 - "Archmage"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed) (with Mind Blank)
 ---
 # Archmage
 *Source: Monster Manual (2024) p. 199. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -54,36 +52,28 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 > Have you gazed on the Runes of Chaos, held the Death Moon Orb in your trembling hands, entered the Devouring Portal and walked the Paths of the Doomed, or sat at the left hand of Szass Tam during the Ritual of Twin Burnings? No? Then speak not to me of wizards. Speak not to me of Thay.
 
 
+## Statblock
+
 ```ad-statblock
 title: Archmage
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Archmage.webp#token)
-*Small or Medium Humanoid (wizard), Neutral*
+*Small or Medium humanoid (wizard), Neutral*
 
 - **Armor Class** 17 
-- **Hit Points** 170 (31d8 + 31) 
+- **Hit Points** 170 (`31d8 + 31`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 20 | +5 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 15 | +2 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|14 (+2)|12 (+1)|20 (+5)|15 (+2)|16 (+3)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Intelligence +9, Wisdom +6
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +13, [History](3.Mechanics/rules/skills.md#History) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +6
-- **Damage Immunities** Psychic
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed) (with Mind Blank)
+- **Senses** passive Perception 16
+- **Damage Immunities** psychic
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed) (with Mind Blank)
 - **Gear** [wand](3.Mechanics/items/wand-xphb.md)
-- **Senses** Passive Perception 16
 - **Languages** Common plus five other languages
 - **Challenge** 12
 

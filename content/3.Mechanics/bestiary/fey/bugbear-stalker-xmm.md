@@ -31,34 +31,26 @@ Bugbear stalkers frequently take their victims hostage, relishing opportunities 
 
 Bugbears embody fear of the wilds and the menace of natural places. They're notoriously stealthy, and foes that venture into their territories often vanish without a trace.
 
+## Statblock
+
 ```ad-statblock
 title: Bugbear Stalker
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bugbear%20Stalker.webp#token)
-*Medium Fey (goblinoid), Chaotic Evil*
+*Medium fey (goblinoid), Chaotic Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 65 (10d8 + 20) 
+- **Hit Points** 65 (`10d8 + 20`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 12 | +1 | **+3** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | **+4** |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|14 (+2)|14 (+2)|11 (+0)|12 (+1)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Constitution +4, Wisdom +3
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +6, [Survival](3.Mechanics/rules/skills.md#Survival) +3
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Gear** [chain shirt](3.Mechanics/items/chain-shirt-xphb.md), six [javelins](3.Mechanics/items/javelin-xphb.md), [morningstar](3.Mechanics/items/morningstar-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 11
 - **Languages** Common, Goblin
 - **Challenge** 3
 

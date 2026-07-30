@@ -12,10 +12,6 @@ tags:
 title: "Planetar"
 aliases:
 - "Planetar"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
 # Planetar
 *Source: Monster Manual (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -45,36 +41,27 @@ These angels act where they can against overwhelming evil, but to avoid the atte
 | 5 | Recover and destroy an evil Artifact. |
 | 6 | Reveal the true name of a devil to banish it. |
 ^planetar-quests
+
 ```ad-statblock
 title: Planetar
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Planetar.webp#token)
-*Large Celestial (angel), Lawful Good*
+*Large celestial (angel), Lawful Good*
 
 - **Armor Class** 19 
-- **Hit Points** 262 (21d10 + 147) 
+- **Hit Points** 262 (`21d10 + 147`) 
 - **Speed** 40 ft., fly 120 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 24 | +7 | **+12** |
-|Int| 19 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 20 | +5 | +5 |
-|Wis| 22 | +6 | **+11** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 24 | +7 | **+12** |
-|Cha| 25 | +7 | **+12** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|24 (+7)|20 (+5)|24 (+7)|19 (+4)|22 (+6)|25 (+7)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Strength +12, Constitution +12, Wisdom +11, Charisma +12
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +11
-- **Damage Resistances** Radiant
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 21
-- **Languages** All; Telepathy 120 ft.
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 21
+- **Damage Resistances** radiant
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- **Languages** all; telepathy 120 ft.
 - **Challenge** 16
 
 ## Traits

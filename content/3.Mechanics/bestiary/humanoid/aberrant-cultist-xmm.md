@@ -80,34 +80,26 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Aberrant%20Cultist%20and%20Elemental%20Cultist.webp)
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Cultists.webp)
 
+## Statblock
+
 ```ad-statblock
 title: Aberrant Cultist
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Aberrant%20Cultist.webp#token)
-*Small or Medium Humanoid, Neutral Evil*
+*Small or Medium humanoid, Neutral Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 137 (25d8 + 25) 
+- **Hit Points** 137 (`25d8 + 25`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 16 | +3 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 19 | +4 | +4 |
-|Wis| 18 | +4 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|19 (+4)|12 (+1)|16 (+3)|18 (+4)|15 (+2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Intelligence +6, Wisdom +7
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Religion](3.Mechanics/rules/skills.md#Religion) +6
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 Ft., Passive Perception 17
-- **Languages** Common, Deep Speech; Telepathy 30 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 ft., passive Perception 17
+- **Languages** Common, Deep Speech; telepathy 30 ft.
 - **Challenge** 8
 
 ## Actions

@@ -34,34 +34,26 @@ Gold dragons favor grasslands and pristine forests, frequently dwelling near awe
 
 Gold dragons make their homes in places of natural and magical wonder.
 
+## Statblock
+
 ```ad-statblock
 title: Ancient Gold Dragon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ancient%20Gold%20Dragon.webp#token)
-*Gargantuan Dragon (metallic), Lawful Good*
+*Gargantuan dragon (metallic), Lawful Good*
 
 - **Armor Class** 22 
-- **Hit Points** 546 (28d20 + 252) 
+- **Hit Points** 546 (`28d20 + 252`) 
 - **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 30 | +10 | +10 |
-|Int| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | **+9** |
-|Wis| 17 | +3 | **+10** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 29 | +9 | +9 |
-|Cha| 28 | +9 | +9 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|30 (+10)|14 (+2)|29 (+9)|18 (+4)|17 (+3)|28 (+9)|
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +9, Wisdom +10
 - **Skills** [Insight](3.Mechanics/rules/skills.md#Insight) +10, [Perception](3.Mechanics/rules/skills.md#Perception) +17, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +16, [Stealth](3.Mechanics/rules/skills.md#Stealth) +9
-- **Damage Immunities** Fire
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 27
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 27
+- **Damage Immunities** fire
 - **Languages** Common, Draconic
 - **Challenge** 24
 

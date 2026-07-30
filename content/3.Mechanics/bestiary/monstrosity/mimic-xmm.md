@@ -12,8 +12,6 @@ tags:
 title: "Mimic"
 aliases:
 - "Mimic"
-conditionImmunities:
-- [prone](3.Mechanics/rules/conditions.md#Prone)
 ---
 # Mimic
 *Source: Monster Manual (2024) p. 212. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -101,35 +99,26 @@ Throne
 Topiary
 
 Weapon rack
+
 ```ad-statblock
 title: Mimic
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mimic.webp#token)
-*Medium Monstrosity, Neutral*
+*Medium monstrosity, Neutral*
 
 - **Armor Class** 12 
-- **Hit Points** 58 (9d8 + 18) 
+- **Hit Points** 58 (`9d8 + 18`) 
 - **Speed** 20 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 5 | -3 | -3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|12 (+1)|15 (+2)| 5 (-3)|13 (+1)| 8 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Damage Immunities** Acid
-- **Condition Immunities** [Prone](3.Mechanics/rules/conditions.md#Prone)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 11
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Damage Immunities** acid
+- **Condition Immunities** [prone](3.Mechanics/rules/conditions.md#Prone)
 - **Languages** —
 - **Challenge** 2
 

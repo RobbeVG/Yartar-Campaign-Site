@@ -29,34 +29,25 @@ Fire giants inhabit the hollow vaults and molten rivers of mountainous depths. T
 Fire giants have broad frames, skin tones in a variety of rocklike shades, and hair like flame.
 
 Most fire giants dwell in volcanically active mountains or cavernous depths that house their fortress-forges. Evil fire giants tend to be martially minded, and they craft mighty arms to conquer their neighbors and seize valuable resources. More temperate fire giants trade their works for what they need, and they might share the ancient techniques of Giant artisans with other craftspeople. In either case, fire giants are prone to undertaking ambitious designs, and they rarely appreciate interruptions in their titanic workshops.
+
 ```ad-statblock
 title: Fire Giant
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Fire%20Giant.webp#token)
-*Huge Giant, Lawful Evil*
+*Huge giant, Lawful Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 162 (13d12 + 78) 
+- **Hit Points** 162 (`13d12 + 78`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 25 | +7 | +7 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 9 | -1 | **+3** |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 23 | +6 | **+10** |
-|Cha| 13 | +1 | **+5** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|25 (+7)| 9 (-1)|23 (+6)|10 (+0)|14 (+2)|13 (+1)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +3, Constitution +10, Charisma +5
 - **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +11, [Perception](3.Mechanics/rules/skills.md#Perception) +6
-- **Damage Immunities** Fire
-- **Senses** Passive Perception 16
+- **Senses** passive Perception 16
+- **Damage Immunities** fire
 - **Languages** Giant
 - **Challenge** 9
 

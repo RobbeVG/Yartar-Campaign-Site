@@ -16,34 +16,25 @@ aliases:
 
 
 Brain breakers look like giant brains with stout legs, and they wear steel armor made from interlocked links of Ilvaash's runes (knots of tentacles, brains, and jagged lines reminiscent of jaws).
+
 ```ad-statblock
 title: Brain Breaker
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Brain%20Breaker.webp#token)
-*Large Aberration (mind flayer), Lawful Evil*
+*Large aberration (mind flayer), Lawful Evil*
 
 - **Armor Class** 14 ([ring mail](3.Mechanics/items/ring-mail-xphb.md))
-- **Hit Points** 189 (18d10 + 90) 
+- **Hit Points** 189 (`18d10 + 90`) 
 - **Speed** 30 ft., fly 30 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 21 | +5 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 19 | +4 | **+8** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | +5 |
-|Cha| 20 | +5 | **+9** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|10 (+0)|20 (+5)|21 (+5)|19 (+4)|20 (+5)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Intelligence +9, Wisdom +8, Charisma +9
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +9, [Insight](3.Mechanics/rules/skills.md#Insight) +12
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 Ft., Passive Perception 14
-- **Languages** Telepathy 1 mile; Understands Common, Deep Speech, And Undercommon but can't speak
+- **Senses** [blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 ft., passive Perception 14
+- **Languages** telepathy 1 mile; understands Common, Deep Speech, and Undercommon but can't speak
 - **Challenge** 12
 
 ## Traits

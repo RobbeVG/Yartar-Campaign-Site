@@ -13,9 +13,6 @@ tags:
 title: "Sphinx of Lore"
 aliases:
 - "Sphinx of Lore"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
 # Sphinx of Lore
 *Source: Monster Manual (2024) p. 293. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -51,36 +48,28 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Sphinxes.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Sphinx of Lore
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sphinx%20of%20Lore.webp#token)
-*Large Celestial, Lawful Neutral*
+*Large celestial, Lawful Neutral*
 
 - **Armor Class** 17 
-- **Hit Points** 170 (20d10 + 60) 
+- **Hit Points** 170 (`20d10 + 60`) 
 - **Speed** 40 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 18 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 18 | +4 | +4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|15 (+2)|16 (+3)|18 (+4)|18 (+4)|18 (+4)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +12, [History](3.Mechanics/rules/skills.md#History) +12, [Perception](3.Mechanics/rules/skills.md#Perception) +8, [Religion](3.Mechanics/rules/skills.md#Religion) +12
-- **Damage Resistances** Necrotic, Radiant
-- **Damage Immunities** Psychic
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 18
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 18
+- **Damage Resistances** necrotic, radiant
+- **Damage Immunities** psychic
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)
 - **Languages** Celestial, Common
 - **Challenge** 11
 

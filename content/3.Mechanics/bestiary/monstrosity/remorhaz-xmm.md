@@ -27,34 +27,26 @@ Full-grown remorhazes are single-minded ambush predators. They attempt to bite p
 
 Remorhazes are centipede-like terrors that burrow through snow and ice to ambush smaller creatures that trespass in their frozen territories.
 
+## Statblock
+
 ```ad-statblock
 title: Remorhaz
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Remorhaz.webp#token)
-*Huge Monstrosity, Unaligned*
+*Huge monstrosity, Unaligned*
 
 - **Armor Class** 17 
-- **Hit Points** 195 (17d12 + 85) 
+- **Hit Points** 195 (`17d12 + 85`) 
 - **Speed** 40 ft., burrow 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 24 | +7 | +7 |
-|Int| 4 | -3 | -3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 21 | +5 | +5 |
-|Cha| 5 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|24 (+7)|13 (+1)|21 (+5)| 4 (-3)|10 (+0)| 5 (-3)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Damage Immunities** Cold, Fire
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Tremorsense 60 ft., Passive Perception 10
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., Tremorsense 60 ft., passive Perception 10
+- **Damage Immunities** cold, fire
 - **Languages** —
 - **Challenge** 11
 

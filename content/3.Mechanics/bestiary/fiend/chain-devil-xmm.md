@@ -12,8 +12,6 @@ tags:
 title: "Chain Devil"
 aliases:
 - "Chain Devil"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Chain Devil
 *Source: Monster Manual (2024) p. 68. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -41,37 +39,28 @@ Along with psychological threats and physical harm, a chain devil uses its unner
 | 3 | A harsh instructor or superior. |
 | 4 | The viewer at their lowest point in life. |
 ^chain-devil-masks
+
 ```ad-statblock
 title: Chain Devil
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Chain%20Devil.webp#token)
-*Medium Fiend (devil), Lawful Evil*
+*Medium fiend (devil), Lawful Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 85 (10d8 + 40) 
+- **Hit Points** 85 (`10d8 + 40`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 12 | +1 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | **+7** |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|15 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Constitution +7, Wisdom +4
 - **Skills** ⏤
-- **Damage Resistances** Bludgeoning, Cold, Piercing, Slashing
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), Passive Perception 11
-- **Languages** Infernal; Telepathy 120 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive Perception 11
+- **Damage Resistances** bludgeoning, cold, piercing, slashing
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Infernal; telepathy 120 ft.
 - **Challenge** 8
 
 ## Traits

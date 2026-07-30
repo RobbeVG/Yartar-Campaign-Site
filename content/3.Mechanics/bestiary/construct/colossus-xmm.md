@@ -11,15 +11,6 @@ tags:
 title: "Colossus"
 aliases:
 - "Colossus"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [stunned](3.Mechanics/rules/conditions.md#Stunned)
-- [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 ---
 # Colossus
 *Source: Monster Manual (2024) p. 76*  
@@ -37,37 +28,28 @@ Colossi are massive Constructs created by the devout to reflect the nature of a 
 Droves of faithful artisans craft a colossus in a shape to honor their deity, then call on that god to infuse the statue with life. This arduous process might take decades and involve hundreds of workers. If the god favors the creation, the mighty crystal at the construct's heart pulses with divine power, and the colossus rises to protect the faithful or enact the god's will.
 
 Most colossi were created in ages past and now lie dormant in secluded wilderness, awakening only when disturbed or called on to serve once more.
+
 ```ad-statblock
 title: Colossus
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Colossus.webp#token)
-*Gargantuan Construct (titan), Unaligned*
+*Gargantuan construct (titan), Unaligned*
 
 - **Armor Class** 23 
-- **Hit Points** 553 (27d20 + 270) 
+- **Hit Points** 553 (`27d20 + 270`) 
 - **Speed** 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 30 | +10 | +10 |
-|Int| 3 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | **+8** |
-|Wis| 11 | +0 | **+8** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 30 | +10 | +10 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|30 (+10)|11 (+0)|30 (+10)| 3 (-4)|11 (+0)| 8 (-1)|
 
 - **Proficiency Bonus** +8
 - **Saving Throws** Dexterity +8, Wisdom +8
 - **Skills** ⏤
-- **Damage Resistances** Necrotic, Radiant
-- **Damage Immunities** Poison, Psychic
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Stunned](3.Mechanics/rules/conditions.md#Stunned), [Unconscious](3.Mechanics/rules/conditions.md#Unconscious)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 300 Ft., Passive Perception 10
-- **Languages** Understands Celestial and Common but can't speak
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 300 ft., passive Perception 10
+- **Damage Resistances** necrotic, radiant
+- **Damage Immunities** poison, psychic
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [stunned](3.Mechanics/rules/conditions.md#Stunned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
+- **Languages** understands Celestial and Common but can't speak
 - **Challenge** 25
 
 ## Traits

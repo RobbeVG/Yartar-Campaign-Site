@@ -38,34 +38,25 @@ Gladiators are professional fighters who pit themselves against one another, mon
 | 5 | Seeks to claim a trophy from a foe. |
 | 6 | Takes advice from the crowd, omens, or a pet. |
 ^gladiator-theatrics
+
 ```ad-statblock
 title: Gladiator
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gladiator.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 112 (15d8 + 45) 
+- **Hit Points** 112 (`15d8 + 45`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | **+7** |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | **+5** |
-|Wis| 12 | +1 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | **+6** |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|15 (+2)|16 (+3)|10 (+0)|12 (+1)|15 (+2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +7, Dexterity +5, Constitution +6, Wisdom +4
 - **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +10, [Performance](3.Mechanics/rules/skills.md#Performance) +5
+- **Senses** passive Perception 11
 - **Gear** [shield](3.Mechanics/items/shield-xphb.md), three [spears](3.Mechanics/items/spear-xphb.md), [studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)
-- **Senses** Passive Perception 11
 - **Languages** Common
 - **Challenge** 5
 

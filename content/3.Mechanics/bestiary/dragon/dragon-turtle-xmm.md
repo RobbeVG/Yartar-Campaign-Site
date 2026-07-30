@@ -27,34 +27,25 @@ aliases:
 Dragon turtles are mighty creatures with shells large enough to be mistaken for islands and jaws capable of snapping ships like twigs. While some of these aquatic dragons contentedly slumber in the depths, others jealously guard vast territories with their scalding breath and lay claim to anything that sinks into the depths or sails on the waves. Occasionally these dragons agree to aid pirates, aquatic peoples, or oceanic religions in return for contributions to their sunken treasure hoards.
 
 Many dragon turtles live in secluded lairs or ruins deep underwater, and they might not be spotted by surface dwellers for generations. Like both their namesakes, dragon turtles can have exceptionally long lives. Some recall the wonders of ages past or remarkable individuals that passed through their realms long ago. Such dragon turtles might be convinced to share their tales or provide guidance through their territories in exchange for treasures they've never glimpsed on the ocean floor.
+
 ```ad-statblock
 title: Dragon Turtle
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Dragon%20Turtle.webp#token)
-*Gargantuan Dragon, Neutral*
+*Gargantuan dragon, Neutral*
 
 - **Armor Class** 20 
-- **Hit Points** 356 (23d20 + 115) 
+- **Hit Points** 356 (`23d20 + 115`) 
 - **Speed** 20 ft., swim 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 25 | +7 | +7 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 12 | +1 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | **+11** |
-|Cha| 12 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|25 (+7)|10 (+0)|20 (+5)|10 (+0)|12 (+1)|12 (+1)|
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Constitution +11, Wisdom +7
 - **Skills** ⏤
-- **Damage Resistances** Fire
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 11
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Damage Resistances** fire
 - **Languages** Draconic, Primordial (Aquan)
 - **Challenge** 17
 

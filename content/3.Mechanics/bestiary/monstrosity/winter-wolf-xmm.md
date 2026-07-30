@@ -33,34 +33,25 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 > 
 > You'll never reach it, but at least your last thoughts will be warm.
 
+
 ```ad-statblock
 title: Winter Wolf
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Winter%20Wolf.webp#token)
-*Large Monstrosity, Neutral Evil*
+*Large monstrosity, Neutral Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 75 (10d10 + 20) 
+- **Hit Points** 75 (`10d10 + 20`) 
 - **Speed** 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 7 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 8 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|13 (+1)|14 (+2)| 7 (-2)|12 (+1)| 8 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Damage Immunities** Cold
-- **Senses** Passive Perception 15
+- **Senses** passive Perception 15
+- **Damage Immunities** cold
 - **Languages** Common, Giant
 - **Challenge** 3
 

@@ -54,34 +54,26 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Mages.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Mage Apprentice
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mage%20Apprentice.webp#token)
-*Small or Medium Humanoid (wizard), Neutral*
+*Small or Medium humanoid (wizard), Neutral*
 
 - **Armor Class** 15 
-- **Hit Points** 49 (9d8 + 9) 
+- **Hit Points** 49 (`9d8 + 9`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 8 | -1 | -1 |
-|Int| 16 | +3 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 13 | +1 | **+3** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (-1)|14 (+2)|12 (+1)|16 (+3)|13 (+1)|10 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Intelligence +5, Wisdom +3
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +3
+- **Senses** passive Perception 13
 - **Gear** [component pouch](3.Mechanics/items/component-pouch-xphb.md)
-- **Senses** Passive Perception 13
 - **Languages** Common plus one other language
 - **Challenge** 2
 

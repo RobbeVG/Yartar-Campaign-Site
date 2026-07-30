@@ -12,8 +12,6 @@ tags:
 title: "Horned Devil"
 aliases:
 - "Horned Devil"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Horned Devil
 *Source: Monster Manual (2024) p. 174. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -27,36 +25,27 @@ conditionImmunities:
 - **Treasure.** [Relics](3.Mechanics/tables/random-magic-items-relics.md)  
 
 Horned devils, also known as cornugons or malebranche, are infernal warriors that exact the will of diabolical generals and lead other devils in battle. Their bodies and weapons are forged in the Nine Hells, and they torment their foes with diabolical flames and pernicious wounds.
+
 ```ad-statblock
 title: Horned Devil
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Horned%20Devil.webp#token)
-*Large Fiend (devil), Lawful Evil*
+*Large fiend (devil), Lawful Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 199 (19d10 + 95) 
+- **Hit Points** 199 (`19d10 + 95`) 
 - **Speed** 30 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 22 | +6 | **+10** |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 17 | +3 | **+7** |
-|Wis| 16 | +3 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 21 | +5 | +5 |
-|Cha| 18 | +4 | **+8** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|22 (+6)|17 (+3)|21 (+5)|12 (+1)|16 (+3)|18 (+4)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Strength +10, Dexterity +7, Wisdom +7, Charisma +8
 - **Skills** ⏤
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 150 Ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), Passive Perception 13
-- **Languages** Infernal; Telepathy 120 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 150 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive Perception 13
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Infernal; telepathy 120 ft.
 - **Challenge** 11
 
 ## Traits

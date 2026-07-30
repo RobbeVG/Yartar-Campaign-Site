@@ -40,35 +40,26 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
 | 5 | Taking trophies from their victims. |
 | 6 | Using poison with a distinctive color or smell. |
 ^assassin-modus-operandi
+
 ```ad-statblock
 title: Assassin
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Assassin.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 97 (15d8 + 30) 
+- **Hit Points** 97 (`15d8 + 30`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 11 | +0 | +0 |
-|Int| 16 | +3 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | **+7** |
-|Wis| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|18 (+4)|14 (+2)|16 (+3)|11 (+0)|10 (+0)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +7, Intelligence +6
 - **Skills** [Acrobatics](3.Mechanics/rules/skills.md#Acrobatics) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Stealth](3.Mechanics/rules/skills.md#Stealth) +10
-- **Damage Resistances** Poison
+- **Senses** passive Perception 16
+- **Damage Resistances** poison
 - **Gear** [light crossbow](3.Mechanics/items/light-crossbow-xphb.md), [shortsword](3.Mechanics/items/shortsword-xphb.md), [studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)
-- **Senses** Passive Perception 16
 - **Languages** Common, Thieves' cant
 - **Challenge** 8
 

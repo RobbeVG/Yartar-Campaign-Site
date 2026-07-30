@@ -12,8 +12,6 @@ tags:
 title: "Mezzoloth"
 aliases:
 - "Mezzoloth"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Mezzoloth
 *Source: Monster Manual (2024) p. 211*  
@@ -43,37 +41,28 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
 | 5 | The right to loot holy sites in places it conquers. |
 | 6 | Souls, whether as larvae or captured spirits. |
 ^mezzoloth-payments
+
 ```ad-statblock
 title: Mezzoloth
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mezzoloth.webp#token)
-*Medium Fiend (yugoloth), Neutral Evil*
+*Medium fiend (yugoloth), Neutral Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 75 (10d8 + 30) 
+- **Hit Points** 75 (`10d8 + 30`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 7 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 10 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|11 (+0)|16 (+3)| 7 (-2)|14 (+2)|10 (+0)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5
-- **Damage Resistances** Cold, Fire, Lightning
-- **Damage Immunities** Acid, Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 15
-- **Languages** Abyssal, Infernal; Telepathy 60 ft.
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Damage Resistances** cold, fire, lightning
+- **Damage Immunities** acid, poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Abyssal, Infernal; telepathy 60 ft.
 - **Challenge** 5
 
 ## Traits

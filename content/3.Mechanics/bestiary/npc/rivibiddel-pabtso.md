@@ -14,34 +14,25 @@ aliases:
 # Rivibiddel
 *Source: Phandelver and Below: The Shattered Obelisk p. 122*  
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Rivibiddel.webp#center)
+
 ```ad-statblock
 title: Rivibiddel
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Rivibiddel.webp#token)
-*Small Humanoid (gnome), Neutral Good*
+*Small humanoid (gnome), Neutral Good*
 
 - **Armor Class** 15 ([chain shirt](3.Mechanics/items/chain-shirt-xphb.md))
-- **Hit Points** 16 (3d6 + 6) 
+- **Hit Points** 16 (`3d6 + 6`) 
 - **Speed** 15 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 9 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)| 9 (-1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Investigation](3.Mechanics/rules/skills.md#Investigation) +3, [Perception](3.Mechanics/rules/skills.md#Perception) +2, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
+- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 12
 - **Gear** [war pick](3.Mechanics/items/war-pick-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 12
 - **Languages** Gnomish, Terran, Undercommon
 - **Challenge** 1/2
 

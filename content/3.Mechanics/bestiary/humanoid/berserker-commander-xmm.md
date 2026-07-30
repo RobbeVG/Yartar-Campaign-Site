@@ -11,9 +11,6 @@ tags:
 title: "Berserker Commander"
 aliases:
 - "Berserker Commander"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
 # Berserker Commander
 *Source: Monster Manual (2024) p. 37*  
@@ -30,35 +27,27 @@ Berserker commanders bear the scars of battle and drive their followers to match
 
 Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fighters, and other ferocious warriors.
 
+## Statblock
+
 ```ad-statblock
 title: Berserker Commander
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Berserker%20Commander.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 136 (16d8 + 64) 
+- **Hit Points** 136 (`16d8 + 64`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | **+7** |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 19 | +4 | **+7** |
-|Cha| 9 | -1 | -1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|14 (+2)|19 (+4)|10 (+0)|14 (+2)| 9 (-1)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +7, Constitution +7
 - **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +5
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened)
+- **Senses** passive Perception 15
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)
 - **Gear** [greataxe](3.Mechanics/items/greataxe-xphb.md), six [javelins](3.Mechanics/items/javelin-xphb.md)
-- **Senses** Passive Perception 15
 - **Languages** Common
 - **Challenge** 8
 

@@ -35,33 +35,25 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
 
 
+## Statblock
+
 ```ad-statblock
 title: Gnoll Demoniac
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gnoll%20Demoniac.webp#token)
-*Medium Fiend, Chaotic Evil*
+*Medium fiend, Chaotic Evil*
 
 - **Armor Class** 16 
-- **Hit Points** 135 (18d8 + 54) 
+- **Hit Points** 135 (`18d8 + 54`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | **+6** |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 15 | +2 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 17 | +3 | **+6** |
-|Cha| 17 | +3 | **+6** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|12 (+1)|17 (+3)|14 (+2)|15 (+2)|17 (+3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +6, Constitution +6, Wisdom +5, Charisma +6
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 15
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Languages** Abyssal, Common, Gnoll
 - **Challenge** 8
 

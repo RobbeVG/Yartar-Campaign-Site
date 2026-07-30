@@ -14,34 +14,25 @@ aliases:
 # Yanthdel Henlifel
 *Source: Phandelver and Below: The Shattered Obelisk p. 114*  
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/NythalynandYanthdel.webp#center)
+
 ```ad-statblock
 title: Yanthdel Henlifel
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Yanthdel%20Henlifel.webp#token)
-*Medium Humanoid (Drow elf), Neutral*
+*Medium humanoid (Drow elf), Neutral*
 
 - **Armor Class** 18 ([studded leather](3.Mechanics/items/studded-leather-armor-xphb.md), [shield](3.Mechanics/items/shield-xphb.md))
-- **Hit Points** 71 (11d8 + 22) 
+- **Hit Points** 71 (`11d8 + 22`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 13 | +1 | +1 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | **+7** |
-|Wis| 13 | +1 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | **+5** |
-|Cha| 12 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|13 (+1)|18 (+4)|14 (+2)|11 (+0)|13 (+1)|12 (+1)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +7, Constitution +5, Wisdom +4
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +10
+- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 14
 - **Gear** [hand crossbow](3.Mechanics/items/hand-crossbow-xphb.md), [shortsword](3.Mechanics/items/shortsword-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 14
 - **Languages** Elvish, Undercommon
 - **Challenge** 5
 

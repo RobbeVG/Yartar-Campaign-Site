@@ -48,34 +48,26 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Sphinxes.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Sphinx of Wonder
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sphinx%20of%20Wonder.webp#token)
-*Tiny Celestial, Lawful Good*
+*Tiny celestial, Lawful Good*
 
 - **Armor Class** 13 
-- **Hit Points** 24 (7d4 + 7) 
+- **Hit Points** 24 (`7d4 + 7`) 
 - **Speed** 20 ft., fly 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 6 | -2 | -2 |
-|Int| 15 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 17 | +3 | +3 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6 (-2)|17 (+3)|13 (+1)|15 (+2)|12 (+1)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +4, [Religion](3.Mechanics/rules/skills.md#Religion) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Damage Resistances** Necrotic, Psychic, Radiant
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 11
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Damage Resistances** necrotic, psychic, radiant
 - **Languages** Celestial, Common
 - **Challenge** 1
 

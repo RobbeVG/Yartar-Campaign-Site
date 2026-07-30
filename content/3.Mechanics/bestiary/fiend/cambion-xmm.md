@@ -11,8 +11,6 @@ tags:
 title: "Cambion"
 aliases:
 - "Cambion"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Cambion
 *Source: Monster Manual (2024) p. 65*  
@@ -48,35 +46,26 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
 | 5 | Suffering a god's curse. |
 | 6 | Taking part in fiendish rituals. |
 ^cambion-origins
+
 ```ad-statblock
 title: Cambion
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cambion.webp#token)
-*Medium Fiend, Neutral Evil*
+*Medium fiend, Neutral Evil*
 
 - **Armor Class** 19 
-- **Hit Points** 105 (14d8 + 42) 
+- **Hit Points** 105 (`14d8 + 42`) 
 - **Speed** 30 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | **+7** |
-|Int| 14 | +2 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | +4 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | **+6** |
-|Cha| 16 | +3 | **+6** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|18 (+4)|16 (+3)|14 (+2)|12 (+1)|16 (+3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +7, Constitution +6, Intelligence +5, Charisma +6
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
-- **Damage Resistances** Cold, Fire, Lightning, Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 14
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 14
+- **Damage Resistances** cold, fire, lightning, poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Abyssal, Common, Infernal
 - **Challenge** 5
 

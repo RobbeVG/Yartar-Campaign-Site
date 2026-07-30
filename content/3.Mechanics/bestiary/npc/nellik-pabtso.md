@@ -10,43 +10,32 @@ tags:
 title: "Nellik"
 aliases:
 - "Nellik"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Nellik
 *Source: Phandelver and Below: The Shattered Obelisk p. 193*  
+
 ```ad-statblock
 title: Nellik
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Nellik.webp#token)
-*Large Fiend (yugoloth), Neutral Evil*
+*Large fiend (yugoloth), Neutral Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 123 (13d10 + 52) 
+- **Hit Points** 123 (`13d10 + 52`) 
 - **Speed** 40 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 20 | +5 | +5 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | +0 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 19 | +4 | +4 |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|20 (+5)|11 (+0)|19 (+4)|12 (+1)|10 (+0)|15 (+2)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
 - **Skills** [Intimidation](3.Mechanics/rules/skills.md#Intimidation) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
-- **Damage Resistances** Cold; Fire; Lightning; Bludgeoning, Piercing, Slashing from nonmagical attacks
-- **Damage Immunities** Acid, Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
+- **Damage Immunities** acid, poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Gear** [greataxe](3.Mechanics/items/greataxe-xphb.md)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
-- **Languages** Abyssal, Infernal, Telepathy 60 ft.
+- **Languages** Abyssal, Infernal, telepathy 60 ft.
 - **Challenge** 9
 
 ## Traits

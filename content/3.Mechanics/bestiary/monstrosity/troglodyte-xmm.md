@@ -31,33 +31,24 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
 > 
 > Smells fine to me.
 
+
 ```ad-statblock
 title: Troglodyte
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Troglodyte.webp#token)
-*Medium Monstrosity, Chaotic Evil*
+*Medium monstrosity, Chaotic Evil*
 
 - **Armor Class** 11 
-- **Hit Points** 13 (2d8 + 4) 
+- **Hit Points** 13 (`2d8 + 4`) 
 - **Speed** 30 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 14 | +2 | +2 |
-|Int| 6 | -2 | -2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | +2 |
-|Cha| 6 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|10 (+0)|14 (+2)| 6 (-2)|10 (+0)| 6 (-2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Troglodyte
 - **Challenge** 1/4
 

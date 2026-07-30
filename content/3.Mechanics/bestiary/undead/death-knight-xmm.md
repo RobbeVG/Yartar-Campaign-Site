@@ -11,10 +11,6 @@ tags:
 title: "Death Knight"
 aliases:
 - "Death Knight"
-conditionImmunities:
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Death Knight
 *Source: Monster Manual (2024) p. 92*  
@@ -31,35 +27,27 @@ Death knights are deadly combatants and domineering commanders with grim histori
 
 Champions of evil, death knights are armor-clad, skeletal warlords. Combining devastating martial prowess and blasphemous magic, these undying tyrants lead unholy legions against the living or brood in cursed citadels. Every death knight is haunted by a legacy of tragedy and dishonor that drives it to commit greater evils.
 
+## Statblock
+
 ```ad-statblock
 title: Death Knight
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Death%20Knight.webp#token)
-*Small or Medium Undead, Chaotic Evil*
+*Small or Medium undead, Chaotic Evil*
 
 - **Armor Class** 20 
-- **Hit Points** 199 (21d8 + 105) 
+- **Hit Points** 199 (`21d8 + 105`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 20 | +5 | +5 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | **+6** |
-|Wis| 16 | +3 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | +5 |
-|Cha| 18 | +4 | +4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|20 (+5)|11 (+0)|20 (+5)|12 (+1)|16 (+3)|18 (+4)|
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +6, Wisdom +9
 - **Skills** ⏤
-- **Damage Immunities** Necrotic, Poison
-- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 13
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 13
+- **Damage Immunities** necrotic, poison
+- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Abyssal, Common
 - **Challenge** 17
 

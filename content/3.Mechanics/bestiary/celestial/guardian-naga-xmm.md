@@ -14,11 +14,6 @@ tags:
 title: "Guardian Naga"
 aliases:
 - "Guardian Naga"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [restrained](3.Mechanics/rules/conditions.md#Restrained)
 ---
 # Guardian Naga
 *Source: Monster Manual (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -50,35 +45,26 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
 | 7 | Stories of forgotten gods and local spirits. |
 | 8 | The vulnerabilities of a legendary monster. |
 ^guardian-naga-lore
+
 ```ad-statblock
 title: Guardian Naga
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Guardian%20Naga.webp#token)
-*Large Celestial, Lawful Good*
+*Large celestial, Lawful Good*
 
 - **Armor Class** 18 
-- **Hit Points** 136 (16d10 + 48) 
+- **Hit Points** 136 (`16d10 + 48`) 
 - **Speed** 40 ft., climb 40 ft., swim 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 19 | +4 | +4 |
-|Int| 16 | +3 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | **+8** |
-|Wis| 19 | +4 | **+8** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | **+7** |
-|Cha| 18 | +4 | **+8** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|18 (+4)|16 (+3)|16 (+3)|19 (+4)|18 (+4)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +8, Constitution +7, Intelligence +7, Wisdom +8, Charisma +8
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +11, [History](3.Mechanics/rules/skills.md#History) +11, [Religion](3.Mechanics/rules/skills.md#Religion) +11
-- **Damage Immunities** Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Restrained](3.Mechanics/rules/conditions.md#Restrained)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Damage Immunities** poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [restrained](3.Mechanics/rules/conditions.md#Restrained)
 - **Languages** Celestial, Common
 - **Challenge** 10
 

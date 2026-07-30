@@ -12,14 +12,6 @@ tags:
 title: "Shadow Demon"
 aliases:
 - "Shadow Demon"
-conditionImmunities:
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [grappled](3.Mechanics/rules/conditions.md#Grappled)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- [prone](3.Mechanics/rules/conditions.md#Prone)
-- [restrained](3.Mechanics/rules/conditions.md#Restrained)
 ---
 # Shadow Demon
 *Source: Monster Manual (2024) p. 273*  
@@ -44,38 +36,29 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
 > 
 > There are three rules to endings. First, good always wins. Second, evil always returns. Third, the first rule isn't always true.
 
+
 ```ad-statblock
 title: Shadow Demon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Shadow%20Demon.webp#token)
-*Medium Fiend (demon), Chaotic Evil*
+*Medium fiend (demon), Chaotic Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 66 (12d8 + 12) 
+- **Hit Points** 66 (`12d8 + 12`) 
 - **Speed** 30 ft., fly 30 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 1 | -5 | -5 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 17 | +3 | **+5** |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 14 | +2 | **+4** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 (-5)|17 (+3)|12 (+1)|14 (+2)|13 (+1)|14 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +5, Charisma +4
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
-- **Damage Vulnerabilities** Radiant
-- **Damage Resistances** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
-- **Damage Immunities** Necrotic, Poison
-- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 11
-- **Languages** Abyssal; Telepathy 120 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Damage Vulnerabilities** radiant
+- **Damage Resistances** acid, bludgeoning, cold, fire, lightning, piercing, slashing, thunder
+- **Damage Immunities** necrotic, poison
+- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained)
+- **Languages** Abyssal; telepathy 120 ft.
 - **Challenge** 4
 
 ## Traits

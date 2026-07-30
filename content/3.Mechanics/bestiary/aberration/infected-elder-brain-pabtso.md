@@ -16,34 +16,25 @@ aliases:
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Infected%20Elder%20Brain.webp#right)
 
 The Far Realm has tainted the elder brain that fuels Illithinoch's mind flayers.
+
 ```ad-statblock
 title: Infected Elder Brain
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Infected%20Elder%20Brain.webp#token)
-*Large Aberration (mind flayer), Lawful Evil*
+*Large aberration (mind flayer), Lawful Evil*
 
 - **Armor Class** 10 
-- **Hit Points** 189 (18d10 + 90) 
+- **Hit Points** 189 (`18d10 + 90`) 
 - **Speed** 5 ft., swim 10 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 21 | +5 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | +0 |
-|Wis| 19 | +4 | **+8** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | +5 |
-|Cha| 20 | +5 | **+9** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|10 (+0)|20 (+5)|21 (+5)|19 (+4)|20 (+5)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Intelligence +9, Wisdom +8, Charisma +9
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +9, [Insight](3.Mechanics/rules/skills.md#Insight) +12
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 Ft., Passive Perception 14
-- **Languages** Telepathy 1 mile; Understands Common, Deep Speech, And Undercommon but can't speak
+- **Senses** [blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 ft., passive Perception 14
+- **Languages** telepathy 1 mile; understands Common, Deep Speech, and Undercommon but can't speak
 - **Challenge** 11
 
 ## Traits

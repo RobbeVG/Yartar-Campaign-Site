@@ -12,9 +12,6 @@ tags:
 title: "Shambling Mound"
 aliases:
 - "Shambling Mound"
-conditionImmunities:
-- [deafened](3.Mechanics/rules/conditions.md#Deafened)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
 ---
 # Shambling Mound
 *Source: Monster Manual (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -44,36 +41,27 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
 | 5 | Mutated and leaking glowing pollution. |
 | 6 | The remains of an ancient tree or a treant. |
 ^shambling-mound-cultivation
+
 ```ad-statblock
 title: Shambling Mound
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Shambling%20Mound.webp#token)
-*Large Plant, Unaligned*
+*Large plant, Unaligned*
 
 - **Armor Class** 15 
-- **Hit Points** 110 (13d10 + 39) 
+- **Hit Points** 110 (`13d10 + 39`) 
 - **Speed** 30 ft., swim 20 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 5 | -3 | -3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 8 | -1 | -1 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 5 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)| 8 (-1)|16 (+3)| 5 (-3)|10 (+0)| 5 (-3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
-- **Damage Resistances** Cold, Fire
-- **Damage Immunities** Lightning
-- **Condition Immunities** [Deafened](3.Mechanics/rules/conditions.md#Deafened), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 10
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception 10
+- **Damage Resistances** cold, fire
+- **Damage Immunities** lightning
+- **Condition Immunities** [deafened](3.Mechanics/rules/conditions.md#Deafened), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
 - **Languages** —
 - **Challenge** 5
 

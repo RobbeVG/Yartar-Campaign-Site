@@ -11,8 +11,6 @@ tags:
 title: "Needle Blight"
 aliases:
 - "Needle Blight"
-conditionImmunities:
-- [deafened](3.Mechanics/rules/conditions.md#Deafened)
 ---
 # Needle Blight
 *Source: Monster Manual (2024) p. 43*  
@@ -34,35 +32,27 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
 
 
+## Statblock
+
 ```ad-statblock
 title: Needle Blight
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Needle%20Blight.webp#token)
-*Medium Plant, Neutral Evil*
+*Medium plant, Neutral Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 16 (3d8 + 3) 
+- **Hit Points** 16 (`3d8 + 3`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12 | +1 | +1 |
-|Int| 4 | -3 | -3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 3 | -4 | -4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|12 (+1)|13 (+1)| 4 (-3)| 8 (-1)| 3 (-4)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Condition Immunities** [Deafened](3.Mechanics/rules/conditions.md#Deafened)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 9
-- **Languages** Understands Common but can't speak
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception 9
+- **Condition Immunities** [deafened](3.Mechanics/rules/conditions.md#Deafened)
+- **Languages** understands Common but can't speak
 - **Challenge** 1/4
 
 ## Actions

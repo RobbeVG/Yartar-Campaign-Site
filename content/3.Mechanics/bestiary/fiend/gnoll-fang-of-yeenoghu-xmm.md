@@ -35,33 +35,25 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
 
 
+## Statblock
+
 ```ad-statblock
 title: Gnoll Fang of Yeenoghu
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gnoll%20Fang%20of%20Yeenoghu.webp#token)
-*Medium Fiend, Chaotic Evil*
+*Medium fiend, Chaotic Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 71 (11d8 + 22) 
+- **Hit Points** 71 (`11d8 + 22`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | +2 |
-|Wis| 11 | +0 | **+2** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | **+4** |
-|Cha| 13 | +1 | **+3** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|15 (+2)|15 (+2)|10 (+0)|11 (+0)|13 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Constitution +4, Wisdom +2, Charisma +3
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Abyssal, Gnoll
 - **Challenge** 4
 

@@ -11,12 +11,6 @@ tags:
 title: "Dracolich"
 aliases:
 - "Dracolich"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Dracolich
 *Source: Monster Manual (2024) p. 102*  
@@ -61,35 +55,26 @@ A dracolich lurks in a corrupted version of the lair it had in life.
 > 
 > And naught will be left save shattered thrones with no rulers. But the dead dragons shall rule the world entire...
 
+
 ```ad-statblock
 title: Dracolich
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Dracolich.webp#token)
-*Unknown Undead, Lawful Evil*
+*Unknown undead, Lawful Evil*
 
 - **Armor Class** 20 
-- **Hit Points** 225 (18d12 + 108) 
+- **Hit Points** 225 (`18d12 + 108`) 
 - **Speed** 40 ft., burrow 30 ft., fly 80 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 25 | +7 | +7 |
-|Int| 19 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | **+6** |
-|Wis| 15 | +2 | **+8** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 23 | +6 | +6 |
-|Cha| 21 | +5 | +5 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|25 (+7)|10 (+0)|23 (+6)|19 (+4)|15 (+2)|21 (+5)|
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +6, Wisdom +8
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +14, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Damage Immunities** Necrotic, Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 24
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 24
+- **Damage Immunities** necrotic, poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Common, Draconic
 - **Challenge** 17
 

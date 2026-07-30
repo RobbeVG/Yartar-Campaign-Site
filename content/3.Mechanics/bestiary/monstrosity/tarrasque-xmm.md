@@ -11,12 +11,6 @@ tags:
 title: "Tarrasque"
 aliases:
 - "Tarrasque"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [deafened](3.Mechanics/rules/conditions.md#Deafened)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Tarrasque
 *Source: Monster Manual (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -50,36 +44,27 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
 | 3 | A russet scale the size of a knight's shield. |
 | 4 | A shattered mountain or diverted river. |
 ^tarrasque-evidence
+
 ```ad-statblock
 title: Tarrasque
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Tarrasque.webp#token)
-*Gargantuan Monstrosity (titan), Unaligned*
+*Gargantuan monstrosity (titan), Unaligned*
 
 - **Armor Class** 25 
-- **Hit Points** 697 (34d20 + 340) 
+- **Hit Points** 697 (`34d20 + 340`) 
 - **Speed** 60 ft., burrow 40 ft., climb 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 30 | +10 | +10 |
-|Int| 3 | -4 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 11 | +0 | **+9** |
-|Wis| 11 | +0 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 30 | +10 | +10 |
-|Cha| 11 | +0 | **+9** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|30 (+10)|11 (+0)|30 (+10)| 3 (-4)|11 (+0)|11 (+0)|
 
 - **Proficiency Bonus** +9
 - **Saving Throws** Dexterity +9, Intelligence +5, Wisdom +9, Charisma +9
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +9
-- **Damage Resistances** Bludgeoning, Piercing, Slashing
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Deafened](3.Mechanics/rules/conditions.md#Deafened), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 Ft., Passive Perception 19
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 ft., passive Perception 19
+- **Damage Resistances** bludgeoning, piercing, slashing
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened), [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** —
 - **Challenge** 30
 

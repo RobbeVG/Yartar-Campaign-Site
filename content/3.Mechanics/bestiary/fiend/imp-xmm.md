@@ -11,8 +11,6 @@ tags:
 title: "Imp"
 aliases:
 - "Imp"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Imp
 *Source: Monster Manual (2024) p. 177, Player's Handbook (2024) p. 352. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -33,36 +31,27 @@ Imps without masters delight in manipulating other creatures and inflating their
 > 
 > I can tell you what I know, but wouldn't you rather I tell you what'll let you do what you know you're going to do anyway?
 
+
 ```ad-statblock
 title: Imp
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Imp.webp#token)
-*Tiny Fiend (devil), Lawful Evil*
+*Tiny fiend (devil), Lawful Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 21 (6d4 + 6) 
+- **Hit Points** 21 (`6d4 + 6`) 
 - **Speed** 20 ft., fly 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 6 | -2 | -2 |
-|Int| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 17 | +3 | +3 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6 (-2)|17 (+3)|13 (+1)|11 (+0)|12 (+1)|14 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +4, [Insight](3.Mechanics/rules/skills.md#Insight) +3, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Damage Resistances** Cold
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), Passive Perception 11
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive Perception 11
+- **Damage Resistances** cold
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Common, Infernal
 - **Challenge** 1
 

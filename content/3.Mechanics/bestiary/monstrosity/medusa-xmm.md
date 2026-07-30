@@ -40,33 +40,24 @@ Medusas are born or created through preternatural circumstances. Roll on or choo
 | 5 | A vain noble whose magical attempt to gain eternal beauty backfired. |
 | 6 | The victim of a bite from a magical serpent or reptilian god in disguise. |
 ^medusa-fates
+
 ```ad-statblock
 title: Medusa
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Medusa.webp#token)
-*Medium Monstrosity, Lawful Evil*
+*Medium monstrosity, Lawful Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 127 (17d8 + 51) 
+- **Hit Points** 127 (`17d8 + 51`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 17 | +3 | +3 |
-|Wis| 13 | +1 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 16 | +3 | +3 |
-|Cha| 15 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|17 (+3)|16 (+3)|12 (+1)|13 (+1)|15 (+2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Wisdom +4
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 150 Ft., Passive Perception 14
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 150 ft., passive Perception 14
 - **Languages** Common plus one other language
 - **Challenge** 6
 

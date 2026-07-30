@@ -36,33 +36,25 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 > The thing's got an axe for a face and a giant, angry rooster for everything else—of course I want to ride it!
 
 
+## Statblock
+
 ```ad-statblock
 title: Giant Axe Beak
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Giant%20Axe%20Beak.webp#token)
-*Huge Monstrosity, Unaligned*
+*Huge monstrosity, Unaligned*
 
 - **Armor Class** 15 
-- **Hit Points** 84 (8d12 + 32) 
+- **Hit Points** 84 (`8d12 + 32`) 
 - **Speed** 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 21 | +5 | +5 |
-|Int| 3 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 19 | +4 | +4 |
-|Cha| 5 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|21 (+5)|14 (+2)|19 (+4)| 3 (-4)|12 (+1)| 5 (-3)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4
-- **Senses** Passive Perception 14
+- **Senses** passive Perception 14
 - **Languages** —
 - **Challenge** 5
 

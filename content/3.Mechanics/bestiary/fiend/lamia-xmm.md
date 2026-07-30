@@ -40,33 +40,24 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
 | 5 | Remove a magic item's curse, then return it. |
 | 6 | Slay a monster and retrieve a specific organ. |
 ^lamia-pacts
+
 ```ad-statblock
 title: Lamia
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Lamia.webp#token)
-*Large Fiend, Chaotic Evil*
+*Large fiend, Chaotic Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 97 (13d10 + 26) 
+- **Hit Points** 97 (`13d10 + 26`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | +3 |
-|Int| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 13 | +1 | +1 |
-|Wis| 15 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 16 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|13 (+1)|15 (+2)|14 (+2)|15 (+2)|16 (+3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +7, [Insight](3.Mechanics/rules/skills.md#Insight) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Languages** Abyssal, Common
 - **Challenge** 4
 

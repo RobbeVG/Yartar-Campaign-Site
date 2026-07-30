@@ -12,10 +12,6 @@ tags:
 title: "Deva"
 aliases:
 - "Deva"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
 # Deva
 *Source: Monster Manual (2024) p. 97. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -45,36 +41,27 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
 | 5 | A seedling that wilts if exposed to anger. |
 | 6 | Someone from another world with a prophesied purpose but no memory. |
 ^deva-messages
+
 ```ad-statblock
 title: Deva
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Deva.webp#token)
-*Medium Celestial (angel), Lawful Good*
+*Medium celestial (angel), Lawful Good*
 
 - **Armor Class** 17 
-- **Hit Points** 229 (27d8 + 108) 
+- **Hit Points** 229 (`27d8 + 108`) 
 - **Speed** 30 ft., fly 90 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 18 | +4 | +4 |
-|Int| 17 | +3 | +3 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 18 | +4 | +4 |
-|Wis| 20 | +5 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | +4 |
-|Cha| 20 | +5 | **+9** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|18 (+4)|18 (+4)|17 (+3)|20 (+5)|20 (+5)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Wisdom +9, Charisma +9
 - **Skills** [Insight](3.Mechanics/rules/skills.md#Insight) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +9
-- **Damage Resistances** Radiant
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 19
-- **Languages** All; Telepathy 120 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 19
+- **Damage Resistances** radiant
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- **Languages** all; telepathy 120 ft.
 - **Challenge** 10
 
 ## Traits

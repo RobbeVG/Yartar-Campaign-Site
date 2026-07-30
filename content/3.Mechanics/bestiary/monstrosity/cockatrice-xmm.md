@@ -11,8 +11,6 @@ tags:
 title: "Cockatrice"
 aliases:
 - "Cockatrice"
-conditionImmunities:
-- [petrified](3.Mechanics/rules/conditions.md#Petrified)
 ---
 # Cockatrice
 *Source: Monster Manual (2024) p. 75. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -29,34 +27,26 @@ Cockatrices often try to claim eye-catching structures—such as ruins and seclu
 
 Cockatrices combine the features of irate roosters and starving reptiles. They petrify those they bite, their slightest peck turning their prey to stone.
 
+## Statblock
+
 ```ad-statblock
 title: Cockatrice
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cockatrice.webp#token)
-*Small Monstrosity, Unaligned*
+*Small monstrosity, Unaligned*
 
 - **Armor Class** 11 
-- **Hit Points** 22 (5d6 + 5) 
+- **Hit Points** 22 (`5d6 + 5`) 
 - **Speed** 20 ft., fly 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 6 | -2 | -2 |
-|Int| 2 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | +1 |
-|Wis| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 5 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6 (-2)|12 (+1)|12 (+1)| 2 (-4)|13 (+1)| 5 (-3)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Condition Immunities** [Petrified](3.Mechanics/rules/conditions.md#Petrified)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 11
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Condition Immunities** [petrified](3.Mechanics/rules/conditions.md#Petrified)
 - **Languages** —
 - **Challenge** 1/2
 

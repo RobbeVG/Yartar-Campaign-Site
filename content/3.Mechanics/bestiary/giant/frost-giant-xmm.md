@@ -32,34 +32,25 @@ Frost giants often travel far to find food and goods. This leads many to become 
 > 
 > The small folk have barely anything worth looting, so they shouldn't much mind when we take it from them.
 
+
 ```ad-statblock
 title: Frost Giant
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Frost%20Giant.webp#token)
-*Huge Giant, Neutral Evil*
+*Huge giant, Neutral Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 149 (13d12 + 65) 
+- **Hit Points** 149 (`13d12 + 65`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 23 | +6 | +6 |
-|Int| 9 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 9 | -1 | -1 |
-|Wis| 10 | +0 | **+3** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 21 | +5 | **+8** |
-|Cha| 12 | +1 | **+4** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|23 (+6)| 9 (-1)|21 (+5)| 9 (-1)|10 (+0)|12 (+1)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Constitution +8, Wisdom +3, Charisma +4
 - **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +3
-- **Damage Immunities** Cold
-- **Senses** Passive Perception 13
+- **Senses** passive Perception 13
+- **Damage Immunities** cold
 - **Languages** Giant
 - **Challenge** 8
 

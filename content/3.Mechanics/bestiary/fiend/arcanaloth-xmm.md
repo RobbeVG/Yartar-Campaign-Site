@@ -12,9 +12,6 @@ tags:
 title: "Arcanaloth"
 aliases:
 - "Arcanaloth"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Arcanaloth
 *Source: Monster Manual (2024) p. 19*  
@@ -30,37 +27,28 @@ conditionImmunities:
 While all yugoloths are fiendish manifestations of wickedness and greed, arcanaloths bend their considerable intellects toward hoarding and exploiting secrets. They then deploy these secrets to ensnare countless victims and lesser villains, beguiling foes with false promises and powerful magic.
 
 Arcanaloths possess considerable spellcasting prowess and frequently disguise themselves with magic. While they prefer to let magical servants or other yugoloths do their fighting for them, arcanaloths can defend themselves with arcane might, banishing opponents into the pages of their magic tomes.
+
 ```ad-statblock
 title: Arcanaloth
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Arcanaloth.webp#token)
-*Medium Fiend (yugoloth), Neutral Evil*
+*Medium fiend (yugoloth), Neutral Evil*
 
 - **Armor Class** 18 
-- **Hit Points** 175 (27d8 + 54) 
+- **Hit Points** 175 (`27d8 + 54`) 
 - **Speed** 30 ft., fly 30 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 17 | +3 | +3 |
-|Int| 20 | +5 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 12 | +1 | **+5** |
-|Wis| 16 | +3 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 14 | +2 | **+6** |
-|Cha| 17 | +3 | +3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|12 (+1)|14 (+2)|20 (+5)|16 (+3)|17 (+3)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +5, Constitution +6, Intelligence +9, Wisdom +7
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +9, [Deception](3.Mechanics/rules/skills.md#Deception) +7, [Insight](3.Mechanics/rules/skills.md#Insight) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +7
-- **Damage Resistances** Cold, Fire, Lightning
-- **Damage Immunities** Acid, Poison
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 17
-- **Languages** All; Telepathy 120 ft.
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 17
+- **Damage Resistances** cold, fire, lightning
+- **Damage Immunities** acid, poison
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** all; telepathy 120 ft.
 - **Challenge** 12
 
 ## Traits

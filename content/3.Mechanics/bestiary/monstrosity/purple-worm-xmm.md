@@ -30,33 +30,24 @@ Titanic purple worms burrow through the earth and sand. Ever ravenous, they devo
 > 
 > Purple worms alone are bad enough, but the blasted monsters have a knack for unearthing things that are even worse!
 
+
 ```ad-statblock
 title: Purple Worm
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Purple%20Worm.webp#token)
-*Gargantuan Monstrosity, Unaligned*
+*Gargantuan monstrosity, Unaligned*
 
 - **Armor Class** 18 
-- **Hit Points** 247 (15d20 + 90) 
+- **Hit Points** 247 (`15d20 + 90`) 
 - **Speed** 50 ft., burrow 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 28 | +9 | +9 |
-|Int| 1 | -5 | -5 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 7 | -2 | -2 |
-|Wis| 8 | -1 | **+4** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 22 | +6 | **+11** |
-|Cha| 4 | -3 | -3 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|28 (+9)| 7 (-2)|22 (+6)| 1 (-5)| 8 (-1)| 4 (-3)|
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Constitution +11, Wisdom +4
 - **Skills** ⏤
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., Tremorsense 60 ft., Passive Perception 9
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., Tremorsense 60 ft., passive Perception 9
 - **Languages** —
 - **Challenge** 15
 

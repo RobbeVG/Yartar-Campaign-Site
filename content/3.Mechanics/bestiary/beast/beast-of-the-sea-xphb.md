@@ -14,34 +14,25 @@ aliases:
 # Beast of the Sea
 *Source: Player's Handbook (2024) p. 124*  
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Beast%20of%20the%20Sea.webp#center)
+
 ```ad-statblock
 title: Beast of the Sea
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Beast%20of%20the%20Sea.webp#token)
-*Medium Beast, Neutral*
+*Medium beast, Neutral*
 
 - **Armor Class** (13 plus your Wisdom modifier)
 - **Hit Points** 5 plus five times your Ranger level (the beast has a number of Hit Dice [d8s] equal to your Ranger level)  (5 plus five times your Ranger level (the beast has a number of Hit Dice [d8s] equal to your Ranger level))
 - **Speed** 5 ft., swim 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 14 | +2 | +2 |
-|Int| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | +2 |
-|Wis| 14 | +2 | +2 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 15 | +2 | +2 |
-|Cha| 11 | +0 | +0 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|14 (+2)|15 (+2)| 8 (-1)|14 (+2)|11 (+0)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 Ft., Passive Perception 12
-- **Languages** Understands the languages you know
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 ft., passive Perception 12
+- **Languages** understands the languages you know
 - **Challenge** 
 
 ## Traits

@@ -33,34 +33,26 @@ White dragons create lairs to defend themselves from other deadly arctic creatur
 
 White dragons brood in bitterly cold lairs clawed from stone and ice.
 
+## Statblock
+
 ```ad-statblock
 title: Ancient White Dragon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ancient%20White%20Dragon.webp#token)
-*Gargantuan Dragon (chromatic), Chaotic Evil*
+*Gargantuan dragon (chromatic), Chaotic Evil*
 
 - **Armor Class** 20 
-- **Hit Points** 333 (18d20 + 144) 
+- **Hit Points** 333 (`18d20 + 144`) 
 - **Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 26 | +8 | +8 |
-|Int| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | **+6** |
-|Wis| 13 | +1 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 26 | +8 | +8 |
-|Cha| 18 | +4 | +4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|26 (+8)|10 (+0)|26 (+8)|10 (+0)|13 (+1)|18 (+4)|
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +6, Wisdom +7
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +13, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Damage Immunities** Cold
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 23
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 23
+- **Damage Immunities** cold
 - **Languages** Common, Draconic
 - **Challenge** 20
 

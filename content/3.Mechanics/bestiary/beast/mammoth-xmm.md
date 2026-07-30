@@ -23,33 +23,24 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!gallery]
 ![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
+
 ```ad-statblock
 title: Mammoth
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mammoth.webp#token)
-*Huge Beast, Unaligned*
+*Huge beast, Unaligned*
 
 - **Armor Class** 13 
-- **Hit Points** 126 (11d12 + 55) 
+- **Hit Points** 126 (`11d12 + 55`) 
 - **Speed** 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 24 | +7 | **+10** |
-|Int| 3 | -4 | -4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 9 | -1 | -1 |
-|Wis| 11 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 21 | +5 | **+8** |
-|Cha| 6 | -2 | -2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|24 (+7)| 9 (-1)|21 (+5)| 3 (-4)|11 (+0)| 6 (-2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +10, Constitution +8
 - **Skills** ⏤
-- **Senses** Passive Perception 10
+- **Senses** passive Perception 10
 - **Languages** —
 - **Challenge** 6
 

@@ -29,33 +29,25 @@ Aarakocra aeromancers control magical winds from the endless storms of the Eleme
 
 Aarakocra are birdlike folk who soar the skies of countless worlds and the endless expanses of the Elemental Plane of Air. They often resemble avians common to the lands where they dwell; some resemble hawks or condors, while others appear similar to hummingbirds or archaeopteryxes. In many lands, aarakocra tell of their ancient heroics resisting the wicked Queen of Chaos alongside the mysterious Wind Dukes of Aaqa.
 
+## Statblock
+
 ```ad-statblock
 title: Aarakocra Aeromancer
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Aarakocra%20Aeromancer.webp#token)
-*Medium Elemental, Neutral*
+*Medium elemental, Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 66 (12d8 + 12) 
+- **Hit Points** 66 (`12d8 + 12`) 
 - **Speed** 20 ft., fly 50 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 13 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | **+5** |
-|Wis| 17 | +3 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 12 | +1 | +1 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|16 (+3)|12 (+1)|13 (+1)|17 (+3)|12 (+1)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +5, Wisdom +5
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +3, [Nature](3.Mechanics/rules/skills.md#Nature) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +7
-- **Senses** Passive Perception 17
+- **Senses** passive Perception 17
 - **Languages** Aarakocra, Primordial (Auran)
 - **Challenge** 4
 

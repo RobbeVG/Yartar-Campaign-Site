@@ -11,9 +11,6 @@ tags:
 title: "Mind Flayer Arcanist"
 aliases:
 - "Mind Flayer Arcanist"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
 # Mind Flayer Arcanist
 *Source: Monster Manual (2024) p. 214*  
@@ -50,37 +47,29 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
 | 6 | Sacrifice the mental energy of a planet's populace to take control of a githyanki bastion. |
 ^mind-flayer-machinations
 
+## Statblock
+
 ```ad-statblock
 title: Mind Flayer Arcanist
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mind%20Flayer%20Arcanist.webp#token)
-*Medium Aberration, Lawful Evil*
+*Medium aberration, Lawful Evil*
 
 - **Armor Class** 16 
-- **Hit Points** 143 (26d8 + 26) 
+- **Hit Points** 143 (`26d8 + 26`) 
 - **Speed** 30 ft., fly 30 ft. (hover)
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 11 | +0 | +0 |
-|Int| 20 | +5 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 14 | +2 | **+6** |
-|Wis| 17 | +3 | **+7** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 13 | +1 | +1 |
-|Cha| 17 | +3 | **+7** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|14 (+2)|13 (+1)|20 (+5)|17 (+3)|17 (+3)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +6, Intelligence +9, Wisdom +7, Charisma +7
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +13, [Insight](3.Mechanics/rules/skills.md#Insight) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Damage Immunities** Psychic
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 17
+- **Damage Immunities** psychic
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)
 - **Gear** [breastplate](3.Mechanics/items/breastplate-xphb.md)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 17
-- **Languages** Deep Speech, Undercommon; Telepathy 120 ft.
+- **Languages** Deep Speech, Undercommon; telepathy 120 ft.
 - **Challenge** 11
 
 ## Traits

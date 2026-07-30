@@ -12,8 +12,6 @@ tags:
 title: "Yochlol"
 aliases:
 - "Yochlol"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Yochlol
 *Source: Monster Manual (2024) p. 341*  
@@ -31,36 +29,27 @@ Yochlols embody the pernicious will and infectious philosophies of the Abyss. In
 Most yochlols serve Lolth. The Demon Queen of Spiders claims all yochlols as minions and orders any yochlols that disagree destroyed. In rare cases, yochlols might serve other demon lords, particularly manipulative or changeable ones like Graz'zt, Juiblex, and Zuggtmoy.
 
 Despite their service to demon lords, yochlols harbor their own vicious whims and ambitions. They might claim to speak for their overlords to further their own ambitions or seek to reveal rivals' selfish goals to gain standing with their demonic masters.
+
 ```ad-statblock
 title: Yochlol
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Yochlol.webp#token)
-*Medium Fiend (demon), Chaotic Evil*
+*Medium fiend (demon), Chaotic Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 153 (18d8 + 72) 
+- **Hit Points** 153 (`18d8 + 72`) 
 - **Speed** 30 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 15 | +2 | +2 |
-|Int| 13 | +1 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 19 | +4 | **+8** |
-|Wis| 15 | +2 | **+6** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | +4 |
-|Cha| 17 | +3 | **+7** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|15 (+2)|19 (+4)|18 (+4)|13 (+1)|15 (+2)|17 (+3)|
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +8, Intelligence +5, Wisdom +6, Charisma +7
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +11, [Insight](3.Mechanics/rules/skills.md#Insight) +6
-- **Damage Resistances** Cold, Fire, Lightning
-- **Damage Immunities** Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 12
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 12
+- **Damage Resistances** cold, fire, lightning
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 - **Languages** Abyssal, Elvish, Undercommon
 - **Challenge** 10
 

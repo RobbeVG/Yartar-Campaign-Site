@@ -51,34 +51,26 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Pirates.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Pirate
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Pirate.webp#token)
-*Small or Medium Humanoid, Neutral*
+*Small or Medium humanoid, Neutral*
 
 - **Armor Class** 14 
-- **Hit Points** 33 (6d8 + 6) 
+- **Hit Points** 33 (`6d8 + 6`) 
 - **Speed** 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 10 | +0 | +0 |
-|Int| 8 | -1 | -1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | **+5** |
-|Wis| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 12 | +1 | +1 |
-|Cha| 14 | +2 | **+4** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|16 (+3)|12 (+1)| 8 (-1)|12 (+1)|14 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +5, Charisma +4
 - **Skills** ⏤
+- **Senses** passive Perception 11
 - **Gear** six [daggers](3.Mechanics/items/dagger-xphb.md), [leather armor](3.Mechanics/items/leather-armor-xphb.md)
-- **Senses** Passive Perception 11
 - **Languages** Common plus one other language
 - **Challenge** 1
 

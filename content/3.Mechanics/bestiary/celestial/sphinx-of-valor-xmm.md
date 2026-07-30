@@ -13,9 +13,6 @@ tags:
 title: "Sphinx of Valor"
 aliases:
 - "Sphinx of Valor"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
 # Sphinx of Valor
 *Source: Monster Manual (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -51,36 +48,28 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Sphinxes.webp#center)
 
+## Statblock
+
 ```ad-statblock
 title: Sphinx of Valor
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sphinx%20of%20Valor.webp#token)
-*Large Celestial, Lawful Neutral*
+*Large celestial, Lawful Neutral*
 
 - **Armor Class** 17 
-- **Hit Points** 199 (19d10 + 95) 
+- **Hit Points** 199 (`19d10 + 95`) 
 - **Speed** 40 ft., fly 60 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 22 | +6 | +6 |
-|Int| 16 | +3 | **+9** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 10 | +0 | **+6** |
-|Wis| 23 | +6 | **+12** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 20 | +5 | **+11** |
-|Cha| 18 | +4 | +4 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|22 (+6)|10 (+0)|20 (+5)|16 (+3)|23 (+6)|18 (+4)|
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +6, Constitution +11, Intelligence +9, Wisdom +12
 - **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +12, [Religion](3.Mechanics/rules/skills.md#Religion) +15
-- **Damage Resistances** Necrotic, Radiant
-- **Damage Immunities** Psychic
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 22
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception 22
+- **Damage Resistances** necrotic, radiant
+- **Damage Immunities** psychic
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)
 - **Languages** Celestial, Common
 - **Challenge** 17
 

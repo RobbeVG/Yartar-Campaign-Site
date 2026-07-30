@@ -12,8 +12,6 @@ tags:
 title: "Barbed Devil"
 aliases:
 - "Barbed Devil"
-conditionImmunities:
-- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
 # Barbed Devil
 *Source: Monster Manual (2024) p. 30. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
@@ -31,37 +29,28 @@ Infernal collectors, barbed devils fanatically protect troves of treasure and sc
 Barbed devils often serve as guards and accountants for ice devil generals, pit fiend warlords, archdevils, and similarly powerful villains. In return, barbed devils gain protection for their own collections. Many barbed devils also maintain networks of imps that search the planes for treasures of interest or usefully greedy mortals.
 
 Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they pride themselves on having the multiverse's greatest collection of one kind of thing—typically items of rare pedigree or emblems of power. Barbed devils refuse to steal what they covet; instead they strike bargains to claim both treasure and mortal souls.
+
 ```ad-statblock
 title: Barbed Devil
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Barbed%20Devil.webp#token)
-*Medium Fiend (devil), Lawful Evil*
+*Medium fiend (devil), Lawful Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 110 (13d8 + 52) 
+- **Hit Points** 110 (`13d8 + 52`) 
 - **Speed** 30 ft., climb 30 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 16 | +3 | **+6** |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 17 | +3 | +3 |
-|Wis| 14 | +2 | **+5** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 18 | +4 | **+7** |
-|Cha| 14 | +2 | **+5** |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|17 (+3)|18 (+4)|12 (+1)|14 (+2)|14 (+2)|
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +6, Constitution +7, Wisdom +5, Charisma +5
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +5, [Insight](3.Mechanics/rules/skills.md#Insight) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +8
-- **Damage Resistances** Cold
-- **Damage Immunities** Fire, Poison
-- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), Passive Perception 18
-- **Languages** Infernal; Telepathy 120 ft.
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive Perception 18
+- **Damage Resistances** cold
+- **Damage Immunities** fire, poison
+- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Languages** Infernal; telepathy 120 ft.
 - **Challenge** 5
 
 ## Traits

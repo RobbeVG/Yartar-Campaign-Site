@@ -29,33 +29,25 @@ Satyrs enjoy demonstrating their physicality through contests, evicting party po
 
 Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merrymaking—eating, drinking, performing, fighting, and frolicking.
 
+## Statblock
+
 ```ad-statblock
 title: Satyr
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Satyr.webp#token)
-*Medium Fey, Chaotic Neutral*
+*Medium fey, Chaotic Neutral*
 
 - **Armor Class** 13 
-- **Hit Points** 31 (7d8) 
+- **Hit Points** 31 (`7d8`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 12 | +1 | +1 |
-|Int| 12 | +1 | +1 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 16 | +3 | +3 |
-|Wis| 10 | +0 | +0 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 11 | +0 | +0 |
-|Cha| 14 | +2 | +2 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|16 (+3)|11 (+0)|12 (+1)|10 (+0)|14 (+2)|
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +2, [Performance](3.Mechanics/rules/skills.md#Performance) +6, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Senses** Passive Perception 12
+- **Senses** passive Perception 12
 - **Languages** Common, Elvish, Sylvan
 - **Challenge** 1/2
 

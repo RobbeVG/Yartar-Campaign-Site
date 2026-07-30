@@ -11,10 +11,6 @@ tags:
 title: "Arch-hag"
 aliases:
 - "Arch-hag"
-conditionImmunities:
-- [charmed](3.Mechanics/rules/conditions.md#Charmed)
-- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
-- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
 # Arch-hag
 *Source: Monster Manual (2024) p. 21*  
@@ -60,36 +56,27 @@ Every arch-hag has a unique weakness tied to a fateful encounter the hag had in 
 ### Arch-hag Lairs
 
 Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop a storm cloud, or—in the case of the arch-hag Baba Yaga—a hut atop giant chicken legs. The interiors of these lairs frequently change or exhibit bewildering features.
+
 ```ad-statblock
 title: Arch-hag
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Arch-hag.webp#token)
-*Large Fey, Neutral Evil*
+*Large fey, Neutral Evil*
 
 - **Armor Class** 20 
-- **Hit Points** 333 (29d10 + 174) 
+- **Hit Points** 333 (`29d10 + 174`) 
 - **Speed** 40 ft.
 
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Str| 24 | +7 | +7 |
-|Int| 19 | +4 | +4 |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Dex| 15 | +2 | **+9** |
-|Wis| 19 | +4 | **+11** |
-|   |   |  MOD | SAVE |
-|:--|:-:|:----:|:----:|
-|Con| 23 | +6 | +6 |
-|Cha| 25 | +7 | +7 |
-
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|24 (+7)|15 (+2)|23 (+6)|19 (+4)|19 (+4)|25 (+7)|
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +9, Wisdom +11
 - **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +14, [Perception](3.Mechanics/rules/skills.md#Perception) +11, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +21
-- **Damage Resistances** Cold, Fire, Psychic
-- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened)
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 60 Ft., Passive Perception 21
-- **Languages** All
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 60 ft., passive Perception 21
+- **Damage Resistances** cold, fire, psychic
+- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- **Languages** all
 - **Challenge** 21
 
 ## Traits

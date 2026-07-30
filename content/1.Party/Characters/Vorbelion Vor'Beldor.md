@@ -7,6 +7,18 @@ Current Items:
   - "[[potion-of-healing-xdmg]]"
   - "[[armor-of-resistance-xdmg]]"
 ---
-%% Secretly a doppelganger, DC 15 Insight to notice. %%
+<!-- QueryToSerialize: 
+TABLE WITHOUT ID
+embed(link(meta(socialImage).path,"300")) AS Avatar, 
+current-items AS Items
+WHERE file = this.file
+-->
+<!-- SerializedQuery: TABLE WITHOUT ID embed(link(meta(socialImage).path,"300")) AS Avatar, current-items AS Items WHERE file = this.file -->
 
-`= "!" + this.socialImage` 
+| Avatar                         | Items                                                                                                                                                                           |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[vorbelion.png\|300]] | <ul><li>[[potion-of-healing-xdmg]]</li><li>[[armor-of-resistance-xdmg]]</li></ul> |
+
+<!-- SerializedQuery END -->
+
+

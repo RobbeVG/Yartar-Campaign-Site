@@ -12,7 +12,7 @@ configuration:
     - private
     - templates
     - .obsidian
-    - 0.DM Notes
+    - 0.dm-notes
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -170,7 +170,7 @@ plugins:
       localGraph:
         drag: true
         zoom: true
-        depth: 2
+        depth: 0
         scale: 1.1
         repelForce: 0.5
         centerForce: 0.3
@@ -183,7 +183,7 @@ plugins:
       globalGraph:
         drag: true
         zoom: true
-        depth: 4
+        depth: 2
         scale: 0.9
         repelForce: 0.5
         centerForce: 0.3

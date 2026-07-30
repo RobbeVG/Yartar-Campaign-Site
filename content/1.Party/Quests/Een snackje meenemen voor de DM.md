@@ -2,7 +2,6 @@
 Status: Active
 tags:
   - Quest
-unlisted: true
 ---
 Een uiterst gevaarlijke quest. 
 

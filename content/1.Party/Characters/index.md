@@ -1,7 +1,7 @@
 ---
 title: Characters
 ---
-# Hello Adventures
+# Avonturiers
 
 ```base
 filters:
@@ -14,6 +14,12 @@ views:
     filters:
       and:
         - file.hasTag("PC")
+    order:
+      - file.name
+      - Current Items
     image: note.socialImage
 
 ```
+
+^152bf5
+

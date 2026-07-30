@@ -25,6 +25,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Shocking Grasp"
 aliases:
 - "Shocking Grasp"
 ---

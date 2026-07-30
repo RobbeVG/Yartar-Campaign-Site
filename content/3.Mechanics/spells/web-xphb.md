@@ -21,6 +21,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
+title: "Web"
 aliases:
 - "Web"
 ---

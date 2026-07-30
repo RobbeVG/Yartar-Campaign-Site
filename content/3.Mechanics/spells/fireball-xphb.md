@@ -27,12 +27,13 @@ classes:
 - Warlock (Fiend Patron)
 - Wizard
 - Wizard (Evoker)
+title: "Fireball"
 aliases:
 - "Fireball"
 ---
 # Fireball
 *3rd-level, Evocation*  
-![](file://spells/XPHB/Fireball.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Fireball.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet

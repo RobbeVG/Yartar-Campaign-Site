@@ -15,6 +15,7 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Sorcerer
+title: "Flame Blade"
 aliases:
 - "Flame Blade"
 ---

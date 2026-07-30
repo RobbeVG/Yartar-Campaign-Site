@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/druid/moon
+title: "Circle of the Moon"
 aliases:
 - "Circle of the Moon"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Moon%20Druid.webp#right)
 
 *Adopt Animal Forms to Guard the Wilds*
 

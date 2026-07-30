@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Dagger"
 aliases:
 - "Dagger"
 ---
 # Dagger
 *Weapon*  
-![](file://items/XPHB/Dagger.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Dagger.webp#right)
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

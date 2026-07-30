@@ -13,13 +13,16 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
-statblock: inline
-statblock-link: "#^statblock"
+title: "Wight"
 aliases:
 - "Wight"
+conditionImmunities:
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Wight](3.Mechanics/bestiary/undead/wight-xmm.md)
+# Wight
 *Source: Monster Manual (2024) p. 332. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Wight.webp#right)
 
 ## Wight
 
@@ -49,67 +52,55 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
 | 7 | Prove it was the greatest warrior to ever live. |
 | 8 | Seek its stolen heart or other treasure. |
 ^wight-motives
+```ad-statblock
+title: Wight
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Wight.webp#token)
+*Medium Undead, Neutral Evil*
 
-```statblock
-"name": "Wight (XMM)"
-"size": "Medium"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "14"
-"hp": !!int "82"
-"hit_dice": "11d8 + 33"
-"modifier": !!int "4"
-"stats":
-  - !!int "15"
-  - !!int "14"
-  - !!int "16"
-  - !!int "10"
-  - !!int "13"
-  - !!int "15"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+3"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+4"
-"damage_resistances": "necrotic"
-"damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"gear":
-  - "[studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
-"languages": "Common plus one other language"
-"cr": "3"
-"traits":
-  - "desc": "While in sunlight, the wight has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
-      \ on ability checks and attack rolls."
-    "name": "Sunlight Sensitivity"
-"actions":
-  - "desc": "The wight makes two attacks, using Necrotic Sword or Necrotic Bow in\
-      \ any combination. It can replace one attack with a use of Life Drain."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d8+2|noform|noparens|avg|text(6) (1d8 + 2) Slashing damage\
-      \ plus dice:1d8|noform|noparens|avg|text(4) (1d8) Necrotic damage."
-    "name": "Necrotic Sword"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+4|noform|noparens|text(+4), range 150/600\
-      \ ft. *Hit:* dice:1d8+2|noform|noparens|avg|text(6) (1d8 + 2) Piercing damage\
-      \ plus dice:1d8|noform|noparens|avg|text(4) (1d8) Necrotic damage."
-    "name": "Necrotic Bow"
-  - "desc": "*Constitution Saving Throw:* DC 13, one creature within 5 feet. *Failure:*\
-      \ dice:1d8+2|noform|noparens|avg|text(6) (1d8 + 2) Necrotic damage, and\
-      \ the target's [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ maximum decreases by an amount equal to the damage taken.\n\nA Humanoid slain\
-      \ by this attack rises 24 hours later as a [Zombie](3.Mechanics/bestiary/undead/zombie-xmm.md)\
-      \ under the wight's control, unless the Humanoid is restored to life or its\
-      \ body is destroyed. The wight can have no more than twelve zombies under its\
-      \ control at a time."
-    "name": "Life Drain"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Wight.webp"
+- **Armor Class** 14 
+- **Hit Points** 82 (11d8 + 33) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 15 | +2 | +2 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 15 | +2 | +2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +3, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
+- **Damage Resistances** Necrotic
+- **Damage Immunities** Poison
+- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Gear** [studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 13
+- **Languages** Common plus one other language
+- **Challenge** 3
+
+## Traits
+
+***Sunlight Sensitivity.*** While in sunlight, the wight has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls.
+
+## Actions
+
+***Multiattack.*** The wight makes two attacks, using Necrotic Sword or Necrotic Bow in any combination. It can replace one attack with a use of Life Drain.
+
+***Necrotic Sword.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) Slashing damage plus `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) Necrotic damage.
+
+***Necrotic Bow.*** *Ranged Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, range 150/600 ft. *Hit:* `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) Piercing damage plus `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) Necrotic damage.
+
+***Life Drain.*** *Constitution Saving Throw:* DC 13, one creature within 5 feet. *Failure:* `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) Necrotic damage, and the target's [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md) maximum decreases by an amount equal to the damage taken.
+
+A Humanoid slain by this attack rises 24 hours later as a [Zombie](3.Mechanics/bestiary/undead/zombie-xmm.md) under the wight's control, unless the Humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at a time.
 ```
 ^statblock
 

@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/ring
+title: "Ring of Fire Resistance"
 aliases:
 - "Ring of Fire Resistance"
 ---
 # Ring of Fire Resistance
 *Ring, rare*  
-![](file://items/XDMG/Ring%20of%20Resistance.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ring%20of%20Resistance.webp#right)
 
 
 You have [Resistance](3.Mechanics/rules/variant-rules/resistance-xphb.md) to fire damage while wearing this ring. The ring is set with garnet.

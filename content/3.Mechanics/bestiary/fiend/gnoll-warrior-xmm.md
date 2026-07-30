@@ -11,13 +11,13 @@ tags:
 - ttrpg-cli/monster/environment/hill
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend
-statblock: inline
-statblock-link: "#^statblock"
+title: "Gnoll Warrior"
 aliases:
 - "Gnoll Warrior"
 ---
-# [Gnoll Warrior](3.Mechanics/bestiary/fiend/gnoll-warrior-xmm.md)
+# Gnoll Warrior
 *Source: Monster Manual (2024) p. 140. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Gnolls.webp#right)
 
 Gnoll warriors crave endless slaughter but quickly grow bored with the prey they kill and the treasures they plunder. Nevertheless, they're enraged by the thought of anyone else having what's theirs, compelling them to ruin what they can't take with them.
 
@@ -35,43 +35,45 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
 
 
-```statblock
-"name": "Gnoll Warrior (XMM)"
-"size": "Medium"
-"type": "fiend"
-"alignment": "Chaotic Evil"
-"ac": !!int "15"
-"hp": !!int "27"
-"hit_dice": "6d8"
-"modifier": !!int "1"
-"stats":
-  - !!int "14"
-  - !!int "12"
-  - !!int "11"
-  - !!int "6"
-  - !!int "10"
-  - !!int "7"
-"speed": "30 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Gnoll"
-"cr": "1/2"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5) (1d6 + 2) Piercing damage."
-    "name": "Rend"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+3|noform|noparens|text(+3), range 150/600\
-      \ ft. *Hit:* dice:1d10+1|noform|noparens|avg|text(6) (1d10 + 1) Piercing\
-      \ damage."
-    "name": "Bone Bow"
-"bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [Bloodied](3.Mechanics/rules/conditions.md#Bloodied),\
-      \ the gnoll moves up to half its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md),\
-      \ and it makes one Rend attack."
-    "name": "Rampage (1/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Gnoll%20Warrior.webp"
+```ad-statblock
+title: Gnoll Warrior
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gnoll%20Warrior.webp#token)
+*Medium Fiend, Chaotic Evil*
+
+- **Armor Class** 15 
+- **Hit Points** 27 (6d8) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 14 | +2 | +2 |
+|Int| 6 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 11 | +0 | +0 |
+|Cha| 7 | -2 | -2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Gnoll
+- **Challenge** 1/2
+
+## Actions
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Piercing damage.
+
+***Bone Bow.*** *Ranged Attack Roll:* `dice:1d20+3|noform|noparens|text(+3)`, range 150/600 ft. *Hit:* `dice:1d10+1|noform|noparens|avg|text(6)` (`1d10 + 1`) Piercing damage.
+
+## Bonus Actions
+
+***Rampage (1/Day).*** Immediately after dealing damage to a creature that is already [Bloodied](3.Mechanics/rules/conditions.md#Bloodied), the gnoll moves up to half its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md), and it makes one Rend attack.
 ```
 ^statblock
 

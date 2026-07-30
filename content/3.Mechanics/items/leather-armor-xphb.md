@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/armor/light
 - ttrpg-cli/item/rarity/none
+title: "Leather Armor"
 aliases:
 - "Leather Armor"
 ---
 # Leather Armor
 *Light armor*  
-![](file://items/XPHB/Leather%20Armor.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Leather%20Armor.webp#right)
 
 - **Armor Class**: 11 + Dex modifier
 - **Cost**: 10 gp

@@ -25,6 +25,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
+title: "Remove Curse"
 aliases:
 - "Remove Curse"
 ---

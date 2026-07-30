@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Scimitar of Speed"
 aliases:
 - "Scimitar of Speed"
 ---
 # Scimitar of Speed
 *Weapon ([scimitar](3.Mechanics/items/scimitar-xphb.md)), very rare (requires attunement)*  
-![](file://items/XDMG/Scimitar%20of%20Speed.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Scimitar%20of%20Speed.webp#right)
 
 - **Damage**: 1d6 slashing
 - **Properties**: [Finesse](3.Mechanics/rules/item-properties.md#Finesse), [Light](3.Mechanics/rules/item-properties.md#Light)

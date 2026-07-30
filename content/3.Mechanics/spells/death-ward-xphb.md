@@ -15,6 +15,7 @@ classes:
 - Cleric
 - Cleric (Life Domain)
 - Paladin
+title: "Death Ward"
 aliases:
 - "Death Ward"
 ---

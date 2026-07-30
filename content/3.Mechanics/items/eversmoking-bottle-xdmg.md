@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Eversmoking Bottle"
 aliases:
 - "Eversmoking Bottle"
 ---
 # Eversmoking Bottle
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Eversmoking%20Bottle.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Eversmoking%20Bottle.webp#right)
 
 
 As a [Magic](3.Mechanics/rules/actions.md#Magic) action, you can open or close this bottle.

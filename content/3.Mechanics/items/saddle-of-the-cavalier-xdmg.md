@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Saddle of the Cavalier"
 aliases:
 - "Saddle of the Cavalier"
 ---

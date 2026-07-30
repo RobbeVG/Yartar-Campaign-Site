@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/mountain
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/dragon
-statblock: inline
-statblock-link: "#^statblock"
+title: "Wyvern"
 aliases:
 - "Wyvern"
 ---
-# [Wyvern](3.Mechanics/bestiary/dragon/wyvern-xmm.md)
+# Wyvern
 *Source: Monster Manual (2024) p. 337. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Wyvern.webp#right)
 
 ## Wyvern
 
@@ -29,47 +29,43 @@ Opportunistic predators, wyverns are draconic ambushers that strike from above. 
 Wyverns are aggressive and claim sizable territories around the mountains, crags, and ruins where they dwell. Despite their considerable strength, they're opportunistic hunters that target unwitting livestock and groups of encamped travelers. Wyverns usually land only to finish off creatures they've weakened with their poison and strafing attacks. Creatures that fight back or take flight might deter wyverns, convincing them to search for easier prey.
 
 Once wyverns overpower a quarry, they carry it to their cavernous lairs to either consume it in safety or trap it to eat later. Most wyverns don't hoard treasure, but their lairs are littered with the possessions of past victims. It isn't uncommon for wyverns to carry off chests, carts, or small boats along with their prey.
+```ad-statblock
+title: Wyvern
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Wyvern.webp#token)
+*Large Dragon, Unaligned*
 
-```statblock
-"name": "Wyvern (XMM)"
-"size": "Large"
-"type": "dragon"
-"alignment": "Unaligned"
-"ac": !!int "14"
-"hp": !!int "127"
-"hit_dice": "15d10 + 45"
-"modifier": !!int "0"
-"stats":
-  - !!int "19"
-  - !!int "10"
-  - !!int "16"
-  - !!int "5"
-  - !!int "12"
-  - !!int "6"
-"speed": "30 ft., fly 80 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 14"
-"languages": ""
-"cr": "6"
-"actions":
-  - "desc": "The wyvern makes one Bite attack and one Sting attack."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+7|noform|noparens|text(+7), reach 5\
-      \ ft. *Hit:* dice:2d8+4|noform|noparens|avg|text(13) (2d8 + 4) Piercing\
-      \ damage."
-    "name": "Bite"
-  - "desc": "*Melee Attack Roll:* dice:1d20+7|noform|noparens|text(+7), reach 10\
-      \ ft. *Hit:* dice:2d6+4|noform|noparens|avg|text(11) (2d6 + 4) Piercing\
-      \ damage plus dice:7d6|noform|noparens|avg|text(24) (7d6) Poison damage,\
-      \ and the target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition until the start of the wyvern's next turn."
-    "name": "Sting"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Wyvern.webp"
+- **Armor Class** 14 
+- **Hit Points** 127 (15d10 + 45) 
+- **Speed** 30 ft., fly 80 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 19 | +4 | +4 |
+|Int| 5 | -3 | -3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | +0 |
+|Wis| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 6 | -2 | -2 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 14
+- **Languages** —
+- **Challenge** 6
+
+## Actions
+
+***Multiattack.*** The wyvern makes one Bite attack and one Sting attack.
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. *Hit:* `dice:2d8+4|noform|noparens|avg|text(13)` (`2d8 + 4`) Piercing damage.
+
+***Sting.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 10 ft. *Hit:* `dice:2d6+4|noform|noparens|avg|text(11)` (`2d6 + 4`) Piercing damage plus `dice:7d6|noform|noparens|avg|text(24)` (`7d6`) Poison damage, and the target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition until the start of the wyvern's next turn.
 ```
 ^statblock
 

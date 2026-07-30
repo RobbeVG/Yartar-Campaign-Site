@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/coastal
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/dragon/metallic
-statblock: inline
-statblock-link: "#^statblock"
+title: "Young Bronze Dragon"
 aliases:
 - "Young Bronze Dragon"
 ---
-# [Young Bronze Dragon](3.Mechanics/bestiary/dragon/young-bronze-dragon-xmm.md)
+# Young Bronze Dragon
 *Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Bronze%20Dragon.webp#right)
 
 Many young bronze dragons become experts in a type of problem, like driving off pirates or protecting communities from storms. Young bronze dragons collect friends with varied expertise, cultivating a community of experts they can rely on.
 
@@ -33,62 +33,50 @@ Bronze dragons enjoy the power and endless possibilities of the sea, and they of
 
 Bronze dragons usually make their homes near or under the sea.
 
-```statblock
-"name": "Young Bronze Dragon (XMM)"
-"size": "Large"
-"type": "dragon"
-"subtype": "metallic"
-"alignment": "Lawful Good"
-"ac": !!int "17"
-"hp": !!int "142"
-"hit_dice": "15d10 + 60"
-"modifier": !!int "3"
-"stats":
-  - !!int "21"
-  - !!int "10"
-  - !!int "19"
-  - !!int "14"
-  - !!int "13"
-  - !!int "17"
-"speed": "40 ft., fly 80 ft., swim 40 ft."
-"saves":
-  - "dexterity": !!int "3"
-  - "wisdom": !!int "4"
-"skillsaves":
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
-    "desc": "+4"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+7"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+3"
-"damage_immunities": "lightning"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 17"
-"languages": "Common, Draconic"
-"cr": "8"
-"traits":
-  - "desc": "The dragon can breathe air and water."
-    "name": "Amphibious"
-"actions":
-  - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of Repulsion Breath."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+8|noform|noparens|text(+8), reach 10\
-      \ ft. *Hit:* dice:2d10+5|noform|noparens|avg|text(16) (2d10 + 5) Slashing\
-      \ damage."
-    "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 15, each creature in a 60-foot-long, 5-foot-wide\
-      \ [Line](3.Mechanics/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
-      \ dice:9d10|noform|noparens|avg|text(49) (9d10) Lightning damage. *Success:*\
-      \ Half damage."
-    "name": "Lightning Breath (Recharge 5-6)"
-  - "desc": "*Strength Saving Throw:* DC 15, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* The target is pushed up to 40 feet straight away from the dragon\
-      \ and has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition."
-    "name": "Repulsion Breath"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Young%20Bronze%20Dragon.webp"
+```ad-statblock
+title: Young Bronze Dragon
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Young%20Bronze%20Dragon.webp#token)
+*Large Dragon (metallic), Lawful Good*
+
+- **Armor Class** 17 
+- **Hit Points** 142 (15d10 + 60) 
+- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 21 | +5 | +5 |
+|Int| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | **+3** |
+|Wis| 13 | +1 | **+4** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 19 | +4 | +4 |
+|Cha| 17 | +3 | +3 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Dexterity +3, Wisdom +4
+- **Skills** [Insight](3.Mechanics/rules/skills.md#Insight) +4, [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
+- **Damage Immunities** Lightning
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 17
+- **Languages** Common, Draconic
+- **Challenge** 8
+
+## Traits
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Repulsion Breath.
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+8|noform|noparens|text(+8)`, reach 10 ft. *Hit:* `dice:2d10+5|noform|noparens|avg|text(16)` (`2d10 + 5`) Slashing damage.
+
+***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 15, each creature in a 60-foot-long, 5-foot-wide [Line](3.Mechanics/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:* `dice:9d10|noform|noparens|avg|text(49)` (`9d10`) Lightning damage. *Success:* Half damage.
+
+***Repulsion Breath.*** *Strength Saving Throw:* DC 15, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* The target is pushed up to 40 feet straight away from the dragon and has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition.
 ```
 ^statblock
 

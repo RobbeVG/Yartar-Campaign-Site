@@ -23,6 +23,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Shatter"
 aliases:
 - "Shatter"
 ---

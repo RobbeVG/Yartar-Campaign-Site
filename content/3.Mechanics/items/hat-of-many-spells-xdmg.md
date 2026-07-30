@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/very-rare
+title: "Hat of Many Spells"
 aliases:
 - "Hat of Many Spells"
 ---

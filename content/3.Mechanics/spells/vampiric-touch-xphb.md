@@ -21,6 +21,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Vampiric Touch"
 aliases:
 - "Vampiric Touch"
 ---

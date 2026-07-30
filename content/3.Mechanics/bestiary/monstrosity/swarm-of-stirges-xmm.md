@@ -15,13 +15,22 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Swarm of Stirges"
 aliases:
 - "Swarm of Stirges"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- [grappled](3.Mechanics/rules/conditions.md#Grappled)
+- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
+- [petrified](3.Mechanics/rules/conditions.md#Petrified)
+- [prone](3.Mechanics/rules/conditions.md#Prone)
+- [restrained](3.Mechanics/rules/conditions.md#Restrained)
+- [stunned](3.Mechanics/rules/conditions.md#Stunned)
 ---
-# [Swarm of Stirges](3.Mechanics/bestiary/monstrosity/swarm-of-stirges-xmm.md)
+# Swarm of Stirges
 *Source: Monster Manual (2024) p. 299*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Stirges.webp#right)
 
 Swarms of stirges sometimes form in swamps and Underdark caverns, draining livestock and any other creatures that can't escape them.
 
@@ -46,51 +55,45 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
 | 4 | The remains of a gigantic, dead creature. |
 ^stirge-roosts
 
-```statblock
-"name": "Swarm of Stirges (XMM)"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "14"
-"hp": !!int "36"
-"hit_dice": "8d8"
-"modifier": !!int "3"
-"stats":
-  - !!int "4"
-  - !!int "16"
-  - !!int "11"
-  - !!int "2"
-  - !!int "8"
-  - !!int "6"
-"speed": "10 ft., fly 40 ft."
-"damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [prone](3.Mechanics/rules/conditions.md#Prone),\
-  \ [restrained](3.Mechanics/rules/conditions.md#Restrained), [stunned](3.Mechanics/rules/conditions.md#Stunned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
-"languages": ""
-"cr": "2"
-"traits":
-  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
-      \ swarm can move through any opening large enough for a Tiny creature. The swarm\
-      \ can't regain [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ or gain [Temporary Hit Points](3.Mechanics/rules/variant-rules/temporary-hit-points-xphb.md)."
-    "name": "Swarm"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:2d10+3|noform|noparens|avg|text(14) (2d10 + 3) Piercing\
-      \ damage, or dice:1d10+3|noform|noparens|avg|text(8) (1d10 + 3) Piercing\
-      \ damage if the swarm is [Bloodied](3.Mechanics/rules/conditions.md#Bloodied).\
-      \ If the target is a Medium or smaller creature in the swarm's space, the target\
-      \ has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape\
-      \ DC 13). Until the grapple ends, the target takes dice:2d6|noform|noparens|avg|text(7)\
-      \ (2d6) Necrotic damage at the end of each of its turns."
-    "name": "Swarm of Proboscises"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Swarm%20of%20Stirges.webp"
+```ad-statblock
+title: Swarm of Stirges
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Swarm%20of%20Stirges.webp#token)
+*Medium Monstrosity, Unaligned*
+
+- **Armor Class** 14 
+- **Hit Points** 36 (8d8) 
+- **Speed** 10 ft., fly 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 4 | -3 | -3 |
+|Int| 2 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16 | +3 | +3 |
+|Wis| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 11 | +0 | +0 |
+|Cha| 6 | -2 | -2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Resistances** Bludgeoning, Piercing, Slashing
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained), [Stunned](3.Mechanics/rules/conditions.md#Stunned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
+- **Languages** —
+- **Challenge** 2
+
+## Traits
+
+***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can't regain [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) or gain [Temporary Hit Points](3.Mechanics/rules/variant-rules/temporary-hit-points-xphb.md).
+
+## Actions
+
+***Swarm of Proboscises.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:2d10+3|noform|noparens|avg|text(14)` (`2d10 + 3`) Piercing damage, or `dice:1d10+3|noform|noparens|avg|text(8)` (`1d10 + 3`) Piercing damage if the swarm is [Bloodied](3.Mechanics/rules/conditions.md#Bloodied). If the target is a Medium or smaller creature in the swarm's space, the target has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 13). Until the grapple ends, the target takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Necrotic damage at the end of each of its turns.
 ```
 ^statblock
 

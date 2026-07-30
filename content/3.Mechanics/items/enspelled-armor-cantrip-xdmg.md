@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Enspelled Armor (Cantrip)"
 aliases:
 - "Enspelled Armor (Cantrip)"
 - "Enspelled (Cantrip) Breastplate"

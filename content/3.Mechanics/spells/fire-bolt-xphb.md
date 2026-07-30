@@ -26,6 +26,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Fire Bolt"
 aliases:
 - "Fire Bolt"
 ---

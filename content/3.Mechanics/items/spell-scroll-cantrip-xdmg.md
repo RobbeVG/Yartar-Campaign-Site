@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/scroll
+title: "Spell Scroll (Cantrip)"
 aliases:
 - "Spell Scroll (Cantrip)"
 ---
 # Spell Scroll (Cantrip)
 *Scroll, common*  
-![](file://items/XDMG/Spell%20Scroll.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Spell%20Scroll.webp#right)
 
 - **Cost**: 30 gp
 

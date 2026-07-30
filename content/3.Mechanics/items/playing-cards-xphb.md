@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/gaming-set
 - ttrpg-cli/item/rarity/none
+title: "Playing Cards"
 aliases:
 - "Playing Cards"
 ---

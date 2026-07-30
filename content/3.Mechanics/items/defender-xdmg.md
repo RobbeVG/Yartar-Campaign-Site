@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Defender"
 aliases:
 - "Defender"
 - "Defender Battleaxe"
@@ -43,7 +44,7 @@ aliases:
 ---
 # Defender
 *Legendary (requires attunement)*  
-![Defender (Greatsword)](file://items/XDMG/Defender.webp#right)
+![Defender (Greatsword)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Defender.webp#right)
 
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.

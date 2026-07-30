@@ -10,11 +10,11 @@ aliases:
 # Chapter 3: Character Classes
 *Source: Player's Handbook (2024), p. 49* 
 
-![The heroes Mercion, Molliver, Strongheart, and Ringlerun protect a portal to another plane from diabolical invaders](file://book/XPHB/025-03-050.opening-art.webp#center)
+![The heroes Mercion, Molliver, Strongheart, and Ringlerun protect a portal to another plane from diabolical invaders](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/025-03-050.opening-art.webp#center)
 
 Character class provides a character's most exciting capabilities. This chapter offers twelve classes, each of which contains four subclasses—all summarized below.
 
-![](file://book/XPHB/026-03-002.barbarian-symbol.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/026-03-002.barbarian-symbol.webp#center)
 
 ## Barbarian
 
@@ -25,7 +25,7 @@ Storm with Rage, and wade into hand-to-hand combat. Then follow the Path of the.
 - [Path of the World Tree](3.Mechanics/classes/barbarian-xphb-path-of-the-world-tree-xphb.md) to tap into cosmic vitality.  
 - [Path of the Zealot](3.Mechanics/classes/barbarian-xphb-path-of-the-zealot-xphb.md) to rage in union with a god.  
 
-![](file://book/XPHB/027-03-003.bard-symbol.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/027-03-003.bard-symbol.webp#center)
 
 ## Bard
 
@@ -36,7 +36,7 @@ Perform spells that inspire and heal allies or beguile foes. Then join the Colle
 - [College of Lore](3.Mechanics/classes/bard-xphb-college-of-lore-xphb.md) to collect knowledge and magical secrets.  
 - [College of Valor](3.Mechanics/classes/bard-xphb-college-of-valor-xphb.md) to wield weapons with spells.  
 
-![](file://book/XPHB/028-03-004.cleric-symbol.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/028-03-004.cleric-symbol.webp#center)
 
 ## Cleric
 
@@ -47,7 +47,7 @@ Invoke divine magic to heal, bolster, and smite. Then harness the...
 - [Trickery Domain](3.Mechanics/classes/cleric-xphb-trickery-domain-xphb.md) to bedevil foes with mischief.  
 - [War Domain](3.Mechanics/classes/cleric-xphb-war-domain-xphb.md) to inspire valor and chastise foes.  
 
-![](file://book/XPHB/029-03-005.druid-symbol.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/029-03-005.druid-symbol.webp#center)
 
 ## Druid
 
@@ -58,7 +58,7 @@ Channel nature magic to heal, shape-shift, and control the elements. Then join t
 - [Circle of the Sea](3.Mechanics/classes/druid-xphb-circle-of-the-sea-xphb.md) to channel tides and storms.  
 - [Circle of the Stars](3.Mechanics/classes/druid-xphb-circle-of-the-stars-xphb.md) to gain powers in a starry form.  
 
-![](file://book/XPHB/030-03-006.fighter-symbol.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/030-03-006.fighter-symbol.webp#center)
 
 ## Fighter
 
@@ -69,7 +69,7 @@ Master all weapons and armor. Then embody the...
 - [Eldritch Knight](3.Mechanics/classes/fighter-xphb-eldritch-knight-xphb.md) to learn spells to aid in combat.  
 - [Psi Warrior](3.Mechanics/classes/fighter-xphb-psi-warrior-xphb.md) to augment attacks with psionic power.  
 
-![](file://book/XPHB/031-03-007.monk-symbol.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/031-03-007.monk-symbol.webp#center)
 
 ## Monk
 
@@ -80,7 +80,7 @@ Dart in and out of melee while striking fast and hard. Then become a Warrior of.
 - [Warrior of the Elements](3.Mechanics/classes/monk-xphb-warrior-of-the-elements-xphb.md) to wield elemental power.  
 - [Warrior of the Open Hand](3.Mechanics/classes/monk-xphb-warrior-of-the-open-hand-xphb.md) to master unarmed combat.  
 
-![](file://book/XPHB/032-03-008.paladin-symbol.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/032-03-008.paladin-symbol.webp#center)
 
 ## Paladin
 
@@ -91,7 +91,7 @@ Smite foes and shield allies with divine and martial might. Then swear the Oath 
 - [Oath of the Ancients](3.Mechanics/classes/paladin-xphb-oath-of-the-ancients-xphb.md) to preserve life, joy, and nature.  
 - [Oath of Vengeance](3.Mechanics/classes/paladin-xphb-oath-of-vengeance-xphb.md) to hunt down evildoers.  
 
-![](file://book/XPHB/033-03-009.ranger-symbol.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/033-03-009.ranger-symbol.webp#center)
 
 ## Ranger
 
@@ -102,7 +102,7 @@ Weave together martial prowess, nature magic, and survival skills. Then embody t
 - [Gloom Stalker](3.Mechanics/classes/ranger-xphb-gloom-stalker-xphb.md) to hunt foes that lurk in darkness.  
 - [Hunter](3.Mechanics/classes/ranger-xphb-hunter-xphb.md) to protect nature with martial versatility.  
 
-![](file://book/XPHB/034-03-010.rogue-symbol.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/034-03-010.rogue-symbol.webp#center)
 
 ## Rogue
 
@@ -113,7 +113,7 @@ Launch deadly Sneak Attacks while avoiding harm through stealth. Then embody the
 - [Soulknife](3.Mechanics/classes/rogue-xphb-soulknife-xphb.md) to strike foes with psi blades.  
 - [Thief](3.Mechanics/classes/rogue-xphb-thief-xphb.md) to master infiltration and treasure hunting.  
 
-![](file://book/XPHB/035-03-011.sorcerer-symbol.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/035-03-011.sorcerer-symbol.webp#center)
 
 ## Sorcerer
 
@@ -124,7 +124,7 @@ Wield magic innate to your being, shaping the power to your will. Then channel..
 - [Draconic Sorcery](3.Mechanics/classes/sorcerer-xphb-draconic-sorcery-xphb.md) to breathe the magic of dragons.  
 - [Wild Magic Sorcery](3.Mechanics/classes/sorcerer-xphb-wild-magic-sorcery-xphb.md) to unleash chaos magic.  
 
-![](file://book/XPHB/036-03-012.warlock-symbol.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/036-03-012.warlock-symbol.webp#center)
 
 ## Warlock
 
@@ -135,7 +135,7 @@ Cast spells derived from occult knowledge. Then form a pact with the...
 - [Fiend Patron](3.Mechanics/classes/warlock-xphb-fiend-patron-xphb.md) to call on sinister powers.  
 - [Great Old One Patron](3.Mechanics/classes/warlock-xphb-great-old-one-patron-xphb.md) to delve into forbidden lore.  
 
-![](file://book/XPHB/037-03-013.wizard-symbol.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/037-03-013.wizard-symbol.webp#center)
 
 ## Wizard
 

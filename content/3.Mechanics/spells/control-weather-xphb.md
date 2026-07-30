@@ -15,12 +15,13 @@ classes:
 - Cleric
 - Druid
 - Wizard
+title: "Control Weather"
 aliases:
 - "Control Weather"
 ---
 # Control Weather
 *8th-level, Transmutation*  
-![](file://spells/XPHB/Control%20Weather.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Control%20Weather.webp#right)
 
 - **Casting time:** 10 minutes
 - **Range:** Self (5-mile Sphere)

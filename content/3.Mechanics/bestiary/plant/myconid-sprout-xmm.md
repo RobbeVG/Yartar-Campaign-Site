@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/plant
-statblock: inline
-statblock-link: "#^statblock"
+title: "Myconid Sprout"
 aliases:
 - "Myconid Sprout"
 ---
-# [Myconid Sprout](3.Mechanics/bestiary/plant/myconid-sprout-xmm.md)
+# Myconid Sprout
 *Source: Monster Manual (2024) p. 222*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Myconids.webp#right)
 
 Myconid sprouts tend to their fungal homes and watch for trespassers.
 
@@ -27,45 +27,45 @@ Myconid sprouts tend to their fungal homes and watch for trespassers.
 
 Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. These ambulatory fungal creatures tend to their sanctuaries and avoid becoming embroiled in the conflicts of other creatures. They use specialized spores to communicate, to alert one another to danger, and to defend themselves. When myconids encounter others beings, they use mind-linking spores to allow nearby creatures to telepathically share thoughts. Nevertheless, myconids' goals remain mysterious to most non-fungal creatures.
 
-```statblock
-"name": "Myconid Sprout (XMM)"
-"size": "Small"
-"type": "plant"
-"alignment": "Lawful Neutral"
-"ac": !!int "10"
-"hp": !!int "3"
-"hit_dice": "1d6"
-"modifier": !!int "0"
-"stats":
-  - !!int "8"
-  - !!int "10"
-  - !!int "10"
-  - !!int "8"
-  - !!int "11"
-  - !!int "5"
-"speed": "10 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 10"
-"languages": "telepathy 240 ft."
-"cr": "0"
-"traits":
-  - "desc": "While in sunlight, the myconid has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
-      \ on [D20 Tests](3.Mechanics/rules/variant-rules/d20-test-xphb.md). The myconid\
-      \ dies if it spends more than 1 hour in sunlight."
-    "name": "Sun Sickness"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+1|noform|noparens|text(+1), reach 5\
-      \ ft. *Hit:* dice:1d4-1|noform|noparens|avg|text(1) (1d4 - 1) Bludgeoning\
-      \ damage plus dice:1d4|noform|noparens|avg|text(2) (1d4) Poison damage."
-    "name": "Slam"
-  - "desc": "The myconid expels spores in a 30-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from itself. Creatures in that area with an Intelligence score\
-      \ of 2 or higher that aren't Constructs, Elementals, or Undead gain telepathy\
-      \ with a range of 30 feet for 1 hour."
-    "name": "Rapport Spores"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Myconid%20Sprout.webp"
+```ad-statblock
+title: Myconid Sprout
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Myconid%20Sprout.webp#token)
+*Small Plant, Lawful Neutral*
+
+- **Armor Class** 10 
+- **Hit Points** 3 (1d6) 
+- **Speed** 10 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 8 | -1 | -1 |
+|Int| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | +0 |
+|Wis| 11 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 10 | +0 | +0 |
+|Cha| 5 | -3 | -3 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 10
+- **Languages** Telepathy 240 ft.
+- **Challenge** 0
+
+## Traits
+
+***Sun Sickness.*** While in sunlight, the myconid has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on [D20 Tests](3.Mechanics/rules/variant-rules/d20-test-xphb.md). The myconid dies if it spends more than 1 hour in sunlight.
+
+## Actions
+
+***Slam.*** *Melee Attack Roll:* `dice:1d20+1|noform|noparens|text(+1)`, reach 5 ft. *Hit:* `dice:1d4-1|noform|noparens|avg|text(1)` (`1d4 - 1`) Bludgeoning damage plus `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) Poison damage.
+
+***Rapport Spores.*** The myconid expels spores in a 30-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from itself. Creatures in that area with an Intelligence score of 2 or higher that aren't Constructs, Elementals, or Undead gain telepathy with a range of 30 feet for 1 hour.
 ```
 ^statblock
 

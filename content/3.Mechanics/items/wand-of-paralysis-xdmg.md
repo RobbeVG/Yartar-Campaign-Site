@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/wand
+title: "Wand of Paralysis"
 aliases:
 - "Wand of Paralysis"
 ---
 # Wand of Paralysis
 *Wand, rare (requires attunement by a spellcaster)*  
-![](file://items/XDMG/Wand%20of%20Paralysis.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Wand%20of%20Paralysis.webp#right)
 
 - **Weight**: 1.0 lbs.
 

@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/school/evocation
 classes:
 - Paladin
+title: "Blinding Smite"
 aliases:
 - "Blinding Smite"
 ---

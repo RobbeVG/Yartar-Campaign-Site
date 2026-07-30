@@ -13,6 +13,7 @@ classes:
 - Bard
 - Sorcerer
 - Wizard
+title: "Mass Suggestion"
 aliases:
 - "Mass Suggestion"
 ---

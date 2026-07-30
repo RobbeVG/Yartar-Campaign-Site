@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/varies
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Enspelled Weapon"
 aliases:
 - "Enspelled Weapon"
 ---

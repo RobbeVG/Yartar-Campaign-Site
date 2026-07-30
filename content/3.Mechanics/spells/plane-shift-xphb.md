@@ -19,6 +19,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Plane Shift"
 aliases:
 - "Plane Shift"
 ---

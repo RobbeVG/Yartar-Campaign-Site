@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/school/conjuration
 classes:
 - Paladin
+title: "Find Steed"
 aliases:
 - "Find Steed"
 ---

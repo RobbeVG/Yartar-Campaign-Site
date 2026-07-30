@@ -14,6 +14,7 @@ classes:
 - Bard
 - Cleric
 - Paladin (Oath of Devotion)
+title: "Commune"
 aliases:
 - "Commune"
 ---

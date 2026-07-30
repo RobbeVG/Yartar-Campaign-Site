@@ -15,6 +15,7 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Cleric (War Domain)
+title: "Spirit Guardians"
 aliases:
 - "Spirit Guardians"
 ---

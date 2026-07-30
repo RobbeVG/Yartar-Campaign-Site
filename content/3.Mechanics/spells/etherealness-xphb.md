@@ -17,6 +17,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Etherealness"
 aliases:
 - "Etherealness"
 ---

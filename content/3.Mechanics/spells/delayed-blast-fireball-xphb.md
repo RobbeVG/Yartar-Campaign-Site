@@ -15,6 +15,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Delayed Blast Fireball"
 aliases:
 - "Delayed Blast Fireball"
 ---

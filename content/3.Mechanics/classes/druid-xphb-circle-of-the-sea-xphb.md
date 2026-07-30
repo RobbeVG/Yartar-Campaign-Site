@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/druid/sea
+title: "Circle of the Sea"
 aliases:
 - "Circle of the Sea"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Sea%20Druid.webp#right)
 
 *Become One with Tides and Storms*
 

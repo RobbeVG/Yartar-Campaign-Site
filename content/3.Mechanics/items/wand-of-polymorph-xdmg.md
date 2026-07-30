@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/wand
+title: "Wand of Polymorph"
 aliases:
 - "Wand of Polymorph"
 ---
 # Wand of Polymorph
 *Wand, very rare (requires attunement by a spellcaster)*  
-![](file://items/XDMG/Wand%20of%20Polymorph.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Wand%20of%20Polymorph.webp#right)
 
 - **Weight**: 1.0 lbs.
 

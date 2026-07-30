@@ -13,12 +13,13 @@ classes:
 - Bard
 - Cleric
 - Paladin
+title: "Dispel Evil and Good"
 aliases:
 - "Dispel Evil and Good"
 ---
 # Dispel Evil and Good
 *5th-level, Abjuration*  
-![](file://spells/XPHB/Dispel%20Evil%20and%20Good.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Dispel%20Evil%20and%20Good.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Self

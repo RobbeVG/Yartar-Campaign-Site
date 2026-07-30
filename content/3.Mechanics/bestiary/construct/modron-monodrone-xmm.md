@@ -9,13 +9,15 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
-statblock: inline
-statblock-link: "#^statblock"
+title: "Modron Monodrone"
 aliases:
 - "Modron Monodrone"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
 ---
-# [Modron Monodrone](3.Mechanics/bestiary/construct/modron-monodrone-xmm.md)
+# Modron Monodrone
 *Source: Monster Manual (2024) p. 216*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Modron%20Monodrone.webp#right)
 
 The most numerous modrons, monodrones can perform one simple task at a time. They believe anything they're told that isn't logically or mathematically false. When faced with unexpected situations, they're quick to seek duodrones for help.
 
@@ -59,42 +61,46 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 > The guide swore "beep boop" meant "hello, friend." I don't know why they're after us!
 
 
-```statblock
-"name": "Modron Monodrone (XMM)"
-"size": "Medium"
-"type": "construct"
-"alignment": "Lawful Neutral"
-"ac": !!int "15"
-"hp": !!int "5"
-"hit_dice": "1d8 + 1"
-"modifier": !!int "2"
-"stats":
-  - !!int "10"
-  - !!int "14"
-  - !!int "12"
-  - !!int "4"
-  - !!int "10"
-  - !!int "5"
-"speed": "30 ft., fly 30 ft."
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 10"
-"languages": "Modron"
-"cr": "1/8"
-"traits":
-  - "desc": "If the modron dies, it disintegrates into dust, leaving behind anything\
-      \ it was wearing or carrying."
-    "name": "Disintegration"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d8+2|noform|noparens|avg|text(6) (1d8 + 2) Force damage."
-    "name": "Gear"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+4|noform|noparens|text(+4), range 120\
-      \ ft. *Hit:* dice:1d8+2|noform|noparens|avg|text(6) (1d8 + 2) Force damage."
-    "name": "Gear Flinger"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Modron%20Monodrone.webp"
+```ad-statblock
+title: Modron Monodrone
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Modron%20Monodrone.webp#token)
+*Medium Construct, Lawful Neutral*
+
+- **Armor Class** 15 
+- **Hit Points** 5 (1d8 + 1) 
+- **Speed** 30 ft., fly 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10 | +0 | +0 |
+|Int| 4 | -3 | -3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 5 | -3 | -3 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed)
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 10
+- **Languages** Modron
+- **Challenge** 1/8
+
+## Traits
+
+***Disintegration.*** If the modron dies, it disintegrates into dust, leaving behind anything it was wearing or carrying.
+
+## Actions
+
+***Gear.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) Force damage.
+
+***Gear Flinger.*** *Ranged Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, range 120 ft. *Hit:* `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) Force damage.
 ```
 ^statblock
 

@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/mountain
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/dragon/chromatic
-statblock: inline
-statblock-link: "#^statblock"
+title: "Adult Red Dragon"
 aliases:
 - "Adult Red Dragon"
 ---
-# [Adult Red Dragon](3.Mechanics/bestiary/dragon/adult-red-dragon-xmm.md)
+# Adult Red Dragon
 *Source: Monster Manual (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![An adult red dragon unleashes its fury, reducing a city to ruin](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Red%20Dragon.webp#right)
 
 Adult red dragons are tyrants that claim vast domains and might command armies of followers or significant magical resources. Red dragons rarely pay attention to the nations and claims of smaller creatures, and they might consider entire cities part of their realm. Most red dragons are inattentive rulers, though, spending decades focused on their own comforts, hoards, or magical concerns within their lairs. But when their attention returns to their territories, if they find matters not to their liking, whole lands might burn.
 
@@ -36,89 +36,73 @@ Red dragons believe themselves to be the greatest of all dragons and, by extensi
 
 Red dragons make their lairs in smoldering, unapproachable places such as volcanic mountains, burning wastelands, and ruins they've stolen from other creatures.
 
-```statblock
-"name": "Adult Red Dragon (XMM)"
-"size": "Huge"
-"type": "dragon"
-"subtype": "chromatic"
-"alignment": "Chaotic Evil"
-"ac": !!int "19"
-"hp": !!int "256"
-"hit_dice": "19d12 + 133"
-"modifier": !!int "12"
-"stats":
-  - !!int "27"
-  - !!int "10"
-  - !!int "25"
-  - !!int "16"
-  - !!int "13"
-  - !!int "23"
-"speed": "40 ft., climb 40 ft., fly 80 ft."
-"saves":
-  - "dexterity": !!int "6"
-  - "wisdom": !!int "7"
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+13"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+6"
-"damage_immunities": "fire"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 23"
-"languages": "Common, Draconic"
-"cr": "17"
-"traits":
-  - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
-    "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-"actions":
-  - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of Spellcasting to cast [Scorching Ray](3.Mechanics/spells/scorching-ray-xphb.md)."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+14|noform|noparens|text(+14), reach\
-      \ 10 ft. *Hit:* dice:1d10+8|noform|noparens|avg|text(13) (1d10 + 8) Slashing\
-      \ damage plus dice:2d4|noform|noparens|avg|text(5) (2d4) Fire damage."
-    "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 21, each creature in a 60-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* dice:17d6|noform|noparens|avg|text(59) (17d6) Fire damage.\
-      \ *Success:* Half damage."
-    "name": "Fire Breath (Recharge 5-6)"
-  - "desc": "The dragon casts one of the following spells, requiring no Material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 20, dice:1d20+12|noform|noparens|text(+12)\
-      \ to hit with spell attacks):\n\n**At will:** [Command](3.Mechanics/spells/command-xphb.md)\
-      \ (level 2 version), [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md),\
-      \ [Scorching Ray](3.Mechanics/spells/scorching-ray-xphb.md)\n\n**1/day:** [Fireball](3.Mechanics/spells/fireball-xphb.md)"
-    "name": "Spellcasting"
-"regional_effects":
-  - "desc": "The region containing an adult or ancient red dragon's lair is warped\
-      \ by its presence, creating the following effects:\n\n- **Burning Heat.** The\
-      \ area within 1 mile of the lair is an area of extreme heat. A burning creature\
-      \ or object takes an additional dice:1d4|noform|noparens|avg (1d4) Fire\
-      \ damage at the start of each of its turns.  \n- **Smoldering Haze.** The area\
-      \ within 1 mile of the lair is [Lightly Obscured](3.Mechanics/rules/variant-rules/lightly-obscured-xphb.md)\
-      \ with clouds of ash. Whenever a creature other than the dragon or one of its\
-      \ allies finishes a [Long Rest](3.Mechanics/rules/variant-rules/long-rest-xphb.md)\
-      \ in that area, that creature must succeed on a DC 15 Constitution saving throw\
-      \ or have the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition\
-      \ for 1 hour.  \n\nIf the dragon dies or moves its lair elsewhere, these effects\
-      \ end immediately."
-    "name": ""
-"legendary_description": "Legendary Action Uses: 3 (4 in Lair). Immediately after\
-  \ another creature's turn, the dragon can expend a use to take one of the following\
-  \ actions. The dragon regains all expended uses at the start of each of its turns."
-"legendary_actions":
-  - "desc": "The dragon uses Spellcasting to cast [Command](3.Mechanics/spells/command-xphb.md)\
-      \ (level 2 version). The dragon can't take this action again until the start\
-      \ of its next turn."
-    "name": "Commanding Presence"
-  - "desc": "The dragon uses Spellcasting to cast [Scorching Ray](3.Mechanics/spells/scorching-ray-xphb.md).\
-      \ The dragon can't take this action again until the start of its next turn."
-    "name": "Fiery Rays"
-  - "desc": "The dragon moves up to half its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md),\
-      \ and it makes one Rend attack."
-    "name": "Pounce"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Adult%20Red%20Dragon.webp"
+```ad-statblock
+title: Adult Red Dragon
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Adult%20Red%20Dragon.webp#token)
+*Huge Dragon (chromatic), Chaotic Evil*
+
+- **Armor Class** 19 
+- **Hit Points** 256 (19d12 + 133) 
+- **Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 27 | +8 | +8 |
+|Int| 16 | +3 | +3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | **+6** |
+|Wis| 13 | +1 | **+7** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 25 | +7 | +7 |
+|Cha| 23 | +6 | +6 |
+
+
+- **Proficiency Bonus** +6
+- **Saving Throws** Dexterity +6, Wisdom +7
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +13, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
+- **Damage Immunities** Fire
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 23
+- **Languages** Common, Draconic
+- **Challenge** 17
+
+## Traits
+
+***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast [Scorching Ray](3.Mechanics/spells/scorching-ray-xphb.md).
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+14|noform|noparens|text(+14)`, reach 10 ft. *Hit:* `dice:1d10+8|noform|noparens|avg|text(13)` (`1d10 + 8`) Slashing damage plus `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) Fire damage.
+
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 21, each creature in a 60-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* `dice:17d6|noform|noparens|avg|text(59)` (`17d6`) Fire damage. *Success:* Half damage.
+
+***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 20, `dice:1d20+12|noform|noparens|text(+12)` to hit with spell attacks):
+
+**At will:** [Command](3.Mechanics/spells/command-xphb.md) (level 2 version), [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md), [Scorching Ray](3.Mechanics/spells/scorching-ray-xphb.md)
+
+**1/day:** [Fireball](3.Mechanics/spells/fireball-xphb.md)
+
+## Legendary Actions
+
+Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
+
+***Commanding Presence.*** The dragon uses Spellcasting to cast [Command](3.Mechanics/spells/command-xphb.md) (level 2 version). The dragon can't take this action again until the start of its next turn.
+
+***Fiery Rays.*** The dragon uses Spellcasting to cast [Scorching Ray](3.Mechanics/spells/scorching-ray-xphb.md). The dragon can't take this action again until the start of its next turn.
+
+***Pounce.*** The dragon moves up to half its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md), and it makes one Rend attack.
+
+## Regional Effects
+
+The region containing an adult or ancient red dragon's lair is warped by its presence, creating the following effects:
+
+- **Burning Heat.** The area within 1 mile of the lair is an area of extreme heat. A burning creature or object takes an additional `dice:1d4|noform|noparens|avg` (`1d4`) Fire damage at the start of each of its turns.  
+- **Smoldering Haze.** The area within 1 mile of the lair is [Lightly Obscured](3.Mechanics/rules/variant-rules/lightly-obscured-xphb.md) with clouds of ash. Whenever a creature other than the dragon or one of its allies finishes a [Long Rest](3.Mechanics/rules/variant-rules/long-rest-xphb.md) in that area, that creature must succeed on a DC 15 Constitution saving throw or have the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition for 1 hour.  
+
+If the dragon dies or moves its lair elsewhere, these effects end immediately.
 ```
 ^statblock
 

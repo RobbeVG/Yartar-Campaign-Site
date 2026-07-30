@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/wand
+title: "Wand of Fear"
 aliases:
 - "Wand of Fear"
 ---
 # Wand of Fear
 *Wand, rare (requires attunement)*  
-![](file://items/XDMG/Wand%20of%20Fear.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Wand%20of%20Fear.webp#right)
 
 - **Weight**: 1.0 lbs.
 

@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/legendary
+title: "Well of Many Worlds"
 aliases:
 - "Well of Many Worlds"
 ---

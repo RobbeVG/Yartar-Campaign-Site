@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/legendary
+title: "Tome of the Stilled Tongue"
 aliases:
 - "Tome of the Stilled Tongue"
 ---

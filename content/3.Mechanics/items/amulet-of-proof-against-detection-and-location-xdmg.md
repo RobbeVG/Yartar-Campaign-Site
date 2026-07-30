@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Amulet of Proof against Detection and Location"
 aliases:
 - "Amulet of Proof against Detection and Location"
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Amulet%20of%20Proof%20against%20Detection%20and%20Location.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Amulet%20of%20Proof%20against%20Detection%20and%20Location.webp#right)
 
 - **Weight**: 1.0 lbs.
 

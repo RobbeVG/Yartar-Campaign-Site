@@ -15,6 +15,7 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
+title: "Speak with Plants"
 aliases:
 - "Speak with Plants"
 ---

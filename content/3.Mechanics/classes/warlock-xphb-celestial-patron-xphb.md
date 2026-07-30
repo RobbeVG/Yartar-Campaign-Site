@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/warlock/celestial
+title: "Celestial Patron"
 aliases:
 - "Celestial Patron"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Celestial%20Warlock.webp#right)
 
 *Call on the Power of the Heavens*
 

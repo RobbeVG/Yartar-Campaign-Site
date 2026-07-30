@@ -26,12 +26,13 @@ classes:
 - Ranger
 - Sorcerer
 - Warlock (Celestial Patron)
+title: "Daylight"
 aliases:
 - "Daylight"
 ---
 # Daylight
 *3rd-level, Evocation*  
-![](file://spells/XPHB/Daylight.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Daylight.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

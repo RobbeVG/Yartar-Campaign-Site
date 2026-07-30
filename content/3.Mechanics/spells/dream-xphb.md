@@ -15,6 +15,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
+title: "Dream"
 aliases:
 - "Dream"
 ---

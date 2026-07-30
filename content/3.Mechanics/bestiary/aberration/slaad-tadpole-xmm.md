@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Slaad Tadpole"
 aliases:
 - "Slaad Tadpole"
 ---
-# [Slaad Tadpole](3.Mechanics/bestiary/aberration/slaad-tadpole-xmm.md)
+# Slaad Tadpole
 *Source: Monster Manual (2024) p. 284, Player's Handbook (2024) p. 357. Available in the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Slaad%20Tadpole.webp#right)
 
 Slaad tadpoles are ravenous, newborn slaadi. They hatch from eggs implanted into living hosts by red slaadi, but they also appear in great numbers in Limbo and other chaotic realms. Under most conditions, a slaad tadpole transforms into a blue slaad—or a green slaad if its host was able to cast spells of level 3 or higher—within `dice:2d12|noform|noparens|avg` (`2d12`) hours of hatching.
 
@@ -42,43 +42,46 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
 
 
-```statblock
-"name": "Slaad Tadpole (XMM)"
-"size": "Tiny"
-"type": "aberration"
-"alignment": "Chaotic Neutral"
-"ac": !!int "12"
-"hp": !!int "7"
-"hit_dice": "3d4"
-"modifier": !!int "2"
-"stats":
-  - !!int "7"
-  - !!int "15"
-  - !!int "10"
-  - !!int "3"
-  - !!int "5"
-  - !!int "3"
-"speed": "30 ft., burrow 10 ft."
-"skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+4"
-"damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 7"
-"languages": "understands Slaad but can't speak"
-"cr": "1/8"
-"traits":
-  - "desc": "The slaad has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5) (1d6 + 2) Piercing damage."
-    "name": "Bite"
-"source":
-  - "XMM"
-  - "XPHB"
-"image": "file://bestiary/tokens/XMM/Slaad%20Tadpole.webp"
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Red%20and%20Blue%20Slaad.webp#center)
+
+```ad-statblock
+title: Slaad Tadpole
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Slaad%20Tadpole.webp#token)
+*Tiny Aberration, Chaotic Neutral*
+
+- **Armor Class** 12 
+- **Hit Points** 7 (3d4) 
+- **Speed** 30 ft., burrow 10 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 7 | -2 | -2 |
+|Int| 3 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15 | +2 | +2 |
+|Wis| 5 | -3 | -3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 10 | +0 | +0 |
+|Cha| 3 | -4 | -4 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
+- **Damage Resistances** Acid, Cold, Fire, Lightning, Thunder
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 7
+- **Languages** Understands Slaad but can't speak
+- **Challenge** 1/8
+
+## Traits
+
+***Magic Resistance.*** The slaad has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+## Actions
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Piercing damage.
 ```
 ^statblock
 

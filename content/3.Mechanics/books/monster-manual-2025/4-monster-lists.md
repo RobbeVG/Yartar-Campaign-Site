@@ -12,7 +12,7 @@ aliases:
 
 This appendix provides conversions for stat blocks that have changed between the 2014 "Monster Manual" and this book, as well as lists of monsters organized by habitat, creature type, group, and [Challenge Rating](3.Mechanics/rules/variant-rules/challenge-rating-xphb.md).
 
-![](file://book/XMM/027-28-001.monster-story-time.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/027-28-001.monster-story-time.webp#center)
 
 ## Monster Conversions
 

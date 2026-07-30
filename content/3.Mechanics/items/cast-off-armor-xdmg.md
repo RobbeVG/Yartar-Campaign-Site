@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Cast-Off Armor"
 aliases:
 - "Cast-Off Armor"
 - "Cast-Off Breastplate"

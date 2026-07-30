@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Wayfarer"
 aliases:
 - "Wayfarer"
 ---
 # Wayfarer
 *Source: Player's Handbook (2024) p. 185*  
-![](file://backgrounds/XPHB/Wayfarer.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/backgrounds/XPHB/Wayfarer.webp#right)
 
 - **Ability Scores.** Dexterity, Wisdom, Charisma  
 - **Feat.** [Lucky](3.Mechanics/feats/lucky-xphb.md)  

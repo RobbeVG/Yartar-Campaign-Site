@@ -9,12 +9,13 @@ tags:
 - ttrpg-cli/spell/school/evocation
 classes:
 - Paladin
+title: "Divine Smite"
 aliases:
 - "Divine Smite"
 ---
 # Divine Smite
 *1st-level, Evocation*  
-![](file://spells/XPHB/Divine%20Smite.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Divine%20Smite.webp#right)
 
 - **Casting time:** 1 Bonus Action, which you take immediately after hitting a target with a Melee weapon or an [Unarmed Strike](3.Mechanics/rules/variant-rules/unarmed-strike-xphb.md)
 - **Range:** Self

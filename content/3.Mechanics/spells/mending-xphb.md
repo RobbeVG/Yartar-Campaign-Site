@@ -28,6 +28,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
+title: "Mending"
 aliases:
 - "Mending"
 ---

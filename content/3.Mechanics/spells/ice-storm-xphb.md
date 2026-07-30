@@ -27,6 +27,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Ice Storm"
 aliases:
 - "Ice Storm"
 ---

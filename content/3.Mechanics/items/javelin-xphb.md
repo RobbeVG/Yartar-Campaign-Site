@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Javelin"
 aliases:
 - "Javelin"
 ---
 # Javelin
 *Weapon*  
-![](file://items/XPHB/Javelin.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Javelin.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120

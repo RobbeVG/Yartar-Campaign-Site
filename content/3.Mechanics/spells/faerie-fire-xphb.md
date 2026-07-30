@@ -19,6 +19,7 @@ classes:
 - Cleric (Light Domain)
 - Druid
 - Warlock (Archfey Patron)
+title: "Faerie Fire"
 aliases:
 - "Faerie Fire"
 ---

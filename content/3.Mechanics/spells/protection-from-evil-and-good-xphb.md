@@ -32,6 +32,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
+title: "Protection from Evil and Good"
 aliases:
 - "Protection from Evil and Good"
 ---

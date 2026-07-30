@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/varies
+title: "Figurine of Wondrous Power"
 aliases:
 - "Figurine of Wondrous Power"
 ---
 # Figurine of Wondrous Power
 *Wondrous item*  
-![](file://items/XDMG/Figurine%20of%20Wondrous%20Power.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Figurine%20of%20Wondrous%20Power.webp#right)
 
 
 **Items in this group:**

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/artisans-tools
 - ttrpg-cli/item/rarity/none
+title: "Mason's Tools"
 aliases:
 - "Mason's Tools"
 ---

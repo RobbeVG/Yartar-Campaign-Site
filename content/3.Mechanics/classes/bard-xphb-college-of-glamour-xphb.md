@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/bard/glamour
+title: "College of Glamour"
 aliases:
 - "College of Glamour"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Glamour%20Bard.webp#right)
 
 *Weave Beguiling Fey Magic*
 

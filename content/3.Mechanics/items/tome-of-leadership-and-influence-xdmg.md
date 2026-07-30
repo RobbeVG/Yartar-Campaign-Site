@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
+title: "Tome of Leadership and Influence"
 aliases:
 - "Tome of Leadership and Influence"
 ---
 # Tome of Leadership and Influence
 *Wondrous item, very rare*  
-![](file://items/XDMG/Tome%20of%20Leadership%20and%20Influence.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Tome%20of%20Leadership%20and%20Influence.webp#right)
 
 - **Weight**: 5.0 lbs.
 

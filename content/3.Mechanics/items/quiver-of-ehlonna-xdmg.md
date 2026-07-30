@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Quiver of Ehlonna"
 aliases:
 - "Quiver of Ehlonna"
 ---
 # Quiver of Ehlonna
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Quiver%20of%20Ehlonna.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Quiver%20of%20Ehlonna.webp#right)
 
 - **Weight**: 2.0 lbs.
 

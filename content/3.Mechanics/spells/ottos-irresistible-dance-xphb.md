@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Wizard
+title: "Otto's Irresistible Dance"
 aliases:
 - "Otto's Irresistible Dance"
 ---

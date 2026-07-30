@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Wizard
+title: "Sequester"
 aliases:
 - "Sequester"
 ---

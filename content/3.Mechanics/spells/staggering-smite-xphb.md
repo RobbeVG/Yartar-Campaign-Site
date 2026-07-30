@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/school/enchantment
 classes:
 - Paladin
+title: "Staggering Smite"
 aliases:
 - "Staggering Smite"
 ---

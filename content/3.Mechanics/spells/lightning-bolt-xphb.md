@@ -25,6 +25,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Lightning Bolt"
 aliases:
 - "Lightning Bolt"
 ---

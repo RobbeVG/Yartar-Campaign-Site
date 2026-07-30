@@ -21,6 +21,7 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
+title: "Control Water"
 aliases:
 - "Control Water"
 ---

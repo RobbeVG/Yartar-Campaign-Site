@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+title: "Belt of Fire Giant Strength"
 aliases:
 - "Belt of Fire Giant Strength"
 ---
 # Belt of Fire Giant Strength
 *Wondrous item, very rare (requires attunement)*  
-![](file://items/XDMG/Belt%20of%20Giant%20Strength%20%28Fire%29.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Belt%20of%20Giant%20Strength%20%28Fire%29.webp#right)
 
 
 While wearing this belt, your Strength score changes to 25. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.

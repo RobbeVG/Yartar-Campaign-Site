@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Scimitar"
 aliases:
 - "Scimitar"
 ---
 # Scimitar
 *Weapon*  
-![](file://items/XPHB/Scimitar.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Scimitar.webp#right)
 
 - **Damage**: 1d6 slashing
 - **Properties**: [Finesse](3.Mechanics/rules/item-properties.md#Finesse), [Light](3.Mechanics/rules/item-properties.md#Light)

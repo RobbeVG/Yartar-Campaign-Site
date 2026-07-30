@@ -23,6 +23,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
+title: "Haste"
 aliases:
 - "Haste"
 ---

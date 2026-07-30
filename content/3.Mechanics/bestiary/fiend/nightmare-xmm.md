@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend
-statblock: inline
-statblock-link: "#^statblock"
+title: "Nightmare"
 aliases:
 - "Nightmare"
 ---
-# [Nightmare](3.Mechanics/bestiary/fiend/nightmare-xmm.md)
+# Nightmare
 *Source: Monster Manual (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Nightmare.webp#right)
 
 ## Nightmare
 
@@ -41,47 +41,48 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 | 5 | A night hag herding larvae between planes. |
 | 6 | A wicked cavalier, such as a death knight, an erinyes, an incubus, or a vampire. |
 ^nightmare-riders
+```ad-statblock
+title: Nightmare
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Nightmare.webp#token)
+*Large Fiend, Neutral Evil*
 
-```statblock
-"name": "Nightmare (XMM)"
-"size": "Large"
-"type": "fiend"
-"alignment": "Neutral Evil"
-"ac": !!int "13"
-"hp": !!int "68"
-"hit_dice": "8d10 + 24"
-"modifier": !!int "2"
-"stats":
-  - !!int "18"
-  - !!int "15"
-  - !!int "16"
-  - !!int "10"
-  - !!int "13"
-  - !!int "15"
-"speed": "60 ft., fly 90 ft. (hover)"
-"damage_immunities": "fire"
-"senses": "passive Perception 11"
-"languages": "understands Abyssal, Common, and Infernal but can't speak"
-"cr": "3"
-"traits":
-  - "desc": "The nightmare can grant [Resistance](3.Mechanics/rules/variant-rules/resistance-xphb.md)\
-      \ to Fire damage to a rider while it is on the nightmare."
-    "name": "Confer Fire Resistance"
-  - "desc": "The nightmare sheds [Bright Light](3.Mechanics/rules/variant-rules/bright-light-xphb.md)\
-      \ in a 10-foot radius and [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md)\
-      \ for an additional 10 feet."
-    "name": "Illumination"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:2d8+4|noform|noparens|avg|text(13) (2d8 + 4) Bludgeoning\
-      \ damage plus dice:3d6|noform|noparens|avg|text(10) (3d6) Fire damage."
-    "name": "Hooves"
-  - "desc": "The nightmare and up to three willing creatures within 5 feet of it teleport\
-      \ to the Ethereal Plane from the Material Plane or vice versa."
-    "name": "Ethereal Stride"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Nightmare.webp"
+- **Armor Class** 13 
+- **Hit Points** 68 (8d10 + 24) 
+- **Speed** 60 ft., fly 90 ft. (hover)
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15 | +2 | +2 |
+|Wis| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 15 | +2 | +2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Immunities** Fire
+- **Senses** Passive Perception 11
+- **Languages** Understands Abyssal, Common, And Infernal but can't speak
+- **Challenge** 3
+
+## Traits
+
+***Confer Fire Resistance.*** The nightmare can grant [Resistance](3.Mechanics/rules/variant-rules/resistance-xphb.md) to Fire damage to a rider while it is on the nightmare.
+
+***Illumination.*** The nightmare sheds [Bright Light](3.Mechanics/rules/variant-rules/bright-light-xphb.md) in a 10-foot radius and [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md) for an additional 10 feet.
+
+## Actions
+
+***Hooves.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:2d8+4|noform|noparens|avg|text(13)` (`2d8 + 4`) Bludgeoning damage plus `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) Fire damage.
+
+***Ethereal Stride.*** The nightmare and up to three willing creatures within 5 feet of it teleport to the Ethereal Plane from the Material Plane or vice versa.
 ```
 ^statblock
 

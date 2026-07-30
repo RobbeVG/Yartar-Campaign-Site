@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/ranged
+title: "Blowgun"
 aliases:
 - "Blowgun"
 ---
 # Blowgun
 *Weapon*  
-![](file://items/XPHB/Blowgun.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Blowgun.webp#right)
 
 - **Damage**: 1 piercing
 - **Range**: 25/100

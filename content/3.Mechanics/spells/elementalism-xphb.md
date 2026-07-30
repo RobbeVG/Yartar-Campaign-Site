@@ -25,6 +25,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
+title: "Elementalism"
 aliases:
 - "Elementalism"
 ---

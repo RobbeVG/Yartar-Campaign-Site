@@ -24,6 +24,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Friends"
 aliases:
 - "Friends"
 ---

@@ -16,6 +16,7 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Warlock (Celestial Patron)
+title: "Sacred Flame"
 aliases:
 - "Sacred Flame"
 ---

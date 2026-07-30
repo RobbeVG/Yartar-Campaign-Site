@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Handaxe"
 aliases:
 - "Handaxe"
 ---
 # Handaxe
 *Weapon*  
-![](file://items/XPHB/Handaxe.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Handaxe.webp#right)
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60

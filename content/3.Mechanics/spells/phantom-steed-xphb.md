@@ -20,12 +20,13 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Illusionist)
+title: "Phantom Steed"
 aliases:
 - "Phantom Steed"
 ---
 # Phantom Steed
 *3rd-level, Illusion (ritual)*  
-![](file://spells/XPHB/Phantom%20Steed.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Phantom%20Steed.webp#right)
 
 - **Casting time:** 1 minute unless cast as a ritual
 - **Range:** 30 feet

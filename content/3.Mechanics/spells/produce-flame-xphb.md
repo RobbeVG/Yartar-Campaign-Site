@@ -15,6 +15,7 @@ tags:
 classes:
 - Bard (College of Lore)
 - Druid
+title: "Produce Flame"
 aliases:
 - "Produce Flame"
 ---

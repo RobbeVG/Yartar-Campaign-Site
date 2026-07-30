@@ -8,13 +8,20 @@ tags:
 - ttrpg-cli/monster/environment/desert
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Death Dog"
 aliases:
 - "Death Dog"
+conditionImmunities:
+- [blinded](3.Mechanics/rules/conditions.md#Blinded)
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [deafened](3.Mechanics/rules/conditions.md#Deafened)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- [stunned](3.Mechanics/rules/conditions.md#Stunned)
+- [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 ---
-# [Death Dog](3.Mechanics/bestiary/monstrosity/death-dog-xmm.md)
+# Death Dog
 *Source: Monster Manual (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Death%20Dog.webp#right)
 
 ## Death Dog
 
@@ -44,54 +51,42 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 | 5 | The victim to itch, as if they had fleas or sand beneath their skin. |
 | 6 | Wicked symbols to gradually appear on and spread across the victim's body. |
 ^death-dog-malady-symptoms
+```ad-statblock
+title: Death Dog
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Death%20Dog.webp#token)
+*Medium Monstrosity, Neutral Evil*
 
-```statblock
-"name": "Death Dog (XMM)"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Neutral Evil"
-"ac": !!int "12"
-"hp": !!int "39"
-"hit_dice": "6d8 + 12"
-"modifier": !!int "2"
-"stats":
-  - !!int "15"
-  - !!int "14"
-  - !!int "14"
-  - !!int "3"
-  - !!int "13"
-  - !!int "6"
-"speed": "40 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+4"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [deafened](3.Mechanics/rules/conditions.md#Deafened), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [stunned](3.Mechanics/rules/conditions.md#Stunned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 15"
-"languages": ""
-"cr": "1"
-"actions":
-  - "desc": "The death dog makes two Bite attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d4+2|noform|noparens|avg|text(4) (1d4 + 2) Piercing damage.\
-      \ If the target is a creature, it is subjected to the following effect. *Constitution\
-      \ Saving Throw:* DC 12. *1St Failure:* The target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition. While [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), the\
-      \ target's [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md) maximum\
-      \ doesn't return to normal when finishing a [Long Rest](3.Mechanics/rules/variant-rules/long-rest-xphb.md),\
-      \ and it repeats the save every 24 hours that elapse, ending the effect on itself\
-      \ on a success. Subsequent Failures: The [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ target's [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md) maximum\
-      \ decreases by dice:1d10|noform|noparens|avg|text(5) (1d10)."
-    "name": "Bite"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Death%20Dog.webp"
+- **Armor Class** 12 
+- **Hit Points** 39 (6d8 + 12) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 15 | +2 | +2 |
+|Int| 3 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14 | +2 | +2 |
+|Cha| 6 | -2 | -2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
+- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Deafened](3.Mechanics/rules/conditions.md#Deafened), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Stunned](3.Mechanics/rules/conditions.md#Stunned), [Unconscious](3.Mechanics/rules/conditions.md#Unconscious)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 15
+- **Languages** —
+- **Challenge** 1
+
+## Actions
+
+***Multiattack.*** The death dog makes two Bite attacks.
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) Piercing damage. If the target is a creature, it is subjected to the following effect. *Constitution Saving Throw:* DC 12. *1St Failure:* The target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition. While [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), the target's [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md) maximum doesn't return to normal when finishing a [Long Rest](3.Mechanics/rules/variant-rules/long-rest-xphb.md), and it repeats the save every 24 hours that elapse, ending the effect on itself on a success. Subsequent Failures: The [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) target's [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md) maximum decreases by `dice:1d10|noform|noparens|avg|text(5)` (`1d10`).
 ```
 ^statblock
 

@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/rarity/varies
+title: "Mind Crystal"
 aliases:
 - "Mind Crystal"
 ---
 # Mind Crystal
 *Wondrous item*  
-![](file://items/PaBTSO/Mind%20Crystal.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/PaBTSO/Mind%20Crystal.webp#right)
 
 
 These gemstones contain a crystallized bit of spellcasting magic. Different types of mind crystals exist, each with a different single-use effect.

@@ -20,6 +20,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
+title: "Levitate"
 aliases:
 - "Levitate"
 ---

@@ -15,6 +15,7 @@ classes:
 - Druid
 - Sorcerer
 - Wizard
+title: "Flesh to Stone"
 aliases:
 - "Flesh to Stone"
 ---

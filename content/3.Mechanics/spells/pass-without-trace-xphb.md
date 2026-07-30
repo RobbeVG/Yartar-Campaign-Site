@@ -18,6 +18,7 @@ classes:
 - Cleric (Trickery Domain)
 - Druid
 - Ranger
+title: "Pass without Trace"
 aliases:
 - "Pass without Trace"
 ---

@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Dancing Sword"
 aliases:
 - "Dancing Sword"
 - "Dancing Double-Bladed Scimitar"
@@ -20,7 +21,7 @@ aliases:
 ---
 # Dancing Sword
 *Very rare (requires attunement)*  
-![Dancing Sword (Longsword)](file://items/XDMG/Dancing%20Sword.webp#right)
+![Dancing Sword (Longsword)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Dancing%20Sword.webp#right)
 
 
 You can take a [Bonus Action](3.Mechanics/rules/variant-rules/bonus-action-xphb.md) to toss this magic weapon into the air. When you do so, the weapon begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of itself. The weapon uses your attack roll and adds your ability modifier to damage rolls.

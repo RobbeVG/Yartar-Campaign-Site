@@ -16,6 +16,7 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Ranger
+title: "Silence"
 aliases:
 - "Silence"
 ---

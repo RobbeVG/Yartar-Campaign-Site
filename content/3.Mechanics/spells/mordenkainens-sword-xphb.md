@@ -13,6 +13,7 @@ classes:
 - Bard
 - Wizard
 - Wizard (Evoker)
+title: "Mordenkainen's Sword"
 aliases:
 - "Mordenkainen's Sword"
 ---

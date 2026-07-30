@@ -32,8 +32,8 @@ aliases:
         - **Building on the original game created by** Gary Gygax and Dave Arneson and then developed by many others over the past 50 years    
 
 > [!gallery]
-> ![](file://book/XDMG/249-14-001.dungeon-masters-guide.webp#gallery)
+> ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XDMG/249-14-001.dungeon-masters-guide.webp#gallery)
 
 > [!gallery]
-> ![On the Cover: Tyler Jacobson illustrates the archvillain Venger, his evil cohorts Skylla and Warduke, and a legion of skeletal minions.](file://book/XDMG/250-14-002.on-the-cover.webp#gallery)
-> ![On the Alt-Cover: Lolth, the Demon Queen of Spiders, spins a tangled web of schemes and snares in this illustration by Olena Richards.](file://book/XDMG/251-14-003.on-the-alt-cover.webp#gallery)
+> ![On the Cover: Tyler Jacobson illustrates the archvillain Venger, his evil cohorts Skylla and Warduke, and a legion of skeletal minions.](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XDMG/250-14-002.on-the-cover.webp#gallery)
+> ![On the Alt-Cover: Lolth, the Demon Queen of Spiders, spins a tangled web of schemes and snares in this illustration by Olena Richards.](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XDMG/251-14-003.on-the-alt-cover.webp#gallery)

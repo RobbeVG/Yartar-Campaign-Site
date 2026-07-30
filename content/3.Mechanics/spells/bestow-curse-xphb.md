@@ -19,6 +19,7 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
+title: "Bestow Curse"
 aliases:
 - "Bestow Curse"
 ---

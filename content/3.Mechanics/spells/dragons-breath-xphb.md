@@ -21,6 +21,7 @@ classes:
 - Sorcerer
 - Sorcerer (Draconic Sorcery)
 - Wizard
+title: "Dragon's Breath"
 aliases:
 - "Dragon's Breath"
 ---

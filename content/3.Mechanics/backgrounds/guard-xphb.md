@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Guard"
 aliases:
 - "Guard"
 ---
 # Guard
 *Source: Player's Handbook (2024) p. 181*  
-![](file://backgrounds/XPHB/Guard.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/backgrounds/XPHB/Guard.webp#right)
 
 - **Ability Scores.** Strength, Intelligence, Wisdom  
 - **Feat.** [Alert](3.Mechanics/feats/alert-xphb.md)  

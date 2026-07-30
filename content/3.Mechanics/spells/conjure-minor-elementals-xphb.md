@@ -17,6 +17,7 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
+title: "Conjure Minor Elementals"
 aliases:
 - "Conjure Minor Elementals"
 ---

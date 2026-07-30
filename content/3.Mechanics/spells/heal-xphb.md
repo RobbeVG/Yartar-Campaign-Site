@@ -14,6 +14,7 @@ classes:
 - Bard
 - Cleric
 - Druid
+title: "Heal"
 aliases:
 - "Heal"
 ---

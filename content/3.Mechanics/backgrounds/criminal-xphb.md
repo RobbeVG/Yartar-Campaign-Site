@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Criminal"
 aliases:
 - "Criminal"
 ---
 # Criminal
 *Source: Player's Handbook (2024) p. 180. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-![](file://backgrounds/XPHB/Criminal.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/backgrounds/XPHB/Criminal.webp#right)
 
 - **Ability Scores.** Dexterity, Constitution, Intelligence  
 - **Feat.** [Alert](3.Mechanics/feats/alert-xphb.md)  

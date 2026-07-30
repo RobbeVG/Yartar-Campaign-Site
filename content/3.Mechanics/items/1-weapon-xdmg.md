@@ -12,6 +12,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "+1 Weapon"
 aliases:
 - "+1 Weapon"
 - "+1 Antimatter Rifle"

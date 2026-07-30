@@ -7,30 +7,31 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Armor of Resistance"
 aliases:
 - "Armor of Resistance"
 ---
 # Armor of Resistance
 *Rare (requires attunement)*  
-![](file://items/XDMG/Armor%20of%20Resistance.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Armor%20of%20Resistance.webp#right)
 
 
 You have [Resistance](3.Mechanics/rules/variant-rules/resistance-xphb.md) to one type of damage while you wear this armor. The DM chooses the type or determines it randomly by rolling on the following table.
 
 `dice: [](armor-of-resistance-xdmg.md#^damage-type)`
 
-| dice: d10 | Damage Type                                                          |
-| --------- | -------------------------------------------------------------------- |
-| 1         | [Acid](3.Mechanics/items/armor-of-acid-resistance-xdmg.md)           |
-| 2         | [Cold](3.Mechanics/items/armor-of-cold-resistance-xdmg.md)           |
-| 3         | [Fire](3.Mechanics/items/armor-of-fire-resistance-xdmg.md)           |
-| 4         | [Force](3.Mechanics/items/armor-of-force-resistance-xdmg.md)         |
-| 5         | [Lightning](3.Mechanics/items/armor-of-lightning-resistance-xdmg.md) |
-| 6         | [Necrotic](3.Mechanics/items/armor-of-necrotic-resistance-xdmg.md)   |
-| 7         | [Poison](3.Mechanics/items/armor-of-poison-resistance-xdmg.md)       |
-| 8         | [Psychic](3.Mechanics/items/armor-of-psychic-resistance-xdmg.md)     |
-| 9         | [Radiant](3.Mechanics/items/armor-of-radiant-resistance-xdmg.md)     |
-| 10        | [Thunder](3.Mechanics/items/armor-of-thunder-resistance-xdmg.md)     |
+| dice: d10 | Damage Type |
+|-----------|-------------|
+| 1 | [Acid](3.Mechanics/items/armor-of-acid-resistance-xdmg.md) |
+| 2 | [Cold](3.Mechanics/items/armor-of-cold-resistance-xdmg.md) |
+| 3 | [Fire](3.Mechanics/items/armor-of-fire-resistance-xdmg.md) |
+| 4 | [Force](3.Mechanics/items/armor-of-force-resistance-xdmg.md) |
+| 5 | [Lightning](3.Mechanics/items/armor-of-lightning-resistance-xdmg.md) |
+| 6 | [Necrotic](3.Mechanics/items/armor-of-necrotic-resistance-xdmg.md) |
+| 7 | [Poison](3.Mechanics/items/armor-of-poison-resistance-xdmg.md) |
+| 8 | [Psychic](3.Mechanics/items/armor-of-psychic-resistance-xdmg.md) |
+| 9 | [Radiant](3.Mechanics/items/armor-of-radiant-resistance-xdmg.md) |
+| 10 | [Thunder](3.Mechanics/items/armor-of-thunder-resistance-xdmg.md) |
 ^damage-type
 
 **Items in this group:**

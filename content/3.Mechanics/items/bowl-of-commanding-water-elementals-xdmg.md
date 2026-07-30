@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+title: "Bowl of Commanding Water Elementals"
 aliases:
 - "Bowl of Commanding Water Elementals"
 ---
 # Bowl of Commanding Water Elementals
 *Wondrous item, rare*  
-![](file://items/XDMG/Bowl%20of%20Commanding%20Water%20Elementals.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Bowl%20of%20Commanding%20Water%20Elementals.webp#right)
 
 
 While this bowl is filled with water and you are within 5 feet of it, you can take a [Magic](3.Mechanics/rules/actions.md#Magic) action to summon a [Water Elemental](3.Mechanics/bestiary/elemental/water-elemental-xmm.md). The elemental appears in an unoccupied space as close to the bowl as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your [Initiative](3.Mechanics/rules/variant-rules/initiative-xphb.md) count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [Bonus Action](3.Mechanics/rules/variant-rules/bonus-action-xphb.md). The bowl can't be used this way again until the next dawn.

@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/school/conjuration
 classes:
 - Ranger
+title: "Conjure Volley"
 aliases:
 - "Conjure Volley"
 ---

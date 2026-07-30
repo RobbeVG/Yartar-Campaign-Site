@@ -29,6 +29,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
+title: "Thunderclap"
 aliases:
 - "Thunderclap"
 ---

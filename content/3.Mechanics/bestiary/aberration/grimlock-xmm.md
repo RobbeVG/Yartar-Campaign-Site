@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Grimlock"
 aliases:
 - "Grimlock"
 ---
-# [Grimlock](3.Mechanics/bestiary/aberration/grimlock-xmm.md)
+# Grimlock
 *Source: Monster Manual (2024) p. 160. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Grimlock.webp#right)
 
 ## Grimlock
 
@@ -45,43 +45,39 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
 > 
 > We thought we'd discovered a new people living deeper than we believed possible. The truth was something far worse.
 
+```ad-statblock
+title: Grimlock
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Grimlock.webp#token)
+*Medium Aberration, Neutral Evil*
 
-```statblock
-"name": "Grimlock (XMM)"
-"size": "Medium"
-"type": "aberration"
-"alignment": "Neutral Evil"
-"ac": !!int "11"
-"hp": !!int "11"
-"hit_dice": "2d8 + 2"
-"modifier": !!int "1"
-"stats":
-  - !!int "16"
-  - !!int "12"
-  - !!int "12"
-  - !!int "9"
-  - !!int "8"
-  - !!int "6"
-"speed": "30 ft., climb 30 ft."
-"skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
-    "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+3"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+5"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 13"
-"languages": ""
-"cr": "1/4"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:1d6+3|noform|noparens|avg|text(6) (1d6 + 3) Bludgeoning\
-      \ damage plus dice:1d4|noform|noparens|avg|text(2) (1d4) Psychic damage."
-    "name": "Bone Cudgel"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Grimlock.webp"
+- **Armor Class** 11 
+- **Hit Points** 11 (2d8 + 2) 
+- **Speed** 30 ft., climb 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16 | +3 | +3 |
+|Int| 9 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 6 | -2 | -2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +3, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., Passive Perception 13
+- **Languages** —
+- **Challenge** 1/4
+
+## Actions
+
+***Bone Cudgel.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d6+3|noform|noparens|avg|text(6)` (`1d6 + 3`) Bludgeoning damage plus `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) Psychic damage.
 ```
 ^statblock
 

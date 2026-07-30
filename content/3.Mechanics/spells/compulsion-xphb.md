@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Paladin (Oath of Glory)
+title: "Compulsion"
 aliases:
 - "Compulsion"
 ---

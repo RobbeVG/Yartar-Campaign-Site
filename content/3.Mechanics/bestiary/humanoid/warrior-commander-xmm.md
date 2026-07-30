@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Warrior Commander"
 aliases:
 - "Warrior Commander"
 ---
-# [Warrior Commander](3.Mechanics/bestiary/humanoid/warrior-commander-xmm.md)
+# Warrior Commander
 *Source: Monster Manual (2024) p. 321*  
+![An aasimar commander leads warriors charging into battle](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Warriors.webp#right)
 
 Skilled in both combat and leadership, warrior commanders overcome challenges through a combination of martial skill and clever tactics.
 
@@ -52,72 +52,55 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 > Make way, evil! I'm armed to the teeth and packing a hamster!
 
 
-```statblock
-"name": "Warrior Commander (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "18"
-"hp": !!int "161"
-"hit_dice": "19d8 + 76"
-"modifier": !!int "9"
-"stats":
-  - !!int "21"
-  - !!int "20"
-  - !!int "18"
-  - !!int "14"
-  - !!int "16"
-  - !!int "14"
-"speed": "30 ft."
-"saves":
-  - "strength": !!int "9"
-  - "dexterity": !!int "9"
-  - "constitution": !!int "8"
-  - "wisdom": !!int "7"
-"skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
-    "desc": "+9"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
-    "desc": "+7"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+7"
-"gear":
-  - "[greatsword](3.Mechanics/items/greatsword-xphb.md)"
-  - "[longbow](3.Mechanics/items/longbow-xphb.md)"
-  - "[plate armor](3.Mechanics/items/plate-armor-xphb.md)"
-"senses": "passive Perception 17"
-"languages": "Common plus one other language"
-"cr": "10"
-"actions":
-  - "desc": "The warrior makes three attacks, using Greatsword or Longbow in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+9|noform|noparens|text(+9), reach 5\
-      \ ft. *Hit:* dice:4d6+5|noform|noparens|avg|text(19) (4d6 + 5) Slashing\
-      \ damage. The warrior also creates one of the following effects:\n\n- **Sap.**\
-      \ The target has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
-      \ on its next attack roll before the start of the warrior's next turn.  \n-\
-      \ **Maneuver.** One ally who can see or hear the warrior can take a [Reaction](3.Mechanics/rules/variant-rules/reaction-xphb.md)\
-      \ to move up to half the ally's [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack).\
-      \  "
-    "name": "Greatsword"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+9|noform|noparens|text(+9), range 150/600\
-      \ ft. *Hit:* dice:3d8+5|noform|noparens|avg|text(18) (3d8 + 5) Piercing\
-      \ damage, and the target's [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md)\
-      \ decreases by 10 feet until the end of the target's next turn."
-    "name": "Longbow"
-"bonus_actions":
-  - "desc": "The warrior moves up to half its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md)\
-      \ straight toward an enemy it can see without provoking [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack)."
-    "name": "Tactical Charge"
-"reactions":
-  - "desc": "Trigger: The warrior is hit by an attack roll. _Response:_ The warrior\
-      \ adds 4 to its AC against that attack, possibly causing it to miss. On a miss,\
-      \ the warrior can make one Greatsword or Longbow attack against the attacker."
-    "name": "Counterattack"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Warrior%20Commander.webp"
+```ad-statblock
+title: Warrior Commander
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Warrior%20Commander.webp#token)
+*Small or Medium Humanoid, Neutral*
+
+- **Armor Class** 18 
+- **Hit Points** 161 (19d8 + 76) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 21 | +5 | **+9** |
+|Int| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 20 | +5 | **+9** |
+|Wis| 16 | +3 | **+7** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18 | +4 | **+8** |
+|Cha| 14 | +2 | +2 |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Strength +9, Dexterity +9, Constitution +8, Wisdom +7
+- **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +9, [Insight](3.Mechanics/rules/skills.md#Insight) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +7
+- **Gear** [greatsword](3.Mechanics/items/greatsword-xphb.md), [longbow](3.Mechanics/items/longbow-xphb.md), [plate armor](3.Mechanics/items/plate-armor-xphb.md)
+- **Senses** Passive Perception 17
+- **Languages** Common plus one other language
+- **Challenge** 10
+
+## Actions
+
+***Multiattack.*** The warrior makes three attacks, using Greatsword or Longbow in any combination.
+
+***Greatsword.*** *Melee Attack Roll:* `dice:1d20+9|noform|noparens|text(+9)`, reach 5 ft. *Hit:* `dice:4d6+5|noform|noparens|avg|text(19)` (`4d6 + 5`) Slashing damage. The warrior also creates one of the following effects:
+
+- **Sap.** The target has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on its next attack roll before the start of the warrior's next turn.  
+- **Maneuver.** One ally who can see or hear the warrior can take a [Reaction](3.Mechanics/rules/variant-rules/reaction-xphb.md) to move up to half the ally's [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack).  
+
+***Longbow.*** *Ranged Attack Roll:* `dice:1d20+9|noform|noparens|text(+9)`, range 150/600 ft. *Hit:* `dice:3d8+5|noform|noparens|avg|text(18)` (`3d8 + 5`) Piercing damage, and the target's [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) decreases by 10 feet until the end of the target's next turn.
+
+## Bonus Actions
+
+***Tactical Charge.*** The warrior moves up to half its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) straight toward an enemy it can see without provoking [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack).
+
+## Reactions
+
+***Counterattack.*** Trigger: The warrior is hit by an attack roll. _Response:_ The warrior adds 4 to its AC against that attack, possibly causing it to miss. On a miss, the warrior can make one Greatsword or Longbow attack against the attacker.
 ```
 ^statblock
 

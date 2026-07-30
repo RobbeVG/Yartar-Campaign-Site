@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
+title: "Shortbow"
 aliases:
 - "Shortbow"
 ---
 # Shortbow
 *Weapon*  
-![](file://items/XPHB/Shortbow.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Shortbow.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320

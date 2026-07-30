@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/common
+title: "Charlatan's Die"
 aliases:
 - "Charlatan's Die"
 ---
 # Charlatan's Die
 *Wondrous item, common (requires attunement)*  
-![](file://items/XDMG/Charlatans%20Die.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Charlatans%20Die.webp#right)
 
 
 Whenever you roll this six-sided die, you can control which number it rolls.

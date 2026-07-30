@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+title: "Necklace of Fireballs"
 aliases:
 - "Necklace of Fireballs"
 ---
 # Necklace of Fireballs
 *Wondrous item, rare*  
-![](file://items/XDMG/Necklace%20of%20Fireballs.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Necklace%20of%20Fireballs.webp#right)
 
 - **Weight**: 1.0 lbs.
 

@@ -19,6 +19,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
+title: "Knock"
 aliases:
 - "Knock"
 ---

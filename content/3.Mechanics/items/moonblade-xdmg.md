@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Moonblade"
 aliases:
 - "Moonblade"
 - "Moonblade Greatsword"
@@ -19,7 +20,7 @@ aliases:
 ---
 # Moonblade
 *Legendary (requires attunement by a creature of the weapon's choice)*  
-![Moonblade (Longsword)](file://items/XDMG/Moonblade.webp#right)
+![Moonblade (Longsword)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Moonblade.webp#right)
 
 
 Of all the magic items created by elves, one of the most prized and jealously guarded is a Moonblade. In ancient times, nearly all elven noble houses claimed one such weapon. Over the centuries, some of these weapons have faded from the world, their magic lost as family lines have become extinct. Others have vanished with their bearers during great quests. Thus, only a few of these weapons remain.

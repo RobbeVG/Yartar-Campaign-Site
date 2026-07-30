@@ -8,13 +8,20 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
-statblock: inline
-statblock-link: "#^statblock"
+title: "Flesh Golem"
 aliases:
 - "Flesh Golem"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
+- [petrified](3.Mechanics/rules/conditions.md#Petrified)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Flesh Golem](3.Mechanics/bestiary/construct/flesh-golem-xmm.md)
+# Flesh Golem
 *Source: Monster Manual (2024) p. 121. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Flesh%20Golem.webp#right)
 
 ## Flesh Golem
 
@@ -45,67 +52,57 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
 > 
 > The barrier between the mortal and the divine lies shattered—open is the mold for new gods. It was I who invaded the divine. Not with a spear but with a stitch. Not with my heresies but with my heart.
 
+```ad-statblock
+title: Flesh Golem
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Flesh%20Golem.webp#token)
+*Medium Construct, Neutral*
 
-```statblock
-"name": "Flesh Golem (XMM)"
-"size": "Medium"
-"type": "construct"
-"alignment": "Neutral"
-"ac": !!int "9"
-"hp": !!int "127"
-"hit_dice": "15d8 + 60"
-"modifier": !!int "-1"
-"stats":
-  - !!int "19"
-  - !!int "9"
-  - !!int "18"
-  - !!int "6"
-  - !!int "10"
-  - !!int "5"
-"speed": "30 ft."
-"damage_immunities": "lightning, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "understands Common plus one other language but can't speak"
-"cr": "5"
-"traits":
-  - "desc": "If the golem takes Fire damage, it has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
-      \ on attack rolls and ability checks until the end of its next turn."
-    "name": "Aversion to Fire"
-  - "desc": "Whenever the golem starts its turn [Bloodied](3.Mechanics/rules/conditions.md#Bloodied),\
-      \ roll dice:1d6|noform|noparens|avg (1d6). On a 6, the golem goes berserk.\
-      \ On each of its turns while berserk, the golem attacks the nearest creature\
-      \ it can see. If no creature is near enough to move to and attack, the golem\
-      \ attacks an object. Once the golem goes berserk, it remains so until it is\
-      \ destroyed or it is no longer [Bloodied](3.Mechanics/rules/conditions.md#Bloodied).\n\
-      \nThe golem's creator, if within 60 feet of the berserk golem, can try to calm\
-      \ it by taking an action to make a DC 15 Charisma ([Persuasion](3.Mechanics/rules/skills.md#Persuasion))\
-      \ check; the golem must be able to hear its creator. If this check succeeds,\
-      \ the golem ceases being berserk until the start of its next turn, at which\
-      \ point it resumes rolling for the Berserk trait again if it is still [Bloodied](3.Mechanics/rules/conditions.md#Bloodied)."
-    "name": "Berserk"
-  - "desc": "The golem can't shape-shift."
-    "name": "Immutable Form"
-  - "desc": "Whenever the golem is subjected to Lightning damage, it regains a number\
-      \ of [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) equal\
-      \ to the Lightning damage dealt."
-    "name": "Lightning Absorption"
-  - "desc": "The golem has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The golem makes two Slam attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+7|noform|noparens|text(+7), reach 5\
-      \ ft. *Hit:* dice:2d8+4|noform|noparens|avg|text(13) (2d8 + 4) Bludgeoning\
-      \ damage plus dice:1d8|noform|noparens|avg|text(4) (1d8) Lightning damage."
-    "name": "Slam"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Flesh%20Golem.webp"
+- **Armor Class** 9 
+- **Hit Points** 127 (15d8 + 60) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 19 | +4 | +4 |
+|Int| 6 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 9 | -1 | -1 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18 | +4 | +4 |
+|Cha| 5 | -3 | -3 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Immunities** Lightning, Poison
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Understands Common plus one other language but can't speak
+- **Challenge** 5
+
+## Traits
+
+***Aversion to Fire.*** If the golem takes Fire damage, it has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on attack rolls and ability checks until the end of its next turn.
+
+***Berserk.*** Whenever the golem starts its turn [Bloodied](3.Mechanics/rules/conditions.md#Bloodied), roll `dice:1d6|noform|noparens|avg` (`1d6`). On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object. Once the golem goes berserk, it remains so until it is destroyed or it is no longer [Bloodied](3.Mechanics/rules/conditions.md#Bloodied).
+
+The golem's creator, if within 60 feet of the berserk golem, can try to calm it by taking an action to make a DC 15 Charisma ([Persuasion](3.Mechanics/rules/skills.md#Persuasion)) check; the golem must be able to hear its creator. If this check succeeds, the golem ceases being berserk until the start of its next turn, at which point it resumes rolling for the Berserk trait again if it is still [Bloodied](3.Mechanics/rules/conditions.md#Bloodied).
+
+***Immutable Form.*** The golem can't shape-shift.
+
+***Lightning Absorption.*** Whenever the golem is subjected to Lightning damage, it regains a number of [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) equal to the Lightning damage dealt.
+
+***Magic Resistance.*** The golem has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The golem makes two Slam attacks.
+
+***Slam.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. *Hit:* `dice:2d8+4|noform|noparens|avg|text(13)` (`2d8 + 4`) Bludgeoning damage plus `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) Lightning damage.
 ```
 ^statblock
 

@@ -7,51 +7,55 @@ tags:
 - ttrpg-cli/monster/cr/
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend
-statblock: inline
-statblock-link: "#^statblock"
+title: "Fiendish Spirit (Yugoloth)"
 aliases:
 - "Fiendish Spirit (Yugoloth)"
+conditionImmunities:
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Fiendish Spirit (Yugoloth)](3.Mechanics/bestiary/fiend/fiendish-spirit-yugoloth-xphb.md)
+# Fiendish Spirit (Yugoloth)
 *Source: Player's Handbook (2024) p. 327*  
+```ad-statblock
+title: Fiendish Spirit (Yugoloth)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Fiendish%20Spirit%20%28Yugoloth%29.webp#token)
+*Large Fiend, Neutral*
 
-```statblock
-"name": "Fiendish Spirit (Yugoloth) (XPHB)"
-"size": "Large"
-"type": "fiend"
-"alignment": "Neutral"
-"ac_class": "12 + the spell's level"
-"hp": "60 + 15 for each spell level above 6"
-"modifier": !!int "3"
-"stats":
-  - !!int "13"
-  - !!int "16"
-  - !!int "15"
-  - !!int "10"
-  - !!int "10"
-  - !!int "16"
-"speed": "40 ft."
-"damage_resistances": "fire"
-"damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Abyssal, Infernal, Telepathy 60 ft."
-"traits":
-  - "desc": "The spirit has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The spirit makes a number of attacks equal to half this spell's level\
-      \ (round down)."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
-      \ ft. *Hit:* 1d8 + 3 + the spell's level Slashing damage. Immediately after\
-      \ the attack hits or misses, the spirit can teleport up to 30 feet to an unoccupied\
-      \ space it can see."
-    "name": "Claws"
-"source":
-  - "XPHB"
-"image": "file://bestiary/tokens/XPHB/Fiendish%20Spirit%20%28Yugoloth%29.webp"
+- **Armor Class** (12 + the spell's level)
+- **Hit Points** 60 + 15 for each spell level above 6  (60 + 15 for each spell level above 6)
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13 | +1 | +1 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16 | +3 | +3 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15 | +2 | +2 |
+|Cha| 16 | +3 | +3 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Resistances** Fire
+- **Damage Immunities** Poison
+- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Abyssal, Infernal, Telepathy 60 ft.
+- **Challenge** 
+
+## Traits
+
+***Magic Resistance.*** The spirit has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The spirit makes a number of attacks equal to half this spell's level (round down).
+
+***Claws.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8 + 3` + the spell's level Slashing damage. Immediately after the attack hits or misses, the spirit can teleport up to 30 feet to an unoccupied space it can see.
 ```
 ^statblock

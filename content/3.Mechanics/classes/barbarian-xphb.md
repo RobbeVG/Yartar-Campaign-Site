@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/class/barbarian
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Barbarian"
 aliases:
 - "Barbarian"
 ---
@@ -42,6 +43,8 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Barbarian.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d12 per Barbarian level
@@ -61,6 +64,8 @@ aliases:
 
 - **Weapon Proficiencies**: Martial weapons
 - **Armor Training**: [Shields](3.Mechanics/items/shield-xphb.md)
+
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/039-03-015.barbarian-weapons.webp#center)
 
 ## Barbarian
 

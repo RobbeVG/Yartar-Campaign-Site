@@ -27,6 +27,7 @@ classes:
 - Ranger
 - Sorcerer (Clockwork Sorcery)
 - Warlock (Celestial Patron)
+title: "Aid"
 aliases:
 - "Aid"
 ---

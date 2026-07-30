@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
+title: "Spirit Board"
 aliases:
 - "Spirit Board"
 ---
 # Spirit Board
 *Wondrous item, very rare*  
-![](file://items/XDMG/Spirit%20Board.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Spirit%20Board.webp#right)
 
 
 This ornate wooden board has the letters of the Common alphabet printed on one side, alongside the words "Yes" and "No" and symbols representing "Weal" and "Woe." The board comes with a heart-shaped, wooden planchette. This planchette must be resting on the lettered side of the board for the board's magic to function.

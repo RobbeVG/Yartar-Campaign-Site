@@ -24,12 +24,13 @@ classes:
 - Sorcerer (Draconic Sorcery)
 - Wizard
 - Wizard (Evoker)
+title: "Chromatic Orb"
 aliases:
 - "Chromatic Orb"
 ---
 # Chromatic Orb
 *1st-level, Evocation*  
-![](file://spells/XPHB/Chromatic%20Orb.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Chromatic%20Orb.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

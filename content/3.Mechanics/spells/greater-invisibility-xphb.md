@@ -23,6 +23,7 @@ classes:
 - Warlock (Archfey Patron)
 - Wizard
 - Wizard (Illusionist)
+title: "Greater Invisibility"
 aliases:
 - "Greater Invisibility"
 ---

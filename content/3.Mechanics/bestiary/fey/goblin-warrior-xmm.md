@@ -14,13 +14,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/fey/goblinoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Goblin Warrior"
 aliases:
 - "Goblin Warrior"
 ---
-# [Goblin Warrior](3.Mechanics/bestiary/fey/goblin-warrior-xmm.md)
+# Goblin Warrior
 *Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![A goblin boss, a goblin hexer, and a goblin Warrior prepare to strike against a bitter foe](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Goblins.webp#right)
 
 Goblin warriors excel at causing mischief. Those in service to Maglubiyet have greater discipline and are likely to withdraw to set up ambushes.
 
@@ -42,54 +42,46 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 > Bree-yark!
 
 
-```statblock
-"name": "Goblin Warrior (XMM)"
-"size": "Small"
-"type": "fey"
-"subtype": "goblinoid"
-"alignment": "Chaotic Neutral"
-"ac": !!int "15"
-"hp": !!int "10"
-"hit_dice": "3d6"
-"modifier": !!int "2"
-"stats":
-  - !!int "8"
-  - !!int "15"
-  - !!int "10"
-  - !!int "10"
-  - !!int "8"
-  - !!int "8"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+6"
-"gear":
-  - "[leather armor](3.Mechanics/items/leather-armor-xphb.md)"
-  - "[scimitar](3.Mechanics/items/scimitar-xphb.md)"
-  - "[shield](3.Mechanics/items/shield-xphb.md)"
-  - "[shortbow](3.Mechanics/items/shortbow-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
-"languages": "Common, Goblin"
-"cr": "1/4"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5) (1d6 + 2) Slashing damage,\
-      \ plus dice:1d4|noform|noparens|avg|text(2) (1d4) Slashing damage if the\
-      \ attack roll had [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)."
-    "name": "Scimitar"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+4|noform|noparens|text(+4), range 80/320\
-      \ ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5) (1d6 + 2) Piercing damage,\
-      \ plus dice:1d4|noform|noparens|avg|text(2) (1d4) Piercing damage if the\
-      \ attack roll had [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)."
-    "name": "Shortbow"
-"bonus_actions":
-  - "desc": "The goblin takes the [Disengage](3.Mechanics/rules/actions.md#Disengage)\
-      \ or [Hide](3.Mechanics/rules/actions.md#Hide) action."
-    "name": "Nimble Escape"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Goblin%20Warrior.webp"
+```ad-statblock
+title: Goblin Warrior
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Goblin%20Warrior.webp#token)
+*Small Fey (goblinoid), Chaotic Neutral*
+
+- **Armor Class** 15 
+- **Hit Points** 10 (3d6) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 8 | -1 | -1 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15 | +2 | +2 |
+|Wis| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 10 | +0 | +0 |
+|Cha| 8 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
+- **Gear** [leather armor](3.Mechanics/items/leather-armor-xphb.md), [scimitar](3.Mechanics/items/scimitar-xphb.md), [shield](3.Mechanics/items/shield-xphb.md), [shortbow](3.Mechanics/items/shortbow-xphb.md)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
+- **Languages** Common, Goblin
+- **Challenge** 1/4
+
+## Actions
+
+***Scimitar.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Slashing damage, plus `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) Slashing damage if the attack roll had [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md).
+
+***Shortbow.*** *Ranged Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, range 80/320 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Piercing damage, plus `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) Piercing damage if the attack roll had [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md).
+
+## Bonus Actions
+
+***Nimble Escape.*** The goblin takes the [Disengage](3.Mechanics/rules/actions.md#Disengage) or [Hide](3.Mechanics/rules/actions.md#Hide) action.
 ```
 ^statblock
 

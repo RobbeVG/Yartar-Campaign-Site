@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Broom of Flying"
 aliases:
 - "Broom of Flying"
 ---
 # Broom of Flying
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Broom%20of%20Flying.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Broom%20of%20Flying.webp#right)
 
 
 This wooden broom functions like a mundane broom until you stand astride it and take a [Magic](3.Mechanics/rules/actions.md#Magic) action to make it hover beneath you, at which time it can be ridden in the air. It has a [Fly Speed](3.Mechanics/rules/variant-rules/fly-speed-xphb.md) of 50 feet. It can carry up to 400 pounds, but its [Fly Speed](3.Mechanics/rules/variant-rules/fly-speed-xphb.md) becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land or when you're no longer riding it.

@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Shortsword"
 aliases:
 - "Shortsword"
 ---
 # Shortsword
 *Weapon*  
-![](file://items/XPHB/Shortsword.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Shortsword.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Properties**: [Finesse](3.Mechanics/rules/item-properties.md#Finesse), [Light](3.Mechanics/rules/item-properties.md#Light)

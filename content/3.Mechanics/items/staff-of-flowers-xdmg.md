@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Staff of Flowers"
 aliases:
 - "Staff of Flowers"
 ---
 # Staff of Flowers
 *Staff, weapon, common*  
-![](file://items/XDMG/Staff%20of%20Flowers.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Staff%20of%20Flowers.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

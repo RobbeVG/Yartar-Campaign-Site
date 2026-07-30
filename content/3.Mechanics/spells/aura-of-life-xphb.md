@@ -15,6 +15,7 @@ classes:
 - Cleric
 - Cleric (Life Domain)
 - Paladin
+title: "Aura of Life"
 aliases:
 - "Aura of Life"
 ---

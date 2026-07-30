@@ -11,12 +11,13 @@ tags:
 classes:
 - Bard
 - Wizard
+title: "Mordenkainen's Magnificent Mansion"
 aliases:
 - "Mordenkainen's Magnificent Mansion"
 ---
 # Mordenkainen's Magnificent Mansion
 *7th-level, Conjuration*  
-![](file://spells/XPHB/Mordenkainen%27s%20Magnificent%20Mansion.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Mordenkainen%27s%20Magnificent%20Mansion.webp#right)
 
 - **Casting time:** 1 minute
 - **Range:** 300 feet

@@ -17,6 +17,7 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Druid
+title: "Healing Word"
 aliases:
 - "Healing Word"
 ---

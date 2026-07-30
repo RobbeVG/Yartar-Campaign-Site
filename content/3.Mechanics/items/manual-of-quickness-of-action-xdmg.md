@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
+title: "Manual of Quickness of Action"
 aliases:
 - "Manual of Quickness of Action"
 ---
 # Manual of Quickness of Action
 *Wondrous item, very rare*  
-![](file://items/XDMG/Manual%20of%20Quickness%20of%20Action.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Manual%20of%20Quickness%20of%20Action.webp#right)
 
 - **Weight**: 5.0 lbs.
 

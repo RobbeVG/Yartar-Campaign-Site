@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/class/warlock
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Warlock"
 aliases:
 - "Warlock"
 ---
@@ -42,6 +43,8 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Warlock.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d8 per Warlock level
@@ -60,6 +63,8 @@ aliases:
 ## Multiclassing Warlock
 
 - **Armor Training**: [Light armor](3.Mechanics/rules/item-types.md#Light%20Armor)
+
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/114-04-029.skull-spiders.webp#center)
 
 ## Warlock
 

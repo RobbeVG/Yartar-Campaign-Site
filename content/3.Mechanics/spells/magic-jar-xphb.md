@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Wizard
+title: "Magic Jar"
 aliases:
 - "Magic Jar"
 ---

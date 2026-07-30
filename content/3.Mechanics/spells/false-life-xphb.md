@@ -23,6 +23,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
+title: "False Life"
 aliases:
 - "False Life"
 ---

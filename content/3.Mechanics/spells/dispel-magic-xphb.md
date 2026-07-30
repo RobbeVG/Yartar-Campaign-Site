@@ -35,6 +35,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
+title: "Dispel Magic"
 aliases:
 - "Dispel Magic"
 ---

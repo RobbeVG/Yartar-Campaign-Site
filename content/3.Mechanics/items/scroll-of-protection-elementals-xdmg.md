@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/scroll
+title: "Scroll of Protection (Elementals)"
 aliases:
 - "Scroll of Protection (Elementals)"
 ---
 # Scroll of Protection (Elementals)
 *Scroll, rare*  
-![](file://items/XDMG/Scroll%20of%20Protection.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Scroll%20of%20Protection.webp#right)
 
 
 Using a [Magic](3.Mechanics/rules/actions.md#Magic) action to read the scroll creates a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you. For 5 minutes, {{item.detail2}} can't enter or affect anything in the area. However, if you move in such a way that an Elemental would be inside the area, the effect ends.

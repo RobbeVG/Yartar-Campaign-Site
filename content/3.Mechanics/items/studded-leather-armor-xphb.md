@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/armor/light
 - ttrpg-cli/item/rarity/none
+title: "Studded Leather Armor"
 aliases:
 - "Studded Leather Armor"
 ---
 # Studded Leather Armor
 *Light armor*  
-![](file://items/XPHB/Studded%20Leather%20Armor.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Studded%20Leather%20Armor.webp#right)
 
 - **Armor Class**: 12 + Dex modifier
 - **Cost**: 45 gp

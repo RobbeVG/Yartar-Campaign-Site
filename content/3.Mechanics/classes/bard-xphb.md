@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/class/bard
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Bard"
 aliases:
 - "Bard"
 ---
@@ -42,6 +43,8 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Bard.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d8 per Bard level
@@ -63,7 +66,6 @@ aliases:
 - **Skill Proficiencies**: Choose 1 [skill](3.Mechanics/rules/skills.md)
 - **Tool Proficiencies**: Choose one [Musical Instrument](3.Mechanics/items/musical-instrument-xphb.md)
 - **Armor Training**: [Light armor](3.Mechanics/rules/item-types.md#Light%20Armor)
-
 ## Bard
 
 Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions. Bards believe the multiverse was spoken into existence and that remnants of its Words of Creation still resound and glimmer on every plane of existence. Bardic magic attempts to harness those words, which transcend any language.

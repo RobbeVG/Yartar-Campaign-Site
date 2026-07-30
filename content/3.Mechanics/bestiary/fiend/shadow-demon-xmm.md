@@ -9,13 +9,21 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend/demon
-statblock: inline
-statblock-link: "#^statblock"
+title: "Shadow Demon"
 aliases:
 - "Shadow Demon"
+conditionImmunities:
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [grappled](3.Mechanics/rules/conditions.md#Grappled)
+- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
+- [petrified](3.Mechanics/rules/conditions.md#Petrified)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- [prone](3.Mechanics/rules/conditions.md#Prone)
+- [restrained](3.Mechanics/rules/conditions.md#Restrained)
 ---
-# [Shadow Demon](3.Mechanics/bestiary/fiend/shadow-demon-xmm.md)
+# Shadow Demon
 *Source: Monster Manual (2024) p. 273*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Shadow%20Demon.webp#right)
 
 ## Shadow Demon
 
@@ -36,69 +44,55 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
 > 
 > There are three rules to endings. First, good always wins. Second, evil always returns. Third, the first rule isn't always true.
 
+```ad-statblock
+title: Shadow Demon
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Shadow%20Demon.webp#token)
+*Medium Fiend (demon), Chaotic Evil*
 
-```statblock
-"name": "Shadow Demon (XMM)"
-"size": "Medium"
-"type": "fiend"
-"subtype": "demon"
-"alignment": "Chaotic Evil"
-"ac": !!int "14"
-"hp": !!int "66"
-"hit_dice": "12d8 + 12"
-"modifier": !!int "3"
-"stats":
-  - !!int "1"
-  - !!int "17"
-  - !!int "12"
-  - !!int "14"
-  - !!int "13"
-  - !!int "14"
-"speed": "30 ft., fly 30 ft. (hover)"
-"saves":
-  - "dexterity": !!int "5"
-  - "charisma": !!int "4"
-"skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+7"
-"damage_vulnerabilities": "radiant"
-"damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
-  \ thunder"
-"damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
-"languages": "Abyssal; telepathy 120 ft."
-"cr": "4"
-"traits":
-  - "desc": "If the demon dies outside the Abyss, its body dissolves into ichor, and\
-      \ it gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ somewhere in the Abyss."
-    "name": "Demonic Restoration"
-  - "desc": "The demon can move through other creatures and objects as if they were\
-      \ [Difficult Terrain](3.Mechanics/rules/variant-rules/difficult-terrain-xphb.md).\
-      \ It takes dice:1d10|noform|noparens|avg|text(5) (1d10) Force damage if\
-      \ it ends its turn inside an object."
-    "name": "Incorporeal Movement"
-  - "desc": "While in [Bright Light](3.Mechanics/rules/variant-rules/bright-light-xphb.md),\
-      \ the demon has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
-      \ on ability checks and attack rolls."
-    "name": "Light Sensitivity"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:3d8+3|noform|noparens|avg|text(16) (3d8 + 3) Psychic damage."
-    "name": "Umbral Claw"
-"bonus_actions":
-  - "desc": "While in [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md), the demon\
-      \ takes the [Hide](3.Mechanics/rules/actions.md#Hide) action."
-    "name": "Shadow Stealth"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Shadow%20Demon.webp"
+- **Armor Class** 14 
+- **Hit Points** 66 (12d8 + 12) 
+- **Speed** 30 ft., fly 30 ft. (hover)
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 1 | -5 | -5 |
+|Int| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 17 | +3 | **+5** |
+|Wis| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 14 | +2 | **+4** |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Dexterity +5, Charisma +4
+- **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
+- **Damage Vulnerabilities** Radiant
+- **Damage Resistances** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
+- **Damage Immunities** Necrotic, Poison
+- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 11
+- **Languages** Abyssal; Telepathy 120 ft.
+- **Challenge** 4
+
+## Traits
+
+***Demonic Restoration.*** If the demon dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) somewhere in the Abyss.
+
+***Incorporeal Movement.*** The demon can move through other creatures and objects as if they were [Difficult Terrain](3.Mechanics/rules/variant-rules/difficult-terrain-xphb.md). It takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) Force damage if it ends its turn inside an object.
+
+***Light Sensitivity.*** While in [Bright Light](3.Mechanics/rules/variant-rules/bright-light-xphb.md), the demon has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls.
+
+## Actions
+
+***Umbral Claw.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:3d8+3|noform|noparens|avg|text(16)` (`3d8 + 3`) Psychic damage.
+
+## Bonus Actions
+
+***Shadow Stealth.*** While in [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md) or [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md), the demon takes the [Hide](3.Mechanics/rules/actions.md#Hide) action.
 ```
 ^statblock
 

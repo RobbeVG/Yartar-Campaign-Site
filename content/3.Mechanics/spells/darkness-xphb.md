@@ -27,6 +27,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
+title: "Darkness"
 aliases:
 - "Darkness"
 ---

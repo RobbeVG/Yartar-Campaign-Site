@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/gear/ammunition-firearm
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Ammunition of Slaying"
 aliases:
 - "Ammunition of Slaying"
 - "Arrow of Slaying"
@@ -20,7 +21,7 @@ aliases:
 ---
 # Ammunition of Slaying
 *Ammunition, very rare*  
-![Ammunition of Slaying (Arrow)](file://items/XDMG/Ammunition%20of%20Slaying.webp#right)
+![Ammunition of Slaying (Arrow)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ammunition%20of%20Slaying.webp#right)
 
 
 This magic ammunition is meant to slay creatures of a particular type, which the DM chooses or determines randomly by rolling on the table below. If a creature of that type takes damage from the ammunition, the creature makes a DC 17 Constitution saving throw, taking an extra `dice:6d10|noform|noparens|avg` (`6d10`) Force damage on a failed save or half as much extra damage on a successful one.

@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/class/druid
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Druid"
 aliases:
 - "Druid"
 ---
@@ -42,6 +43,8 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Druid.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d8 per Druid level
@@ -61,6 +64,10 @@ aliases:
 ## Multiclassing Druid
 
 - **Armor Training**: [Light armor](3.Mechanics/rules/item-types.md#Light%20Armor), [Shields](3.Mechanics/items/shield-xphb.md)
+
+> [!gallery]
+![A Druid channels the power of nature through their magic](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/057-03-033.druid-in-nature.webp)
+![A Druid in wolf form howls at the moon](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/060-03-036.wolf-form-druid.webp)
 
 ## Druid
 

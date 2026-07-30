@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/shield/
+title: "Arrow-Catching Shield"
 aliases:
 - "Arrow-Catching Shield"
 ---

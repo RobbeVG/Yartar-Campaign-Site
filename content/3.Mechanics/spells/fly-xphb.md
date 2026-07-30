@@ -23,6 +23,7 @@ classes:
 - Sorcerer (Draconic Sorcery)
 - Warlock
 - Wizard
+title: "Fly"
 aliases:
 - "Fly"
 ---

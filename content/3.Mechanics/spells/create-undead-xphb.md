@@ -15,6 +15,7 @@ classes:
 - Cleric
 - Warlock
 - Wizard
+title: "Create Undead"
 aliases:
 - "Create Undead"
 ---

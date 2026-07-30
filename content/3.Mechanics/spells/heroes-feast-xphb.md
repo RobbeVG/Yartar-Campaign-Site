@@ -13,12 +13,13 @@ classes:
 - Bard
 - Cleric
 - Druid
+title: "Heroes' Feast"
 aliases:
 - "Heroes' Feast"
 ---
 # Heroes' Feast
 *6th-level, Conjuration*  
-![](file://spells/XPHB/Heroes%27%20Feast.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Heroes%27%20Feast.webp#right)
 
 - **Casting time:** 10 minutes
 - **Range:** Self (10-foot Cube)

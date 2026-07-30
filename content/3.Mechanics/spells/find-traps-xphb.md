@@ -17,6 +17,7 @@ classes:
 - Cleric
 - Druid
 - Ranger
+title: "Find Traps"
 aliases:
 - "Find Traps"
 ---

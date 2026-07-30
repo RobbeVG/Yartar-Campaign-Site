@@ -13,6 +13,7 @@ classes:
 - Bard
 - Cleric
 - Druid
+title: "Regenerate"
 aliases:
 - "Regenerate"
 ---

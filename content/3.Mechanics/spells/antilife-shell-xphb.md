@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Druid
+title: "Antilife Shell"
 aliases:
 - "Antilife Shell"
 ---

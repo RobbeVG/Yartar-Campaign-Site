@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Rapier"
 aliases:
 - "Rapier"
 ---
 # Rapier
 *Weapon*  
-![](file://items/XPHB/Rapier.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Rapier.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Properties**: [Finesse](3.Mechanics/rules/item-properties.md#Finesse)

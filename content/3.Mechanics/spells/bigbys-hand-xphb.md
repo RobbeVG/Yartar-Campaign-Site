@@ -15,12 +15,13 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Bigby's Hand"
 aliases:
 - "Bigby's Hand"
 ---
 # Bigby's Hand
 *5th-level, Evocation*  
-![](file://spells/XPHB/Bigby%27s%20Hand.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Bigby%27s%20Hand.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet

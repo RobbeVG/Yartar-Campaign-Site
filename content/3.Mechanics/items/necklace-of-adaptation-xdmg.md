@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Necklace of Adaptation"
 aliases:
 - "Necklace of Adaptation"
 ---
 # Necklace of Adaptation
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Necklace%20of%20Adaptation.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Necklace%20of%20Adaptation.webp#right)
 
 - **Weight**: 1.0 lbs.
 

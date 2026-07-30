@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/potion
+title: "Potion of Climbing"
 aliases:
 - "Potion of Climbing"
 ---
 # Potion of Climbing
 *Potion, common*  
-![](file://items/XDMG/Potion%20of%20Climbing.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Potion%20of%20Climbing.webp#right)
 
 - **Weight**: 0.5 lbs.
 

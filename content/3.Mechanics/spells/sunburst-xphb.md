@@ -19,6 +19,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Sunburst"
 aliases:
 - "Sunburst"
 ---

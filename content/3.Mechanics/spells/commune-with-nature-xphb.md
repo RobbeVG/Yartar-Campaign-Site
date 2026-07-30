@@ -18,6 +18,7 @@ classes:
 - Druid
 - Paladin (Oath of the Ancients)
 - Ranger
+title: "Commune with Nature"
 aliases:
 - "Commune with Nature"
 ---

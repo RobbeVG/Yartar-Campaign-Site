@@ -10,13 +10,13 @@ tags:
 - ttrpg-cli/monster/environment/mountain
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Hippogriff"
 aliases:
 - "Hippogriff"
 ---
-# [Hippogriff](3.Mechanics/bestiary/monstrosity/hippogriff-xmm.md)
+# Hippogriff
 *Source: Monster Manual (2024) p. 169. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Hippogriff.webp#right)
 
 ## Hippogriff
 
@@ -42,43 +42,45 @@ Hippogriff migrations might take months or years, and sages frequently predict t
 | 5 | Nest full of hippogriff eggs atop a spire. |
 | 6 | Portal to the Feywild or an Upper Plane. |
 ^hippogriff-destination
+```ad-statblock
+title: Hippogriff
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hippogriff.webp#token)
+*Large Monstrosity, Unaligned*
 
-```statblock
-"name": "Hippogriff (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "11"
-"hp": !!int "26"
-"hit_dice": "4d10 + 4"
-"modifier": !!int "1"
-"stats":
-  - !!int "17"
-  - !!int "13"
-  - !!int "13"
-  - !!int "2"
-  - !!int "12"
-  - !!int "8"
-"speed": "40 ft., fly 60 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+5"
-"senses": "passive Perception 15"
-"languages": ""
-"cr": "1"
-"traits":
-  - "desc": "The hippogriff doesn't provoke an [Opportunity Attack](3.Mechanics/rules/actions.md#Opportunity%20Attack)\
-      \ when it flies out of an enemy's reach."
-    "name": "Flyby"
-"actions":
-  - "desc": "The hippogriff makes two Rend attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:1d8+3|noform|noparens|avg|text(7) (1d8 + 3) Slashing damage."
-    "name": "Rend"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Hippogriff.webp"
+- **Armor Class** 11 
+- **Hit Points** 26 (4d10 + 4) 
+- **Speed** 40 ft., fly 60 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17 | +3 | +3 |
+|Int| 2 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 13 | +1 | +1 |
+|Wis| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 13 | +1 | +1 |
+|Cha| 8 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5
+- **Senses** Passive Perception 15
+- **Languages** —
+- **Challenge** 1
+
+## Traits
+
+***Flyby.*** The hippogriff doesn't provoke an [Opportunity Attack](3.Mechanics/rules/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
+
+## Actions
+
+***Multiattack.*** The hippogriff makes two Rend attacks.
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d8+3|noform|noparens|avg|text(7)` (`1d8 + 3`) Slashing damage.
 ```
 ^statblock
 

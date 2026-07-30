@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/hill
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/dragon/metallic
-statblock: inline
-statblock-link: "#^statblock"
+title: "Copper Dragon Wyrmling"
 aliases:
 - "Copper Dragon Wyrmling"
 ---
-# [Copper Dragon Wyrmling](3.Mechanics/bestiary/dragon/copper-dragon-wyrmling-xmm.md)
+# Copper Dragon Wyrmling
 *Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Copper%20Dragon%20Wyrmling.webp#right)
 
 Copper dragon wyrmlings venture into the world seeking to make friends and discover wonders. They sometimes get into trouble, but those who help them can become their friends for life.
 
@@ -33,55 +33,44 @@ Copper dragons typically live in caverns amid picturesque hills and rock formati
 
 Copper dragons typically inhabit multi-chamber caves and renovated ruins.
 
-```statblock
-"name": "Copper Dragon Wyrmling (XMM)"
-"size": "Medium"
-"type": "dragon"
-"subtype": "metallic"
-"alignment": "Chaotic Good"
-"ac": !!int "16"
-"hp": !!int "22"
-"hit_dice": "4d8 + 4"
-"modifier": !!int "3"
-"stats":
-  - !!int "15"
-  - !!int "12"
-  - !!int "13"
-  - !!int "14"
-  - !!int "11"
-  - !!int "13"
-"speed": "30 ft., climb 30 ft., fly 60 ft."
-"saves":
-  - "dexterity": !!int "3"
-  - "wisdom": !!int "2"
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+3"
-"damage_immunities": "acid"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
-"languages": "Draconic"
-"cr": "1"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d10+2|noform|noparens|avg|text(7) (1d10 + 2) Slashing\
-      \ damage."
-    "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 11, each creature in a 20-foot-long, 5-foot-wide\
-      \ [Line](3.Mechanics/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
-      \ dice:4d8|noform|noparens|avg|text(18) (4d8) Acid damage. *Success:* Half\
-      \ damage."
-    "name": "Acid Breath (Recharge 5-6)"
-  - "desc": "*Constitution Saving Throw:* DC 11, each creature in a 15-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* The target can't take Reactions; its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md)\
-      \ is halved; and it can take either an action or a [Bonus Action](3.Mechanics/rules/variant-rules/bonus-action-xphb.md)\
-      \ on its turn, not both. This effect lasts until the end of its next turn."
-    "name": "Slowing Breath"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Copper%20Dragon%20Wyrmling.webp"
+```ad-statblock
+title: Copper Dragon Wyrmling
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Copper%20Dragon%20Wyrmling.webp#token)
+*Medium Dragon (metallic), Chaotic Good*
+
+- **Armor Class** 16 
+- **Hit Points** 22 (4d8 + 4) 
+- **Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 15 | +2 | +2 |
+|Int| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | **+3** |
+|Wis| 11 | +0 | **+2** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 13 | +1 | +1 |
+|Cha| 13 | +1 | +1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Dexterity +3, Wisdom +2
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
+- **Damage Immunities** Acid
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Languages** Draconic
+- **Challenge** 1
+
+## Actions
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d10+2|noform|noparens|avg|text(7)` (`1d10 + 2`) Slashing damage.
+
+***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 11, each creature in a 20-foot-long, 5-foot-wide [Line](3.Mechanics/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:* `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) Acid damage. *Success:* Half damage.
+
+***Slowing Breath.*** *Constitution Saving Throw:* DC 11, each creature in a 15-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* The target can't take Reactions; its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) is halved; and it can take either an action or a [Bonus Action](3.Mechanics/rules/variant-rules/bonus-action-xphb.md) on its turn, not both. This effect lasts until the end of its next turn.
 ```
 ^statblock
 

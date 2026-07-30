@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/barbarian/wild-heart
+title: "Path of the Wild Heart"
 aliases:
 - "Path of the Wild Heart"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Wild%20Heart%20Barbarian.webp#right)
 
 *Walk in Community with the Animal World*
 

@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Kuo-toa Monitor"
 aliases:
 - "Kuo-toa Monitor"
 ---
-# [Kuo-toa Monitor](3.Mechanics/bestiary/aberration/kuo-toa-monitor-xmm.md)
+# Kuo-toa Monitor
 *Source: Monster Manual (2024) p. 190*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Kuo-toa%20Whip%20and%20Monitor.webp#right)
 
 Kuo-toa monitors control the day-to-day life of weaker kuo-toa, directing their work and worship. They also train beasts or monsters in the kuo-toa's service—such as chuuls or giant crabs—and command them in battle. Archpriests bless monitors with the power to control their underlings and to subdue foes with electricity channeled through their bizarre whips.
 
@@ -81,50 +81,47 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 > When the Corpse Moon rises and the Chum-Tide washes in, up rise the Gogglers from their pits beneath the waves. Burbling and noisome they come, fishing night's shores as we do dawn's waves.
 
 
-```statblock
-"name": "Kuo-toa Monitor (XMM)"
-"size": "Medium"
-"type": "aberration"
-"alignment": "Neutral Evil"
-"ac": !!int "13"
-"hp": !!int "65"
-"hit_dice": "10d8 + 20"
-"modifier": !!int "0"
-"stats":
-  - !!int "16"
-  - !!int "10"
-  - !!int "14"
-  - !!int "12"
-  - !!int "14"
-  - !!int "11"
-"speed": "30 ft., swim 30 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+6"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
-    "desc": "+3"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., [Truesight](3.Mechanics/rules/senses.md#Truesight)\
-  \ 30 ft., passive Perception 16"
-"languages": "Undercommon"
-"cr": "3"
-"traits":
-  - "desc": "The kuo-toa can breathe air and water."
-    "name": "Amphibious"
-  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
-      \ on ability checks and attack rolls."
-    "name": "Sunlight Sensitivity"
-"actions":
-  - "desc": "The kuo-toa makes two Bone Whip attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 10\
-      \ ft. *Hit:* dice:1d6+3|noform|noparens|avg|text(6) (1d6 + 3) Slashing damage\
-      \ plus dice:2d6|noform|noparens|avg|text(7) (2d6) Lightning damage, and\
-      \ the target can't make [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack)\
-      \ until the start of the kuo-toa's next turn."
-    "name": "Bone Whip"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Kuo-toa%20Monitor.webp"
+```ad-statblock
+title: Kuo-toa Monitor
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Kuo-toa%20Monitor.webp#token)
+*Medium Aberration, Neutral Evil*
+
+- **Armor Class** 13 
+- **Hit Points** 65 (10d8 + 20) 
+- **Speed** 30 ft., swim 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16 | +3 | +3 |
+|Int| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | +0 |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14 | +2 | +2 |
+|Cha| 11 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Religion](3.Mechanics/rules/skills.md#Religion) +3
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., [Truesight](3.Mechanics/rules/senses.md#Truesight) 30 Ft., Passive Perception 16
+- **Languages** Undercommon
+- **Challenge** 3
+
+## Traits
+
+***Amphibious.*** The kuo-toa can breathe air and water.
+
+***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls.
+
+## Actions
+
+***Multiattack.*** The kuo-toa makes two Bone Whip attacks.
+
+***Bone Whip.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 10 ft. *Hit:* `dice:1d6+3|noform|noparens|avg|text(6)` (`1d6 + 3`) Slashing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Lightning damage, and the target can't make [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack) until the start of the kuo-toa's next turn.
 ```
 ^statblock
 

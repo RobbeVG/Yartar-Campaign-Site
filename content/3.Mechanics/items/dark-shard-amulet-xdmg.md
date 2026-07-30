@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/common
+title: "Dark Shard Amulet"
 aliases:
 - "Dark Shard Amulet"
 ---
 # Dark Shard Amulet
 *Wondrous item, spellcasting focus, common (requires attunement by a warlock)*  
-![](file://items/XDMG/Dark%20Shard%20Amulet.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Dark%20Shard%20Amulet.webp#right)
 
 - **Weight**: 1.0 lbs.
 

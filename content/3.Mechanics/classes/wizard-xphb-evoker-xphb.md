@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/wizard/evoker
+title: "Evoker"
 aliases:
 - "Evoker"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Evoker%20Wizard.webp#right)
 
 *Create Explosive Elemental Effects*
 

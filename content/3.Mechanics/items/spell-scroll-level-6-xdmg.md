@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/scroll
+title: "Spell Scroll (Level 6)"
 aliases:
 - "Spell Scroll (Level 6)"
 ---
 # Spell Scroll (Level 6)
 *Scroll, very rare*  
-![](file://items/XDMG/Spell%20Scroll.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Spell%20Scroll.webp#right)
 
 
 A Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost.

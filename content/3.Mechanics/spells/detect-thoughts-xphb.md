@@ -26,6 +26,7 @@ classes:
 - Warlock (Great Old One Patron)
 - Wizard
 - Wizard (Diviner)
+title: "Detect Thoughts"
 aliases:
 - "Detect Thoughts"
 ---

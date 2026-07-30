@@ -13,6 +13,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Dragon Slayer"
 aliases:
 - "Dragon Slayer"
 - "Dragon Slayer Antimatter Rifle"
@@ -71,7 +72,7 @@ aliases:
 ---
 # Dragon Slayer
 *Rare*  
-![Dragon Slayer (Greatsword)](file://items/XDMG/Dragon%20Slayer.webp#right)
+![Dragon Slayer (Greatsword)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Dragon%20Slayer.webp#right)
 
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.

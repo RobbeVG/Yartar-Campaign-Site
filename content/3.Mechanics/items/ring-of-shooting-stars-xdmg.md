@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/ring
+title: "Ring of Shooting Stars"
 aliases:
 - "Ring of Shooting Stars"
 ---
 # Ring of Shooting Stars
 *Ring, very rare (requires attunement)*  
-![](file://items/XDMG/Ring%20of%20Shooting%20Stars.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ring%20of%20Shooting%20Stars.webp#right)
 
 
 You can cast [Dancing Lights](3.Mechanics/spells/dancing-lights-xphb.md) or [Light](3.Mechanics/spells/light-xphb.md) from the ring.

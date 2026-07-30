@@ -13,12 +13,13 @@ classes:
 - Bard
 - Druid
 - Wizard
+title: "Shapechange"
 aliases:
 - "Shapechange"
 ---
 # Shapechange
 *9th-level, Transmutation*  
-![](file://spells/XPHB/Shapechange.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Shapechange.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Self

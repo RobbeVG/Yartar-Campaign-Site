@@ -10,13 +10,16 @@ tags:
 - ttrpg-cli/monster/environment/upper
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/celestial
-statblock: inline
-statblock-link: "#^statblock"
+title: "Sphinx of Valor"
 aliases:
 - "Sphinx of Valor"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
-# [Sphinx of Valor](3.Mechanics/bestiary/celestial/sphinx-of-valor-xmm.md)
+# Sphinx of Valor
 *Source: Monster Manual (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Sphinx%20of%20Valor.webp#right)
 
 Sphinxes of valor guard world-changing or dangerous secrets—evidence of weird truths, deadly Artifacts, and things that shouldn't exist. They inhabit hidden, magical sites and hold their duty above mortal life. If threatened, a sphinx of valor defends its charge with its supernaturally empowered roar and fierce strikes.
 
@@ -46,108 +49,81 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 > [!note]
 > Answer to the riddle of White Plume Mountain: The Moon.
 
-```statblock
-"name": "Sphinx of Valor (XMM)"
-"size": "Large"
-"type": "celestial"
-"alignment": "Lawful Neutral"
-"ac": !!int "17"
-"hp": !!int "199"
-"hit_dice": "19d10 + 95"
-"modifier": !!int "12"
-"stats":
-  - !!int "22"
-  - !!int "10"
-  - !!int "20"
-  - !!int "16"
-  - !!int "23"
-  - !!int "18"
-"speed": "40 ft., fly 60 ft."
-"saves":
-  - "dexterity": !!int "6"
-  - "constitution": !!int "11"
-  - "intelligence": !!int "9"
-  - "wisdom": !!int "12"
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+9"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+12"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
-    "desc": "+15"
-"damage_resistances": "necrotic, radiant"
-"damage_immunities": "psychic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 22"
-"languages": "Celestial, Common"
-"cr": "17"
-"traits":
-  - "desc": "No magic can observe the sphinx remotely or detect its thoughts without\
-      \ its permission. Wisdom ([Insight](3.Mechanics/rules/skills.md#Insight)) checks\
-      \ made to ascertain its intentions or sincerity are made with [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)."
-    "name": "Inscrutable"
-  - "desc": "If the sphinx fails a saving throw, it can choose to succeed instead."
-    "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-"actions":
-  - "desc": "The sphinx makes two Claw attacks and uses Roar."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+12|noform|noparens|text(+12), reach\
-      \ 5 ft. *Hit:* dice:4d6+6|noform|noparens|avg|text(20) (4d6 + 6) Slashing\
-      \ damage."
-    "name": "Claw"
-  - "desc": "The sphinx emits a magical roar. Whenever it roars, the roar has a different\
-      \ effect, as detailed below (the sequence resets when it takes a [Long Rest](3.Mechanics/rules/variant-rules/long-rest-xphb.md)):\n\
-      \n- **First Roar.** *Wisdom Saving Throw:* DC 20, each enemy in a 500-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the sphinx. *Failure:* The target has the [Frightened](3.Mechanics/rules/conditions.md#Frightened)\
-      \ condition for 1 minute.  \n- **Second Roar.** *Wisdom Saving Throw:* DC 20,\
-      \ each enemy in a 500-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the sphinx. *Failure:* The target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)\
-      \ condition, and it repeats the save at the end of each of its turns, ending\
-      \ the effect on itself on a success. After 1 minute, it succeeds automatically.\
-      \  \n- **Third Roar.** *Constitution Saving Throw:* DC 20, each enemy in a 500-foot\
-      \ [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the sphinx. *Failure:* dice:8d10|noform|noparens|avg|text(44)\
-      \ (8d10) Thunder damage, and the target has the [Prone](3.Mechanics/rules/conditions.md#Prone)\
-      \ condition. *Success:* Half damage only.  "
-    "name": "Roar (3/Day)"
-  - "desc": "The sphinx casts one of the following spells, requiring no Material components\
-      \ and using Wisdom as the spellcasting ability (spell save DC 20):\n\n**At will:**\
-      \ [Detect Evil and Good](3.Mechanics/spells/detect-evil-and-good-xphb.md), [Thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md)\n\
-      \n**1/day each:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md), [Dispel\
-      \ Magic](3.Mechanics/spells/dispel-magic-xphb.md), [Greater Restoration](3.Mechanics/spells/greater-restoration-xphb.md),\
-      \ [Heroes' Feast](3.Mechanics/spells/heroes-feast-xphb.md), [Zone of Truth](3.Mechanics/spells/zone-of-truth-xphb.md)"
-    "name": "Spellcasting"
-"regional_effects":
-  - "desc": "The region containing a sphinx of lore's or sphinx of valor's lair is\
-      \ altered by its presence, creating the following effects:\n\n- **Distant Sight.**\
-      \ While in its lair, the sphinx can cast [Clairvoyance](3.Mechanics/spells/clairvoyance-xphb.md),\
-      \ requiring no spell components and using the same spellcasting ability as its\
-      \ Spellcasting action. When cast this way, the spell's range is 1 mile.  \n\
-      - **Infusion of Knowledge.** Whenever the sphinx or one of its allies takes\
-      \ a [Study](3.Mechanics/rules/actions.md#Study) action while within 1 mile of\
-      \ the lair, it adds dice:1d6|noform|noparens|avg (1d6) to any ability check\
-      \ it makes for that action.  \n\nIf the sphinx dies or moves its lair elsewhere,\
-      \ these effects end immediately."
-    "name": ""
-"legendary_description": "Legendary Action Uses: 3 (4 in Lair). Immediately after\
-  \ another creature's turn, the sphinx of valor can expend a use to take one of the\
-  \ following actions. The sphinx of valor regains all expended uses at the start\
-  \ of each of its turns."
-"legendary_actions":
-  - "desc": "The sphinx can teleport up to 30 feet to an unoccupied space it can see,\
-      \ and it makes one Claw attack."
-    "name": "Arcane Prowl"
-  - "desc": "*Constitution Saving Throw:* DC 16, one creature the sphinx can see within\
-      \ 120 feet. *Failure:* The target gains 1 [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)\
-      \ level. While the target has any [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)\
-      \ levels, it appears dice:3d10|noform|noparens|avg (3d10) years older. *Failure\
-      \ or Success:* The sphinx can't take this action again until the start of its\
-      \ next turn."
-    "name": "Weight of Years"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Sphinx%20of%20Valor.webp"
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Sphinxes.webp#center)
+
+```ad-statblock
+title: Sphinx of Valor
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sphinx%20of%20Valor.webp#token)
+*Large Celestial, Lawful Neutral*
+
+- **Armor Class** 17 
+- **Hit Points** 199 (19d10 + 95) 
+- **Speed** 40 ft., fly 60 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 22 | +6 | +6 |
+|Int| 16 | +3 | **+9** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | **+6** |
+|Wis| 23 | +6 | **+12** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 20 | +5 | **+11** |
+|Cha| 18 | +4 | +4 |
+
+
+- **Proficiency Bonus** +6
+- **Saving Throws** Dexterity +6, Constitution +11, Intelligence +9, Wisdom +12
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +12, [Religion](3.Mechanics/rules/skills.md#Religion) +15
+- **Damage Resistances** Necrotic, Radiant
+- **Damage Immunities** Psychic
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened)
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 22
+- **Languages** Celestial, Common
+- **Challenge** 17
+
+## Traits
+
+***Inscrutable.*** No magic can observe the sphinx remotely or detect its thoughts without its permission. Wisdom ([Insight](3.Mechanics/rules/skills.md#Insight)) checks made to ascertain its intentions or sincerity are made with [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md).
+
+***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the sphinx fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The sphinx makes two Claw attacks and uses Roar.
+
+***Claw.*** *Melee Attack Roll:* `dice:1d20+12|noform|noparens|text(+12)`, reach 5 ft. *Hit:* `dice:4d6+6|noform|noparens|avg|text(20)` (`4d6 + 6`) Slashing damage.
+
+***Roar (3/Day).*** The sphinx emits a magical roar. Whenever it roars, the roar has a different effect, as detailed below (the sequence resets when it takes a [Long Rest](3.Mechanics/rules/variant-rules/long-rest-xphb.md)):
+
+- **First Roar.** *Wisdom Saving Throw:* DC 20, each enemy in a 500-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the sphinx. *Failure:* The target has the [Frightened](3.Mechanics/rules/conditions.md#Frightened) condition for 1 minute.  
+- **Second Roar.** *Wisdom Saving Throw:* DC 20, each enemy in a 500-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the sphinx. *Failure:* The target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed) condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.  
+- **Third Roar.** *Constitution Saving Throw:* DC 20, each enemy in a 500-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the sphinx. *Failure:* `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) Thunder damage, and the target has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition. *Success:* Half damage only.  
+
+***Spellcasting.*** The sphinx casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 20):
+
+**At will:** [Detect Evil and Good](3.Mechanics/spells/detect-evil-and-good-xphb.md), [Thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md)
+
+**1/day each:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md), [Dispel Magic](3.Mechanics/spells/dispel-magic-xphb.md), [Greater Restoration](3.Mechanics/spells/greater-restoration-xphb.md), [Heroes' Feast](3.Mechanics/spells/heroes-feast-xphb.md), [Zone of Truth](3.Mechanics/spells/zone-of-truth-xphb.md)
+
+## Legendary Actions
+
+Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the sphinx of valor can expend a use to take one of the following actions. The sphinx of valor regains all expended uses at the start of each of its turns.
+
+***Arcane Prowl.*** The sphinx can teleport up to 30 feet to an unoccupied space it can see, and it makes one Claw attack.
+
+***Weight of Years.*** *Constitution Saving Throw:* DC 16, one creature the sphinx can see within 120 feet. *Failure:* The target gains 1 [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion) level. While the target has any [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion) levels, it appears `dice:3d10|noform|noparens|avg` (`3d10`) years older. *Failure or Success:* The sphinx can't take this action again until the start of its next turn.
+
+## Regional Effects
+
+The region containing a sphinx of lore's or sphinx of valor's lair is altered by its presence, creating the following effects:
+
+- **Distant Sight.** While in its lair, the sphinx can cast [Clairvoyance](3.Mechanics/spells/clairvoyance-xphb.md), requiring no spell components and using the same spellcasting ability as its Spellcasting action. When cast this way, the spell's range is 1 mile.  
+- **Infusion of Knowledge.** Whenever the sphinx or one of its allies takes a [Study](3.Mechanics/rules/actions.md#Study) action while within 1 mile of the lair, it adds `dice:1d6|noform|noparens|avg` (`1d6`) to any ability check it makes for that action.  
+
+If the sphinx dies or moves its lair elsewhere, these effects end immediately.
 ```
 ^statblock
 

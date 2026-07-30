@@ -25,6 +25,7 @@ classes:
 - Wizard
 - Wizard (Diviner)
 - Wizard (Evoker)
+title: "Sending"
 aliases:
 - "Sending"
 ---

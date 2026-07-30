@@ -15,6 +15,7 @@ classes:
 - Druid
 - Warlock
 - Wizard
+title: "Befuddlement"
 aliases:
 - "Befuddlement"
 ---

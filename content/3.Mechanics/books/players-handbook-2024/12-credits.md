@@ -32,8 +32,8 @@ aliases:
         - **Based on the Player's Handbook (2014) designed by.** Jeremy Crawford (lead), Bruce R. Cordell, Tom LaPille, Peter Lee, Mike Mearls, Robert J. Schwalb, Rodney Thompson, James Wyatt    
         - **Building on the original game created by.** Gary Gygax and Dave Arneson and then developed by many others over the past 50 years    
 
-![](file://book/XPHB/credits.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/credits.webp#center)
 
 > [!gallery]
-> ![On the Cover: Guided by a gold dragon, the elf queen Yolande and the heroes of Valor's Call test their bravery against evil in this daring scene illustrated by Tyler Jacobson.](file://book/XPHB/credits2.webp#gallery)
-> ![On the Alt-Cover: Nothing's better than sharing stories with friends. Heroes pause to share tea and tales with a gold dragon in this serene illustration from Wylie Beckert.](file://book/XPHB/credits3.webp#gallery)
+> ![On the Cover: Guided by a gold dragon, the elf queen Yolande and the heroes of Valor's Call test their bravery against evil in this daring scene illustrated by Tyler Jacobson.](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/credits2.webp#gallery)
+> ![On the Alt-Cover: Nothing's better than sharing stories with friends. Heroes pause to share tea and tales with a gold dragon in this serene illustration from Wylie Beckert.](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/credits3.webp#gallery)

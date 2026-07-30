@@ -26,6 +26,7 @@ classes:
 - Wizard
 - Wizard (Evoker)
 - Wizard (Illusionist)
+title: "Dancing Lights"
 aliases:
 - "Dancing Lights"
 ---

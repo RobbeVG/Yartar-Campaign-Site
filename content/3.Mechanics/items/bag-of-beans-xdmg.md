@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+title: "Bag of Beans"
 aliases:
 - "Bag of Beans"
 ---
 # Bag of Beans
 *Wondrous item, rare*  
-![](file://items/XDMG/Bag%20of%20Beans.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Bag%20of%20Beans.webp#right)
 
 
 This heavy cloth bag contains `dice:3d4|noform|noparens|avg` (`3d4`) dry beans when found. The bag weighs half a pound regardless of how many beans it contains and becomes a nonmagical item when it no longer contains any beans.

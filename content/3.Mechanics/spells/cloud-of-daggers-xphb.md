@@ -21,6 +21,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Cloud of Daggers"
 aliases:
 - "Cloud of Daggers"
 ---

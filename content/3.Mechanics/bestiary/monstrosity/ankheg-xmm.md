@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/grassland
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Ankheg"
 aliases:
 - "Ankheg"
 ---
-# [Ankheg](3.Mechanics/bestiary/monstrosity/ankheg-xmm.md)
+# Ankheg
 *Source: Monster Manual (2024) p. 18. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Ankheg.webp#right)
 
 ## Ankheg
 
@@ -49,48 +49,45 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
 | 7 | A stray farm or woodland animal. |
 | 8 | A viciously mauled scarecrow. |
 ^ankheg-tunnel-discoveries
+```ad-statblock
+title: Ankheg
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ankheg.webp#token)
+*Large Monstrosity, Unaligned*
 
-```statblock
-"name": "Ankheg (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "14"
-"hp": !!int "45"
-"hit_dice": "6d10 + 12"
-"modifier": !!int "0"
-"stats":
-  - !!int "17"
-  - !!int "11"
-  - !!int "14"
-  - !!int "1"
-  - !!int "13"
-  - !!int "6"
-"speed": "30 ft., burrow 10 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., Tremorsense\
-  \ 60 ft., passive Perception 11"
-"languages": ""
-"cr": "2"
-"traits":
-  - "desc": "The ankheg can burrow through solid rock at half its [Burrow Speed](3.Mechanics/rules/variant-rules/burrow-speed-xphb.md)\
-      \ and leaves a 10-foot-diameter tunnel in its wake."
-    "name": "Tunneler"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5) (with [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ if the target is [Grappled](3.Mechanics/rules/conditions.md#Grappled) by the\
-      \ ankheg), reach 5 ft. *Hit:* dice:2d6+3|noform|noparens|avg|text(10) (2d6\
-      \ + 3) Slashing damage plus dice:1d6|noform|noparens|avg|text(3) (1d6)\
-      \ Acid damage. If the target is a Large or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition (escape DC 13)."
-    "name": "Bite"
-  - "desc": "*Dexterity Saving Throw:* DC 12, each creature in a 30-foot-long, 5-foot-wide\
-      \ [Line](3.Mechanics/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
-      \ dice:4d6|noform|noparens|avg|text(14) (4d6) Acid damage. *Success:* Half\
-      \ damage."
-    "name": "Acid Spray (Recharge 6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Ankheg.webp"
+- **Armor Class** 14 
+- **Hit Points** 45 (6d10 + 12) 
+- **Speed** 30 ft., burrow 10 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17 | +3 | +3 |
+|Int| 1 | -5 | -5 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 11 | +0 | +0 |
+|Wis| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14 | +2 | +2 |
+|Cha| 6 | -2 | -2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Tremorsense 60 ft., Passive Perception 11
+- **Languages** —
+- **Challenge** 2
+
+## Traits
+
+***Tunneler.*** The ankheg can burrow through solid rock at half its [Burrow Speed](3.Mechanics/rules/variant-rules/burrow-speed-xphb.md) and leaves a 10-foot-diameter tunnel in its wake.
+
+## Actions
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)` (with [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) if the target is [Grappled](3.Mechanics/rules/conditions.md#Grappled) by the ankheg), reach 5 ft. *Hit:* `dice:2d6+3|noform|noparens|avg|text(10)` (`2d6 + 3`) Slashing damage plus `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) Acid damage. If the target is a Large or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 13).
+
+***Acid Spray (Recharge 6).*** *Dexterity Saving Throw:* DC 12, each creature in a 30-foot-long, 5-foot-wide [Line](3.Mechanics/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:* `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) Acid damage. *Success:* Half damage.
 ```
 ^statblock
 

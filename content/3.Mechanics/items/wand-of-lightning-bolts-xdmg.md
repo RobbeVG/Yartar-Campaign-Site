@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/wand
+title: "Wand of Lightning Bolts"
 aliases:
 - "Wand of Lightning Bolts"
 ---
 # Wand of Lightning Bolts
 *Wand, rare (requires attunement by a spellcaster)*  
-![](file://items/XDMG/Wand%20of%20Lightning%20Bolts.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Wand%20of%20Lightning%20Bolts.webp#right)
 
 - **Weight**: 1.0 lbs.
 

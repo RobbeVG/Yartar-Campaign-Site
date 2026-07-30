@@ -23,6 +23,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Evoker)
+title: "Continual Flame"
 aliases:
 - "Continual Flame"
 ---

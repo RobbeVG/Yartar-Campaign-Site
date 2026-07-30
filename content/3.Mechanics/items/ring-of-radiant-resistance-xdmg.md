@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/ring
+title: "Ring of Radiant Resistance"
 aliases:
 - "Ring of Radiant Resistance"
 ---

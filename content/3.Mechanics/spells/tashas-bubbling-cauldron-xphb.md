@@ -13,12 +13,13 @@ classes:
 - Bard
 - Warlock
 - Wizard
+title: "Tasha's Bubbling Cauldron"
 aliases:
 - "Tasha's Bubbling Cauldron"
 ---
 # Tasha's Bubbling Cauldron
 *6th-level, Conjuration*  
-![](file://spells/XPHB/Tasha%27s%20Bubbling%20Cauldron.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Tasha%27s%20Bubbling%20Cauldron.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 5 feet

@@ -8,74 +8,65 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid/human
 - ttrpg-cli/monster/type/humanoid/wizard
-statblock: inline
-statblock-link: "#^statblock"
+title: "Iarno \"Glasstaff\" Albrek"
 aliases:
 - "Iarno \"Glasstaff\" Albrek"
 ---
-# [Iarno "Glasstaff" Albrek](3.Mechanics/bestiary/npc/iarno-glasstaff-albrek-pabtso.md)
+# Iarno "Glasstaff" Albrek
 *Source: Phandelver and Below: The Shattered Obelisk p. 43*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Iarno%20Glasstaff%20Albrek.webp#right)
 
 A former member of the Lords' Alliance, Glasstaff seized an opportunity in Phandalin to line his own pockets. Originally tasked with setting up a constabulary, he instead assembled a group of outlaws and local ruffians to secure his own position in town.
 
 Glasstaff puts on airs of gentility and courteous manners, addressing his bandits and ruffians as "my good fellows," and referring to sordid acts such as kidnapping or arson as "that unpleasant little business" or "those unfortunate events." He may refer to the characters as his "honored guests," and expresses regret that he cannot provide suitable entertainment for the occasion of their visit. Beneath his genteel demeanor, however, Glasstaff is just as violent and arrogant as any of the Redbrands.
+```ad-statblock
+title: Iarno "Glasstaff" Albrek
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Iarno%20Glasstaff%20Albrek.webp#token)
+*Medium Humanoid (human, wizard), Lawful Evil*
 
-```statblock
-"name": "Iarno \"Glasstaff\" Albrek (PaBTSO)"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "human, wizard"
-"alignment": "Lawful Evil"
-"ac": !!int "12"
-"ac_class": "16 with [mage armor](3.Mechanics/spells/mage-armor-xphb.md) and [staff\
-  \ of defense](3.Mechanics/items/staff-of-defense-pabtso.md)"
-"hp": !!int "22"
-"hit_dice": "5d8"
-"modifier": !!int "2"
-"stats":
-  - !!int "9"
-  - !!int "14"
-  - !!int "11"
-  - !!int "17"
-  - !!int "12"
-  - !!int "11"
-"speed": "30 ft."
-"saves":
-  - "intelligence": !!int "5"
-  - "wisdom": !!int "3"
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+5"
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
-    "desc": "+5"
-"senses": "passive Perception 11"
-"languages": "Common, Draconic, Dwarvish, Elvish"
-"cr": "1"
-"traits":
-  - "desc": "Glasstaff wields a [staff of defense](3.Mechanics/items/staff-of-defense-pabtso.md)\
-      \ (see appendix B). With the staff in hand, he can use an action to cast the\
-      \ [mage armor](3.Mechanics/spells/mage-armor-xphb.md) spell and use his reaction\
-      \ to cast the [shield](3.Mechanics/spells/shield-xphb.md) spell."
-    "name": "Special Equipment"
-"actions":
-  - "desc": "Glasstaff makes two Shocking Burst attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Spell Attack:* dice:1d20+5|noform|noparens|text(+5)\
-      \ to hit, reach 5 ft. or range 120 ft., one target. *Hit:* dice:1d6+3|noform|noparens|avg|text(6)\
-      \ (1d6 + 3) lightning damage."
-    "name": "Shocking Burst"
-  - "desc": "Glasstaff casts one of the following spells, requiring no material components\
-      \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\n\
-      **At will:** [light](3.Mechanics/spells/light-xphb.md), [mage hand](3.Mechanics/spells/mage-hand-xphb.md)\n\
-      \n**1/day each:** [charm person](3.Mechanics/spells/charm-person-xphb.md), [hold\
-      \ person](3.Mechanics/spells/hold-person-xphb.md), [magic missile](3.Mechanics/spells/magic-missile-xphb.md)"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "Glasstaff magically teleports, along with any equipment he is wearing\
-      \ or carrying, up to 30 feet to an unoccupied space he can see."
-    "name": "Teleport (2/Day)"
-"source":
-  - "PaBTSO"
-"image": "file://bestiary/tokens/PaBTSO/Iarno%20Glasstaff%20Albrek.webp"
+- **Armor Class** 12 (16 with [mage armor](3.Mechanics/spells/mage-armor-xphb.md) and [staff of defense](3.Mechanics/items/staff-of-defense-pabtso.md))
+- **Hit Points** 22 (5d8) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 9 | -1 | -1 |
+|Int| 17 | +3 | **+5** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 12 | +1 | **+3** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 11 | +0 | +0 |
+|Cha| 11 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Intelligence +5, Wisdom +3
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +5, [History](3.Mechanics/rules/skills.md#History) +5
+- **Senses** Passive Perception 11
+- **Languages** Common, Draconic, Dwarvish, Elvish
+- **Challenge** 1
+
+## Traits
+
+***Special Equipment.*** Glasstaff wields a [staff of defense](3.Mechanics/items/staff-of-defense-pabtso.md) (see appendix B). With the staff in hand, he can use an action to cast the [mage armor](3.Mechanics/spells/mage-armor-xphb.md) spell and use his reaction to cast the [shield](3.Mechanics/spells/shield-xphb.md) spell.
+
+## Actions
+
+***Multiattack.*** Glasstaff makes two Shocking Burst attacks.
+
+***Shocking Burst.*** *Melee  or Ranged Spell Attack:* `dice:1d20+5|noform|noparens|text(+5)` to hit, reach 5 ft. or range 120 ft., one target. *Hit:* `dice:1d6+3|noform|noparens|avg|text(6)` (`1d6 + 3`) lightning damage.
+
+***Spellcasting.*** Glasstaff casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 13):
+
+**At will:** [light](3.Mechanics/spells/light-xphb.md), [mage hand](3.Mechanics/spells/mage-hand-xphb.md)
+
+**1/day each:** [charm person](3.Mechanics/spells/charm-person-xphb.md), [hold person](3.Mechanics/spells/hold-person-xphb.md), [magic missile](3.Mechanics/spells/magic-missile-xphb.md)
+
+## Bonus Actions
+
+***Teleport (2/Day).*** Glasstaff magically teleports, along with any equipment he is wearing or carrying, up to 30 feet to an unoccupied space he can see.
 ```
 ^statblock

@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Robe of Useful Items"
 aliases:
 - "Robe of Useful Items"
 ---
 # Robe of Useful Items
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Robe%20of%20Useful%20Items.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Robe%20of%20Useful%20Items.webp#right)
 
 
 This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can take a [Magic](3.Mechanics/rules/actions.md#Magic) action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.

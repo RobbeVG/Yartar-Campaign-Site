@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/legendary
+title: "Iron Flask"
 aliases:
 - "Iron Flask"
 ---
 # Iron Flask
 *Wondrous item, legendary*  
-![](file://items/XDMG/Iron%20Flask.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Iron%20Flask.webp#right)
 
 
 While holding this brass-stoppered iron flask, you can take a [Magic](3.Mechanics/rules/actions.md#Magic) action to target a creature that you can see within 60 feet of yourself. If the flask is empty and the target is native to a plane of existence other than the one you're on, the target must succeed on a DC 17 Wisdom saving throw or be trapped in the flask. If the target has been trapped by the flask before, it has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on the save. Once trapped, a creature remains in the flask until released. The flask can hold only one creature at a time. A creature trapped in the flask doesn't age and doesn't need to breathe, eat, or drink.

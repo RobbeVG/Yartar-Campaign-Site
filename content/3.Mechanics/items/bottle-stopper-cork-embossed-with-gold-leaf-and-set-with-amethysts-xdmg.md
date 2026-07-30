@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
+title: "Bottle stopper cork embossed with gold leaf and set with amethysts"
 aliases:
 - "Bottle stopper cork embossed with gold leaf and set with amethysts"
 ---

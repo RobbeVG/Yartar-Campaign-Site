@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Noble"
 aliases:
 - "Noble"
 ---
 # Noble
 *Source: Player's Handbook (2024) p. 183*  
-![](file://backgrounds/XPHB/Noble.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/backgrounds/XPHB/Noble.webp#right)
 
 - **Ability Scores.** Strength, Intelligence, Charisma  
 - **Feat.** [Skilled](3.Mechanics/feats/skilled-xphb.md)  

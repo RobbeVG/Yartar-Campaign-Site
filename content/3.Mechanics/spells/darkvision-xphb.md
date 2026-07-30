@@ -24,6 +24,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
+title: "Darkvision"
 aliases:
 - "Darkvision"
 ---

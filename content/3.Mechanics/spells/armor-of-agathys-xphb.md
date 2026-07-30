@@ -10,12 +10,13 @@ tags:
 - ttrpg-cli/spell/school/abjuration
 classes:
 - Warlock
+title: "Armor of Agathys"
 aliases:
 - "Armor of Agathys"
 ---
 # Armor of Agathys
 *1st-level, Abjuration*  
-![](file://spells/XPHB/Armor%20of%20Agathys.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Armor%20of%20Agathys.webp#right)
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self

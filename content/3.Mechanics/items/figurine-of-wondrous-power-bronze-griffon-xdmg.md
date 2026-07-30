@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+title: "Figurine of Wondrous Power, Bronze Griffon"
 aliases:
 - "Figurine of Wondrous Power, Bronze Griffon"
 ---

@@ -10,13 +10,22 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/elemental
-statblock: inline
-statblock-link: "#^statblock"
+title: "Fire Elemental"
 aliases:
 - "Fire Elemental"
+conditionImmunities:
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [grappled](3.Mechanics/rules/conditions.md#Grappled)
+- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
+- [petrified](3.Mechanics/rules/conditions.md#Petrified)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- [prone](3.Mechanics/rules/conditions.md#Prone)
+- [restrained](3.Mechanics/rules/conditions.md#Restrained)
+- [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 ---
-# [Fire Elemental](3.Mechanics/bestiary/elemental/fire-elemental-xmm.md)
+# Fire Elemental
 *Source: Monster Manual (2024) p. 118. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Fire%20Elemental.webp#right)
 
 ## Fire Elemental
 
@@ -49,65 +58,54 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 > 
 > All the elements bow to fire. The strongest earth melts. Water boils. Even air ignites. We are all souls of flame, and we know what it is to burn.
 
+```ad-statblock
+title: Fire Elemental
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Fire%20Elemental.webp#token)
+*Large Elemental, Neutral*
 
-```statblock
-"name": "Fire Elemental (XMM)"
-"size": "Large"
-"type": "elemental"
-"alignment": "Neutral"
-"ac": !!int "13"
-"hp": !!int "93"
-"hit_dice": "11d10 + 33"
-"modifier": !!int "3"
-"stats":
-  - !!int "10"
-  - !!int "17"
-  - !!int "16"
-  - !!int "6"
-  - !!int "10"
-  - !!int "7"
-"speed": "50 ft."
-"damage_resistances": "bludgeoning, piercing, slashing"
-"damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Primordial (Ignan)"
-"cr": "5"
-"traits":
-  - "desc": "At the end of each of the elemental's turns, each creature in a 10-foot\
-      \ [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the elemental takes dice:1d10|noform|noparens|avg|text(5)\
-      \ (1d10) Fire damage. Creatures and flammable objects in the [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ start [burning](3.Mechanics/traps-hazards/burning-xphb.md)."
-    "name": "Fire Aura"
-  - "desc": "The elemental can move through a space as narrow as 1 inch without expending\
-      \ extra movement to do so, and it can enter a creature's space and stop there.\
-      \ The first time it enters a creature's space on a turn, that creature takes\
-      \ dice:1d10|noform|noparens|avg|text(5) (1d10) Fire damage."
-    "name": "Fire Form"
-  - "desc": "The elemental sheds [Bright Light](3.Mechanics/rules/variant-rules/bright-light-xphb.md)\
-      \ in a 30-foot radius and [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md)\
-      \ for an additional 30 feet."
-    "name": "Illumination"
-  - "desc": "The elemental takes dice:1d6|noform|noparens|avg|text(3) (1d6) Cold\
-      \ damage for every 5 feet the elemental moves in water or for every gallon of\
-      \ water splashed on it."
-    "name": "Water Susceptibility"
-"actions":
-  - "desc": "The elemental makes two Burn attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:2d6+3|noform|noparens|avg|text(10) (2d6 + 3) Fire damage.\
-      \ If the target is a creature or a flammable object, it starts [burning](3.Mechanics/traps-hazards/burning-xphb.md)."
-    "name": "Burn"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Fire%20Elemental.webp"
+- **Armor Class** 13 
+- **Hit Points** 93 (11d10 + 33) 
+- **Speed** 50 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10 | +0 | +0 |
+|Int| 6 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 17 | +3 | +3 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 7 | -2 | -2 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Resistances** Bludgeoning, Piercing, Slashing
+- **Damage Immunities** Fire, Poison
+- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained), [Unconscious](3.Mechanics/rules/conditions.md#Unconscious)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Primordial (Ignan)
+- **Challenge** 5
+
+## Traits
+
+***Fire Aura.*** At the end of each of the elemental's turns, each creature in a 10-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the elemental takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) Fire damage. Creatures and flammable objects in the [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) start [burning](3.Mechanics/traps-hazards/burning-xphb.md).
+
+***Fire Form.*** The elemental can move through a space as narrow as 1 inch without expending extra movement to do so, and it can enter a creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) Fire damage.
+
+***Illumination.*** The elemental sheds [Bright Light](3.Mechanics/rules/variant-rules/bright-light-xphb.md) in a 30-foot radius and [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md) for an additional 30 feet.
+
+***Water Susceptibility.*** The elemental takes `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) Cold damage for every 5 feet the elemental moves in water or for every gallon of water splashed on it.
+
+## Actions
+
+***Multiattack.*** The elemental makes two Burn attacks.
+
+***Burn.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:2d6+3|noform|noparens|avg|text(10)` (`2d6 + 3`) Fire damage. If the target is a creature or a flammable object, it starts [burning](3.Mechanics/traps-hazards/burning-xphb.md).
 ```
 ^statblock
 

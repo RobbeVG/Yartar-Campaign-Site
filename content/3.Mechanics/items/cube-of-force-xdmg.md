@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+title: "Cube of Force"
 aliases:
 - "Cube of Force"
 ---
 # Cube of Force
 *Wondrous item, rare (requires attunement)*  
-![](file://items/XDMG/Cube%20of%20Force.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Cube%20of%20Force.webp#right)
 
 
 This cube is about an inch across. Each face has a distinct marking on it. You can press one of those faces, expend the number of charges required for it, and thereby cast the spell associated with it (save DC 17), as shown in the Cube of Force Faces table.

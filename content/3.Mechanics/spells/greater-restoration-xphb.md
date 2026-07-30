@@ -25,6 +25,7 @@ classes:
 - Ranger
 - Sorcerer (Clockwork Sorcery)
 - Warlock (Celestial Patron)
+title: "Greater Restoration"
 aliases:
 - "Greater Restoration"
 ---

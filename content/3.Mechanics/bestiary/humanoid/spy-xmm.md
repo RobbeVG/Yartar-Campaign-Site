@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Spy"
 aliases:
 - "Spy"
 ---
-# [Spy](3.Mechanics/bestiary/humanoid/spy-xmm.md)
+# Spy
 *Source: Monster Manual (2024) p. 295. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Spies.webp#right)
 
 Spies use charm and deception to veil their true intentions. If forced into combat, they seek to end such conflicts quietly and decisively.
 
@@ -39,59 +39,46 @@ Spies gather information and disseminate lies, manipulating people to gain the r
 | 4 | A visitor from a different time or world. |
 ^spy-personas
 
-```statblock
-"name": "Spy (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "12"
-"hp": !!int "27"
-"hit_dice": "6d8"
-"modifier": !!int "4"
-"stats":
-  - !!int "10"
-  - !!int "15"
-  - !!int "10"
-  - !!int "12"
-  - !!int "14"
-  - !!int "16"
-"speed": "30 ft., climb 30 ft."
-"skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
-    "desc": "+5"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
-    "desc": "+4"
-  - "name": "[Investigation](3.Mechanics/rules/skills.md#Investigation)"
-    "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+6"
-  - "name": "[Sleight of Hand](3.Mechanics/rules/skills.md#Sleight%20of%20Hand)"
-    "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+6"
-"gear":
-  - "[hand crossbow](3.Mechanics/items/hand-crossbow-xphb.md)"
-  - "[shortsword](3.Mechanics/items/shortsword-xphb.md)"
-  - "[thieves' tools](3.Mechanics/items/thieves-tools-xphb.md)"
-"senses": "passive Perception 16"
-"languages": "Common plus one other language"
-"cr": "1"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5) (1d6 + 2) Piercing damage\
-      \ plus dice:2d6|noform|noparens|avg|text(7) (2d6) Poison damage."
-    "name": "Shortsword"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+4|noform|noparens|text(+4), range 30/120\
-      \ ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5) (1d6 + 2) Piercing damage\
-      \ plus dice:2d6|noform|noparens|avg|text(7) (2d6) Poison damage."
-    "name": "Hand Crossbow"
-"bonus_actions":
-  - "desc": "The spy takes the [Dash](3.Mechanics/rules/actions.md#Dash), [Disengage](3.Mechanics/rules/actions.md#Disengage),\
-      \ or [Hide](3.Mechanics/rules/actions.md#Hide) action."
-    "name": "Cunning Action"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Spy.webp"
+```ad-statblock
+title: Spy
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Spy.webp#token)
+*Small or Medium Humanoid, Neutral*
+
+- **Armor Class** 12 
+- **Hit Points** 27 (6d8) 
+- **Speed** 30 ft., climb 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10 | +0 | +0 |
+|Int| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15 | +2 | +2 |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 10 | +0 | +0 |
+|Cha| 16 | +3 | +3 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +5, [Insight](3.Mechanics/rules/skills.md#Insight) +4, [Investigation](3.Mechanics/rules/skills.md#Investigation) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Sleight of Hand](3.Mechanics/rules/skills.md#Sleight%20of%20Hand) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
+- **Gear** [hand crossbow](3.Mechanics/items/hand-crossbow-xphb.md), [shortsword](3.Mechanics/items/shortsword-xphb.md), [thieves' tools](3.Mechanics/items/thieves-tools-xphb.md)
+- **Senses** Passive Perception 16
+- **Languages** Common plus one other language
+- **Challenge** 1
+
+## Actions
+
+***Shortsword.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Piercing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Poison damage.
+
+***Hand Crossbow.*** *Ranged Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, range 30/120 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Piercing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Poison damage.
+
+## Bonus Actions
+
+***Cunning Action.*** The spy takes the [Dash](3.Mechanics/rules/actions.md#Dash), [Disengage](3.Mechanics/rules/actions.md#Disengage), or [Hide](3.Mechanics/rules/actions.md#Hide) action.
 ```
 ^statblock
 

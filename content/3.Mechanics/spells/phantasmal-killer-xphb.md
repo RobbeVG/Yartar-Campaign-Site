@@ -17,6 +17,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Illusionist)
+title: "Phantasmal Killer"
 aliases:
 - "Phantasmal Killer"
 ---

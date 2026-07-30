@@ -10,7 +10,7 @@ aliases:
 # Chapter 4: Creating Adventures
 *Source: Dungeon Master's Guide (2024), p. 105* 
 
-![A mysterious carriage brings the vampire Strahd von Zarovich out from Castle Ravenloft](file://book/XDMG/049-03-001.mysterious-carraige.webp#center)
+![A mysterious carriage brings the vampire Strahd von Zarovich out from Castle Ravenloft](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XDMG/049-03-001.mysterious-carraige.webp#center)
 
 Whether you're creating your own adventures or using published ones, this chapter helps you create fun and memorable experiences for your players.
 
@@ -85,7 +85,7 @@ At this tier, characters undertake adventures that might determine the fate of a
 
 #### Levels 11–16: Masters of the Realm
 
-![The death of an ancient dragon can shake the foundations of the world](file://book/XDMG/050-03-002.death-of-a-dragon.webp#center)
+![The death of an ancient dragon can shake the foundations of the world](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XDMG/050-03-002.death-of-a-dragon.webp#center)
 
 The fate of a nation or even the world depends on the characters at this tier. These adventurers explore uncharted regions and delve into forgotten dungeons, where the characters confront terrible schemers of the Lower Planes, cunning rakshasas and beholders, and hungry purple worms. They might encounter and even defeat a powerful adult dragon. At this tier, they broker peace between nations or lead them into war, and their formidable reputations attract the attention of powerful foes.
 
@@ -132,7 +132,7 @@ An inhabited adventure location has its own ecosystem. The creatures that live t
 
 For example, characters who find a pool of fresh water in a dungeon might infer that many of the creatures inhabiting the dungeon come to that spot to drink. The adventurers might set an ambush at the pool. Likewise, closed or locked doors can restrict the movement of some creatures. A dungeon infested with carrion crawlers or stirges would need open passages so that these creatures can move about to find food.
 
-![Common Map Symbols](file://book/XDMG/051-03-003.common-map-symbols.webp#center)
+![Common Map Symbols](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XDMG/051-03-003.common-map-symbols.webp#center)
 
 #### Adventure Inhabitants
 
@@ -172,7 +172,7 @@ The Patron Hooks table offers some suggestions for ways a patron can lead charac
 
 ![Adventure Patrons; Patron Hooks](3.Mechanics/tables/adventure-patrons-patron-hooks-xdmg.md)
 
-![When rival factions inhabit a ruined dungeon, sometimes the best course is to stay out of the way!](file://book/XDMG/052-03-004.rival-factions.webp#center)
+![When rival factions inhabit a ruined dungeon, sometimes the best course is to stay out of the way!](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XDMG/052-03-004.rival-factions.webp#center)
 
 ### Supernatural Hooks
 
@@ -226,7 +226,7 @@ The plots of evil cult leaders, malevolent spellcasters, and Fiends often involv
 
 A villain the characters seek to defeat is surrounded by minions powerful enough to kill the adventurers. The characters can flee and hope to confront the villain another day, or they can try to fight their way through the minions. As a complication, the minions might be innocent creatures under the villain's control. Killing the villain means breaking that control, but the adventurers must endure the minions' attacks until the villain falls.
 
-![Goblin raiders prepare an ambush in a gorge](file://book/XDMG/053-03-005.goblin-raiders.webp#center)
+![Goblin raiders prepare an ambush in a gorge](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XDMG/053-03-005.goblin-raiders.webp#center)
 
 ### Keeping the Adventure Moving
 
@@ -260,7 +260,7 @@ The ""Running Exploration"" section in "chapter 2" can help you craft these enco
 
 ### Combat Encounters
 
-![Otto's conversation with a magic mirror is an exciting social interaction encounter](file://book/XDMG/054-03-006.magic-mirror.webp#center)
+![Otto's conversation with a magic mirror is an exciting social interaction encounter](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XDMG/054-03-006.magic-mirror.webp#center)
 
 The following features can make a combat encounter more interesting or challenging:
 
@@ -315,7 +315,7 @@ When creating and running combat encounters, keep the following in mind.
 
 The more creatures in an encounter, the higher the risk that a lucky streak on their part could deal more damage to the characters than you expect. If your encounter includes more than two creatures per character, include fragile creatures that can be defeated quickly. This guideline is especially important for characters of level 1 or 2.
 
-![](file://book/XDMG/055-03-007.skeleton.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XDMG/055-03-007.skeleton.webp#center)
 
 ##### Adjustments
 
@@ -341,7 +341,7 @@ If a monster has a feature that lower-level characters can't easily overcome, co
 
 The attitudes, motivations, and behavior of the monsters in an encounter help determine how a social interaction plays out (and whether it might erupt into combat) and influence the course of combat.
 
-![Kobolds build a barricade to keep adventurers at bay](file://book/XDMG/056-03-008.kobold-hold.webp#center)
+![Kobolds build a barricade to keep adventurers at bay](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XDMG/056-03-008.kobold-hold.webp#center)
 
 #### Initial Attitudes
 
@@ -414,7 +414,7 @@ It is possible to dial up the urgency to the point that the players feel they do
 
 #### Random Encounters
 
-![Mysterious lights glimmer in a remote mountain lake, drawing adventurers to explore](file://book/XDMG/057-03-009.glimmering-lake.webp#center)
+![Mysterious lights glimmer in a remote mountain lake, drawing adventurers to explore](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XDMG/057-03-009.glimmering-lake.webp#center)
 
 Random encounters are randomly determined encounters that don't occur in a fixed location. The options are often presented in a table. When a random encounter occurs, you roll a die and consult the table to determine what the party encounters. Sample random encounter tables appear in the adventure examples later in this chapter. Similar tables appear in many published adventures and rulebooks, and you can easily create your own by following these examples.
 
@@ -482,7 +482,7 @@ As a rough benchmark, aim to roll on the Random Treasure Hoard table about once 
 
 ![Treasure Hoards; Random Treasure Hoard](3.Mechanics/tables/treasure-hoards-random-treasure-hoard-xdmg.md)
 
-![A climactic battle at the Temple of Elemental Evil brings an adventure to a dramatic end](file://book/XDMG/058-03-010.temple-of-elemental-evil.webp#center)
+![A climactic battle at the Temple of Elemental Evil brings an adventure to a dramatic end](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XDMG/058-03-010.temple-of-elemental-evil.webp#center)
 
 ### Quest Rewards
 
@@ -654,7 +654,7 @@ The Horns of the Beast can be destroyed only by dropping it in the "River Oceanu
 
 *Adventure for Level 7 Characters*
 
-![Minsc, Boo, and Delina navigate the intrigues of the Boreal Ball](file://book/XDMG/059-03-011.boreal-ball.webp#center)
+![Minsc, Boo, and Delina navigate the intrigues of the Boreal Ball](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XDMG/059-03-011.boreal-ball.webp#center)
 
 - **Situation.** The Baron of the Boreal Ball, a minor noble of the Feywild, holds an unending ball in his ice palace. Behind the revelry, the ball is the scene for schemes and intrigues.  
 - **Hook.** The adventurers receive a magical invitation to the Boreal Ball that teleports the group to the ball at the appointed time.  

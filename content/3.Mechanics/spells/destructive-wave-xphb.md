@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/school/evocation
 classes:
 - Paladin
+title: "Destructive Wave"
 aliases:
 - "Destructive Wave"
 ---

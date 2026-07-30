@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Sylvan Talon"
 aliases:
 - "Sylvan Talon"
 - "Sylvan Talon Dagger"
@@ -21,7 +22,7 @@ aliases:
 ---
 # Sylvan Talon
 *Common (requires attunement)*  
-![Sylvan Talon (Scimitar)](file://items/XDMG/Sylvan%20Talon.webp#right)
+![Sylvan Talon (Scimitar)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Sylvan%20Talon.webp#right)
 
 
 While this weapon is on your person, you understand the non-written communication of all Fey, and they understand yours.

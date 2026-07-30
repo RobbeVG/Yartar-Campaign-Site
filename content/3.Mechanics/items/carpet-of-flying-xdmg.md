@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
+title: "Carpet of Flying"
 aliases:
 - "Carpet of Flying"
 ---
 # Carpet of Flying
 *Wondrous item, very rare*  
-![](file://items/XDMG/Carpet%20of%20Flying.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Carpet%20of%20Flying.webp#right)
 
 
 You can make this carpet hover and fly by taking a [Magic](3.Mechanics/rules/actions.md#Magic) action and using the carpet's command word. It moves according to your directions if you are within 30 feet of it.

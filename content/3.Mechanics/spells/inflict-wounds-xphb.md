@@ -15,6 +15,7 @@ classes:
 - Bard
 - Bard (College of Lore)
 - Cleric
+title: "Inflict Wounds"
 aliases:
 - "Inflict Wounds"
 ---

@@ -17,6 +17,7 @@ classes:
 - Druid
 - Wizard
 - Wizard (Abjurer)
+title: "Symbol"
 aliases:
 - "Symbol"
 ---

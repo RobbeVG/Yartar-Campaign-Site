@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Merchant"
 aliases:
 - "Merchant"
 ---
 # Merchant
 *Source: Player's Handbook (2024) p. 182*  
-![](file://backgrounds/XPHB/Merchant.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/backgrounds/XPHB/Merchant.webp#right)
 
 - **Ability Scores.** Constitution, Intelligence, Charisma  
 - **Feat.** [Lucky](3.Mechanics/feats/lucky-xphb.md)  

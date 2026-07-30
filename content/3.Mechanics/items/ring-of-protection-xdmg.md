@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/ring
+title: "Ring of Protection"
 aliases:
 - "Ring of Protection"
 ---
 # Ring of Protection
 *Ring, rare (requires attunement)*  
-![](file://items/XDMG/Ring%20of%20Protection.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ring%20of%20Protection.webp#right)
 
 
 You gain a +1 bonus to [Armor Class](3.Mechanics/rules/variant-rules/armor-class-xphb.md) and saving throws while wearing this ring.

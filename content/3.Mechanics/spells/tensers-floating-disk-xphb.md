@@ -21,12 +21,13 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
+title: "Tenser's Floating Disk"
 aliases:
 - "Tenser's Floating Disk"
 ---
 # Tenser's Floating Disk
 *1st-level, Conjuration (ritual)*  
-![](file://spells/XPHB/Tenser%27s%20Floating%20Disk.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Tenser%27s%20Floating%20Disk.webp#right)
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 30 feet

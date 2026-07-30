@@ -12,6 +12,7 @@ tags:
 - ttrpg-cli/spell/school/evocation
 classes:
 - Sorcerer
+title: "Sorcerous Burst"
 aliases:
 - "Sorcerous Burst"
 ---

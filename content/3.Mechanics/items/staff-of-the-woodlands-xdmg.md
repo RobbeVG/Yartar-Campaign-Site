@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Staff of the Woodlands"
 aliases:
 - "Staff of the Woodlands"
 ---
 # Staff of the Woodlands
 *Staff, weapon, rare (requires attunement by a druid)*  
-![](file://items/XDMG/Staff%20of%20the%20Woodlands.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Staff%20of%20the%20Woodlands.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

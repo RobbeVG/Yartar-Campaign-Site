@@ -23,6 +23,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Illusionist)
+title: "Color Spray"
 aliases:
 - "Color Spray"
 ---

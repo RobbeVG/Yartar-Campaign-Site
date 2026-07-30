@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/ranger/beast-master
+title: "Beast Master"
 aliases:
 - "Beast Master"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Beast%20Master%20Ranger.webp#right)
 
 *Bond with a Primal Beast*
 

@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Boots of Elvenkind"
 aliases:
 - "Boots of Elvenkind"
 ---
 # Boots of Elvenkind
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Boots%20of%20Elvenkind.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Boots%20of%20Elvenkind.webp#right)
 
 
 While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on Dexterity ([Stealth](3.Mechanics/rules/skills.md#Stealth)) checks.

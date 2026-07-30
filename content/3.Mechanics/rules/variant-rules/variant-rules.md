@@ -49,7 +49,6 @@ cssclasses:
 - [Darkness](./darkness-xphb.md)
 - [Dead](./dead-xphb.md)
 - [Death Saving Throw](./death-saving-throw-xphb.md)
-- [Death Saving Throws](./death-saving-throws-xscreen.md)
 - [Diagonal Movement](./diagonal-movement-xdmg.md)
 - [Difficult Terrain](./difficult-terrain-xphb.md)
 - [Difficulty Class](./difficulty-class-xphb.md)

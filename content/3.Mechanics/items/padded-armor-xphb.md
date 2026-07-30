@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/armor/light
 - ttrpg-cli/item/rarity/none
+title: "Padded Armor"
 aliases:
 - "Padded Armor"
 ---
 # Padded Armor
 *Light armor*  
-![](file://items/XPHB/Padded%20Armor.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Padded%20Armor.webp#right)
 
 - **Armor Class**: 11 + Dex modifier
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

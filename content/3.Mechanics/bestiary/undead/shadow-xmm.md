@@ -11,13 +11,23 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
-statblock: inline
-statblock-link: "#^statblock"
+title: "Shadow"
 aliases:
 - "Shadow"
+conditionImmunities:
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- [grappled](3.Mechanics/rules/conditions.md#Grappled)
+- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
+- [petrified](3.Mechanics/rules/conditions.md#Petrified)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- [prone](3.Mechanics/rules/conditions.md#Prone)
+- [restrained](3.Mechanics/rules/conditions.md#Restrained)
+- [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 ---
-# [Shadow](3.Mechanics/bestiary/undead/shadow-xmm.md)
+# Shadow
 *Source: Monster Manual (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Shadow.webp#right)
 
 ## Shadow
 
@@ -45,62 +55,53 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
 | 5 | Its target, acting in eerie pantomime. |
 | 6 | An ominous priest that haunts a defiled site. |
 ^shadow-shapes
+```ad-statblock
+title: Shadow
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Shadow.webp#token)
+*Medium Undead, Chaotic Evil*
 
-```statblock
-"name": "Shadow (XMM)"
-"size": "Medium"
-"type": "undead"
-"alignment": "Chaotic Evil"
-"ac": !!int "12"
-"hp": !!int "27"
-"hit_dice": "5d8 + 5"
-"modifier": !!int "2"
-"stats":
-  - !!int "6"
-  - !!int "14"
-  - !!int "13"
-  - !!int "6"
-  - !!int "10"
-  - !!int "8"
-"speed": "40 ft."
-"skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+6"
-"damage_vulnerabilities": "radiant"
-"damage_resistances": "acid, cold, fire, lightning, thunder"
-"damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone),\
-  \ [restrained](3.Mechanics/rules/conditions.md#Restrained), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": ""
-"cr": "1/2"
-"traits":
-  - "desc": "The shadow can move through a space as narrow as 1 inch without expending\
-      \ extra movement to do so."
-    "name": "Amorphous"
-  - "desc": "While in sunlight, the shadow has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
-      \ on [D20 Tests](3.Mechanics/rules/variant-rules/d20-test-xphb.md)."
-    "name": "Sunlight Weakness"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5) (1d6 + 2) Necrotic damage,\
-      \ and the target's Strength score decreases by dice:1d4|noform|noparens|avg\
-      \ (1d4). The target dies if this reduces that score to 0. If a Humanoid is\
-      \ slain by this attack, a Shadow rises from the corpse dice:1d4|noform|noparens|avg\
-      \ (1d4) hours later."
-    "name": "Draining Swipe"
-"bonus_actions":
-  - "desc": "While in [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md), the shadow\
-      \ takes the [Hide](3.Mechanics/rules/actions.md#Hide) action."
-    "name": "Shadow Stealth"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Shadow.webp"
+- **Armor Class** 12 
+- **Hit Points** 27 (5d8 + 5) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 6 | -2 | -2 |
+|Int| 6 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 13 | +1 | +1 |
+|Cha| 8 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
+- **Damage Vulnerabilities** Radiant
+- **Damage Resistances** Acid, Cold, Fire, Lightning, Thunder
+- **Damage Immunities** Necrotic, Poison
+- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained), [Unconscious](3.Mechanics/rules/conditions.md#Unconscious)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** —
+- **Challenge** 1/2
+
+## Traits
+
+***Amorphous.*** The shadow can move through a space as narrow as 1 inch without expending extra movement to do so.
+
+***Sunlight Weakness.*** While in sunlight, the shadow has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on [D20 Tests](3.Mechanics/rules/variant-rules/d20-test-xphb.md).
+
+## Actions
+
+***Draining Swipe.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Necrotic damage, and the target's Strength score decreases by `dice:1d4|noform|noparens|avg` (`1d4`). The target dies if this reduces that score to 0. If a Humanoid is slain by this attack, a Shadow rises from the corpse `dice:1d4|noform|noparens|avg` (`1d4`) hours later.
+
+## Bonus Actions
+
+***Shadow Stealth.*** While in [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md) or [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md), the shadow takes the [Hide](3.Mechanics/rules/actions.md#Hide) action.
 ```
 ^statblock
 

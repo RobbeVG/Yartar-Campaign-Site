@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Driftglobe"
 aliases:
 - "Driftglobe"
 ---
 # Driftglobe
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Driftglobe.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Driftglobe.webp#right)
 
 - **Weight**: 1.0 lbs.
 

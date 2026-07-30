@@ -19,12 +19,13 @@ classes:
 - Rogue (Arcane Trickster)
 - Warlock
 - Wizard
+title: "Summon Undead"
 aliases:
 - "Summon Undead"
 ---
 # Summon Undead
 *3rd-level, Necromancy*  
-![](file://spells/XPHB/Summon%20Undead.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Summon%20Undead.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

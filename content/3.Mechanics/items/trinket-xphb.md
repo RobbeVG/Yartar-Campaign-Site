@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
+title: "Trinket"
 aliases:
 - "Trinket"
 ---
 # Trinket
 *Adventuring gear*  
-![](file://items/XPHB/Trinkets%201.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Trinkets%201.webp#right)
 
 
 When you make your character, you can roll once on the Trinkets table to gain a Tiny trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
@@ -124,7 +125,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 00 | A metal urn containing the ashes of a hero |
 ^trinkets
 
-![](file://items/XPHB/Trinkets%202.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Trinkets%202.webp#center)
 
 
 *Source: Player's Handbook (2024) p. 47. Available in the Free Rules (2024)*

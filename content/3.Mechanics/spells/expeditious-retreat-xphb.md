@@ -22,6 +22,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Expeditious Retreat"
 aliases:
 - "Expeditious Retreat"
 ---

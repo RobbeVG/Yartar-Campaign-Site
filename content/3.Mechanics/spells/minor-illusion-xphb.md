@@ -29,6 +29,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
+title: "Minor Illusion"
 aliases:
 - "Minor Illusion"
 ---

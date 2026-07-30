@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Noble"
 aliases:
 - "Noble"
 ---
-# [Noble](3.Mechanics/bestiary/humanoid/noble-xmm.md)
+# Noble
 *Source: Monster Manual (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Nobles.webp#right)
 
 A noble's social advantages typically grant the noble access to greater education and training than most common folk, while nobles' experience with business or politics makes many adept negotiators.
 
@@ -27,48 +27,44 @@ A noble's social advantages typically grant the noble access to greater educatio
 
 Nobles encompass a variety of people with social influence. They might be rulers, wealthy merchants, callous bureaucrats, or the idle elite.
 
-```statblock
-"name": "Noble (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "15"
-"hp": !!int "9"
-"hit_dice": "2d8"
-"modifier": !!int "1"
-"stats":
-  - !!int "11"
-  - !!int "12"
-  - !!int "11"
-  - !!int "12"
-  - !!int "14"
-  - !!int "16"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
-    "desc": "+5"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
-    "desc": "+4"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
-    "desc": "+5"
-"gear":
-  - "[breastplate](3.Mechanics/items/breastplate-xphb.md)"
-  - "[rapier](3.Mechanics/items/rapier-xphb.md)"
-"senses": "passive Perception 12"
-"languages": "Common plus two other languages"
-"cr": "1/8"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+3|noform|noparens|text(+3), reach 5\
-      \ ft. *Hit:* dice:1d8+1|noform|noparens|avg|text(5) (1d8 + 1) Piercing damage."
-    "name": "Rapier"
-"reactions":
-  - "desc": "Trigger: The noble is hit by a melee attack roll while holding a weapon.\
-      \ _Response:_ The noble adds 2 to its AC against that attack, possibly causing\
-      \ it to miss."
-    "name": "Parry"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Noble.webp"
+```ad-statblock
+title: Noble
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Noble.webp#token)
+*Small or Medium Humanoid, Neutral*
+
+- **Armor Class** 15 
+- **Hit Points** 9 (2d8) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 11 | +0 | +0 |
+|Int| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 11 | +0 | +0 |
+|Cha| 16 | +3 | +3 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +5, [Insight](3.Mechanics/rules/skills.md#Insight) +4, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +5
+- **Gear** [breastplate](3.Mechanics/items/breastplate-xphb.md), [rapier](3.Mechanics/items/rapier-xphb.md)
+- **Senses** Passive Perception 12
+- **Languages** Common plus two other languages
+- **Challenge** 1/8
+
+## Actions
+
+***Rapier.*** *Melee Attack Roll:* `dice:1d20+3|noform|noparens|text(+3)`, reach 5 ft. *Hit:* `dice:1d8+1|noform|noparens|avg|text(5)` (`1d8 + 1`) Piercing damage.
+
+## Reactions
+
+***Parry.*** Trigger: The noble is hit by a melee attack roll while holding a weapon. _Response:_ The noble adds 2 to its AC against that attack, possibly causing it to miss.
 ```
 ^statblock
 

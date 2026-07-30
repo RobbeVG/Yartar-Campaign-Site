@@ -19,6 +19,7 @@ classes:
 - Warlock (Archfey Patron)
 - Wizard
 - Wizard (Illusionist)
+title: "Seeming"
 aliases:
 - "Seeming"
 ---

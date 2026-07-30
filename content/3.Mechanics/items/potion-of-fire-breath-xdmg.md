@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/potion
+title: "Potion of Fire Breath"
 aliases:
 - "Potion of Fire Breath"
 ---
 # Potion of Fire Breath
 *Potion, uncommon*  
-![](file://items/XDMG/Potion%20of%20Fire%20Breath.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Potion%20of%20Fire%20Breath.webp#right)
 
 - **Weight**: 0.5 lbs.
 

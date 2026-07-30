@@ -14,6 +14,7 @@ classes:
 - Bard
 - Bard (College of Lore)
 - Cleric
+title: "Sanctuary"
 aliases:
 - "Sanctuary"
 ---

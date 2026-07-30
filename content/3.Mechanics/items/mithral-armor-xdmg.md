@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Mithral Armor"
 aliases:
 - "Mithral Armor"
 - "Mithral Breastplate"

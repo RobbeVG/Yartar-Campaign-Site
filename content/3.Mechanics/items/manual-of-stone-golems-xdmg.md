@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
+title: "Manual of Stone Golems"
 aliases:
 - "Manual of Stone Golems"
 ---
 # Manual of Stone Golems
 *Wondrous item, very rare*  
-![](file://items/XDMG/Manual%20of%20Stone%20Golems.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Manual%20of%20Stone%20Golems.webp#right)
 
 - **Weight**: 5.0 lbs.
 

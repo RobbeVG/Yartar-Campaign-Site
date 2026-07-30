@@ -19,6 +19,7 @@ classes:
 - Sorcerer (Aberrant Sorcery)
 - Warlock (Great Old One Patron)
 - Wizard
+title: "Telekinesis"
 aliases:
 - "Telekinesis"
 ---

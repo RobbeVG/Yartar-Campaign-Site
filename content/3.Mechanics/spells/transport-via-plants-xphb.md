@@ -11,12 +11,13 @@ tags:
 classes:
 - Bard
 - Druid
+title: "Transport via Plants"
 aliases:
 - "Transport via Plants"
 ---
 # Transport via Plants
 *6th-level, Conjuration*  
-![](file://spells/XPHB/Transport%20via%20Plants.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Transport%20via%20Plants.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 10 feet

@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Keoghtom's Ointment"
 aliases:
 - "Keoghtom's Ointment"
 ---
 # Keoghtom's Ointment
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Keoghtoms%20Ointment.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Keoghtoms%20Ointment.webp#right)
 
 
 This glass jar, 3 inches in diameter, contains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound.

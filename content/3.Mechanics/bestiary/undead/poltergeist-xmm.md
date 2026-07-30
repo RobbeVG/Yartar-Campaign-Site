@@ -9,13 +9,23 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/undead
-statblock: inline
-statblock-link: "#^statblock"
+title: "Poltergeist"
 aliases:
 - "Poltergeist"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [grappled](3.Mechanics/rules/conditions.md#Grappled)
+- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
+- [petrified](3.Mechanics/rules/conditions.md#Petrified)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- [prone](3.Mechanics/rules/conditions.md#Prone)
+- [restrained](3.Mechanics/rules/conditions.md#Restrained)
+- [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 ---
-# [Poltergeist](3.Mechanics/bestiary/undead/poltergeist-xmm.md)
+# Poltergeist
 *Source: Monster Manual (2024) p. 246*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Poltergeist.webp#right)
 
 ## Poltergeist
 
@@ -43,61 +53,54 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
 | 7 | Sticks knives or weapons in the ceiling. |
 | 8 | Uncannily stacks books, furniture, or utensils. |
 ^poltergeist-activities
+```ad-statblock
+title: Poltergeist
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Poltergeist.webp#token)
+*Small or Medium Undead, Chaotic Neutral*
 
-```statblock
-"name": "Poltergeist (XMM)"
-"size": "Small or Medium"
-"type": "undead"
-"alignment": "Chaotic Neutral"
-"ac": !!int "12"
-"hp": !!int "22"
-"hit_dice": "5d8"
-"modifier": !!int "2"
-"stats":
-  - !!int "1"
-  - !!int "14"
-  - !!int "11"
-  - !!int "10"
-  - !!int "10"
-  - !!int "14"
-"speed": "5 ft., fly 50 ft. (hover)"
-"damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
-  \ thunder"
-"damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Common plus one other language"
-"cr": "2"
-"traits":
-  - "desc": "The poltergeist can move through other creatures and objects as if they\
-      \ were [Difficult Terrain](3.Mechanics/rules/variant-rules/difficult-terrain-xphb.md).\
-      \ It takes dice:1d10|noform|noparens|avg|text(5) (1d10) Force damage if\
-      \ it ends its turn inside an object."
-    "name": "Incorporeal Movement"
-"actions":
-  - "desc": "The poltergeist makes one Object Slam attack and uses Telekinetic Thrust."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+4|noform|noparens|text(+4),\
-      \ reach 5 ft. or range 30 ft. *Hit:* dice:2d4+2|noform|noparens|avg|text(7)\
-      \ (2d4 + 2) Bludgeoning damage."
-    "name": "Object Slam"
-  - "desc": "*Strength Saving Throw:* DC 12, one creature the poltergeist can see\
-      \ within 30 feet. *Failure:* dice:2d6+2|noform|noparens|avg|text(9) (2d6\
-      \ + 2) Force damage, and the target is pushed up to 30 feet straight away from\
-      \ the poltergeist."
-    "name": "Telekinetic Thrust"
-"bonus_actions":
-  - "desc": "The poltergeist gives itself the [Invisible](3.Mechanics/rules/conditions.md#Invisible)\
-      \ condition or ends that condition on itself."
-    "name": "Vanish"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Poltergeist.webp"
+- **Armor Class** 12 
+- **Hit Points** 22 (5d8) 
+- **Speed** 5 ft., fly 50 ft. (hover)
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 1 | -5 | -5 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 11 | +0 | +0 |
+|Cha| 14 | +2 | +2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Resistances** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
+- **Damage Immunities** Necrotic, Poison
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained), [Unconscious](3.Mechanics/rules/conditions.md#Unconscious)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Common plus one other language
+- **Challenge** 2
+
+## Traits
+
+***Incorporeal Movement.*** The poltergeist can move through other creatures and objects as if they were [Difficult Terrain](3.Mechanics/rules/variant-rules/difficult-terrain-xphb.md). It takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) Force damage if it ends its turn inside an object.
+
+## Actions
+
+***Multiattack.*** The poltergeist makes one Object Slam attack and uses Telekinetic Thrust.
+
+***Object Slam.*** *Melee  or Ranged Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. or range 30 ft. *Hit:* `dice:2d4+2|noform|noparens|avg|text(7)` (`2d4 + 2`) Bludgeoning damage.
+
+***Telekinetic Thrust.*** *Strength Saving Throw:* DC 12, one creature the poltergeist can see within 30 feet. *Failure:* `dice:2d6+2|noform|noparens|avg|text(9)` (`2d6 + 2`) Force damage, and the target is pushed up to 30 feet straight away from the poltergeist.
+
+## Bonus Actions
+
+***Vanish.*** The poltergeist gives itself the [Invisible](3.Mechanics/rules/conditions.md#Invisible) condition or ends that condition on itself.
 ```
 ^statblock
 

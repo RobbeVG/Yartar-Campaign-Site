@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+title: "Figurine of Wondrous Power, Marble Elephant"
 aliases:
 - "Figurine of Wondrous Power, Marble Elephant"
 ---
 # Figurine of Wondrous Power, Marble Elephant
 *Wondrous item, rare*  
-![](file://items/XDMG/Figurine%20of%20Wondrous%20Power%20%28Marble%20Elephant%29.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Figurine%20of%20Wondrous%20Power%20%28Marble%20Elephant%29.webp#right)
 
 
 A [Figurine of Wondrous Power](3.Mechanics/items/figurine-of-wondrous-power-xdmg.md) is a statuette small enough to fit in a pocket. If you take a [Magic](3.Mechanics/rules/actions.md#Magic) action to throw the figurine to a point on the ground within 60 feet of yourself, the figurine becomes a living creature specified in the figurine's description below. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.

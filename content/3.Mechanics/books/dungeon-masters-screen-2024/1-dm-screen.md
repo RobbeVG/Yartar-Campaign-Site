@@ -12,7 +12,7 @@ aliases:
 
 ## Cover
 
-![](file://book/XScreen/XScreen%20Front.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XScreen/XScreen%20Front.webp#center)
 
 ## Conditions
 

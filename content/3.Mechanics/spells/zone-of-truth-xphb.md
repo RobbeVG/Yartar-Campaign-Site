@@ -17,6 +17,7 @@ classes:
 - Cleric
 - Paladin
 - Paladin (Oath of Devotion)
+title: "Zone of Truth"
 aliases:
 - "Zone of Truth"
 ---

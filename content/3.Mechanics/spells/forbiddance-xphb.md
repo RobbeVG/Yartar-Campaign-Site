@@ -12,6 +12,7 @@ tags:
 classes:
 - Bard
 - Cleric
+title: "Forbiddance"
 aliases:
 - "Forbiddance"
 ---

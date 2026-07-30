@@ -17,6 +17,7 @@ classes:
 - Ranger
 - Sorcerer
 - Warlock (Archfey Patron)
+title: "Dominate Beast"
 aliases:
 - "Dominate Beast"
 ---

@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/rod
+title: "Rod of Rulership"
 aliases:
 - "Rod of Rulership"
 ---
 # Rod of Rulership
 *Rod, rare (requires attunement)*  
-![](file://items/XDMG/Rod%20of%20Rulership.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Rod%20of%20Rulership.webp#right)
 
 - **Weight**: 2.0 lbs.
 

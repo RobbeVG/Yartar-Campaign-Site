@@ -19,6 +19,7 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Druid (Circle of the Moon)
+title: "Starry Wisp"
 aliases:
 - "Starry Wisp"
 ---

@@ -8,13 +8,18 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/undead
-statblock: inline
-statblock-link: "#^statblock"
+title: "Bone Naga"
 aliases:
 - "Bone Naga"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Bone Naga](3.Mechanics/bestiary/undead/bone-naga-xmm.md)
+# Bone Naga
 *Source: Monster Manual (2024) p. 53*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Bone%20Naga.webp#right)
 
 ## Bone Naga
 
@@ -28,53 +33,51 @@ Nagas are immortal but not invincible, and powerful magic can end their lives. B
 Bone nagas typically obey those who resurrected them, serving their creators as tireless guards and sharing the lore they collected in life. Undeath disrupts the perfect memory bone nagas enjoyed while alive, leaving them with gaps in their memories or details scrambled into puzzle-like jumbles.
 
 In rare cases, bone nagas continue to pursue the goals they had while alive instead of serving other creatures. Most free-willed bone nagas are evil beings raised from spirit naga remains, but in unusual instances, bone nagas created from guardian nagas continue good, albeit confused, existences.
+```ad-statblock
+title: Bone Naga
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bone%20Naga.webp#token)
+*Large Undead, Neutral Evil*
 
-```statblock
-"name": "Bone Naga (XMM)"
-"size": "Large"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "15"
-"hp": !!int "65"
-"hit_dice": "10d10 + 10"
-"modifier": !!int "3"
-"stats":
-  - !!int "15"
-  - !!int "16"
-  - !!int "12"
-  - !!int "16"
-  - !!int "15"
-  - !!int "15"
-"speed": "40 ft."
-"damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
-"languages": "Common plus one other language"
-"cr": "4"
-"actions":
-  - "desc": "The naga makes two Bite attacks. It can replace any attack with a use\
-      \ of Serpentine Gaze."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 10\
-      \ ft. *Hit:* dice:2d6+3|noform|noparens|avg|text(10) (2d6 + 3) Piercing\
-      \ damage plus dice:2d6|noform|noparens|avg|text(7) (2d6) Necrotic damage."
-    "name": "Bite"
-  - "desc": "*Wisdom Saving Throw:* DC 13, one creature the naga can see within 60\
-      \ feet. *Failure:* dice:3d6+3|noform|noparens|avg|text(13) (3d6 + 3) Psychic\
-      \ damage, and the target has the [Charmed](3.Mechanics/rules/conditions.md#Charmed)\
-      \ condition until the start of the naga's next turn."
-    "name": "Serpentine Gaze"
-  - "desc": "The naga casts one of the following spells, requiring no Material components\
-      \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\n\
-      **At will:** [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md), [Thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md)\n\
-      \n**1/day each:** [Command](3.Mechanics/spells/command-xphb.md), [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md),\
-      \ [Lightning Bolt](3.Mechanics/spells/lightning-bolt-xphb.md)"
-    "name": "Spellcasting"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Bone%20Naga.webp"
+- **Armor Class** 15 
+- **Hit Points** 65 (10d10 + 10) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 15 | +2 | +2 |
+|Int| 16 | +3 | +3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16 | +3 | +3 |
+|Wis| 15 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 15 | +2 | +2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Immunities** Poison
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
+- **Languages** Common plus one other language
+- **Challenge** 4
+
+## Actions
+
+***Multiattack.*** The naga makes two Bite attacks. It can replace any attack with a use of Serpentine Gaze.
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 10 ft. *Hit:* `dice:2d6+3|noform|noparens|avg|text(10)` (`2d6 + 3`) Piercing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Necrotic damage.
+
+***Serpentine Gaze.*** *Wisdom Saving Throw:* DC 13, one creature the naga can see within 60 feet. *Failure:* `dice:3d6+3|noform|noparens|avg|text(13)` (`3d6 + 3`) Psychic damage, and the target has the [Charmed](3.Mechanics/rules/conditions.md#Charmed) condition until the start of the naga's next turn.
+
+***Spellcasting.*** The naga casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 13):
+
+**At will:** [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md), [Thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md)
+
+**1/day each:** [Command](3.Mechanics/spells/command-xphb.md), [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [Lightning Bolt](3.Mechanics/spells/lightning-bolt-xphb.md)
 ```
 ^statblock
 

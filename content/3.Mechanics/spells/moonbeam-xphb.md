@@ -17,6 +17,7 @@ classes:
 - Druid
 - Druid (Circle of the Moon)
 - Paladin (Oath of the Ancients)
+title: "Moonbeam"
 aliases:
 - "Moonbeam"
 ---

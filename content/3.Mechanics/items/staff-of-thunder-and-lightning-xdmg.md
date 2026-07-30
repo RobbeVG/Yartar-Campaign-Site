@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Staff of Thunder and Lightning"
 aliases:
 - "Staff of Thunder and Lightning"
 ---
 # Staff of Thunder and Lightning
 *Staff, weapon, very rare (requires attunement)*  
-![](file://items/XDMG/Staff%20of%20Thunder%20and%20Lightning.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Staff%20of%20Thunder%20and%20Lightning.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
+title: "Dart"
 aliases:
 - "Dart"
 ---
 # Dart
 *Weapon*  
-![](file://items/XPHB/Dart.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Dart.webp#right)
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

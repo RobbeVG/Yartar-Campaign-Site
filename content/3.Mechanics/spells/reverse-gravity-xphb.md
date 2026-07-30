@@ -15,6 +15,7 @@ classes:
 - Druid
 - Sorcerer
 - Wizard
+title: "Reverse Gravity"
 aliases:
 - "Reverse Gravity"
 ---

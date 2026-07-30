@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+title: "Folding Boat"
 aliases:
 - "Folding Boat"
 ---
 # Folding Boat
 *Wondrous item, rare*  
-![](file://items/XDMG/Folding%20Boat.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Folding%20Boat.webp#right)
 
 - **Weight**: 4.0 lbs.
 

@@ -20,6 +20,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Illusionist)
+title: "Magic Mouth"
 aliases:
 - "Magic Mouth"
 ---

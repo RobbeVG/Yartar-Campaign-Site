@@ -13,6 +13,7 @@ classes:
 - Bard
 - Warlock
 - Wizard
+title: "True Polymorph"
 aliases:
 - "True Polymorph"
 ---

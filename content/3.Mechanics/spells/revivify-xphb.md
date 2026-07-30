@@ -23,6 +23,7 @@ classes:
 - Paladin
 - Ranger
 - Warlock (Celestial Patron)
+title: "Revivify"
 aliases:
 - "Revivify"
 ---

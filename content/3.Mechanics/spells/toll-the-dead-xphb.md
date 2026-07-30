@@ -23,6 +23,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Warlock
 - Wizard
+title: "Toll the Dead"
 aliases:
 - "Toll the Dead"
 ---

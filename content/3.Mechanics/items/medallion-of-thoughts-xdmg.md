@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Medallion of Thoughts"
 aliases:
 - "Medallion of Thoughts"
 ---
 # Medallion of Thoughts
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Medallion%20of%20Thoughts.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Medallion%20of%20Thoughts.webp#right)
 
 - **Weight**: 1.0 lbs.
 

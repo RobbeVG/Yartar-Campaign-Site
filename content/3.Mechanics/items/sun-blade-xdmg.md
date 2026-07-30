@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Sun Blade"
 aliases:
 - "Sun Blade"
 ---
 # Sun Blade
 *Weapon ([longsword](3.Mechanics/items/longsword-xphb.md)), rare (requires attunement)*  
-![](file://items/XDMG/Sun%20Blade.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Sun%20Blade.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 radiant

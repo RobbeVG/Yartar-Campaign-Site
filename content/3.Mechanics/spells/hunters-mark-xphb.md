@@ -12,6 +12,7 @@ tags:
 classes:
 - Paladin (Oath of Vengeance)
 - Ranger
+title: "Hunter's Mark"
 aliases:
 - "Hunter's Mark"
 ---

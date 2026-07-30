@@ -14,6 +14,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Enspelled Weapon (Level 3)"
 aliases:
 - "Enspelled Weapon (Level 3)"
 - "Enspelled (Level 3) Antimatter Rifle"

@@ -11,6 +11,7 @@ tags:
 - ttrpg-cli/spell/school/evocation
 classes:
 - Warlock
+title: "Hellish Rebuke"
 aliases:
 - "Hellish Rebuke"
 ---

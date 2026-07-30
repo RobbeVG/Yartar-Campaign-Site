@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Cleric
+title: "Power Word Heal"
 aliases:
 - "Power Word Heal"
 ---

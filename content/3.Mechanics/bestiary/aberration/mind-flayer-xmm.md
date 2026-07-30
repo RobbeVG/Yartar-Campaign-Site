@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Mind Flayer"
 aliases:
 - "Mind Flayer"
 ---
-# [Mind Flayer](3.Mechanics/bestiary/aberration/mind-flayer-xmm.md)
+# Mind Flayer
 *Source: Monster Manual (2024) p. 214*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Mind%20Flayers.webp#right)
 
 A mind flayer's hunger for brains is outmeasured only by its thirst for dominance, and it embraces any plot that allows it to indulge both.
 
@@ -47,77 +47,55 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
 | 6 | Sacrifice the mental energy of a planet's populace to take control of a githyanki bastion. |
 ^mind-flayer-machinations
 
-```statblock
-"name": "Mind Flayer (XMM)"
-"size": "Medium"
-"type": "aberration"
-"alignment": "Lawful Evil"
-"ac": !!int "15"
-"hp": !!int "99"
-"hit_dice": "18d8 + 18"
-"modifier": !!int "4"
-"stats":
-  - !!int "11"
-  - !!int "12"
-  - !!int "12"
-  - !!int "19"
-  - !!int "17"
-  - !!int "17"
-"speed": "30 ft., fly 15 ft. (hover)"
-"saves":
-  - "dexterity": !!int "4"
-  - "intelligence": !!int "7"
-  - "wisdom": !!int "6"
-  - "charisma": !!int "6"
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+7"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
-    "desc": "+6"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+6"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+4"
-"damage_resistances": "psychic"
-"gear":
-  - "[breastplate](3.Mechanics/items/breastplate-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
-"languages": "Deep Speech, Undercommon; telepathy 120 ft."
-"cr": "7"
-"traits":
-  - "desc": "The mind flayer has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+7|noform|noparens|text(+7), reach 5\
-      \ ft. *Hit:* dice:4d8+4|noform|noparens|avg|text(22) (4d8 + 4) Psychic damage.\
-      \ If the target is a Medium or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition (escape DC 14) from all the mind flayer's tentacles, and the target\
-      \ has the [Stunned](3.Mechanics/rules/conditions.md#Stunned) condition until\
-      \ the grapple ends."
-    "name": "Tentacles"
-  - "desc": "*Constitution Saving Throw:* DC 15, one creature that is [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ by the mind flayer's Tentacles. *Failure:* dice:10d10|noform|noparens|avg|text(55)\
-      \ (10d10) Piercing damage. *Success:* Half damage. *Failure or Success:* If\
-      \ this damage reduces the target to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md),\
-      \ the mind flayer kills it and devours its brain."
-    "name": "Extract Brain"
-  - "desc": "*Intelligence Saving Throw:* DC 15, each creature in a 60-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* dice:6d8+4|noform|noparens|avg|text(31) (6d8 + 4) Psychic damage,\
-      \ and the target has the [Stunned](3.Mechanics/rules/conditions.md#Stunned)\
-      \ condition until the end of the mind flayer's next turn. *Success:* Half damage\
-      \ only."
-    "name": "Mind Blast (Recharge 5-6)"
-  - "desc": "The mind flayer casts one of the following spells, requiring no spell\
-      \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 15):\n\n**At will:** [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md)\n\
-      \n**1/day each:** [Dominate Monster](3.Mechanics/spells/dominate-monster-xphb.md),\
-      \ [Plane Shift](3.Mechanics/spells/plane-shift-xphb.md) (self only)"
-    "name": "Spellcasting"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Mind%20Flayer.webp"
+```ad-statblock
+title: Mind Flayer
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mind%20Flayer.webp#token)
+*Medium Aberration, Lawful Evil*
+
+- **Armor Class** 15 
+- **Hit Points** 99 (18d8 + 18) 
+- **Speed** 30 ft., fly 15 ft. (hover)
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 11 | +0 | +0 |
+|Int| 19 | +4 | **+7** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | **+4** |
+|Wis| 17 | +3 | **+6** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 17 | +3 | **+6** |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Dexterity +4, Intelligence +7, Wisdom +6, Charisma +6
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +7, [Insight](3.Mechanics/rules/skills.md#Insight) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
+- **Damage Resistances** Psychic
+- **Gear** [breastplate](3.Mechanics/items/breastplate-xphb.md)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 16
+- **Languages** Deep Speech, Undercommon; Telepathy 120 ft.
+- **Challenge** 7
+
+## Traits
+
+***Magic Resistance.*** The mind flayer has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+## Actions
+
+***Tentacles.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. *Hit:* `dice:4d8+4|noform|noparens|avg|text(22)` (`4d8 + 4`) Psychic damage. If the target is a Medium or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 14) from all the mind flayer's tentacles, and the target has the [Stunned](3.Mechanics/rules/conditions.md#Stunned) condition until the grapple ends.
+
+***Extract Brain.*** *Constitution Saving Throw:* DC 15, one creature that is [Grappled](3.Mechanics/rules/conditions.md#Grappled) by the mind flayer's Tentacles. *Failure:* `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) Piercing damage. *Success:* Half damage. *Failure or Success:* If this damage reduces the target to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md), the mind flayer kills it and devours its brain.
+
+***Mind Blast (Recharge 5-6).*** *Intelligence Saving Throw:* DC 15, each creature in a 60-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* `dice:6d8+4|noform|noparens|avg|text(31)` (`6d8 + 4`) Psychic damage, and the target has the [Stunned](3.Mechanics/rules/conditions.md#Stunned) condition until the end of the mind flayer's next turn. *Success:* Half damage only.
+
+***Spellcasting.*** The mind flayer casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
+
+**At will:** [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md)
+
+**1/day each:** [Dominate Monster](3.Mechanics/spells/dominate-monster-xphb.md), [Plane Shift](3.Mechanics/spells/plane-shift-xphb.md) (self only)
 ```
 ^statblock
 

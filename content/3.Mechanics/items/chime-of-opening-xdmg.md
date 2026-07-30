@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+title: "Chime of Opening"
 aliases:
 - "Chime of Opening"
 ---
 # Chime of Opening
 *Wondrous item, rare*  
-![](file://items/XDMG/Chime%20of%20Opening.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Chime%20of%20Opening.webp#right)
 
 - **Weight**: 1.0 lbs.
 

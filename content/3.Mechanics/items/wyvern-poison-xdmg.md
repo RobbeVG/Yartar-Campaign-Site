@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
+title: "Wyvern Poison"
 aliases:
 - "Wyvern Poison"
 ---

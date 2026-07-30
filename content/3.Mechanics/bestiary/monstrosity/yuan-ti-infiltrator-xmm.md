@@ -11,13 +11,15 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Yuan-ti Infiltrator"
 aliases:
 - "Yuan-ti Infiltrator"
+conditionImmunities:
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Yuan-ti Infiltrator](3.Mechanics/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md)
+# Yuan-ti Infiltrator
 *Source: Monster Manual (2024) p. 342*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Yuan-ti.webp#right)
 
 Infiltrators can pass as human, their serpentine features limited to scaly skin, forked tongues, and other minor or internal transformations. These spies insinuate themselves among their rivals, manipulating others and making foes vulnerable to the plots of more powerful yuan-ti.
 
@@ -53,59 +55,56 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 > Great magic, twisted and corrupted... Malice beyond reckoning... Flesh reshaped, becoming serpentine horrors...
 
 
-```statblock
-"name": "Yuan-ti Infiltrator (XMM)"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Neutral Evil"
-"ac": !!int "11"
-"hp": !!int "40"
-"hit_dice": "9d8"
-"modifier": !!int "1"
-"stats":
-  - !!int "11"
-  - !!int "12"
-  - !!int "11"
-  - !!int "13"
-  - !!int "14"
-  - !!int "12"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
-    "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+3"
-"damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"gear":
-  - "[scimitar](3.Mechanics/items/scimitar-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
-"languages": "Abyssal, Common, Draconic"
-"cr": "1"
-"traits":
-  - "desc": "The yuan-ti has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The yuan-ti makes two Scimitar attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+3|noform|noparens|text(+3), reach 5\
-      \ ft. *Hit:* dice:1d6+1|noform|noparens|avg|text(4) (1d6 + 1) Slashing damage."
-    "name": "Scimitar"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+4|noform|noparens|text(+4), range 120\
-      \ ft. *Hit:* dice:2d6+2|noform|noparens|avg|text(9) (2d6 + 2) Poison damage."
-    "name": "Poison Ray"
-  - "desc": "The yuan-ti casts one of the following spells, requiring no Material\
-      \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
-      \n**At will:** [Animal Friendship](3.Mechanics/spells/animal-friendship-xphb.md)\
-      \ (snakes only)\n\n**2/day:** [Suggestion](3.Mechanics/spells/suggestion-xphb.md)"
-    "name": "Spellcasting"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Yuan-ti%20Infiltrator.webp"
+```ad-statblock
+title: Yuan-ti Infiltrator
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Yuan-ti%20Infiltrator.webp#token)
+*Medium Monstrosity, Neutral Evil*
+
+- **Armor Class** 11 
+- **Hit Points** 40 (9d8) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 11 | +0 | +0 |
+|Int| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 11 | +0 | +0 |
+|Cha| 12 | +1 | +1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
+- **Damage Immunities** Poison
+- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Gear** [scimitar](3.Mechanics/items/scimitar-xphb.md)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Languages** Abyssal, Common, Draconic
+- **Challenge** 1
+
+## Traits
+
+***Magic Resistance.*** The yuan-ti has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The yuan-ti makes two Scimitar attacks.
+
+***Scimitar.*** *Melee Attack Roll:* `dice:1d20+3|noform|noparens|text(+3)`, reach 5 ft. *Hit:* `dice:1d6+1|noform|noparens|avg|text(4)` (`1d6 + 1`) Slashing damage.
+
+***Poison Ray.*** *Ranged Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, range 120 ft. *Hit:* `dice:2d6+2|noform|noparens|avg|text(9)` (`2d6 + 2`) Poison damage.
+
+***Spellcasting.*** The yuan-ti casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 12):
+
+**At will:** [Animal Friendship](3.Mechanics/spells/animal-friendship-xphb.md) (snakes only)
+
+**2/day:** [Suggestion](3.Mechanics/spells/suggestion-xphb.md)
 ```
 ^statblock
 

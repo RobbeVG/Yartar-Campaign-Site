@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Cleric
+title: "Conjure Celestial"
 aliases:
 - "Conjure Celestial"
 ---

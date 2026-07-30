@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/ring
+title: "Ring of Telekinesis"
 aliases:
 - "Ring of Telekinesis"
 ---
 # Ring of Telekinesis
 *Ring, very rare (requires attunement)*  
-![](file://items/XDMG/Ring%20of%20Telekinesis.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ring%20of%20Telekinesis.webp#right)
 
 
 While wearing this ring, you can cast [Telekinesis](3.Mechanics/spells/telekinesis-xphb.md) from it.

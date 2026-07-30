@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/rogue/thief
+title: "Thief"
 aliases:
 - "Thief"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Thief%20Rogue.webp#right)
 
 *Hunt for Treasure as a Classic Adventurer*
 

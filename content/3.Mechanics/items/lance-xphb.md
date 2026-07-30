@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Lance"
 aliases:
 - "Lance"
 ---
 # Lance
 *Weapon*  
-![](file://items/XPHB/Lance.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Lance.webp#right)
 
 - **Damage**: 1d10 piercing
 - **Properties**: [Heavy](3.Mechanics/rules/item-properties.md#Heavy), [Reach](3.Mechanics/rules/item-properties.md#Reach)

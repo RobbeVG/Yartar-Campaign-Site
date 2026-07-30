@@ -18,6 +18,7 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
+title: "Beast Sense"
 aliases:
 - "Beast Sense"
 ---

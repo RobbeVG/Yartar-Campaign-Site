@@ -10,7 +10,7 @@ aliases:
 # Chapter 2: Creating a Character
 *Source: Player's Handbook (2024), p. 33* 
 
-![World-traveling explorers Hank, Bobby, Sheila, Diana, and Presto stand on the threshold of their next adventure](file://book/XPHB/012-02-001.world-traveling-explorers.webp#center)
+![World-traveling explorers Hank, Bobby, Sheila, Diana, and Presto stand on the threshold of their next adventure](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/012-02-001.world-traveling-explorers.webp#center)
 
 You can make a character for Dungeons & Dragons using the building blocks in this book. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a class (such as "Fighter" or "Wizard"), a background (such as "Sailor" or "Acolyte"), and a species (such as "Human" or "Elf"). You also invent the personality and appearance of your character. Once completed, your character serves as your avatar in the D&D multiverse.
 
@@ -113,7 +113,7 @@ Your background and class both provide starting equipment. Any coins that you ga
 
 Record your chosen equipment on your character sheet. Equipment is described in "chapter 6", but for now you can just write it all down and look up the specifics in that chapter later. There's also space on the sample character sheet to note any coins you have left after purchasing your equipment, as well as treasure you acquire on your adventures.
 
-![Consider how your choices combine to set your character on the path to adventure](file://book/XPHB/013-02-002.character-choices.webp#center)
+![Consider how your choices combine to set your character on the path to adventure](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/013-02-002.character-choices.webp#center)
 
 #### Choose a Species
 
@@ -201,27 +201,27 @@ Ability scores are an essential part of the rules, but they can be more than tha
 
 Note your character's appearance and personality on your character sheet.
 
-![](file://book/XPHB/014-02-003.strength-icon.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/014-02-003.strength-icon.webp#center)
 
 ![Describe Appearance and Personality; Strength](3.Mechanics/tables/describe-appearance-and-personality-strength-xphb.md)
 
-![](file://book/XPHB/015-02-004.dexterity-icon.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/015-02-004.dexterity-icon.webp#center)
 
 ![Describe Appearance and Personality; Dexterity](3.Mechanics/tables/describe-appearance-and-personality-dexterity-xphb.md)
 
-![](file://book/XPHB/016-02-005.constitution-icon.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/016-02-005.constitution-icon.webp#center)
 
 ![Describe Appearance and Personality; Constitution](3.Mechanics/tables/describe-appearance-and-personality-constitution-xphb.md)
 
-![](file://book/XPHB/017-02-006.intelligence-icon.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/017-02-006.intelligence-icon.webp#center)
 
 ![Describe Appearance and Personality; Intelligence](3.Mechanics/tables/describe-appearance-and-personality-intelligence-xphb.md)
 
-![](file://book/XPHB/018-02-007.wisdom-icon.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/018-02-007.wisdom-icon.webp#center)
 
 ![Describe Appearance and Personality; Wisdom](3.Mechanics/tables/describe-appearance-and-personality-wisdom-xphb.md)
 
-![](file://book/XPHB/019-02-008.charisma-icon.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/019-02-008.charisma-icon.webp#center)
 
 ![Describe Appearance and Personality; Charisma](3.Mechanics/tables/describe-appearance-and-personality-charisma-xphb.md)
 
@@ -237,7 +237,7 @@ A creature's alignment broadly describes its ethical attitudes and ideals. Align
 
 The summaries of the alignments below describe the typical behavior of a creature with that alignment; individuals can vary from that behavior.
 
-![Alignments might be visualized as a grid like this—along with creatures that embody those alignments](file://book/XPHB/020-02-009.alignments.webp#center)
+![Alignments might be visualized as a grid like this—along with creatures that embody those alignments](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/020-02-009.alignments.webp#center)
 
 ##### Lawful Good (LG)
 
@@ -375,7 +375,7 @@ As you finish creating your character, consider whether you'd like to make up an
 
 ## Level Advancement
 
-![Adventuring equipment improves as a character progresses through the tiers of play](file://book/XPHB/021-02-010.adventuring-equipment.webp#center)
+![Adventuring equipment improves as a character progresses through the tiers of play](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/021-02-010.adventuring-equipment.webp#center)
 
 While going on adventures, your character gains experience, represented by [Experience Points](3.Mechanics/rules/variant-rules/experience-points-xphb.md) (XP). A character who reaches a specified Experience Point total advances in capability. This advancement is called gaining a level.
 
@@ -512,7 +512,7 @@ For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a leve
 
 If you have the Pact Magic feature from the Warlock class and the Spellcasting feature, you can use the spell slots you gain from Pact Magic to cast spells you have prepared from classes with the Spellcasting feature, and you can use the spell slots you gain from the Spellcasting feature to cast Warlock spells you have prepared.
 
-![A character with Paladin and Warlock levels might call on both a mighty oath and an otherworldly patron](file://book/XPHB/022-02-011.paladin-warlock-multiclass.webp#center)
+![A character with Paladin and Warlock levels might call on both a mighty oath and an otherworldly patron](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/022-02-011.paladin-warlock-multiclass.webp#center)
 
 ## Trinkets
 

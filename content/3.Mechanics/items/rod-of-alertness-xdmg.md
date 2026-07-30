@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/rod
+title: "Rod of Alertness"
 aliases:
 - "Rod of Alertness"
 ---

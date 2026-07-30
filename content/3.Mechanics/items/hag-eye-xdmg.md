@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Hag Eye"
 aliases:
 - "Hag Eye"
 ---
 # Hag Eye
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Hag%20Eye.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Hag%20Eye.webp#right)
 
 
 A Hag Eye has 3 charges. While wearing or holding this item, you can expend 1 charge to cast [Darkvision](3.Mechanics/spells/darkvision-xphb.md) (targeting yourself only) or [See Invisibility](3.Mechanics/spells/see-invisibility-xphb.md). The Hag Eye regains all expended charges daily at dawn.

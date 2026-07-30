@@ -7,54 +7,55 @@ tags:
 - ttrpg-cli/monster/cr/1-4
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
-statblock: inline
-statblock-link: "#^statblock"
+title: "Ash Zombie"
 aliases:
 - "Ash Zombie"
+conditionImmunities:
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Ash Zombie](3.Mechanics/bestiary/undead/ash-zombie-pabtso.md)
+# Ash Zombie
 *Source: Phandelver and Below: The Shattered Obelisk p. 52*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Ash%20Zombie.webp#center)
+```ad-statblock
+title: Ash Zombie
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Ash%20Zombie.webp#token)
+*Medium Undead, Neutral Evil*
 
-```statblock
-"name": "Ash Zombie (PaBTSO)"
-"size": "Medium"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "8"
-"hp": !!int "22"
-"hit_dice": "3d8 + 9"
-"modifier": !!int "-2"
-"stats":
-  - !!int "13"
-  - !!int "6"
-  - !!int "16"
-  - !!int "3"
-  - !!int "6"
-  - !!int "5"
-"speed": "20 ft."
-"saves":
-  - "wisdom": !!int "0"
-"damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
-"languages": "understands all languages it spoke in life but can't speak"
-"cr": "1/4"
-"traits":
-  - "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution\
-      \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
-      \ or from a critical hit. On a success, the zombie drops to 1 hit point instead."
-    "name": "Undead Fortitude"
-  - "desc": "When the zombie dies, it leaves a cloud of ash that lasts for 5 minutes\
-      \ but does not obscure vision."
-    "name": "Ash Cloud"
-"actions":
-  - "desc": "*Melee Weapon Attack:* dice:1d20+3|noform|noparens|text(+3) to hit,\
-      \ reach 5 ft., one target. *Hit:* dice:1d6+1|noform|noparens|avg|text(4) (1d6\
-      \ + 1) bludgeoning damage."
-    "name": "Slam"
-"source":
-  - "PaBTSO"
-"image": "file://bestiary/tokens/PaBTSO/Ash%20Zombie.webp"
+- **Armor Class** 8 
+- **Hit Points** 22 (3d8 + 9) 
+- **Speed** 20 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13 | +1 | +1 |
+|Int| 3 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 6 | -2 | -2 |
+|Wis| 6 | -2 | **+0** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 5 | -3 | -3 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Wisdom +0
+- **Skills** ⏤
+- **Damage Immunities** Poison
+- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 8
+- **Languages** Understands all languages it spoke in life but can't speak
+- **Challenge** 1/4
+
+## Traits
+
+***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+
+***Ash Cloud.*** When the zombie dies, it leaves a cloud of ash that lasts for 5 minutes but does not obscure vision.
+
+## Actions
+
+***Slam.*** *Melee Weapon Attack:* `dice:1d20+3|noform|noparens|text(+3)` to hit, reach 5 ft., one target. *Hit:* `dice:1d6+1|noform|noparens|avg|text(4)` (`1d6 + 1`) bludgeoning damage.
 ```
 ^statblock

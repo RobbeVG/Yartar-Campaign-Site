@@ -13,6 +13,7 @@ classes:
 - Bard
 - Druid
 - Druid (Circle of the Moon)
+title: "Fount of Moonlight"
 aliases:
 - "Fount of Moonlight"
 ---

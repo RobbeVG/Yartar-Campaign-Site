@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Wizard
+title: "Maze"
 aliases:
 - "Maze"
 ---

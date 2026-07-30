@@ -15,6 +15,7 @@ tags:
 classes:
 - Bard (College of Lore)
 - Druid
+title: "Thorn Whip"
 aliases:
 - "Thorn Whip"
 ---

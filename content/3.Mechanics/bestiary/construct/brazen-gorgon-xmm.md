@@ -10,13 +10,16 @@ tags:
 - ttrpg-cli/monster/environment/hill
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/construct
-statblock: inline
-statblock-link: "#^statblock"
+title: "Brazen Gorgon"
 aliases:
 - "Brazen Gorgon"
+conditionImmunities:
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [petrified](3.Mechanics/rules/conditions.md#Petrified)
 ---
-# [Brazen Gorgon](3.Mechanics/bestiary/construct/brazen-gorgon-xmm.md)
+# Brazen Gorgon
 *Source: Monster Manual (2024) p. 149*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Brazen%20Gorgon.webp#right)
 
 Followers of the exiled archdevil Moloch altered the process of creating gorgons to craft their own diabolical guardians called brazen gorgons. These gorgons are hollow, bull-like automatons whose metal bodies glow with intense heat. When they charge their foes, the ribs of their frames open like cages to ensnare enemies and roast them within. Brazen gorgons are often found in blasphemous sites dedicated to Moloch, other archdevils, or bloodthirsty gods.
 
@@ -54,66 +57,53 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 > Notable among my eccentric ancestor's scattered designs was a schematic of a swamp-dwelling bovine monster and an ominous note: "Do better."
 
 
-```statblock
-"name": "Brazen Gorgon (XMM)"
-"size": "Large"
-"type": "construct"
-"alignment": "Unaligned"
-"ac": !!int "19"
-"hp": !!int "161"
-"hit_dice": "17d10 + 68"
-"modifier": !!int "2"
-"stats":
-  - !!int "18"
-  - !!int "14"
-  - !!int "19"
-  - !!int "2"
-  - !!int "14"
-  - !!int "7"
-"speed": "40 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+10"
-"damage_immunities": "fire"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 20"
-"languages": ""
-"cr": "9"
-"traits":
-  - "desc": "At the end of each of the gorgon's turns, each creature in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the gorgon takes dice:3d8|noform|noparens|avg|text(13)\
-      \ (3d8) Fire damage."
-    "name": "Flame Aura"
-  - "desc": "The gorgon sheds [Bright Light](3.Mechanics/rules/variant-rules/bright-light-xphb.md)\
-      \ in a 10-foot radius and [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md)\
-      \ for an additional 10 feet."
-    "name": "Illumination"
-"actions":
-  - "desc": "The gorgon makes two Gore attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+8|noform|noparens|text(+8), reach 5\
-      \ ft. *Hit:* dice:2d6+4|noform|noparens|avg|text(11) (2d6 + 4) Piercing\
-      \ damage plus dice:3d6|noform|noparens|avg|text(10) (3d6) Fire damage."
-    "name": "Gore"
-  - "desc": "The gorgon moves up to its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack)\
-      \ and can move through the spaces of Medium or smaller creatures. Each time\
-      \ the gorgon enters a creature's space for the first time during this move,\
-      \ that target is subjected to the following effect. *Dexterity Saving Throw:*\
-      \ DC 16. *Failure:* dice:2d8+4|noform|noparens|avg|text(13) (2d8 + 4) Piercing\
-      \ damage plus dice:3d8|noform|noparens|avg|text(13) (3d8) Fire damage, and\
-      \ the target is pulled into the gorgon's space and has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition (escape DC 14); if the gorgon already has a creature [Grappled](3.Mechanics/rules/conditions.md#Grappled),\
-      \ the target has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition\
-      \ instead. Until the grapple ends, the target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition. When the gorgon moves, the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ target moves with it, costing no extra movement."
-    "name": "Smelting Charge (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Brazen%20Gorgon.webp"
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Gorgons.webp#center)
+
+```ad-statblock
+title: Brazen Gorgon
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Brazen%20Gorgon.webp#token)
+*Large Construct, Unaligned*
+
+- **Armor Class** 19 
+- **Hit Points** 161 (17d10 + 68) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 2 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 19 | +4 | +4 |
+|Cha| 7 | -2 | -2 |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +10
+- **Damage Immunities** Fire
+- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Petrified](3.Mechanics/rules/conditions.md#Petrified)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 20
+- **Languages** —
+- **Challenge** 9
+
+## Traits
+
+***Flame Aura.*** At the end of each of the gorgon's turns, each creature in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the gorgon takes `dice:3d8|noform|noparens|avg|text(13)` (`3d8`) Fire damage.
+
+***Illumination.*** The gorgon sheds [Bright Light](3.Mechanics/rules/variant-rules/bright-light-xphb.md) in a 10-foot radius and [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md) for an additional 10 feet.
+
+## Actions
+
+***Multiattack.*** The gorgon makes two Gore attacks.
+
+***Gore.*** *Melee Attack Roll:* `dice:1d20+8|noform|noparens|text(+8)`, reach 5 ft. *Hit:* `dice:2d6+4|noform|noparens|avg|text(11)` (`2d6 + 4`) Piercing damage plus `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) Fire damage.
+
+***Smelting Charge (Recharge 5-6).*** The gorgon moves up to its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack) and can move through the spaces of Medium or smaller creatures. Each time the gorgon enters a creature's space for the first time during this move, that target is subjected to the following effect. *Dexterity Saving Throw:* DC 16. *Failure:* `dice:2d8+4|noform|noparens|avg|text(13)` (`2d8 + 4`) Piercing damage plus `dice:3d8|noform|noparens|avg|text(13)` (`3d8`) Fire damage, and the target is pulled into the gorgon's space and has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 14); if the gorgon already has a creature [Grappled](3.Mechanics/rules/conditions.md#Grappled), the target has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition instead. Until the grapple ends, the target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition. When the gorgon moves, the [Grappled](3.Mechanics/rules/conditions.md#Grappled) target moves with it, costing no extra movement.
 ```
 ^statblock
 

@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Stone of Good Luck"
 aliases:
 - "Stone of Good Luck"
 ---
 # Stone of Good Luck
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Stone%20of%20Good%20Luck%20%28Luckstone%29.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Stone%20of%20Good%20Luck%20%28Luckstone%29.webp#right)
 
 
 While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.

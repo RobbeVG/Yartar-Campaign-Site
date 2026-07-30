@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Periapt of Health"
 aliases:
 - "Periapt of Health"
 ---
 # Periapt of Health
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Periapt%20of%20Health.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Periapt%20of%20Health.webp#right)
 
 - **Weight**: 1.0 lbs.
 

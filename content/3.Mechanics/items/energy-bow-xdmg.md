@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Energy Bow"
 aliases:
 - "Energy Bow"
 - "Energy Longbow"

@@ -14,6 +14,7 @@ tags:
 classes:
 - Bard (College of Lore)
 - Druid
+title: "Shillelagh"
 aliases:
 - "Shillelagh"
 ---

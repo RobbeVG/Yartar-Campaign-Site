@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/school/transmutation
 classes:
 - Ranger
+title: "Cordon of Arrows"
 aliases:
 - "Cordon of Arrows"
 ---

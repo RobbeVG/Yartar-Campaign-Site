@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Staff of Swarming Insects"
 aliases:
 - "Staff of Swarming Insects"
 ---
 # Staff of Swarming Insects
 *Staff, weapon, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
-![](file://items/XDMG/Staff%20of%20Swarming%20Insects.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Staff%20of%20Swarming%20Insects.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

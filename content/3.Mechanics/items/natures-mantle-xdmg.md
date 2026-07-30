@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/uncommon
+title: "Nature's Mantle"
 aliases:
 - "Nature's Mantle"
 ---
 # Nature's Mantle
 *Wondrous item, spellcasting focus, uncommon (requires attunement by a druid or ranger)*  
-![](file://items/XDMG/Natures%20Mantle.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Natures%20Mantle.webp#right)
 
 
 This cloak shifts color and texture to blend with the terrain surrounding you. While wearing the cloak, you can use it as a [Spellcasting Focus](3.Mechanics/rules/variant-rules/spellcasting-focus-xphb.md) for your Druid and Ranger spells.

@@ -27,6 +27,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Ray of Frost"
 aliases:
 - "Ray of Frost"
 ---

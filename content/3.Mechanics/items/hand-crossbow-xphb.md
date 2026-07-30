@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/ranged
+title: "Hand Crossbow"
 aliases:
 - "Hand Crossbow"
 ---
 # Hand Crossbow
 *Weapon*  
-![](file://items/XPHB/Hand%20Crossbow.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Hand%20Crossbow.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120

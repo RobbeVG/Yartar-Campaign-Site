@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+title: "Periapt of Proof against Poison"
 aliases:
 - "Periapt of Proof against Poison"
 ---

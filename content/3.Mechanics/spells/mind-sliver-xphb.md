@@ -24,6 +24,7 @@ classes:
 - Sorcerer (Aberrant Sorcery)
 - Warlock
 - Wizard
+title: "Mind Sliver"
 aliases:
 - "Mind Sliver"
 ---

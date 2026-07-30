@@ -9,13 +9,15 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend/yugoloth
-statblock: inline
-statblock-link: "#^statblock"
+title: "Nycaloth"
 aliases:
 - "Nycaloth"
+conditionImmunities:
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Nycaloth](3.Mechanics/bestiary/fiend/nycaloth-xmm.md)
+# Nycaloth
 *Source: Monster Manual (2024) p. 229*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Nycaloth.webp#right)
 
 ## Nycaloth
 
@@ -41,62 +43,54 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
 | 3 | Destroy a city harboring enemy cultists. |
 | 4 | Liberate an imprisoned fiendish ally. |
 ^yugoloth-incursions
+```ad-statblock
+title: Nycaloth
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Nycaloth.webp#token)
+*Large Fiend (yugoloth), Neutral Evil*
 
-```statblock
-"name": "Nycaloth (XMM)"
-"size": "Large"
-"type": "fiend"
-"subtype": "yugoloth"
-"alignment": "Neutral Evil"
-"ac": !!int "18"
-"hp": !!int "152"
-"hit_dice": "16d10 + 64"
-"modifier": !!int "4"
-"stats":
-  - !!int "20"
-  - !!int "11"
-  - !!int "19"
-  - !!int "12"
-  - !!int "10"
-  - !!int "15"
-"speed": "40 ft., fly 60 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+4"
-"damage_resistances": "cold, fire, lightning"
-"damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 14"
-"languages": "Abyssal, Infernal; telepathy 60 ft."
-"cr": "9"
-"traits":
-  - "desc": "If the nycaloth dies outside Gehenna, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ somewhere in Gehenna."
-    "name": "Fiendish Restoration"
-  - "desc": "The nycaloth has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The nycaloth makes two Mercurial Axe attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+9|noform|noparens|text(+9),\
-      \ reach 10 ft. or range 30/90 ft. *Hit:* dice:2d12+5|noform|noparens|avg|text(18)\
-      \ (2d12 + 5) Slashing damage plus dice:3d6|noform|noparens|avg|text(10)\
-      \ (3d6) Force damage. *Hit or Miss:* The axe magically returns to the nycaloth's\
-      \ hand immediately after a ranged attack."
-    "name": "Mercurial Axe"
-"bonus_actions":
-  - "desc": "The nycaloth has the [Invisible](3.Mechanics/rules/conditions.md#Invisible)\
-      \ condition for 1 minute, and it teleports up to 30 feet to an unoccupied space\
-      \ it can see. The condition ends early immediately after it deals damage."
-    "name": "Shadowy Teleport"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Nycaloth.webp"
+- **Armor Class** 18 
+- **Hit Points** 152 (16d10 + 64) 
+- **Speed** 40 ft., fly 60 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 20 | +5 | +5 |
+|Int| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 11 | +0 | +0 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 19 | +4 | +4 |
+|Cha| 15 | +2 | +2 |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
+- **Damage Resistances** Cold, Fire, Lightning
+- **Damage Immunities** Acid, Poison
+- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 14
+- **Languages** Abyssal, Infernal; Telepathy 60 ft.
+- **Challenge** 9
+
+## Traits
+
+***Fiendish Restoration.*** If the nycaloth dies outside Gehenna, its body dissolves into ichor, and it gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) somewhere in Gehenna.
+
+***Magic Resistance.*** The nycaloth has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The nycaloth makes two Mercurial Axe attacks.
+
+***Mercurial Axe.*** *Melee  or Ranged Attack Roll:* `dice:1d20+9|noform|noparens|text(+9)`, reach 10 ft. or range 30/90 ft. *Hit:* `dice:2d12+5|noform|noparens|avg|text(18)` (`2d12 + 5`) Slashing damage plus `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) Force damage. *Hit or Miss:* The axe magically returns to the nycaloth's hand immediately after a ranged attack.
+
+## Bonus Actions
+
+***Shadowy Teleport.*** The nycaloth has the [Invisible](3.Mechanics/rules/conditions.md#Invisible) condition for 1 minute, and it teleports up to 30 feet to an unoccupied space it can see. The condition ends early immediately after it deals damage.
 ```
 ^statblock
 

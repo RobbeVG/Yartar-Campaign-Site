@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Cloak of Protection"
 aliases:
 - "Cloak of Protection"
 ---
 # Cloak of Protection
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Cloak%20of%20Protection.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Cloak%20of%20Protection.webp#right)
 
 
 You gain a +1 bonus to [Armor Class](3.Mechanics/rules/variant-rules/armor-class-xphb.md) and saving throws while you wear this cloak.

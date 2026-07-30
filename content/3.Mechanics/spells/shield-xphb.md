@@ -22,6 +22,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Abjurer)
+title: "Shield"
 aliases:
 - "Shield"
 ---

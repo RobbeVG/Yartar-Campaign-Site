@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/ring
+title: "Ring of Spell Turning"
 aliases:
 - "Ring of Spell Turning"
 ---
 # Ring of Spell Turning
 *Ring, legendary (requires attunement)*  
-![](file://items/XDMG/Ring%20of%20Spell%20Turning.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ring%20of%20Spell%20Turning.webp#right)
 
 
 While wearing this ring, you have [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells. If you succeed on the save for a spell of level 7 or lower, the spell has no effect on you. If that spell targeted only you and didn't create an area of effect, you can take a [Reaction](3.Mechanics/rules/variant-rules/reaction-xphb.md) to deflect the spell back at the spell's caster; the caster must make a saving throw against the spell using their own spell save DC.

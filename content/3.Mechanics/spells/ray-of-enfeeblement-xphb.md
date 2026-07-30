@@ -20,6 +20,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Warlock
 - Wizard
+title: "Ray of Enfeeblement"
 aliases:
 - "Ray of Enfeeblement"
 ---

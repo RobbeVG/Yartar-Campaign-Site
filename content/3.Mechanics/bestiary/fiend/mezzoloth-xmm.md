@@ -9,13 +9,15 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend/yugoloth
-statblock: inline
-statblock-link: "#^statblock"
+title: "Mezzoloth"
 aliases:
 - "Mezzoloth"
+conditionImmunities:
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Mezzoloth](3.Mechanics/bestiary/fiend/mezzoloth-xmm.md)
+# Mezzoloth
 *Source: Monster Manual (2024) p. 211*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Mezzoloth.webp#right)
 
 ## Mezzoloth
 
@@ -41,72 +43,60 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
 | 5 | The right to loot holy sites in places it conquers. |
 | 6 | Souls, whether as larvae or captured spirits. |
 ^mezzoloth-payments
+```ad-statblock
+title: Mezzoloth
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mezzoloth.webp#token)
+*Medium Fiend (yugoloth), Neutral Evil*
 
-```statblock
-"name": "Mezzoloth (XMM)"
-"size": "Medium"
-"type": "fiend"
-"subtype": "yugoloth"
-"alignment": "Neutral Evil"
-"ac": !!int "18"
-"hp": !!int "75"
-"hit_dice": "10d8 + 30"
-"modifier": !!int "3"
-"stats":
-  - !!int "18"
-  - !!int "11"
-  - !!int "16"
-  - !!int "7"
-  - !!int "14"
-  - !!int "10"
-"speed": "40 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+5"
-"damage_resistances": "cold, fire, lightning"
-"damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
-"languages": "Abyssal, Infernal; telepathy 60 ft."
-"cr": "5"
-"traits":
-  - "desc": "If the mezzoloth dies outside Gehenna, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ somewhere in Gehenna."
-    "name": "Fiendish Restoration"
-  - "desc": "The mezzoloth has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The mezzoloth makes two attacks, using Claws or Mercurial Trident in\
-      \ any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+7|noform|noparens|text(+7), reach 5\
-      \ ft. *Hit:* dice:2d4+4|noform|noparens|avg|text(9) (2d4 + 4) Slashing damage.\
-      \ If the target is a Large or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition (escape DC 14) from two of four claws, and it has the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition until the grapple ends."
-    "name": "Claws"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+7|noform|noparens|text(+7),\
-      \ reach 5 ft. or range 20/60 ft. *Hit:* dice:1d8+4|noform|noparens|avg|text(8)\
-      \ (1d8 + 4) Piercing damage plus dice:3d6|noform|noparens|avg|text(10) (3d6)\
-      \ Force damage. *Hit or Miss:* The trident magically returns to the mezzoloth's\
-      \ claw immediately after a ranged attack."
-    "name": "Mercurial Trident"
-  - "desc": "The mezzoloth casts one of the following spells, requiring no Material\
-      \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n**1/day each:** [Cloudkill](3.Mechanics/spells/cloudkill-xphb.md), [Darkness](3.Mechanics/spells/darkness-xphb.md),\
-      \ [Dispel Magic](3.Mechanics/spells/dispel-magic-xphb.md)"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The mezzoloth teleports up to 60 feet to an unoccupied space it can see.\
-      \ It can teleport one creature it is grappling to an unoccupied space within\
-      \ 5 feet of its destination space."
-    "name": "Teleport (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Mezzoloth.webp"
+- **Armor Class** 18 
+- **Hit Points** 75 (10d8 + 30) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 7 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 11 | +0 | +0 |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 10 | +0 | +0 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5
+- **Damage Resistances** Cold, Fire, Lightning
+- **Damage Immunities** Acid, Poison
+- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 15
+- **Languages** Abyssal, Infernal; Telepathy 60 ft.
+- **Challenge** 5
+
+## Traits
+
+***Fiendish Restoration.*** If the mezzoloth dies outside Gehenna, its body dissolves into ichor, and it gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) somewhere in Gehenna.
+
+***Magic Resistance.*** The mezzoloth has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The mezzoloth makes two attacks, using Claws or Mercurial Trident in any combination.
+
+***Claws.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. *Hit:* `dice:2d4+4|noform|noparens|avg|text(9)` (`2d4 + 4`) Slashing damage. If the target is a Large or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 14) from two of four claws, and it has the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition until the grapple ends.
+
+***Mercurial Trident.*** *Melee  or Ranged Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. or range 20/60 ft. *Hit:* `dice:1d8+4|noform|noparens|avg|text(8)` (`1d8 + 4`) Piercing damage plus `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) Force damage. *Hit or Miss:* The trident magically returns to the mezzoloth's claw immediately after a ranged attack.
+
+***Spellcasting.*** The mezzoloth casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 13):
+
+**1/day each:** [Cloudkill](3.Mechanics/spells/cloudkill-xphb.md), [Darkness](3.Mechanics/spells/darkness-xphb.md), [Dispel Magic](3.Mechanics/spells/dispel-magic-xphb.md)
+
+## Bonus Actions
+
+***Teleport (Recharge 5-6).*** The mezzoloth teleports up to 60 feet to an unoccupied space it can see. It can teleport one creature it is grappling to an unoccupied space within 5 feet of its destination space.
 ```
 ^statblock
 

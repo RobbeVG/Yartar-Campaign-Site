@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+title: "Amulet of Health"
 aliases:
 - "Amulet of Health"
 ---
 # Amulet of Health
 *Wondrous item, rare (requires attunement)*  
-![](file://items/XDMG/Amulet%20of%20Health.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Amulet%20of%20Health.webp#right)
 
 - **Weight**: 1.0 lbs.
 

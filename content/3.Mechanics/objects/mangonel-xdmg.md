@@ -6,22 +6,23 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/large
 - ttrpg-cli/object/type/siege-weapon
+title: "Mangonel"
 aliases:
 - "Mangonel"
 ---
 # Mangonel
-%%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide (2024) p. 97*  
+*Source: Dungeon Master's Guide (2024) p. 97* 
+
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/objects/XDMG/Mangonel.webp#right)
 
 A Mangonel is a catapult that hurls heavy projectiles in a high arc, so it can hit targets behind walls. Loading a Mangonel requires two [Utilize](3.Mechanics/rules/actions.md#Utilize) actions, and aiming it requires two more [Utilize](3.Mechanics/rules/actions.md#Utilize) actions. Then a crew member can take the Mangonel Stone action.
-
 ```ad-statblock
 title: Mangonel
-![](file://objects/tokens/XDMG/Mangonel.webp#token)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/objects/tokens/XDMG/Mangonel.webp#token)
 *Large Siege weapon*
 
-- **Armor Class** 15
-- **Hit Points** 100
+- **Armor Class** 15 
+- **Hit Points** 100 
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/potion
+title: "Potion of Lightning Resistance"
 aliases:
 - "Potion of Lightning Resistance"
 ---

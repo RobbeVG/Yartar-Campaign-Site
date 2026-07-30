@@ -10,7 +10,7 @@ aliases:
 # Chapter 4: Character Origins
 *Source: Player's Handbook (2024), p. 176* 
 
-![Not even a white dragon's wrath can chill these heroes of the Forgotten Realms: Laeral Silverhand, Drizzt Do'Urden, and Vajra Safahr](file://book/XPHB/127-05-001.laeral-drizzt-vajra.webp#center)
+![Not even a white dragon's wrath can chill these heroes of the Forgotten Realms: Laeral Silverhand, Drizzt Do'Urden, and Vajra Safahr](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/127-05-001.laeral-drizzt-vajra.webp#center)
 
 This chapter describes the two components of an adventurer's origin: "background" and "species". Together, these elements suggest your character's early experience and family origin before taking up the adventuring life and learning the capabilities of a class (described in "chapter 3").
 
@@ -105,4 +105,4 @@ Sixteen backgrounds are presented in this section in alphabetical order:
 
 Ten species are presented in this section in alphabetical order: [Aasimar](3.Mechanics/races/aasimar-xphb.md), [Dragonborn](3.Mechanics/races/dragonborn-xphb.md), [Dwarf](3.Mechanics/races/dwarf-xphb.md), [Elf](3.Mechanics/races/elf-xphb.md), [Gnome](3.Mechanics/races/gnome-xphb.md), [Goliath](3.Mechanics/races/goliath-xphb.md), [Halfling](3.Mechanics/races/halfling-xphb.md), [Human](3.Mechanics/races/human-xphb.md), [Orc](3.Mechanics/races/orc-xphb.md), and [Tiefling](3.Mechanics/races/tiefling-xphb.md).
 
-![](file://book/XPHB/153-05-027.map-decoration.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/153-05-027.map-decoration.webp#center)

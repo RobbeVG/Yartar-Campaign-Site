@@ -15,13 +15,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/giant
-statblock: inline
-statblock-link: "#^statblock"
+title: "Ogre"
 aliases:
 - "Ogre"
 ---
-# [Ogre](3.Mechanics/bestiary/giant/ogre-xmm.md)
+# Ogre
 *Source: Monster Manual (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Ogres.webp#right)
 
 Ogres are 10-foot-tall brutes that overwhelm their foes and take what spoils they please. Ogre raiders ally with other evil forces in return for food, riches, and promises of battle.
 
@@ -36,42 +36,42 @@ Ogres are selfish raiders and hulking gluttons spawned of hateful supernatural f
 
 Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Vaprak. They magically emerge from the earth of lands corrupted by evil gods, sinister magic, or ancient curses. Some bear evidence of the places that spawned them, sporting rocky calluses, mossy growths, or frozen scars.
 
-```statblock
-"name": "Ogre (XMM)"
-"size": "Large"
-"type": "giant"
-"alignment": "Chaotic Evil"
-"ac": !!int "11"
-"hp": !!int "68"
-"hit_dice": "8d10 + 24"
-"modifier": !!int "-1"
-"stats":
-  - !!int "19"
-  - !!int "8"
-  - !!int "16"
-  - !!int "5"
-  - !!int "7"
-  - !!int "7"
-"speed": "40 ft."
-"gear":
-  - "[greatclub](3.Mechanics/items/greatclub-xphb.md)"
-  - "three [javelins](3.Mechanics/items/javelin-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
-"languages": "Common, Giant"
-"cr": "2"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:2d8+4|noform|noparens|avg|text(13) (2d8 + 4) Bludgeoning\
-      \ damage."
-    "name": "Greatclub"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+6|noform|noparens|text(+6),\
-      \ reach 5 ft. or range 30/120 ft. *Hit:* dice:2d6+4|noform|noparens|avg|text(11)\
-      \ (2d6 + 4) Piercing damage."
-    "name": "Javelin"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Ogre.webp"
+```ad-statblock
+title: Ogre
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ogre.webp#token)
+*Large Giant, Chaotic Evil*
+
+- **Armor Class** 11 
+- **Hit Points** 68 (8d10 + 24) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 19 | +4 | +4 |
+|Int| 5 | -3 | -3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 8 | -1 | -1 |
+|Wis| 7 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 7 | -2 | -2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Gear** [greatclub](3.Mechanics/items/greatclub-xphb.md), three [javelins](3.Mechanics/items/javelin-xphb.md)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 8
+- **Languages** Common, Giant
+- **Challenge** 2
+
+## Actions
+
+***Greatclub.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:2d8+4|noform|noparens|avg|text(13)` (`2d8 + 4`) Bludgeoning damage.
+
+***Javelin.*** *Melee  or Ranged Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. or range 30/120 ft. *Hit:* `dice:2d6+4|noform|noparens|avg|text(11)` (`2d6 + 4`) Piercing damage.
 ```
 ^statblock
 

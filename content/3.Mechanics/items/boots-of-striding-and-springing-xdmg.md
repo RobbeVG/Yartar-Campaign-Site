@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Boots of Striding and Springing"
 aliases:
 - "Boots of Striding and Springing"
 ---
 # Boots of Striding and Springing
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Boots%20of%20Striding%20and%20Springing.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Boots%20of%20Striding%20and%20Springing.webp#right)
 
 
 While you wear these boots, your [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) becomes 30 feet unless your [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) is higher, and your [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) isn't reduced by you carrying weight in excess of your carrying capacity or wearing Heavy Armor.

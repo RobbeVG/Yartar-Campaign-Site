@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/armor/heavy
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
+title: "Plate Armor of Etherealness"
 aliases:
 - "Plate Armor of Etherealness"
 ---

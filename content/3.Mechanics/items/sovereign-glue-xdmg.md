@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/legendary
+title: "Sovereign Glue"
 aliases:
 - "Sovereign Glue"
 ---
 # Sovereign Glue
 *Wondrous item, legendary*  
-![](file://items/XDMG/Sovereign%20Glue.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Sovereign%20Glue.webp#right)
 
 
 This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with [Oil of Slipperiness](3.Mechanics/items/oil-of-slipperiness-xdmg.md). When found, a container contains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) ounces.

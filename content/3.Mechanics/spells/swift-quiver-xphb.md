@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/school/transmutation
 classes:
 - Ranger
+title: "Swift Quiver"
 aliases:
 - "Swift Quiver"
 ---

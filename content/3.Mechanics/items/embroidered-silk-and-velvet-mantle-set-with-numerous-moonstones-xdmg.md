@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
+title: "Embroidered silk and velvet mantle set with numerous moonstones"
 aliases:
 - "Embroidered silk and velvet mantle set with numerous moonstones"
 ---

@@ -15,6 +15,7 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Paladin
+title: "Create Food and Water"
 aliases:
 - "Create Food and Water"
 ---

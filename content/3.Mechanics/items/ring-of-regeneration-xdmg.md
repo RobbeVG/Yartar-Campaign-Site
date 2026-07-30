@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/ring
+title: "Ring of Regeneration"
 aliases:
 - "Ring of Regeneration"
 ---
 # Ring of Regeneration
 *Ring, very rare (requires attunement)*  
-![](file://items/XDMG/Ring%20of%20Regeneration.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ring%20of%20Regeneration.webp#right)
 
 
 While wearing this ring, you regain `dice:1d6|noform|noparens|avg` (`1d6`) [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) every 10 minutes if you have at least 1 [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md). If you lose a body part, the ring causes the missing part to regrow and return to full functionality after `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) days if you have at least 1 [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md) the whole time.

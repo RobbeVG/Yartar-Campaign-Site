@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/ranged
+title: "Musket"
 aliases:
 - "Musket"
 ---
 # Musket
 *Weapon*  
-![](file://items/XPHB/Musket.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Musket.webp#right)
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120

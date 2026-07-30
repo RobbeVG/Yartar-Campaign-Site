@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/potion
+title: "Potion of Frost Giant Strength"
 aliases:
 - "Potion of Frost Giant Strength"
 ---

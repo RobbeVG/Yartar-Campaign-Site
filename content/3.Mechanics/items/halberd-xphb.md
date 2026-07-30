@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Halberd"
 aliases:
 - "Halberd"
 ---
 # Halberd
 *Weapon*  
-![](file://items/XPHB/Halberd.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Halberd.webp#right)
 
 - **Damage**: 1d10 slashing
 - **Properties**: [Heavy](3.Mechanics/rules/item-properties.md#Heavy), [Reach](3.Mechanics/rules/item-properties.md#Reach), [Two-Handed](3.Mechanics/rules/item-properties.md#Two-Handed)

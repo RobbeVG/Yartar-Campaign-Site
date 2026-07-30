@@ -19,6 +19,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Sunbeam"
 aliases:
 - "Sunbeam"
 ---

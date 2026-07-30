@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/race/tiefling
+title: "Tiefling"
 aliases:
 - "Tiefling"
 ---
 # Tiefling
 *Source: Player's Handbook (2024) p. 197. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-![](file://races/XPHB/Tiefling.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/races/XPHB/Tiefling.webp#right)
 
 - **Ability Scores**: None
 - **Type**: humanoid
@@ -63,5 +64,5 @@ The infernal legacy connects tieflings not only to Gehenna but also the Nine Hel
 
 
 > [!gallery]
-![Infernal Tiefling, Chthonic Tiefling, Abyssal Tiefling](file://races/XPHB/156-05-029.infernal-chthonic-abyssal.webp)
-![](file://races/XPHB/157-05-028.armored-tiefling.webp)
+![Infernal Tiefling, Chthonic Tiefling, Abyssal Tiefling](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/races/XPHB/156-05-029.infernal-chthonic-abyssal.webp)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/races/XPHB/157-05-028.armored-tiefling.webp)

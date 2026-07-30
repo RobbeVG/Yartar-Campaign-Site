@@ -9,13 +9,15 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Vampire Familiar"
 aliases:
 - "Vampire Familiar"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed) (except from its vampire master)
 ---
-# [Vampire Familiar](3.Mechanics/bestiary/humanoid/vampire-familiar-xmm.md)
+# Vampire Familiar
 *Source: Monster Manual (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![A vampire familiar provides a meal for a vampire spawn](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Vampires.webp#right)
 
 Vampire familiars are living people who serve vampires, either willingly or due to coercion by their deathless masters. They channel deathly energy through their weapons, incapacitating unsuspecting targets and leaving their victims as helpless prey for their vampire masters.
 
@@ -55,67 +57,52 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > Darling, you are simply delicious...
 
 
-```statblock
-"name": "Vampire Familiar (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral Evil"
-"ac": !!int "15"
-"hp": !!int "65"
-"hit_dice": "10d8 + 20"
-"modifier": !!int "5"
-"stats":
-  - !!int "17"
-  - !!int "16"
-  - !!int "15"
-  - !!int "10"
-  - !!int "10"
-  - !!int "14"
-"speed": "30 ft., climb 30 ft."
-"saves":
-  - "dexterity": !!int "5"
-  - "wisdom": !!int "2"
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
-    "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+7"
-"damage_resistances": "necrotic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed) (except\
-  \ from its vampire master)"
-"gear":
-  - "ten [daggers](3.Mechanics/items/dagger-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
-"languages": "Common plus one other language"
-"cr": "3"
-"traits":
-  - "desc": "While the familiar and its vampire master are on the same plane of existence,\
-      \ the vampire can communicate with the familiar telepathically, and the vampire\
-      \ can perceive through the familiar's senses."
-    "name": "Vampiric Connection"
-"actions":
-  - "desc": "The familiar makes two Umbral Dagger attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+5|noform|noparens|text(+5),\
-      \ reach 5 ft. or range 20/60 ft. *Hit:* dice:1d4+3|noform|noparens|avg|text(5)\
-      \ (1d4 + 3) Piercing damage plus dice:3d4|noform|noparens|avg|text(7) (3d4)\
-      \ Necrotic damage. If the target is reduced to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ by this attack, the target becomes [Stable](3.Mechanics/rules/variant-rules/stable-xphb.md)\
-      \ but has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition\
-      \ for 1 hour. While it has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition, the target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)\
-      \ condition."
-    "name": "Umbral Dagger"
-"bonus_actions":
-  - "desc": "The familiar takes the [Dash](3.Mechanics/rules/actions.md#Dash) or [Disengage](3.Mechanics/rules/actions.md#Disengage)\
-      \ action."
-    "name": "Deathless Agility"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Vampire%20Familiar.webp"
+```ad-statblock
+title: Vampire Familiar
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Vampire%20Familiar.webp#token)
+*Small or Medium Humanoid, Neutral Evil*
+
+- **Armor Class** 15 
+- **Hit Points** 65 (10d8 + 20) 
+- **Speed** 30 ft., climb 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17 | +3 | +3 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16 | +3 | **+5** |
+|Wis| 10 | +0 | **+2** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15 | +2 | +2 |
+|Cha| 14 | +2 | +2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Dexterity +5, Wisdom +2
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
+- **Damage Resistances** Necrotic
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed) (except from its vampire master)
+- **Gear** ten [daggers](3.Mechanics/items/dagger-xphb.md)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Languages** Common plus one other language
+- **Challenge** 3
+
+## Traits
+
+***Vampiric Connection.*** While the familiar and its vampire master are on the same plane of existence, the vampire can communicate with the familiar telepathically, and the vampire can perceive through the familiar's senses.
+
+## Actions
+
+***Multiattack.*** The familiar makes two Umbral Dagger attacks.
+
+***Umbral Dagger.*** *Melee  or Ranged Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. or range 20/60 ft. *Hit:* `dice:1d4+3|noform|noparens|avg|text(5)` (`1d4 + 3`) Piercing damage plus `dice:3d4|noform|noparens|avg|text(7)` (`3d4`) Necrotic damage. If the target is reduced to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) by this attack, the target becomes [Stable](3.Mechanics/rules/variant-rules/stable-xphb.md) but has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition for 1 hour. While it has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition, the target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed) condition.
+
+## Bonus Actions
+
+***Deathless Agility.*** The familiar takes the [Dash](3.Mechanics/rules/actions.md#Dash) or [Disengage](3.Mechanics/rules/actions.md#Disengage) action.
 ```
 ^statblock
 

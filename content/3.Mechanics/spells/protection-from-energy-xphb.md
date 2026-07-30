@@ -35,6 +35,7 @@ classes:
 - Sorcerer (Clockwork Sorcery)
 - Wizard
 - Wizard (Abjurer)
+title: "Protection from Energy"
 aliases:
 - "Protection from Energy"
 ---

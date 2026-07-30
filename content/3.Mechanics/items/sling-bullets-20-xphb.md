@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/ammunition
 - ttrpg-cli/item/rarity/none
+title: "Sling Bullets (20)"
 aliases:
 - "Sling Bullets (20)"
 ---

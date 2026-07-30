@@ -8,58 +8,60 @@ tags:
 - ttrpg-cli/monster/environment/arctic
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/beast
-statblock: inline
-statblock-link: "#^statblock"
+title: "Mammoth"
 aliases:
 - "Mammoth"
 ---
-# [Mammoth](3.Mechanics/bestiary/beast/mammoth-xmm.md)
+# Mammoth
 *Source: Monster Manual (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![A druid calls on animals of the hills and mountains to aid her cause](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Hills%20and%20Mountains.webp#right)
 
 ## Animals
 
 Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3.Mechanics/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3.Mechanics/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
-```statblock
-"name": "Mammoth (XMM)"
-"size": "Huge"
-"type": "beast"
-"alignment": "Unaligned"
-"ac": !!int "13"
-"hp": !!int "126"
-"hit_dice": "11d12 + 55"
-"modifier": !!int "2"
-"stats":
-  - !!int "24"
-  - !!int "9"
-  - !!int "21"
-  - !!int "3"
-  - !!int "11"
-  - !!int "6"
-"speed": "50 ft."
-"saves":
-  - "strength": !!int "10"
-  - "constitution": !!int "8"
-"senses": "passive Perception 10"
-"languages": ""
-"cr": "6"
-"actions":
-  - "desc": "The mammoth makes two Gore attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+10|noform|noparens|text(+10), reach\
-      \ 10 ft. *Hit:* dice:2d10+7|noform|noparens|avg|text(18) (2d10 + 7) Piercing\
-      \ damage. If the target is a Huge or smaller creature and the mammoth moved\
-      \ 20+ feet straight toward it immediately before the hit, the target has the\
-      \ [Prone](3.Mechanics/rules/conditions.md#Prone) condition."
-    "name": "Gore"
-"bonus_actions":
-  - "desc": "*Dexterity Saving Throw:* DC 18, one creature within 5 feet that has\
-      \ the [Prone](3.Mechanics/rules/conditions.md#Prone) condition. *Failure:* dice:4d10+7|noform|noparens|avg|text(29)\
-      \ (4d10 + 7) Bludgeoning damage. *Success:* Half damage."
-    "name": "Trample"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Mammoth.webp"
+> [!gallery]
+![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
+![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
+```ad-statblock
+title: Mammoth
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mammoth.webp#token)
+*Huge Beast, Unaligned*
+
+- **Armor Class** 13 
+- **Hit Points** 126 (11d12 + 55) 
+- **Speed** 50 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 24 | +7 | **+10** |
+|Int| 3 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 9 | -1 | -1 |
+|Wis| 11 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 21 | +5 | **+8** |
+|Cha| 6 | -2 | -2 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Strength +10, Constitution +8
+- **Skills** ⏤
+- **Senses** Passive Perception 10
+- **Languages** —
+- **Challenge** 6
+
+## Actions
+
+***Multiattack.*** The mammoth makes two Gore attacks.
+
+***Gore.*** *Melee Attack Roll:* `dice:1d20+10|noform|noparens|text(+10)`, reach 10 ft. *Hit:* `dice:2d10+7|noform|noparens|avg|text(18)` (`2d10 + 7`) Piercing damage. If the target is a Huge or smaller creature and the mammoth moved 20+ feet straight toward it immediately before the hit, the target has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition.
+
+## Bonus Actions
+
+***Trample.*** *Dexterity Saving Throw:* DC 18, one creature within 5 feet that has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition. *Failure:* `dice:4d10+7|noform|noparens|avg|text(29)` (`4d10 + 7`) Bludgeoning damage. *Success:* Half damage.
 ```
 ^statblock
 

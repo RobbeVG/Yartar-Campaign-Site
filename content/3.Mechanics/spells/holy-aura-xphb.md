@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Cleric
+title: "Holy Aura"
 aliases:
 - "Holy Aura"
 ---

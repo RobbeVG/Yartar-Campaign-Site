@@ -23,6 +23,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Abjurer)
+title: "Nondetection"
 aliases:
 - "Nondetection"
 ---

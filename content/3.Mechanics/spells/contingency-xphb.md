@@ -15,6 +15,7 @@ classes:
 - Wizard
 - Wizard (Abjurer)
 - Wizard (Evoker)
+title: "Contingency"
 aliases:
 - "Contingency"
 ---

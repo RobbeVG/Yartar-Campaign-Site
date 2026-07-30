@@ -8,13 +8,15 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend
-statblock: inline
-statblock-link: "#^statblock"
+title: "Cambion"
 aliases:
 - "Cambion"
+conditionImmunities:
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Cambion](3.Mechanics/bestiary/fiend/cambion-xmm.md)
+# Cambion
 *Source: Monster Manual (2024) p. 65*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Cambion.webp#right)
 
 ## Cambion
 
@@ -46,63 +48,51 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
 | 5 | Suffering a god's curse. |
 | 6 | Taking part in fiendish rituals. |
 ^cambion-origins
+```ad-statblock
+title: Cambion
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cambion.webp#token)
+*Medium Fiend, Neutral Evil*
 
-```statblock
-"name": "Cambion (XMM)"
-"size": "Medium"
-"type": "fiend"
-"alignment": "Neutral Evil"
-"ac": !!int "19"
-"hp": !!int "105"
-"hit_dice": "14d8 + 42"
-"modifier": !!int "4"
-"stats":
-  - !!int "18"
-  - !!int "18"
-  - !!int "16"
-  - !!int "14"
-  - !!int "12"
-  - !!int "16"
-"speed": "30 ft., fly 60 ft."
-"saves":
-  - "strength": !!int "7"
-  - "constitution": !!int "6"
-  - "intelligence": !!int "5"
-  - "charisma": !!int "6"
-"skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
-    "desc": "+6"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+7"
-"damage_resistances": "cold, fire, lightning, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 14"
-"languages": "Abyssal, Common, Infernal"
-"cr": "5"
-"actions":
-  - "desc": "The cambion makes two attacks, using Claw or Fire Ray in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+7|noform|noparens|text(+7), reach 5\
-      \ ft. *Hit:* dice:1d8+4|noform|noparens|avg|text(8) (1d8 + 4) Slashing damage\
-      \ plus dice:2d6|noform|noparens|avg|text(7) (2d6) Fire damage."
-    "name": "Claw"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+7|noform|noparens|text(+7), range 120\
-      \ ft. *Hit:* dice:3d6+3|noform|noparens|avg|text(13) (3d6 + 3) Fire damage."
-    "name": "Fire Ray"
-  - "desc": "The cambion casts one of the following spells, requiring no Material\
-      \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
-      \n**2/day each:** [Alter Self](3.Mechanics/spells/alter-self-xphb.md), [Command](3.Mechanics/spells/command-xphb.md)\
-      \ (level 3 version), [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md)\n\
-      \n**1/day each:** [Dominate Person](3.Mechanics/spells/dominate-person-xphb.md)\
-      \ (level 8 version), [Plane Shift](3.Mechanics/spells/plane-shift-xphb.md) (self\
-      \ only)"
-    "name": "Spellcasting"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Cambion.webp"
+- **Armor Class** 19 
+- **Hit Points** 105 (14d8 + 42) 
+- **Speed** 30 ft., fly 60 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | **+7** |
+|Int| 14 | +2 | **+5** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18 | +4 | +4 |
+|Wis| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | **+6** |
+|Cha| 16 | +3 | **+6** |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Strength +7, Constitution +6, Intelligence +5, Charisma +6
+- **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
+- **Damage Resistances** Cold, Fire, Lightning, Poison
+- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 14
+- **Languages** Abyssal, Common, Infernal
+- **Challenge** 5
+
+## Actions
+
+***Multiattack.*** The cambion makes two attacks, using Claw or Fire Ray in any combination.
+
+***Claw.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. *Hit:* `dice:1d8+4|noform|noparens|avg|text(8)` (`1d8 + 4`) Slashing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Fire damage.
+
+***Fire Ray.*** *Ranged Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, range 120 ft. *Hit:* `dice:3d6+3|noform|noparens|avg|text(13)` (`3d6 + 3`) Fire damage.
+
+***Spellcasting.*** The cambion casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14):
+
+**2/day each:** [Alter Self](3.Mechanics/spells/alter-self-xphb.md), [Command](3.Mechanics/spells/command-xphb.md) (level 3 version), [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md)
+
+**1/day each:** [Dominate Person](3.Mechanics/spells/dominate-person-xphb.md) (level 8 version), [Plane Shift](3.Mechanics/spells/plane-shift-xphb.md) (self only)
 ```
 ^statblock
 

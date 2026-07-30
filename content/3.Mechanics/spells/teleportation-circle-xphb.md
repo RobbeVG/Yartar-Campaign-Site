@@ -15,6 +15,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Teleportation Circle"
 aliases:
 - "Teleportation Circle"
 ---

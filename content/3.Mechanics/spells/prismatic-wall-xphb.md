@@ -13,6 +13,7 @@ classes:
 - Bard
 - Wizard
 - Wizard (Abjurer)
+title: "Prismatic Wall"
 aliases:
 - "Prismatic Wall"
 ---

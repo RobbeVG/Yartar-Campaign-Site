@@ -14,6 +14,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Holy Avenger"
 aliases:
 - "Holy Avenger"
 - "Holy Avenger Antimatter Rifle"
@@ -72,7 +73,7 @@ aliases:
 ---
 # Holy Avenger
 *Legendary (requires attunement by a paladin)*  
-![Holy Avenger (Greatsword)](file://items/XDMG/Holy%20Avenger.webp#right)
+![Holy Avenger (Greatsword)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Holy%20Avenger.webp#right)
 
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. When you hit a Fiend or an Undead with it, that creature takes an extra `dice:2d10|noform|noparens|avg` (`2d10`) Radiant damage.

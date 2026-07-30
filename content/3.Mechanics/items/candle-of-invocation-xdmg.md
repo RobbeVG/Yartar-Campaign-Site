@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+title: "Candle of Invocation"
 aliases:
 - "Candle of Invocation"
 ---
 # Candle of Invocation
 *Wondrous item, very rare (requires attunement)*  
-![](file://items/XDMG/Candle%20of%20Invocation.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Candle%20of%20Invocation.webp#right)
 
 
 This candle's magic is activated when the candle is lit, which requires a [Magic](3.Mechanics/rules/actions.md#Magic) action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from its total burn time.

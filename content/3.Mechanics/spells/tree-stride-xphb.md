@@ -17,12 +17,13 @@ classes:
 - Druid (Circle of the Land, Temperate Land)
 - Paladin (Oath of the Ancients)
 - Ranger
+title: "Tree Stride"
 aliases:
 - "Tree Stride"
 ---
 # Tree Stride
 *5th-level, Conjuration*  
-![](file://spells/XPHB/Tree%20Stride.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Tree%20Stride.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Self

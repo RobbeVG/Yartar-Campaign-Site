@@ -15,6 +15,7 @@ classes:
 - Cleric
 - Cleric (Light Domain)
 - Paladin (Oath of Devotion)
+title: "Flame Strike"
 aliases:
 - "Flame Strike"
 ---

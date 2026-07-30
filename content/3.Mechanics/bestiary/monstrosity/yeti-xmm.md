@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/arctic
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Yeti"
 aliases:
 - "Yeti"
 ---
-# [Yeti](3.Mechanics/bestiary/monstrosity/yeti-xmm.md)
+# Yeti
 *Source: Monster Manual (2024) p. 339*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Yeti.webp#right)
 
 Yetis hunt alone or in small family groups. They avoid the settlements of other creatures but lurk near paths frequented by traders and herders to pick off unsuspecting prey. Yetis make their homes in icy caves near frozen peaks and at extremes where few dare travel.
 
@@ -34,59 +34,50 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
 > In the yeti, I find no kinship, no understanding, no mercy. Theirs is not the might of the mountain or the magic of glacial wonders. Theirs is a world where harmony lies murdered and frozen.
 
 
-```statblock
-"name": "Yeti (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Chaotic Evil"
-"ac": !!int "12"
-"hp": !!int "51"
-"hit_dice": "6d10 + 18"
-"modifier": !!int "1"
-"stats":
-  - !!int "18"
-  - !!int "13"
-  - !!int "16"
-  - !!int "8"
-  - !!int "12"
-  - !!int "7"
-"speed": "40 ft., climb 40 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+5"
-"damage_immunities": "cold"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
-"languages": "Yeti"
-"cr": "3"
-"traits":
-  - "desc": "If the yeti takes Fire damage, it has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
-      \ on attack rolls and ability checks until the end of its next turn."
-    "name": "Fear of Fire"
-"actions":
-  - "desc": "The yeti can use its Chilling Gaze and makes two attacks, using Claw\
-      \ or Ice Throw in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:1d6+4|noform|noparens|avg|text(7) (1d6 + 4) Slashing damage\
-      \ plus dice:1d6|noform|noparens|avg|text(3) (1d6) Cold damage."
-    "name": "Claw"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+6|noform|noparens|text(+6), range 30/120\
-      \ ft. *Hit:* dice:1d4+4|noform|noparens|avg|text(6) (1d4 + 4) Bludgeoning\
-      \ damage plus dice:1d4|noform|noparens|avg|text(2) (1d4) Cold damage."
-    "name": "Ice Throw"
-  - "desc": "*Constitution Saving Throw:* DC 13, one creature the yeti can see within\
-      \ 30 feet. *Failure:* dice:2d4|noform|noparens|avg|text(5) (2d4) Cold damage,\
-      \ and the target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)\
-      \ condition until the start of the yeti's next turn unless the target has [Immunity](3.Mechanics/rules/variant-rules/immunity-xphb.md)\
-      \ to Cold damage. *Success:* The target is immune to the Chilling Gaze of all\
-      \ yetis (but not abominable yetis) for 1 hour."
-    "name": "Chilling Gaze"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Yeti.webp"
+```ad-statblock
+title: Yeti
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Yeti.webp#token)
+*Large Monstrosity, Chaotic Evil*
+
+- **Armor Class** 12 
+- **Hit Points** 51 (6d10 + 18) 
+- **Speed** 40 ft., climb 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 13 | +1 | +1 |
+|Wis| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 7 | -2 | -2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
+- **Damage Immunities** Cold
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 15
+- **Languages** Yeti
+- **Challenge** 3
+
+## Traits
+
+***Fear of Fire.*** If the yeti takes Fire damage, it has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on attack rolls and ability checks until the end of its next turn.
+
+## Actions
+
+***Multiattack.*** The yeti can use its Chilling Gaze and makes two attacks, using Claw or Ice Throw in any combination.
+
+***Claw.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:1d6+4|noform|noparens|avg|text(7)` (`1d6 + 4`) Slashing damage plus `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) Cold damage.
+
+***Ice Throw.*** *Ranged Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, range 30/120 ft. *Hit:* `dice:1d4+4|noform|noparens|avg|text(6)` (`1d4 + 4`) Bludgeoning damage plus `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) Cold damage.
+
+***Chilling Gaze.*** *Constitution Saving Throw:* DC 13, one creature the yeti can see within 30 feet. *Failure:* `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) Cold damage, and the target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed) condition until the start of the yeti's next turn unless the target has [Immunity](3.Mechanics/rules/variant-rules/immunity-xphb.md) to Cold damage. *Success:* The target is immune to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour.
 ```
 ^statblock
 

@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Bandit"
 aliases:
 - "Bandit"
 ---
-# [Bandit](3.Mechanics/bestiary/humanoid/bandit-xmm.md)
+# Bandit
 *Source: Monster Manual (2024) p. 27. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Bandits.webp#right)
 
 Bandits are inexperienced ne'er-do-wells who typically follow the orders of higher-ranking bandits.
 
@@ -47,40 +47,42 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 | 6 | Takes what they need to survive. |
 ^bandit-motivations
 
-```statblock
-"name": "Bandit (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "12"
-"hp": !!int "11"
-"hit_dice": "2d8 + 2"
-"modifier": !!int "1"
-"stats":
-  - !!int "11"
-  - !!int "12"
-  - !!int "12"
-  - !!int "10"
-  - !!int "10"
-  - !!int "10"
-"speed": "30 ft."
-"gear":
-  - "[leather armor](3.Mechanics/items/leather-armor-xphb.md)"
-  - "[light crossbow](3.Mechanics/items/light-crossbow-xphb.md)"
-  - "[scimitar](3.Mechanics/items/scimitar-xphb.md)"
-"senses": "passive Perception 10"
-"languages": "Common, Thieves' cant"
-"cr": "1/8"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+3|noform|noparens|text(+3), reach 5\
-      \ ft. *Hit:* dice:1d6+1|noform|noparens|avg|text(4) (1d6 + 1) Slashing damage."
-    "name": "Scimitar"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+3|noform|noparens|text(+3), range 80/320\
-      \ ft. *Hit:* dice:1d8+1|noform|noparens|avg|text(5) (1d8 + 1) Piercing damage."
-    "name": "Light Crossbow"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Bandit.webp"
+```ad-statblock
+title: Bandit
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bandit.webp#token)
+*Small or Medium Humanoid, Neutral*
+
+- **Armor Class** 12 
+- **Hit Points** 11 (2d8 + 2) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 11 | +0 | +0 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 10 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Gear** [leather armor](3.Mechanics/items/leather-armor-xphb.md), [light crossbow](3.Mechanics/items/light-crossbow-xphb.md), [scimitar](3.Mechanics/items/scimitar-xphb.md)
+- **Senses** Passive Perception 10
+- **Languages** Common, Thieves' cant
+- **Challenge** 1/8
+
+## Actions
+
+***Scimitar.*** *Melee Attack Roll:* `dice:1d20+3|noform|noparens|text(+3)`, reach 5 ft. *Hit:* `dice:1d6+1|noform|noparens|avg|text(4)` (`1d6 + 1`) Slashing damage.
+
+***Light Crossbow.*** *Ranged Attack Roll:* `dice:1d20+3|noform|noparens|text(+3)`, range 80/320 ft. *Hit:* `dice:1d8+1|noform|noparens|avg|text(5)` (`1d8 + 1`) Piercing damage.
 ```
 ^statblock
 

@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Gray Slaad"
 aliases:
 - "Gray Slaad"
 ---
-# [Gray Slaad](3.Mechanics/bestiary/aberration/gray-slaad-xmm.md)
+# Gray Slaad
 *Source: Monster Manual (2024) p. 286*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Gray%20Slaad.webp#right)
 
 Gray slaadi arise from green slaadi transformed by the Spawning Stone or slaad lords. They explore the planes, seeking Humanoid communities to invade near planar pathways.
 
@@ -42,67 +42,58 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
 
 
-```statblock
-"name": "Gray Slaad (XMM)"
-"size": "Medium"
-"type": "aberration"
-"alignment": "Chaotic Neutral"
-"ac": !!int "18"
-"hp": !!int "150"
-"hit_dice": "20d8 + 60"
-"modifier": !!int "7"
-"stats":
-  - !!int "19"
-  - !!int "17"
-  - !!int "16"
-  - !!int "13"
-  - !!int "8"
-  - !!int "18"
-"speed": "40 ft."
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+7"
-"damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 17"
-"languages": "Common, Slaad; telepathy 60 ft."
-"cr": "9"
-"traits":
-  - "desc": "The slaad has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-  - "desc": "The slaad regains 10 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ at the start of each of its turns if it has at least 1 [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md)."
-    "name": "Regeneration"
-"actions":
-  - "desc": "The slaad makes two Chaos Claw attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+8|noform|noparens|text(+8), reach 10\
-      \ ft. *Hit:* dice:1d10+4|noform|noparens|avg|text(9) (1d10 + 4) Slashing\
-      \ damage plus dice:2d10|noform|noparens|avg|text(11) (2d10) Necrotic damage.\
-      \ Until the start of the slaad's next turn, the target has a condition determined\
-      \ by rolling dice:1d4|noform|noparens|avg (1d4): on a 1, [Charmed](3.Mechanics/rules/conditions.md#Charmed);\
-      \ on a 2, [Frightened](3.Mechanics/rules/conditions.md#Frightened); on a 3,\
-      \ [Poisoned](3.Mechanics/rules/conditions.md#Poisoned); or on a 4, [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)."
-    "name": "Chaos Claw"
-  - "desc": "The slaad casts one of the following spells, requiring no Material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 16):\n\n**At\
-      \ will:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md), [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md),\
-      \ [Invisibility](3.Mechanics/spells/invisibility-xphb.md) (self only), [Mage\
-      \ Hand](3.Mechanics/spells/mage-hand-xphb.md), [Major Image](3.Mechanics/spells/major-image-xphb.md)\n\
-      \n**1/day each:** [Cloudkill](3.Mechanics/spells/cloudkill-xphb.md), [Fly](3.Mechanics/spells/fly-xphb.md),\
-      \ [Plane Shift](3.Mechanics/spells/plane-shift-xphb.md) (self only), [Tongues](3.Mechanics/spells/tongues-xphb.md)"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The slaad shape-shifts into a Small or Medium Humanoid, or it returns\
-      \ to its true form. Other than its size, its game statistics are the same in\
-      \ each form. Any equipment it is wearing or carrying isn't transformed."
-    "name": "Shape-Shift"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Gray%20Slaad.webp"
+```ad-statblock
+title: Gray Slaad
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gray%20Slaad.webp#token)
+*Medium Aberration, Chaotic Neutral*
+
+- **Armor Class** 18 
+- **Hit Points** 150 (20d8 + 60) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 19 | +4 | +4 |
+|Int| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 17 | +3 | +3 |
+|Wis| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 18 | +4 | +4 |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** ⏤
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +7
+- **Damage Resistances** Acid, Cold, Fire, Lightning, Thunder
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 17
+- **Languages** Common, Slaad; Telepathy 60 ft.
+- **Challenge** 9
+
+## Traits
+
+***Magic Resistance.*** The slaad has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+***Regeneration.*** The slaad regains 10 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) at the start of each of its turns if it has at least 1 [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md).
+
+## Actions
+
+***Multiattack.*** The slaad makes two Chaos Claw attacks.
+
+***Chaos Claw.*** *Melee Attack Roll:* `dice:1d20+8|noform|noparens|text(+8)`, reach 10 ft. *Hit:* `dice:1d10+4|noform|noparens|avg|text(9)` (`1d10 + 4`) Slashing damage plus `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) Necrotic damage. Until the start of the slaad's next turn, the target has a condition determined by rolling `dice:1d4|noform|noparens|avg` (`1d4`): on a 1, [Charmed](3.Mechanics/rules/conditions.md#Charmed); on a 2, [Frightened](3.Mechanics/rules/conditions.md#Frightened); on a 3, [Poisoned](3.Mechanics/rules/conditions.md#Poisoned); or on a 4, [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated).
+
+***Spellcasting.*** The slaad casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 16):
+
+**At will:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md), [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [Invisibility](3.Mechanics/spells/invisibility-xphb.md) (self only), [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md), [Major Image](3.Mechanics/spells/major-image-xphb.md)
+
+**1/day each:** [Cloudkill](3.Mechanics/spells/cloudkill-xphb.md), [Fly](3.Mechanics/spells/fly-xphb.md), [Plane Shift](3.Mechanics/spells/plane-shift-xphb.md) (self only), [Tongues](3.Mechanics/spells/tongues-xphb.md)
+
+## Bonus Actions
+
+***Shape-Shift.*** The slaad shape-shifts into a Small or Medium Humanoid, or it returns to its true form. Other than its size, its game statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
 ```
 ^statblock
 

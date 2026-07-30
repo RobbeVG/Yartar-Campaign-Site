@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+title: "Quaal's Feather Token, Swan Boat"
 aliases:
 - "Quaal's Feather Token, Swan Boat"
 ---
 # Quaal's Feather Token, Swan Boat
 *Wondrous item, rare*  
-![](file://items/XDMG/Quaals%20Feather%20Token%20%28Swan%20boat%29.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Quaals%20Feather%20Token%20%28Swan%20boat%29.webp#right)
 
 
 This object looks like a feather.

@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Staff of Withering"
 aliases:
 - "Staff of Withering"
 ---
 # Staff of Withering
 *Staff, weapon, rare (requires attunement by a cleric, druid, or warlock)*  
-![](file://items/XDMG/Staff%20of%20Withering.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Staff%20of%20Withering.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

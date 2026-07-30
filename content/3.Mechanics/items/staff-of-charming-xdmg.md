@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Staff of Charming"
 aliases:
 - "Staff of Charming"
 ---
 # Staff of Charming
 *Staff, weapon, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
-![](file://items/XDMG/Staff%20of%20Charming.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Staff%20of%20Charming.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

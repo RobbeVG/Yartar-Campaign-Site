@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Decanter of Endless Water"
 aliases:
 - "Decanter of Endless Water"
 ---
 # Decanter of Endless Water
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Decanter%20of%20Endless%20Water.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Decanter%20of%20Endless%20Water.webp#right)
 
 - **Weight**: 2.0 lbs.
 

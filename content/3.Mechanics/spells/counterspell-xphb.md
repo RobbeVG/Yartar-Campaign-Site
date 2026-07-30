@@ -23,6 +23,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
+title: "Counterspell"
 aliases:
 - "Counterspell"
 ---

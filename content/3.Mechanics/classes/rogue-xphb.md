@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/class/rogue
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Rogue"
 aliases:
 - "Rogue"
 ---
@@ -42,6 +43,8 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Rogue.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d8 per Rogue level
@@ -63,6 +66,11 @@ aliases:
 - **Skill Proficiencies**: *Choose 1:* [Acrobatics](3.Mechanics/rules/skills.md#Acrobatics), [Athletics](3.Mechanics/rules/skills.md#Athletics), [Deception](3.Mechanics/rules/skills.md#Deception), [Insight](3.Mechanics/rules/skills.md#Insight), [Intimidation](3.Mechanics/rules/skills.md#Intimidation), [Investigation](3.Mechanics/rules/skills.md#Investigation), [Perception](3.Mechanics/rules/skills.md#Perception), [Persuasion](3.Mechanics/rules/skills.md#Persuasion), [Sleight of Hand](3.Mechanics/rules/skills.md#Sleight%20of%20Hand), or [Stealth](3.Mechanics/rules/skills.md#Stealth)
 - **Tool Proficiencies**: [Thieves' Tools](3.Mechanics/items/thieves-tools-xphb.md)
 - **Armor Training**: [Light armor](3.Mechanics/rules/item-types.md#Light%20Armor)
+
+> [!gallery]
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/099-04-014.cunning-rogue.webp)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/101-04-016.rogue-v-dragon.webp)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/104-04-019.sneak-attack.webp)
 
 ## Rogue
 

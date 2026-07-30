@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Psychic Blade"
 aliases:
 - "Psychic Blade"
 ---

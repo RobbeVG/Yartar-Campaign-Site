@@ -8,13 +8,15 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid/wizard
-statblock: inline
-statblock-link: "#^statblock"
+title: "Archmage"
 aliases:
 - "Archmage"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed) (with Mind Blank)
 ---
-# [Archmage](3.Mechanics/bestiary/humanoid/archmage-xmm.md)
+# Archmage
 *Source: Monster Manual (2024) p. 199. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Mages.webp#right)
 
 Archmages have mastered incredible magical power. While some use their magic to protect the world, others become tyrants or pursue forbidden secrets. Many archmages retain magical servants and collect magic items and occult lore.
 
@@ -52,76 +54,66 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 > Have you gazed on the Runes of Chaos, held the Death Moon Orb in your trembling hands, entered the Devouring Portal and walked the Paths of the Doomed, or sat at the left hand of Szass Tam during the Ritual of Twin Burnings? No? Then speak not to me of wizards. Speak not to me of Thay.
 
 
-```statblock
-"name": "Archmage (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"subtype": "wizard"
-"alignment": "Neutral"
-"ac": !!int "17"
-"hp": !!int "170"
-"hit_dice": "31d8 + 31"
-"modifier": !!int "6"
-"stats":
-  - !!int "10"
-  - !!int "14"
-  - !!int "12"
-  - !!int "20"
-  - !!int "15"
-  - !!int "16"
-"speed": "30 ft."
-"saves":
-  - "intelligence": !!int "9"
-  - "wisdom": !!int "6"
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+13"
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
-    "desc": "+9"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+6"
-"damage_immunities": "psychic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed) (with\
-  \ Mind Blank)"
-"gear":
-  - "[wand](3.Mechanics/items/wand-xphb.md)"
-"senses": "passive Perception 16"
-"languages": "Common plus five other languages"
-"cr": "12"
-"traits":
-  - "desc": "The archmage has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The archmage makes four Arcane Burst attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+9|noform|noparens|text(+9),\
-      \ reach 5 ft. or range 150 ft. *Hit:* dice:4d10+5|noform|noparens|avg|text(27)\
-      \ (4d10 + 5) Force damage."
-    "name": "Arcane Burst"
-  - "desc": "The archmage casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 17):\n\n**At will:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md),\
-      \ [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [Disguise Self](3.Mechanics/spells/disguise-self-xphb.md),\
-      \ [Invisibility](3.Mechanics/spells/invisibility-xphb.md), [Light](3.Mechanics/spells/light-xphb.md),\
-      \ [Mage Armor](3.Mechanics/spells/mage-armor-xphb.md) (included in AC), [Mage\
-      \ Hand](3.Mechanics/spells/mage-hand-xphb.md), [Prestidigitation](3.Mechanics/spells/prestidigitation-xphb.md)\n\
-      \n**2/day each:** [Fly](3.Mechanics/spells/fly-xphb.md), [Lightning Bolt](3.Mechanics/spells/lightning-bolt-xphb.md)\
-      \ (level 7 version)\n\n**1/day each:** [Cone of Cold](3.Mechanics/spells/cone-of-cold-xphb.md)\
-      \ (level 9 version), [Mind Blank](3.Mechanics/spells/mind-blank-xphb.md) (cast\
-      \ before combat), [Scrying](3.Mechanics/spells/scrying-xphb.md), [Teleport](3.Mechanics/spells/teleport-xphb.md)"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The mage casts [Misty Step](3.Mechanics/spells/misty-step-xphb.md), using\
-      \ the same spellcasting ability as Spellcasting.\n"
-    "name": "Misty Step (3/Day)"
-"reactions":
-  - "desc": "The archmage casts [Counterspell](3.Mechanics/spells/counterspell-xphb.md)\
-      \ or [Shield](3.Mechanics/spells/shield-xphb.md) in response to the spell's\
-      \ trigger, using the same spellcasting ability as Spellcasting.\n"
-    "name": "Protective Magic (3/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Archmage.webp"
+```ad-statblock
+title: Archmage
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Archmage.webp#token)
+*Small or Medium Humanoid (wizard), Neutral*
+
+- **Armor Class** 17 
+- **Hit Points** 170 (31d8 + 31) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10 | +0 | +0 |
+|Int| 20 | +5 | **+9** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 15 | +2 | **+6** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 16 | +3 | +3 |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Intelligence +9, Wisdom +6
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +13, [History](3.Mechanics/rules/skills.md#History) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +6
+- **Damage Immunities** Psychic
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed) (with Mind Blank)
+- **Gear** [wand](3.Mechanics/items/wand-xphb.md)
+- **Senses** Passive Perception 16
+- **Languages** Common plus five other languages
+- **Challenge** 12
+
+## Traits
+
+***Magic Resistance.*** The archmage has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The archmage makes four Arcane Burst attacks.
+
+***Arcane Burst.*** *Melee  or Ranged Attack Roll:* `dice:1d20+9|noform|noparens|text(+9)`, reach 5 ft. or range 150 ft. *Hit:* `dice:4d10+5|noform|noparens|avg|text(27)` (`4d10 + 5`) Force damage.
+
+***Spellcasting.*** The archmage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17):
+
+**At will:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md), [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [Disguise Self](3.Mechanics/spells/disguise-self-xphb.md), [Invisibility](3.Mechanics/spells/invisibility-xphb.md), [Light](3.Mechanics/spells/light-xphb.md), [Mage Armor](3.Mechanics/spells/mage-armor-xphb.md) (included in AC), [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md), [Prestidigitation](3.Mechanics/spells/prestidigitation-xphb.md)
+
+**2/day each:** [Fly](3.Mechanics/spells/fly-xphb.md), [Lightning Bolt](3.Mechanics/spells/lightning-bolt-xphb.md) (level 7 version)
+
+**1/day each:** [Cone of Cold](3.Mechanics/spells/cone-of-cold-xphb.md) (level 9 version), [Mind Blank](3.Mechanics/spells/mind-blank-xphb.md) (cast before combat), [Scrying](3.Mechanics/spells/scrying-xphb.md), [Teleport](3.Mechanics/spells/teleport-xphb.md)
+
+## Bonus Actions
+
+***Misty Step (3/Day).*** The mage casts [Misty Step](3.Mechanics/spells/misty-step-xphb.md), using the same spellcasting ability as Spellcasting.
+
+
+## Reactions
+
+***Protective Magic (3/Day).*** The archmage casts [Counterspell](3.Mechanics/spells/counterspell-xphb.md) or [Shield](3.Mechanics/spells/shield-xphb.md) in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
 

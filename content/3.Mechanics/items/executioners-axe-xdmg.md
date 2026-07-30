@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Executioner's Axe"
 aliases:
 - "Executioner's Axe"
 - "Executioner's Battleaxe"

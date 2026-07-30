@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/shield/
+title: "Shield of the Cavalier"
 aliases:
 - "Shield of the Cavalier"
 ---
 # Shield of the Cavalier
 *Armor ([shield](3.Mechanics/items/shield-xphb.md)), very rare (requires attunement)*  
-![](file://items/XDMG/Shield%20of%20the%20Cavalier.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Shield%20of%20the%20Cavalier.webp#right)
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

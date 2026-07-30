@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration/gith
-statblock: inline
-statblock-link: "#^statblock"
+title: "Githyanki Dracomancer"
 aliases:
 - "Githyanki Dracomancer"
 ---
-# [Githyanki Dracomancer](3.Mechanics/bestiary/aberration/githyanki-dracomancer-xmm.md)
+# Githyanki Dracomancer
 *Source: Monster Manual (2024) p. 135*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Githyanki.webp#right)
 
 One of Gith's last deeds was to forge an alliance between the githyanki and the dragon god Tiamat. Ever since, the Dragon Queen's red dragon consort, Ephelomon, and his kind have been allies of the githyanki. Githyanki dracomancers uphold this pact and cultivate magic talents that complement the might of red dragons.
 
@@ -36,66 +36,54 @@ The victory of the gith was short-lived. As Gith was forging her own burgeoning 
 
 When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaakith's line has continued to the githyanki's current ruler, Vlaakith the Lich-Queen. This undead tyrant compels her people to wage endless wars against mind flayers, githzerai, and any others that threaten githyanki supremacy.
 
-```statblock
-"name": "Githyanki Dracomancer (XMM)"
-"size": "Medium"
-"type": "aberration"
-"subtype": "gith"
-"alignment": "Lawful Evil"
-"ac": !!int "18"
-"hp": !!int "255"
-"hit_dice": "30d8 + 120"
-"modifier": !!int "8"
-"stats":
-  - !!int "10"
-  - !!int "16"
-  - !!int "18"
-  - !!int "20"
-  - !!int "16"
-  - !!int "18"
-"speed": "30 ft., fly 30 ft. (hover)"
-"saves":
-  - "dexterity": !!int "8"
-  - "constitution": !!int "9"
-  - "intelligence": !!int "10"
-  - "wisdom": !!int "8"
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+10"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+8"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 18"
-"languages": "Common, Draconic, Gith"
-"cr": "16"
-"actions":
-  - "desc": "The githyanki makes three Draconic Strike attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+10|noform|noparens|text(+10),\
-      \ reach 10 ft. or range 120 ft. *Hit:* dice:2d6+5|noform|noparens|avg|text(12)\
-      \ (2d6 + 5) Slashing damage plus dice:5d6|noform|noparens|avg|text(17) (5d6)\
-      \ Fire damage, and the target has the [Frightened](3.Mechanics/rules/conditions.md#Frightened)\
-      \ condition until the start of the githyanki's next turn."
-    "name": "Draconic Strike"
-  - "desc": "*Dexterity Saving Throw:* DC 18, each creature in a 90-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* dice:6d8|noform|noparens|avg|text(27) (6d8) Fire damage plus\
-      \ dice:6d8|noform|noparens|avg|text(27) (6d8) Force damage. *Success:* Half\
-      \ damage."
-    "name": "Conjured Dragon's Breath (Recharge 5-6)"
-  - "desc": "The githyanki casts one of the following spells, requiring no spell components\
-      \ and using Intelligence as the spellcasting ability (spell save DC 18, dice:1d20+10|noform|noparens|text(+10)\
-      \ to hit with spell attacks):\n\n**At will:** [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md)\
-      \ (the hand is [Invisible](3.Mechanics/rules/conditions.md#Invisible))\n\n**2/day\
-      \ each:** [Nondetection](3.Mechanics/spells/nondetection-xphb.md) (self only),\
-      \ [Plane Shift](3.Mechanics/spells/plane-shift-xphb.md), [Tongues](3.Mechanics/spells/tongues-xphb.md)"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The githyanki casts [Misty Step](3.Mechanics/spells/misty-step-xphb.md),\
-      \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
-    "name": "Misty Step (3/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Githyanki%20Dracomancer.webp"
+```ad-statblock
+title: Githyanki Dracomancer
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Githyanki%20Dracomancer.webp#token)
+*Medium Aberration (gith), Lawful Evil*
+
+- **Armor Class** 18 
+- **Hit Points** 255 (30d8 + 120) 
+- **Speed** 30 ft., fly 30 ft. (hover)
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10 | +0 | +0 |
+|Int| 20 | +5 | **+10** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16 | +3 | **+8** |
+|Wis| 16 | +3 | **+8** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18 | +4 | **+9** |
+|Cha| 18 | +4 | +4 |
+
+
+- **Proficiency Bonus** +5
+- **Saving Throws** Dexterity +8, Constitution +9, Intelligence +10, Wisdom +8
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +10, [Perception](3.Mechanics/rules/skills.md#Perception) +8
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., Passive Perception 18
+- **Languages** Common, Draconic, Gith
+- **Challenge** 16
+
+## Actions
+
+***Multiattack.*** The githyanki makes three Draconic Strike attacks.
+
+***Draconic Strike.*** *Melee  or Ranged Attack Roll:* `dice:1d20+10|noform|noparens|text(+10)`, reach 10 ft. or range 120 ft. *Hit:* `dice:2d6+5|noform|noparens|avg|text(12)` (`2d6 + 5`) Slashing damage plus `dice:5d6|noform|noparens|avg|text(17)` (`5d6`) Fire damage, and the target has the [Frightened](3.Mechanics/rules/conditions.md#Frightened) condition until the start of the githyanki's next turn.
+
+***Conjured Dragon's Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 18, each creature in a 90-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* `dice:6d8|noform|noparens|avg|text(27)` (`6d8`) Fire damage plus `dice:6d8|noform|noparens|avg|text(27)` (`6d8`) Force damage. *Success:* Half damage.
+
+***Spellcasting.*** The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 18, `dice:1d20+10|noform|noparens|text(+10)` to hit with spell attacks):
+
+**At will:** [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md) (the hand is [Invisible](3.Mechanics/rules/conditions.md#Invisible))
+
+**2/day each:** [Nondetection](3.Mechanics/spells/nondetection-xphb.md) (self only), [Plane Shift](3.Mechanics/spells/plane-shift-xphb.md), [Tongues](3.Mechanics/spells/tongues-xphb.md)
+
+## Bonus Actions
+
+***Misty Step (3/Day).*** The githyanki casts [Misty Step](3.Mechanics/spells/misty-step-xphb.md), requiring no spell components and using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
 

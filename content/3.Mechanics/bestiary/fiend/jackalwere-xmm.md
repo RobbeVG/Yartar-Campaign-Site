@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/grassland
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/fiend
-statblock: inline
-statblock-link: "#^statblock"
+title: "Jackalwere"
 aliases:
 - "Jackalwere"
 ---
-# [Jackalwere](3.Mechanics/bestiary/fiend/jackalwere-xmm.md)
+# Jackalwere
 *Source: Monster Manual (2024) p. 182*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Jackalwere.webp#right)
 
 ## Jackalwere
 
@@ -39,67 +39,53 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
 | 3 | Putting them to sleep, then stealing mounts or supplies. |
 | 4 | Sharing the location of hidden treasure, which turns out to be sunlight on sand or water. |
 ^jackalwere-tricks
+```ad-statblock
+title: Jackalwere
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Jackalwere.webp#token)
+*Small Fiend, Chaotic Evil*
 
-```statblock
-"name": "Jackalwere (XMM)"
-"size": "Small"
-"type": "fiend"
-"alignment": "Chaotic Evil"
-"ac": !!int "12"
-"hp": !!int "18"
-"hit_dice": "4d6 + 4"
-"modifier": !!int "2"
-"stats":
-  - !!int "11"
-  - !!int "15"
-  - !!int "12"
-  - !!int "13"
-  - !!int "11"
-  - !!int "10"
-"speed": "40 ft."
-"skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
-    "desc": "+4"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+4"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 ft., passive Perception\
-  \ 14"
-"languages": "Common"
-"cr": "1/2"
-"traits":
-  - "desc": "The jackalwere has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on an attack roll against a creature if at least one of the jackalwere's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition."
-    "name": "Pack Tactics"
-"actions":
-  - "desc": "The jackalwere makes two Rend or Slam attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5) (1d6 + 2) Piercing damage."
-    "name": "Rend (Jackal or Hybrid Form Only)"
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d4+2|noform|noparens|avg|text(4) (1d4 + 2) Bludgeoning\
-      \ damage."
-    "name": "Slam (Human or Hybrid Form Only)"
-  - "desc": "*Wisdom Saving Throw:* DC 10, one creature the jackalwere can see within\
-      \ 30 feet (Constructs and Undead succeed automatically). *Failure:* The target\
-      \ has the [Unconscious](3.Mechanics/rules/conditions.md#Unconscious) condition\
-      \ for 10 minutes or until it takes damage or a creature within 5 feet of it\
-      \ takes an action to wake it. *Success:* The target is immune to this jackalwere's\
-      \ Sleep Gaze for 24 hours."
-    "name": "Sleep Gaze (Recharge 5-6)"
-"bonus_actions":
-  - "desc": "The jackalwere shape-shifts into a Medium human or a Medium jackal-humanoid\
-      \ hybrid, or it returns to its true form (that of a Small jackal). Other than\
-      \ its size, its game statistics are the same in each form. Any equipment it\
-      \ is wearing or carrying isn't transformed."
-    "name": "Shape-Shift"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Jackalwere.webp"
+- **Armor Class** 12 
+- **Hit Points** 18 (4d6 + 4) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 11 | +0 | +0 |
+|Int| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15 | +2 | +2 |
+|Wis| 11 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 10 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +4, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 Ft., Passive Perception 14
+- **Languages** Common
+- **Challenge** 1/2
+
+## Traits
+
+***Pack Tactics.*** The jackalwere has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on an attack roll against a creature if at least one of the jackalwere's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition.
+
+## Actions
+
+***Multiattack.*** The jackalwere makes two Rend or Slam attacks.
+
+***Rend (Jackal or Hybrid Form Only).*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Piercing damage.
+
+***Slam (Human or Hybrid Form Only).*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) Bludgeoning damage.
+
+***Sleep Gaze (Recharge 5-6).*** *Wisdom Saving Throw:* DC 10, one creature the jackalwere can see within 30 feet (Constructs and Undead succeed automatically). *Failure:* The target has the [Unconscious](3.Mechanics/rules/conditions.md#Unconscious) condition for 10 minutes or until it takes damage or a creature within 5 feet of it takes an action to wake it. *Success:* The target is immune to this jackalwere's Sleep Gaze for 24 hours.
+
+## Bonus Actions
+
+***Shape-Shift.*** The jackalwere shape-shifts into a Medium human or a Medium jackal-humanoid hybrid, or it returns to its true form (that of a Small jackal). Other than its size, its game statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
 ```
 ^statblock
 

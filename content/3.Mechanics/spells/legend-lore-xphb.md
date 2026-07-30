@@ -19,6 +19,7 @@ classes:
 - Sorcerer (Draconic Sorcery)
 - Wizard
 - Wizard (Diviner)
+title: "Legend Lore"
 aliases:
 - "Legend Lore"
 ---

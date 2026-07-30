@@ -7,46 +7,50 @@ tags:
 - ttrpg-cli/monster/cr/
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/beast
-statblock: inline
-statblock-link: "#^statblock"
+title: "Bestial Spirit (Air)"
 aliases:
 - "Bestial Spirit (Air)"
 ---
-# [Bestial Spirit (Air)](3.Mechanics/bestiary/beast/bestial-spirit-air-xphb.md)
+# Bestial Spirit (Air)
 *Source: Player's Handbook (2024) p. 323*  
+```ad-statblock
+title: Bestial Spirit (Air)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Bestial%20Spirit%20%28Air%29.webp#token)
+*Small Beast, Neutral*
 
-```statblock
-"name": "Bestial Spirit (Air) (XPHB)"
-"size": "Small"
-"type": "beast"
-"alignment": "Neutral"
-"ac_class": "11 + the spell's level"
-"hp": "20 + 5 for each spell level above 2"
-"modifier": !!int "0"
-"stats":
-  - !!int "18"
-  - !!int "11"
-  - !!int "16"
-  - !!int "4"
-  - !!int "14"
-  - !!int "5"
-"speed": "30 ft., fly 60 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
-"languages": "understands the languages you know"
-"traits":
-  - "desc": "The spirit doesn't provoke [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack)\
-      \ when it flies out of an enemy's reach."
-    "name": "Flyby"
-"actions":
-  - "desc": "The spirit makes a number of Rend attacks equal to half this spell's\
-      \ level (round down)."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
-      \ ft. *Hit:* 1d8 + 4 + the spell's level Piercing damage."
-    "name": "Rend"
-"source":
-  - "XPHB"
-"image": "file://bestiary/tokens/XPHB/Bestial%20Spirit%20%28Air%29.webp"
+- **Armor Class** (11 + the spell's level)
+- **Hit Points** 20 + 5 for each spell level above 2  (20 + 5 for each spell level above 2)
+- **Speed** 30 ft., fly 60 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 4 | -3 | -3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 11 | +0 | +0 |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 5 | -3 | -3 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
+- **Languages** Understands the languages you know
+- **Challenge** 
+
+## Traits
+
+***Flyby.*** The spirit doesn't provoke [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
+
+## Actions
+
+***Multiattack.*** The spirit makes a number of Rend attacks equal to half this spell's level (round down).
+
+***Rend.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8 + 4` + the spell's level Piercing damage.
 ```
 ^statblock

@@ -21,6 +21,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Crown of Madness"
 aliases:
 - "Crown of Madness"
 ---

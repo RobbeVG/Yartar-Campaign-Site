@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Cleric
+title: "Planar Ally"
 aliases:
 - "Planar Ally"
 ---

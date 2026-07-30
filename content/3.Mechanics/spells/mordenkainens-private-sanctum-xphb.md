@@ -17,6 +17,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Abjurer)
+title: "Mordenkainen's Private Sanctum"
 aliases:
 - "Mordenkainen's Private Sanctum"
 ---

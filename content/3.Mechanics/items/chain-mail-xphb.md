@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/armor/heavy
 - ttrpg-cli/item/rarity/none
+title: "Chain Mail"
 aliases:
 - "Chain Mail"
 ---
 # Chain Mail
 *Heavy armor*  
-![](file://items/XPHB/Chain%20Mail.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Chain%20Mail.webp#right)
 
 - **Armor Class**: 16
 - **Strength**: Requires 13 STR.

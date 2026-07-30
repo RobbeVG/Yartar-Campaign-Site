@@ -13,6 +13,7 @@ classes:
 - Bard
 - Druid
 - Ranger
+title: "Grasping Vine"
 aliases:
 - "Grasping Vine"
 ---

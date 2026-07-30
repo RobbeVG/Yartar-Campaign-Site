@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/ranged
+title: "Semiautomatic Pistol"
 aliases:
 - "Semiautomatic Pistol"
 ---

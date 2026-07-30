@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/legendary
+title: "Universal Solvent"
 aliases:
 - "Universal Solvent"
 ---
 # Universal Solvent
 *Wondrous item, legendary*  
-![](file://items/XDMG/Universal%20Solvent.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Universal%20Solvent.webp#right)
 
 
 This tube holds milky liquid with a strong alcohol smell. When found, a tube contains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) ounces.

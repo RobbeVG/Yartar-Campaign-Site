@@ -17,6 +17,7 @@ classes:
 - Druid
 - Paladin
 - Ranger
+title: "Elemental Weapon"
 aliases:
 - "Elemental Weapon"
 ---

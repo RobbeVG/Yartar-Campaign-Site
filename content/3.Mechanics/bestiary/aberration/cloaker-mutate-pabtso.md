@@ -7,13 +7,16 @@ tags:
 - ttrpg-cli/monster/cr/10
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Cloaker Mutate"
 aliases:
 - "Cloaker Mutate"
+conditionImmunities:
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Cloaker Mutate](3.Mechanics/bestiary/aberration/cloaker-mutate-pabtso.md)
+# Cloaker Mutate
 *Source: Phandelver and Below: The Shattered Obelisk p. 212*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Cloaker%20Mutate.webp#right)
 
 The malign energy of the Far Realm causes a cloaker to merge with the rotted corpse of its last meal, resulting in a hideous puppeteering Aberration. The cloaker mutate shrouds its actions in a miasma of phantasmic duplicates. It uses the corpse melded to its underside to absorb damage and to strike at prey.
 
@@ -29,70 +32,58 @@ Several common types of mutates exist. The individuals with stat blocks presente
 
 Mutates often gain psionic abilities, grow wings, become covered in otherworldly slime, or exhibit other unsettling traits. Specific mutated creatures are further described in appendix A.
 
-```statblock
-"name": "Cloaker Mutate (PaBTSO)"
-"size": "Large"
-"type": "aberration"
-"alignment": "typically  Chaotic Neutral"
-"ac": !!int "14"
-"ac_class": "natural armor"
-"hp": !!int "143"
-"hit_dice": "22d10 + 22"
-"modifier": !!int "2"
-"stats":
-  - !!int "19"
-  - !!int "15"
-  - !!int "12"
-  - !!int "18"
-  - !!int "13"
-  - !!int "11"
-"speed": "10 ft., fly 30 ft."
-"skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+6"
-"damage_resistances": "necrotic, poison, psychic"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
-"languages": "Deep Speech, telepathy 60 ft., Undercommon"
-"cr": "10"
-"traits":
-  - "desc": "If the mutate is subjected to an effect that allows it to make a saving\
-      \ throw to take only half damage, it instead takes no damage if it succeeds\
-      \ on the saving throw, and only half damage if it fails."
-    "name": "Avoidance"
-  - "desc": "While in bright light, the mutate has disadvantage on attack rolls."
-    "name": "Light Sensitivity"
-"actions":
-  - "desc": "The mutate makes one Corpse Swipe attack and two Tail attacks, or it\
-      \ makes four Tail attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* dice:1d20+8|noform|noparens|text(+8) to hit,\
-      \ reach 5 ft., one target. *Hit:* dice:3d10+4|noform|noparens|avg|text(20)\
-      \ (3d10 + 4) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 16 Constitution saving throw or have the [poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition for 1 minute. While [poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ in this way, a creature can't regain hit points."
-    "name": "Corpse Swipe"
-  - "desc": "*Melee Weapon Attack:* dice:1d20+8|noform|noparens|text(+8) to hit,\
-      \ reach 10 ft., one target. *Hit:* dice:2d8+4|noform|noparens|avg|text(13)\
-      \ (2d8 + 4) slashing damage."
-    "name": "Tail"
-"bonus_actions":
-  - "desc": "The mutate magically projects up to four illusory copies of itself. These\
-      \ duplicates make it difficult to ascertain the mutate's true location and last\
-      \ until the end of the mutate's next turn. While the copies exist, attack rolls\
-      \ against the mutate are made with disadvantage."
-    "name": "Phantasmal Duplicates"
-  - "desc": "The mutate lets out a moan charged with psychic energy. Each creature\
-      \ within 60 feet of the mutate that isn't an Aberration must succeed on a DC\
-      \ 16 Wisdom saving throw or take dice:5d6|noform|noparens|avg|text(17) (5d6)\
-      \ psychic damage and have the [frightened](3.Mechanics/rules/conditions.md#Frightened)\
-      \ condition until the end of the mutate's next turn."
-    "name": "Psychic Moan (Recharge 6)"
-"source":
-  - "PaBTSO"
-"image": "file://bestiary/tokens/PaBTSO/Cloaker%20Mutate.webp"
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Mutates.webp#center)
+
+```ad-statblock
+title: Cloaker Mutate
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Cloaker%20Mutate.webp#token)
+*Large Aberration, Typically  Chaotic Neutral*
+
+- **Armor Class** 14 (natural armor)
+- **Hit Points** 143 (22d10 + 22) 
+- **Speed** 10 ft., fly 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 19 | +4 | +4 |
+|Int| 18 | +4 | +4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15 | +2 | +2 |
+|Wis| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 11 | +0 | +0 |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** ⏤
+- **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
+- **Damage Resistances** Necrotic, Poison, Psychic
+- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 11
+- **Languages** Deep Speech, Telepathy 60 ft., Undercommon
+- **Challenge** 10
+
+## Traits
+
+***Avoidance.*** If the mutate is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+
+***Light Sensitivity.*** While in bright light, the mutate has disadvantage on attack rolls.
+
+## Actions
+
+***Multiattack.*** The mutate makes one Corpse Swipe attack and two Tail attacks, or it makes four Tail attacks.
+
+***Corpse Swipe.*** *Melee Weapon Attack:* `dice:1d20+8|noform|noparens|text(+8)` to hit, reach 5 ft., one target. *Hit:* `dice:3d10+4|noform|noparens|avg|text(20)` (`3d10 + 4`) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or have the [poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition for 1 minute. While [poisoned](3.Mechanics/rules/conditions.md#Poisoned) in this way, a creature can't regain hit points.
+
+***Tail.*** *Melee Weapon Attack:* `dice:1d20+8|noform|noparens|text(+8)` to hit, reach 10 ft., one target. *Hit:* `dice:2d8+4|noform|noparens|avg|text(13)` (`2d8 + 4`) slashing damage.
+
+## Bonus Actions
+
+***Phantasmal Duplicates.*** The mutate magically projects up to four illusory copies of itself. These duplicates make it difficult to ascertain the mutate's true location and last until the end of the mutate's next turn. While the copies exist, attack rolls against the mutate are made with disadvantage.
+
+***Psychic Moan (Recharge 6).*** The mutate lets out a moan charged with psychic energy. Each creature within 60 feet of the mutate that isn't an Aberration must succeed on a DC 16 Wisdom saving throw or take `dice:5d6|noform|noparens|avg|text(17)` (`5d6`) psychic damage and have the [frightened](3.Mechanics/rules/conditions.md#Frightened) condition until the end of the mutate's next turn.
 ```
 ^statblock

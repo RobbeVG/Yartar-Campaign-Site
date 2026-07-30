@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/sorcerer/draconic
+title: "Draconic Sorcery"
 aliases:
 - "Draconic Sorcery"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Draconic%20Sorcerer.webp#right)
 
 *Breathe the Magic of Dragons*
 

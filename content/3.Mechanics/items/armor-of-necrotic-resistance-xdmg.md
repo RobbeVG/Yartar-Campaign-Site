@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Armor of Necrotic Resistance"
 aliases:
 - "Armor of Necrotic Resistance"
 - "Breastplate of Necrotic Resistance"

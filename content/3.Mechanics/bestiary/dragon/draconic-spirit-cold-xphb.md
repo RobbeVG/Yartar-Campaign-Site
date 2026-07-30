@@ -7,53 +7,57 @@ tags:
 - ttrpg-cli/monster/cr/
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/dragon
-statblock: inline
-statblock-link: "#^statblock"
+title: "Draconic Spirit (Cold)"
 aliases:
 - "Draconic Spirit (Cold)"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Draconic Spirit (Cold)](3.Mechanics/bestiary/dragon/draconic-spirit-cold-xphb.md)
+# Draconic Spirit (Cold)
 *Source: Player's Handbook (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+```ad-statblock
+title: Draconic Spirit (Cold)
+*Large Dragon, Neutral*
 
-```statblock
-"name": "Draconic Spirit (Cold) (XPHB)"
-"size": "Large"
-"type": "dragon"
-"alignment": "Neutral"
-"ac_class": "14 + the spell's level"
-"hp": "50 + 10 for each spell level above 5"
-"modifier": !!int "2"
-"stats":
-  - !!int "19"
-  - !!int "14"
-  - !!int "17"
-  - !!int "10"
-  - !!int "14"
-  - !!int "14"
-"speed": "30 ft., fly 60 ft., swim 30 ft."
-"damage_resistances": "acid, cold, fire, lightning, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
-"languages": "Draconic, understands the languages you know"
-"traits":
-  - "desc": "You have [Resistance](3.Mechanics/rules/variant-rules/resistance-xphb.md)\
-      \ to Cold damage until the spell ends."
-    "name": "Shared Resistances"
-"actions":
-  - "desc": "The spirit makes a number of Rend attacks equal to half the spell's level\
-      \ (round down), and it uses Breath Weapon."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10\
-      \ feet. *Hit:* 1d6 + 4 + the spell's level Piercing damage."
-    "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC equals your spell save DC, each creature\
-      \ in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* dice:2d6|noform|noparens|avg (2d6) Cold damage. *Success:*\
-      \ Half damage."
-    "name": "Breath Weapon"
-"source":
-  - "XPHB"
+- **Armor Class** (14 + the spell's level)
+- **Hit Points** 50 + 10 for each spell level above 5  (50 + 10 for each spell level above 5)
+- **Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 19 | +4 | +4 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 17 | +3 | +3 |
+|Cha| 14 | +2 | +2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Resistances** Acid, Cold, Fire, Lightning, Poison
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
+- **Languages** Draconic, Understands the languages you know
+- **Challenge** 
+
+## Traits
+
+***Shared Resistances.*** You have [Resistance](3.Mechanics/rules/variant-rules/resistance-xphb.md) to Cold damage until the spell ends.
+
+## Actions
+
+***Multiattack.*** The spirit makes a number of Rend attacks equal to half the spell's level (round down), and it uses Breath Weapon.
+
+***Rend.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10 feet. *Hit:* `1d6 + 4` + the spell's level Piercing damage.
+
+***Breath Weapon.*** *Dexterity Saving Throw:* DC equals your spell save DC, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* `dice:2d6|noform|noparens|avg` (`2d6`) Cold damage. *Success:* Half damage.
 ```
 ^statblock

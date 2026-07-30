@@ -8,65 +8,63 @@ tags:
 - ttrpg-cli/monster/environment/forest
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/beast
-statblock: inline
-statblock-link: "#^statblock"
+title: "Giant Ape"
 aliases:
 - "Giant Ape"
 ---
-# [Giant Ape](3.Mechanics/bestiary/beast/giant-ape-xmm.md)
+# Giant Ape
 *Source: Monster Manual (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Giant%20Ape%20and%20Giant%20Bat.webp#right)
 
 ## Animals
 
 Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3.Mechanics/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3.Mechanics/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
-```statblock
-"name": "Giant Ape (XMM)"
-"size": "Huge"
-"type": "beast"
-"alignment": "Unaligned"
-"ac": !!int "12"
-"hp": !!int "168"
-"hit_dice": "16d12 + 64"
-"modifier": !!int "5"
-"stats":
-  - !!int "23"
-  - !!int "14"
-  - !!int "18"
-  - !!int "5"
-  - !!int "12"
-  - !!int "7"
-"speed": "40 ft., climb 40 ft."
-"skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
-    "desc": "+9"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-  - "name": "[Survival](3.Mechanics/rules/skills.md#Survival)"
-    "desc": "+4"
-"senses": "passive Perception 14"
-"languages": ""
-"cr": "7"
-"actions":
-  - "desc": "The ape makes two Fist attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+9|noform|noparens|text(+9), reach 10\
-      \ ft. *Hit:* dice:3d10+6|noform|noparens|avg|text(22) (3d10 + 6) Bludgeoning\
-      \ damage."
-    "name": "Fist"
-  - "desc": "The ape hurls a boulder at a point it can see within 90 feet. *Dexterity\
-      \ Saving Throw:* DC 17, each creature in a 5-foot-radius [Sphere](3.Mechanics/rules/variant-rules/sphere-area-of-effect-xphb.md)\
-      \ centered on that point. *Failure:* dice:7d6|noform|noparens|avg|text(24)\
-      \ (7d6) Bludgeoning damage. If the target is a Large or smaller creature,\
-      \ it has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition. *Success:*\
-      \ Half damage only."
-    "name": "Boulder Toss (Recharge 6)"
-"bonus_actions":
-  - "desc": "The ape jumps up to 30 feet by spending 10 feet of movement."
-    "name": "Leap"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Giant%20Ape.webp"
+> [!gallery]
+![A druid calls on animals of the hills and mountains to aid her cause](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Hills%20and%20Mountains.webp)
+![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
+![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
+```ad-statblock
+title: Giant Ape
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Giant%20Ape.webp#token)
+*Huge Beast, Unaligned*
+
+- **Armor Class** 12 
+- **Hit Points** 168 (16d12 + 64) 
+- **Speed** 40 ft., climb 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 23 | +6 | +6 |
+|Int| 5 | -3 | -3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18 | +4 | +4 |
+|Cha| 7 | -2 | -2 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Survival](3.Mechanics/rules/skills.md#Survival) +4
+- **Senses** Passive Perception 14
+- **Languages** —
+- **Challenge** 7
+
+## Actions
+
+***Multiattack.*** The ape makes two Fist attacks.
+
+***Fist.*** *Melee Attack Roll:* `dice:1d20+9|noform|noparens|text(+9)`, reach 10 ft. *Hit:* `dice:3d10+6|noform|noparens|avg|text(22)` (`3d10 + 6`) Bludgeoning damage.
+
+***Boulder Toss (Recharge 6).*** The ape hurls a boulder at a point it can see within 90 feet. *Dexterity Saving Throw:* DC 17, each creature in a 5-foot-radius [Sphere](3.Mechanics/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on that point. *Failure:* `dice:7d6|noform|noparens|avg|text(24)` (`7d6`) Bludgeoning damage. If the target is a Large or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition. *Success:* Half damage only.
+
+## Bonus Actions
+
+***Leap.*** The ape jumps up to 30 feet by spending 10 feet of movement.
 ```
 ^statblock
 

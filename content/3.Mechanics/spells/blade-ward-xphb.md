@@ -26,6 +26,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
+title: "Blade Ward"
 aliases:
 - "Blade Ward"
 ---

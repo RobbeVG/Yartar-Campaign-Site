@@ -7,105 +7,77 @@ tags:
 - ttrpg-cli/monster/cr/11
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Chishinix"
 aliases:
 - "Chishinix"
+conditionImmunities:
+- [blinded](3.Mechanics/rules/conditions.md#Blinded)
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
-# [Chishinix](3.Mechanics/bestiary/npc/chishinix-pabtso.md)
+# Chishinix
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Chishinix.webp#center)
+```ad-statblock
+title: Chishinix
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Chishinix.webp#token)
+*Medium Aberration, Typically  Lawful Evil*
 
-```statblock
-"name": "Chishinix (PaBTSO)"
-"size": "Medium"
-"type": "aberration"
-"alignment": "typically  Lawful Evil"
-"ac": !!int "15"
-"ac_class": "[breastplate](3.Mechanics/items/breastplate-xphb.md)"
-"hp": !!int "156"
-"hit_dice": "24d8 + 48"
-"modifier": !!int "1"
-"stats":
-  - !!int "11"
-  - !!int "12"
-  - !!int "15"
-  - !!int "21"
-  - !!int "17"
-  - !!int "18"
-"speed": "30 ft., fly 60 ft. (hover)"
-"saves":
-  - "intelligence": !!int "9"
-  - "wisdom": !!int "7"
-  - "charisma": !!int "8"
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+9"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
-    "desc": "+7"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+7"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+5"
-"damage_resistances": "psychic"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., [truesight](3.Mechanics/rules/senses.md#Truesight)\
-  \ 15 ft., passive Perception 17"
-"languages": "Deep Speech, telepathy 120 ft., Undercommon"
-"cr": "11"
-"traits":
-  - "desc": "If Chishinix fails a saving throw, it can choose to succeed instead."
-    "name": "Legendary Resistance (3/Day)"
-  - "desc": "Chishinix has advantage on saving throws against spells and other magical\
-      \ effects."
-    "name": "Magic Resistance"
-  - "desc": "Chishinix is always accompanied by a [severed head](3.Mechanics/bestiary/npc/chishinix-head-pabtso.md)."
-    "name": "Severed Head"
-"actions":
-  - "desc": "Chishinix makes two Tentacle attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* dice:1d20+9|noform|noparens|text(+9) to hit,\
-      \ reach 5 ft., one creature. *Hit:* dice:3d10+5|noform|noparens|avg|text(21)\
-      \ (3d10 + 5) psychic damage. If the target is Medium or smaller, it has the\
-      \ [grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC\
-      \ 17) and must succeed on a DC 17 Intelligence saving throw or have the [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition until the grapple ends."
-    "name": "Tentacle"
-  - "desc": "*Melee Weapon Attack:* dice:1d20+9|noform|noparens|text(+9) to hit,\
-      \ reach 5 ft., one [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ Humanoid [grappled](3.Mechanics/rules/conditions.md#Grappled) by Chishinix.\
-      \ *Hit:* dice:10d10|noform|noparens|avg|text(55) (10d10) piercing damage.\
-      \ If this damage reduces the target to 0 hit points, Chishinix kills it by extracting\
-      \ and devouring its brain."
-    "name": "Extract Brain"
-  - "desc": "Chishinix opens a rift into the Far Realm, centered on a point Chishinix\
-      \ can see within 60 feet of itself, and a tentacle lashes across creatures near\
-      \ the rift. Each creature other than mind flayers within 30 feet of the rift\
-      \ must make a DC 17 Intelligence saving throw, after which the tentacle disappears\
-      \ and the rift closes. On a failed save, a creature takes dice:4d8|noform|noparens|avg|text(18)\
-      \ (4d8) cold damage from the rift plus dice:4d8|noform|noparens|avg|text(18)\
-      \ (4d8) psychic damage from the tentacle and has the [stunned](3.Mechanics/rules/conditions.md#Stunned)\
-      \ condition for 1 minute. On a successful save, a creature takes half as much\
-      \ damage only. A [stunned](3.Mechanics/rules/conditions.md#Stunned) creature\
-      \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success."
-    "name": "Unleash Void (Recharge 5-6)"
-  - "desc": "Chishinix casts one of the following spells, requiring no spell components\
-      \ and using Intelligence as the spellcasting ability (spell save DC 17):\n\n\
-      **At will:** [detect magic](3.Mechanics/spells/detect-magic-xphb.md), [detect\
-      \ thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [mage hand](3.Mechanics/spells/mage-hand-xphb.md)\
-      \ (the hand is invisible)\n\n**3/day each:** [clairvoyance](3.Mechanics/spells/clairvoyance-xphb.md)\
-      \ (as an action), [dispel magic](3.Mechanics/spells/dispel-magic-xphb.md)\n\n\
-      **1/day:** [plane shift](3.Mechanics/spells/plane-shift-xphb.md) (self only)"
-    "name": "Spellcasting (Psionics)"
-"reactions":
-  - "desc": "When hit by an attack roll, Chishinix gains a +4 bonus to its AC against\
-      \ that attack roll, potentially causing it to miss. Then Chishinix, along with\
-      \ any equipment it is wearing or carrying, magically teleports up to 60 feet\
-      \ to an unoccupied space it can see."
-    "name": "Warp Reality"
-"source":
-  - "PaBTSO"
-"image": "file://bestiary/tokens/PaBTSO/Chishinix.webp"
+- **Armor Class** 15 ([breastplate](3.Mechanics/items/breastplate-xphb.md))
+- **Hit Points** 156 (24d8 + 48) 
+- **Speed** 30 ft., fly 60 ft. (hover)
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 11 | +0 | +0 |
+|Int| 21 | +5 | **+9** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 17 | +3 | **+7** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15 | +2 | +2 |
+|Cha| 18 | +4 | **+8** |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Intelligence +9, Wisdom +7, Charisma +8
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +9, [Insight](3.Mechanics/rules/skills.md#Insight) +7, [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
+- **Damage Resistances** Psychic
+- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., [Truesight](3.Mechanics/rules/senses.md#Truesight) 15 Ft., Passive Perception 17
+- **Languages** Deep Speech, Telepathy 120 ft., Undercommon
+- **Challenge** 11
+
+## Traits
+
+***Legendary Resistance (3/Day).*** If Chishinix fails a saving throw, it can choose to succeed instead.
+
+***Magic Resistance.*** Chishinix has advantage on saving throws against spells and other magical effects.
+
+***Severed Head.*** Chishinix is always accompanied by a [severed head](3.Mechanics/bestiary/npc/chishinix-head-pabtso.md).
+
+## Actions
+
+***Multiattack.*** Chishinix makes two Tentacle attacks.
+
+***Tentacle.*** *Melee Weapon Attack:* `dice:1d20+9|noform|noparens|text(+9)` to hit, reach 5 ft., one creature. *Hit:* `dice:3d10+5|noform|noparens|avg|text(21)` (`3d10 + 5`) psychic damage. If the target is Medium or smaller, it has the [grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 17) and must succeed on a DC 17 Intelligence saving throw or have the [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition until the grapple ends.
+
+***Extract Brain.*** *Melee Weapon Attack:* `dice:1d20+9|noform|noparens|text(+9)` to hit, reach 5 ft., one [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) Humanoid [grappled](3.Mechanics/rules/conditions.md#Grappled) by Chishinix. *Hit:* `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, Chishinix kills it by extracting and devouring its brain.
+
+***Unleash Void (Recharge 5-6).*** Chishinix opens a rift into the Far Realm, centered on a point Chishinix can see within 60 feet of itself, and a tentacle lashes across creatures near the rift. Each creature other than mind flayers within 30 feet of the rift must make a DC 17 Intelligence saving throw, after which the tentacle disappears and the rift closes. On a failed save, a creature takes `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) cold damage from the rift plus `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) psychic damage from the tentacle and has the [stunned](3.Mechanics/rules/conditions.md#Stunned) condition for 1 minute. On a successful save, a creature takes half as much damage only. A [stunned](3.Mechanics/rules/conditions.md#Stunned) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Spellcasting (Psionics).*** Chishinix casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 17):
+
+**At will:** [detect magic](3.Mechanics/spells/detect-magic-xphb.md), [detect thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [mage hand](3.Mechanics/spells/mage-hand-xphb.md) (the hand is invisible)
+
+**3/day each:** [clairvoyance](3.Mechanics/spells/clairvoyance-xphb.md) (as an action), [dispel magic](3.Mechanics/spells/dispel-magic-xphb.md)
+
+**1/day:** [plane shift](3.Mechanics/spells/plane-shift-xphb.md) (self only)
+
+## Reactions
+
+***Warp Reality.*** When hit by an attack roll, Chishinix gains a +4 bonus to its AC against that attack roll, potentially causing it to miss. Then Chishinix, along with any equipment it is wearing or carrying, magically teleports up to 60 feet to an unoccupied space it can see.
 ```
 ^statblock

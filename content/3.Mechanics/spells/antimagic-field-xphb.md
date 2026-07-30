@@ -15,6 +15,7 @@ classes:
 - Cleric
 - Wizard
 - Wizard (Abjurer)
+title: "Antimagic Field"
 aliases:
 - "Antimagic Field"
 ---

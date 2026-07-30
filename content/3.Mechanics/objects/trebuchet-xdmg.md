@@ -6,22 +6,21 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/huge
 - ttrpg-cli/object/type/siege-weapon
+title: "Trebuchet"
 aliases:
 - "Trebuchet"
 ---
 # Trebuchet
-%%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide (2024) p. 97*  
+*Source: Dungeon Master's Guide (2024) p. 97* 
 
 A Trebuchet is a catapult that throws its payload in a high arc so it can hit targets behind walls. Loading a Trebuchet requires two [Utilize](3.Mechanics/rules/actions.md#Utilize) actions, and aiming it requires two more [Utilize](3.Mechanics/rules/actions.md#Utilize) actions. Then a crew member can take the Trebuchet Stone action.
-
 ```ad-statblock
 title: Trebuchet
-![](file://objects/tokens/XDMG/Trebuchet.webp#token)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/objects/tokens/XDMG/Trebuchet.webp#token)
 *Huge Siege weapon*
 
-- **Armor Class** 15
-- **Hit Points** 150
+- **Armor Class** 15 
+- **Hit Points** 150 
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|

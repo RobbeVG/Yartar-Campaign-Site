@@ -15,13 +15,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fey/goblinoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Hobgoblin Warlord"
 aliases:
 - "Hobgoblin Warlord"
 ---
-# [Hobgoblin Warlord](3.Mechanics/bestiary/fey/hobgoblin-warlord-xmm.md)
+# Hobgoblin Warlord
 *Source: Monster Manual (2024) p. 171*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Hobgoblin%20Warlord.webp#right)
 
 Hobgoblin warlords lead armies of hobgoblins and their allies, using their experience and strategic minds to command amid the ebb and flow of battle.
 
@@ -56,65 +56,54 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 | 6 | Help shortsighted merchants undermine a government or despoil the environment. |
 ^hobgoblin-strategies
 
-```statblock
-"name": "Hobgoblin Warlord (XMM)"
-"size": "Medium"
-"type": "fey"
-"subtype": "goblinoid"
-"alignment": "Lawful Evil"
-"ac": !!int "20"
-"hp": !!int "112"
-"hit_dice": "15d8 + 45"
-"modifier": !!int "5"
-"stats":
-  - !!int "17"
-  - !!int "14"
-  - !!int "16"
-  - !!int "14"
-  - !!int "11"
-  - !!int "15"
-"speed": "30 ft."
-"saves":
-  - "dexterity": !!int "5"
-  - "intelligence": !!int "5"
-  - "wisdom": !!int "3"
-  - "charisma": !!int "5"
-"gear":
-  - "nine [javelins](3.Mechanics/items/javelin-xphb.md)"
-  - "[longsword](3.Mechanics/items/longsword-xphb.md)"
-  - "[plate armor](3.Mechanics/items/plate-armor-xphb.md)"
-  - "[shield](3.Mechanics/items/shield-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Common, Goblin"
-"cr": "6"
-"traits":
-  - "desc": "While in a 30-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the hobgoblin, the hobgoblin and its allies have [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on attack rolls and saving throws, provided the hobgoblin doesn't have the\
-      \ [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition."
-    "name": "Aura of Authority"
-"actions":
-  - "desc": "The hobgoblin makes three attacks, using Javelin or Longsword in any\
-      \ combination."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+6|noform|noparens|text(+6),\
-      \ reach 5 ft. or range 30/120 ft. *Hit:* dice:2d6+4|noform|noparens|avg|text(11)\
-      \ (2d6 + 4) Piercing damage, and the target's [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md)\
-      \ decreases by 10 feet until the start of the hobgoblin's next turn."
-    "name": "Javelin"
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:2d8+3|noform|noparens|avg|text(12) (2d8 + 3) Slashing\
-      \ damage."
-    "name": "Longsword"
-"reactions":
-  - "desc": "Trigger: The hobgoblin is hit by a melee attack roll while holding a\
-      \ weapon. _Response:_ The hobgoblin adds 3 to its AC against that attack, possibly\
-      \ causing it to miss."
-    "name": "Parry"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Hobgoblin%20Warlord.webp"
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Hobgoblins.webp#center)
+
+```ad-statblock
+title: Hobgoblin Warlord
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hobgoblin%20Warlord.webp#token)
+*Medium Fey (goblinoid), Lawful Evil*
+
+- **Armor Class** 20 
+- **Hit Points** 112 (15d8 + 45) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17 | +3 | +3 |
+|Int| 14 | +2 | **+5** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | **+5** |
+|Wis| 11 | +0 | **+3** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 15 | +2 | **+5** |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Dexterity +5, Intelligence +5, Wisdom +3, Charisma +5
+- **Skills** ⏤
+- **Gear** nine [javelins](3.Mechanics/items/javelin-xphb.md), [longsword](3.Mechanics/items/longsword-xphb.md), [plate armor](3.Mechanics/items/plate-armor-xphb.md), [shield](3.Mechanics/items/shield-xphb.md)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Common, Goblin
+- **Challenge** 6
+
+## Traits
+
+***Aura of Authority.*** While in a 30-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the hobgoblin, the hobgoblin and its allies have [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on attack rolls and saving throws, provided the hobgoblin doesn't have the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition.
+
+## Actions
+
+***Multiattack.*** The hobgoblin makes three attacks, using Javelin or Longsword in any combination.
+
+***Javelin.*** *Melee  or Ranged Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. or range 30/120 ft. *Hit:* `dice:2d6+4|noform|noparens|avg|text(11)` (`2d6 + 4`) Piercing damage, and the target's [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) decreases by 10 feet until the start of the hobgoblin's next turn.
+
+***Longsword.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:2d8+3|noform|noparens|avg|text(12)` (`2d8 + 3`) Slashing damage.
+
+## Reactions
+
+***Parry.*** Trigger: The hobgoblin is hit by a melee attack roll while holding a weapon. _Response:_ The hobgoblin adds 3 to its AC against that attack, possibly causing it to miss.
 ```
 ^statblock
 

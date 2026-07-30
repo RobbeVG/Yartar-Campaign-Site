@@ -12,13 +12,13 @@ tags:
 - ttrpg-cli/monster/environment/mountain
 - ttrpg-cli/monster/size/gargantuan
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Roc"
 aliases:
 - "Roc"
 ---
-# [Roc](3.Mechanics/bestiary/monstrosity/roc-xmm.md)
+# Roc
 *Source: Monster Manual (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Roc.webp#right)
 
 ## Roc
 
@@ -44,56 +44,47 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
 | 5 | Someone marooned in the nest. |
 | 6 | A statue of a knight riding a rearing steed. |
 ^roc-nest-remnants
+```ad-statblock
+title: Roc
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Roc.webp#token)
+*Gargantuan Monstrosity, Unaligned*
 
-```statblock
-"name": "Roc (XMM)"
-"size": "Gargantuan"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "15"
-"hp": !!int "248"
-"hit_dice": "16d20 + 80"
-"modifier": !!int "8"
-"stats":
-  - !!int "28"
-  - !!int "10"
-  - !!int "20"
-  - !!int "3"
-  - !!int "10"
-  - !!int "9"
-"speed": "20 ft., fly 120 ft."
-"saves":
-  - "dexterity": !!int "4"
-  - "wisdom": !!int "4"
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+8"
-"senses": "passive Perception 18"
-"languages": ""
-"cr": "11"
-"actions":
-  - "desc": "The roc makes two Beak attacks. It can replace one attack with a Talons\
-      \ attack."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+13|noform|noparens|text(+13), reach\
-      \ 10 ft. *Hit:* dice:3d12+9|noform|noparens|avg|text(28) (3d12 + 9) Piercing\
-      \ damage."
-    "name": "Beak"
-  - "desc": "*Melee Attack Roll:* dice:1d20+13|noform|noparens|text(+13), reach\
-      \ 5 ft. *Hit:* dice:4d6+9|noform|noparens|avg|text(23) (4d6 + 9) Slashing\
-      \ damage. If the target is a Huge or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition (escape DC 19) from both talons, and it has the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition until the grapple ends."
-    "name": "Talons"
-"bonus_actions":
-  - "desc": "If the roc has a creature [Grappled](3.Mechanics/rules/conditions.md#Grappled),\
-      \ the roc flies up to half its [Fly Speed](3.Mechanics/rules/variant-rules/fly-speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack)\
-      \ and drops that creature."
-    "name": "Swoop (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Roc.webp"
+- **Armor Class** 15 
+- **Hit Points** 248 (16d20 + 80) 
+- **Speed** 20 ft., fly 120 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 28 | +9 | +9 |
+|Int| 3 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | **+4** |
+|Wis| 10 | +0 | **+4** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 20 | +5 | +5 |
+|Cha| 9 | -1 | -1 |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Dexterity +4, Wisdom +4
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +8
+- **Senses** Passive Perception 18
+- **Languages** —
+- **Challenge** 11
+
+## Actions
+
+***Multiattack.*** The roc makes two Beak attacks. It can replace one attack with a Talons attack.
+
+***Beak.*** *Melee Attack Roll:* `dice:1d20+13|noform|noparens|text(+13)`, reach 10 ft. *Hit:* `dice:3d12+9|noform|noparens|avg|text(28)` (`3d12 + 9`) Piercing damage.
+
+***Talons.*** *Melee Attack Roll:* `dice:1d20+13|noform|noparens|text(+13)`, reach 5 ft. *Hit:* `dice:4d6+9|noform|noparens|avg|text(23)` (`4d6 + 9`) Slashing damage. If the target is a Huge or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 19) from both talons, and it has the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition until the grapple ends.
+
+## Bonus Actions
+
+***Swoop (Recharge 5-6).*** If the roc has a creature [Grappled](3.Mechanics/rules/conditions.md#Grappled), the roc flies up to half its [Fly Speed](3.Mechanics/rules/variant-rules/fly-speed-xphb.md) without provoking [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack) and drops that creature.
 ```
 ^statblock
 

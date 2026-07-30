@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
+title: "Sling"
 aliases:
 - "Sling"
 ---
 # Sling
 *Weapon*  
-![](file://items/XPHB/Sling.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Sling.webp#right)
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120

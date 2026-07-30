@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/monk/mercy
+title: "Warrior of Mercy"
 aliases:
 - "Warrior of Mercy"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Mercy%20Monk.webp#right)
 
 *Manipulate Forces of Life and Death*
 

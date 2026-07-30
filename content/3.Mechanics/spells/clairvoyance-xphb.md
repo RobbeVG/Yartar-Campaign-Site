@@ -25,6 +25,7 @@ classes:
 - Warlock (Great Old One Patron)
 - Wizard
 - Wizard (Diviner)
+title: "Clairvoyance"
 aliases:
 - "Clairvoyance"
 ---

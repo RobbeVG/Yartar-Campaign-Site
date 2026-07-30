@@ -21,6 +21,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Hold Monster"
 aliases:
 - "Hold Monster"
 ---

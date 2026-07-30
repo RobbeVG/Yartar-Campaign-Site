@@ -12,13 +12,13 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fey
-statblock: inline
-statblock-link: "#^statblock"
+title: "Worg"
 aliases:
 - "Worg"
 ---
-# [Worg](3.Mechanics/bestiary/fey/worg-xmm.md)
+# Worg
 *Source: Monster Manual (2024) p. 335. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Worg.webp#right)
 
 Packs of worgs roam harsh frontiers and cursed lands. They sometimes conspire with goblinoids and gnolls and might serve them as mounts.
 
@@ -31,39 +31,39 @@ Packs of worgs roam harsh frontiers and cursed lands. They sometimes conspire wi
 
 Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These sapient predators can speak and often taunt their prey, enjoying the taste of fear in their meals.
 
-```statblock
-"name": "Worg (XMM)"
-"size": "Large"
-"type": "fey"
-"alignment": "Neutral Evil"
-"ac": !!int "13"
-"hp": !!int "26"
-"hit_dice": "4d10 + 4"
-"modifier": !!int "1"
-"stats":
-  - !!int "16"
-  - !!int "13"
-  - !!int "13"
-  - !!int "7"
-  - !!int "11"
-  - !!int "8"
-"speed": "50 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
-"languages": "Goblin, Worg"
-"cr": "1/2"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:1d8+3|noform|noparens|avg|text(7) (1d8 + 3) Piercing damage,\
-      \ and the next attack roll made against the target before the start of the worg's\
-      \ next turn has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)."
-    "name": "Bite"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Worg.webp"
+```ad-statblock
+title: Worg
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Worg.webp#token)
+*Large Fey, Neutral Evil*
+
+- **Armor Class** 13 
+- **Hit Points** 26 (4d10 + 4) 
+- **Speed** 50 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16 | +3 | +3 |
+|Int| 7 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 13 | +1 | +1 |
+|Wis| 11 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 13 | +1 | +1 |
+|Cha| 8 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Languages** Goblin, Worg
+- **Challenge** 1/2
+
+## Actions
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d8+3|noform|noparens|avg|text(7)` (`1d8 + 3`) Piercing damage, and the next attack roll made against the target before the start of the worg's next turn has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md).
 ```
 ^statblock
 

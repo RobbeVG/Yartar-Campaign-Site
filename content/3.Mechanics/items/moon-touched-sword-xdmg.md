@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Moon-Touched Sword"
 aliases:
 - "Moon-Touched Sword"
 - "Moon-Touched Double-Bladed Scimitar"
@@ -19,7 +20,7 @@ aliases:
 ---
 # Moon-Touched Sword
 *Common*  
-![Moon-Touched Sword (Rapier)](file://items/XDMG/Moon-Touched%20Sword.webp#right)
+![Moon-Touched Sword (Rapier)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Moon-Touched%20Sword.webp#right)
 
 
 In [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md), the unsheathed blade of this weapon sheds moonlight, creating [Bright Light](3.Mechanics/rules/variant-rules/bright-light-xphb.md) in a 15-foot radius and [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md) for an additional 15 feet.

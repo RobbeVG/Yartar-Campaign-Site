@@ -24,6 +24,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Acid Splash"
 aliases:
 - "Acid Splash"
 ---

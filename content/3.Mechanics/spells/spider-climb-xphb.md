@@ -21,6 +21,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Spider Climb"
 aliases:
 - "Spider Climb"
 ---

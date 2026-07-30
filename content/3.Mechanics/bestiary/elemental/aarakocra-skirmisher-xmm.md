@@ -10,13 +10,13 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/elemental
-statblock: inline
-statblock-link: "#^statblock"
+title: "Aarakocra Skirmisher"
 aliases:
 - "Aarakocra Skirmisher"
 ---
-# [Aarakocra Skirmisher](3.Mechanics/bestiary/elemental/aarakocra-skirmisher-xmm.md)
+# Aarakocra Skirmisher
 *Source: Monster Manual (2024) p. 10*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Aarakocra.webp#right)
 
 Aarakocra skirmishers are adept at fighting aerial foes amid the clouds. They often attack land-bound threats with diving strikes from above.
 
@@ -29,45 +29,41 @@ Aarakocra skirmishers are adept at fighting aerial foes amid the clouds. They of
 
 Aarakocra are birdlike folk who soar the skies of countless worlds and the endless expanses of the Elemental Plane of Air. They often resemble avians common to the lands where they dwell; some resemble hawks or condors, while others appear similar to hummingbirds or archaeopteryxes. In many lands, aarakocra tell of their ancient heroics resisting the wicked Queen of Chaos alongside the mysterious Wind Dukes of Aaqa.
 
-```statblock
-"name": "Aarakocra Skirmisher (XMM)"
-"size": "Medium"
-"type": "elemental"
-"alignment": "Neutral"
-"ac": !!int "12"
-"hp": !!int "11"
-"hit_dice": "2d8 + 2"
-"modifier": !!int "2"
-"stats":
-  - !!int "10"
-  - !!int "14"
-  - !!int "12"
-  - !!int "11"
-  - !!int "12"
-  - !!int "11"
-"speed": "20 ft., fly 50 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+5"
-"senses": "passive Perception 15"
-"languages": "Aarakocra, Primordial (Auran)"
-"cr": "1/4"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d4+2|noform|noparens|avg|text(4) (1d4 + 2) Slashing damage,\
-      \ or dice:3d4+2|noform|noparens|avg|text(9) (3d4 + 2) Slashing damage if\
-      \ the aarakocra moved 30+ feet straight toward the target immediately before\
-      \ the hit."
-    "name": "Talons"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+4|noform|noparens|text(+4),\
-      \ reach 5 ft. or range 30/120 ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5)\
-      \ (1d6 + 2) Piercing damage plus dice:1d4|noform|noparens|avg|text(2) (1d4)\
-      \ Thunder damage. *Hit or Miss:* The javelin magically returns to the aarakocra's\
-      \ hand immediately after a ranged attack."
-    "name": "Wind Javelin"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Aarakocra%20Skirmisher.webp"
+```ad-statblock
+title: Aarakocra Skirmisher
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Aarakocra%20Skirmisher.webp#token)
+*Medium Elemental, Neutral*
+
+- **Armor Class** 12 
+- **Hit Points** 11 (2d8 + 2) 
+- **Speed** 20 ft., fly 50 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10 | +0 | +0 |
+|Int| 11 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 11 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5
+- **Senses** Passive Perception 15
+- **Languages** Aarakocra, Primordial (Auran)
+- **Challenge** 1/4
+
+## Actions
+
+***Talons.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) Slashing damage, or `dice:3d4+2|noform|noparens|avg|text(9)` (`3d4 + 2`) Slashing damage if the aarakocra moved 30+ feet straight toward the target immediately before the hit.
+
+***Wind Javelin.*** *Melee  or Ranged Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. or range 30/120 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Piercing damage plus `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) Thunder damage. *Hit or Miss:* The javelin magically returns to the aarakocra's hand immediately after a ranged attack.
 ```
 ^statblock
 

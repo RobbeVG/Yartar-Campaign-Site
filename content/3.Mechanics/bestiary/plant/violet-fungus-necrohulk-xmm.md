@@ -8,13 +8,19 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/plant
-statblock: inline
-statblock-link: "#^statblock"
+title: "Violet Fungus Necrohulk"
 aliases:
 - "Violet Fungus Necrohulk"
+conditionImmunities:
+- [blinded](3.Mechanics/rules/conditions.md#Blinded)
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [deafened](3.Mechanics/rules/conditions.md#Deafened)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Violet Fungus Necrohulk](3.Mechanics/bestiary/plant/violet-fungus-necrohulk-xmm.md)
+# Violet Fungus Necrohulk
 *Source: Monster Manual (2024) p. 126*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Violet%20Fungus%20Necrohulk.webp#right)
 
 A violet fungus necrohulk forms when a violet fungus colony infests and animates an ample heap of decay. This necrohulk attacks prey and spreads fungal spores for the colony.
 
@@ -27,63 +33,55 @@ A violet fungus necrohulk forms when a violet fungus colony infests and animates
 
 The dank, sunless Underdark is a fertile breeding ground for weird and dangerous fungi.
 
-```statblock
-"name": "Violet Fungus Necrohulk (XMM)"
-"size": "Large"
-"type": "plant"
-"alignment": "Neutral Evil"
-"ac": !!int "17"
-"hp": !!int "123"
-"hit_dice": "13d10 + 52"
-"modifier": !!int "4"
-"stats":
-  - !!int "19"
-  - !!int "12"
-  - !!int "18"
-  - !!int "7"
-  - !!int "14"
-  - !!int "10"
-"speed": "40 ft."
-"damage_immunities": "necrotic, poison"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [deafened](3.Mechanics/rules/conditions.md#Deafened), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 12"
-"languages": ""
-"cr": "7"
-"actions":
-  - "desc": "The necrohulk makes two Rotting Slam attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+7|noform|noparens|text(+7), reach 10\
-      \ ft. *Hit:* dice:1d10+4|noform|noparens|avg|text(9) (1d10 + 4) Bludgeoning\
-      \ damage plus dice:2d6|noform|noparens|avg|text(7) (2d6) Necrotic damage."
-    "name": "Rotting Slam"
-  - "desc": "*Constitution Saving Throw:* DC 15, each creature in a 20-foot-radius\
-      \ [Sphere](3.Mechanics/rules/variant-rules/sphere-area-of-effect-xphb.md) centered\
-      \ on a point the necrohulk can see within 60 feet. *Failure:* dice:8d6|noform|noparens|avg|text(28)\
-      \ (8d6) Necrotic damage, and the target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition until the start of the necrohulk's next turn. While [Poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-      \ the target can't regain [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md).\
-      \ *Success:* Half damage only."
-    "name": "Spore Bomb (Recharge 5-6)"
-"bonus_actions":
-  - "desc": "*Strength Saving Throw:* DC 15, one Medium or Small creature the necrohulk\
-      \ can see within 5 feet. *Failure:* The target is pulled into the necrohulk's\
-      \ space and becomes grafted to its body. The necrohulk can have only one target\
-      \ grafted at a time.\n\nWhile grafted, the target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition and [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
-      \ on Constitution saving throws. When the necrohulk moves, the grafted target\
-      \ moves with it. If the target dies while grafted, its body is destroyed, and\
-      \ the necrohulk regains 10 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md).\n\
-      \nThe grafted target or a creature within 5 feet of the necrohulk can take an\
-      \ action to make a DC 15 Strength ([Athletics](3.Mechanics/rules/skills.md#Athletics))\
-      \ check. On a successful check, the target is no longer grafted and moves to\
-      \ an unoccupied space within 5 feet of the necrohulk."
-    "name": "Absorb Body"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Violet%20Fungus%20Necrohulk.webp"
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Fungi.webp#center)
+
+```ad-statblock
+title: Violet Fungus Necrohulk
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Violet%20Fungus%20Necrohulk.webp#token)
+*Large Plant, Neutral Evil*
+
+- **Armor Class** 17 
+- **Hit Points** 123 (13d10 + 52) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 19 | +4 | +4 |
+|Int| 7 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18 | +4 | +4 |
+|Cha| 10 | +0 | +0 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Immunities** Necrotic, Poison
+- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Deafened](3.Mechanics/rules/conditions.md#Deafened), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 12
+- **Languages** —
+- **Challenge** 7
+
+## Actions
+
+***Multiattack.*** The necrohulk makes two Rotting Slam attacks.
+
+***Rotting Slam.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 10 ft. *Hit:* `dice:1d10+4|noform|noparens|avg|text(9)` (`1d10 + 4`) Bludgeoning damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Necrotic damage.
+
+***Spore Bomb (Recharge 5-6).*** *Constitution Saving Throw:* DC 15, each creature in a 20-foot-radius [Sphere](3.Mechanics/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point the necrohulk can see within 60 feet. *Failure:* `dice:8d6|noform|noparens|avg|text(28)` (`8d6`) Necrotic damage, and the target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition until the start of the necrohulk's next turn. While [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), the target can't regain [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md). *Success:* Half damage only.
+
+## Bonus Actions
+
+***Absorb Body.*** *Strength Saving Throw:* DC 15, one Medium or Small creature the necrohulk can see within 5 feet. *Failure:* The target is pulled into the necrohulk's space and becomes grafted to its body. The necrohulk can have only one target grafted at a time.
+
+While grafted, the target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition and [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on Constitution saving throws. When the necrohulk moves, the grafted target moves with it. If the target dies while grafted, its body is destroyed, and the necrohulk regains 10 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md).
+
+The grafted target or a creature within 5 feet of the necrohulk can take an action to make a DC 15 Strength ([Athletics](3.Mechanics/rules/skills.md#Athletics)) check. On a successful check, the target is no longer grafted and moves to an unoccupied space within 5 feet of the necrohulk.
 ```
 ^statblock
 

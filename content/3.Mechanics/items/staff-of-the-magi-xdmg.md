@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Staff of the Magi"
 aliases:
 - "Staff of the Magi"
 ---
 # Staff of the Magi
 *Staff, weapon, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
-![](file://items/XDMG/Staff%20of%20the%20Magi.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Staff%20of%20the%20Magi.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

@@ -13,6 +13,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Giant Slayer"
 aliases:
 - "Giant Slayer"
 - "Giant Slayer Antimatter Rifle"
@@ -71,7 +72,7 @@ aliases:
 ---
 # Giant Slayer
 *Rare*  
-![](file://items/XDMG/Giant%20Slayer.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Giant%20Slayer.webp#right)
 
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.

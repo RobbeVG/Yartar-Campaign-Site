@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/rod
+title: "Rod of Absorption"
 aliases:
 - "Rod of Absorption"
 ---
 # Rod of Absorption
 *Rod, very rare (requires attunement)*  
-![](file://items/XDMG/Rod%20of%20Absorption.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Rod%20of%20Absorption.webp#right)
 
 - **Weight**: 2.0 lbs.
 

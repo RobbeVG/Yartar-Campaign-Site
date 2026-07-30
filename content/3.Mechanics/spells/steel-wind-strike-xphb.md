@@ -15,6 +15,7 @@ classes:
 - Cleric (War Domain)
 - Ranger
 - Wizard
+title: "Steel Wind Strike"
 aliases:
 - "Steel Wind Strike"
 ---

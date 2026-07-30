@@ -8,13 +8,15 @@ tags:
 - ttrpg-cli/monster/environment/forest
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/plant
-statblock: inline
-statblock-link: "#^statblock"
+title: "Vine Blight"
 aliases:
 - "Vine Blight"
+conditionImmunities:
+- [deafened](3.Mechanics/rules/conditions.md#Deafened)
 ---
-# [Vine Blight](3.Mechanics/bestiary/plant/vine-blight-xmm.md)
+# Vine Blight
 *Source: Monster Manual (2024) p. 44*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Vine%2C%20Needle%2C%20and%20Tree%20Blights.webp#right)
 
 Vine blights resemble humans wrapped in vines common to the areas in which they grow, from hairy ivy vines to flowering kudzu. They can cause plants to burst from the ground around themselves and entangle nearby foes.
 
@@ -34,45 +36,43 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
 
 
-```statblock
-"name": "Vine Blight (XMM)"
-"size": "Medium"
-"type": "plant"
-"alignment": "Neutral Evil"
-"ac": !!int "12"
-"hp": !!int "19"
-"hit_dice": "3d8 + 6"
-"modifier": !!int "-1"
-"stats":
-  - !!int "15"
-  - !!int "8"
-  - !!int "14"
-  - !!int "5"
-  - !!int "10"
-  - !!int "3"
-"speed": "20 ft."
-"skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+1"
-"condition_immunities": "[deafened](3.Mechanics/rules/conditions.md#Deafened)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 10"
-"languages": "Common"
-"cr": "1/2"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 10\
-      \ ft. *Hit:* dice:1d8+2|noform|noparens|avg|text(6) (1d8 + 2) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition (escape DC 12). Until the grapple ends, the target takes dice:1d8|noform|noparens|avg|text(4)\
-      \ (1d8) Bludgeoning damage at the start of each of its turns, and the blight\
-      \ can't make Constricting Vine attacks."
-    "name": "Constricting Vine"
-  - "desc": "The blight casts the [Entangle](3.Mechanics/spells/entangle-xphb.md)\
-      \ spell, using Constitution as the spellcasting ability (spell save DC 12).\n"
-    "name": "Entangling Plants (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Vine%20Blight.webp"
+```ad-statblock
+title: Vine Blight
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Vine%20Blight.webp#token)
+*Medium Plant, Neutral Evil*
+
+- **Armor Class** 12 
+- **Hit Points** 19 (3d8 + 6) 
+- **Speed** 20 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 15 | +2 | +2 |
+|Int| 5 | -3 | -3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 8 | -1 | -1 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14 | +2 | +2 |
+|Cha| 3 | -4 | -4 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +1
+- **Condition Immunities** [Deafened](3.Mechanics/rules/conditions.md#Deafened)
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 10
+- **Languages** Common
+- **Challenge** 1/2
+
+## Actions
+
+***Constricting Vine.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 10 ft. *Hit:* `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) Bludgeoning damage. If the target is a Large or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 12). Until the grapple ends, the target takes `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) Bludgeoning damage at the start of each of its turns, and the blight can't make Constricting Vine attacks.
+
+***Entangling Plants (Recharge 5-6).*** The blight casts the [Entangle](3.Mechanics/spells/entangle-xphb.md) spell, using Constitution as the spellcasting ability (spell save DC 12).
+
 ```
 ^statblock
 

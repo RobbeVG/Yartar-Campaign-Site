@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/rogue/soulknife
+title: "Soulknife"
 aliases:
 - "Soulknife"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Soulknife%20Rogue.webp#right)
 
 *Strike Foes with Psionic Blades*
 

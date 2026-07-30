@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/arctic
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/dragon/chromatic
-statblock: inline
-statblock-link: "#^statblock"
+title: "White Dragon Wyrmling"
 aliases:
 - "White Dragon Wyrmling"
 ---
-# [White Dragon Wyrmling](3.Mechanics/bestiary/dragon/white-dragon-wyrmling-xmm.md)
+# White Dragon Wyrmling
 *Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/White%20Dragon%20Wyrmling.webp#right)
 
 White dragon wyrmlings usually head off on their own soon after hatching. While the cold means little to these creatures, food is scarce in arctic realms, and predators there are merciless. Most white dragon wyrmlings survive by scavenging, hunting opportunistically, and quickly fleeing foes—including other white dragons.
 
@@ -33,56 +33,48 @@ White dragons create lairs to defend themselves from other deadly arctic creatur
 
 White dragons brood in bitterly cold lairs clawed from stone and ice.
 
-```statblock
-"name": "White Dragon Wyrmling (XMM)"
-"size": "Medium"
-"type": "dragon"
-"subtype": "chromatic"
-"alignment": "Chaotic Evil"
-"ac": !!int "16"
-"hp": !!int "32"
-"hit_dice": "5d8 + 10"
-"modifier": !!int "2"
-"stats":
-  - !!int "14"
-  - !!int "10"
-  - !!int "14"
-  - !!int "5"
-  - !!int "10"
-  - !!int "11"
-"speed": "30 ft., burrow 15 ft., fly 60 ft., swim 30 ft."
-"saves":
-  - "dexterity": !!int "2"
-  - "wisdom": !!int "2"
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+2"
-"damage_immunities": "cold"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
-"languages": "Draconic"
-"cr": "2"
-"traits":
-  - "desc": "The dragon can move across and climb icy surfaces without needing to\
-      \ make an ability check. Additionally, [Difficult Terrain](3.Mechanics/rules/variant-rules/difficult-terrain-xphb.md)\
-      \ composed of ice or snow doesn't cost it extra movement."
-    "name": "Ice Walk"
-"actions":
-  - "desc": "The dragon makes two Rend attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d8+2|noform|noparens|avg|text(6) (1d8 + 2) Slashing damage\
-      \ plus dice:1d4|noform|noparens|avg|text(2) (1d4) Cold damage."
-    "name": "Rend"
-  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 15-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* dice:5d8|noform|noparens|avg|text(22) (5d8) Cold damage. *Success:*\
-      \ Half damage."
-    "name": "Cold Breath (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/White%20Dragon%20Wyrmling.webp"
+```ad-statblock
+title: White Dragon Wyrmling
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/White%20Dragon%20Wyrmling.webp#token)
+*Medium Dragon (chromatic), Chaotic Evil*
+
+- **Armor Class** 16 
+- **Hit Points** 32 (5d8 + 10) 
+- **Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 14 | +2 | +2 |
+|Int| 5 | -3 | -3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | **+2** |
+|Wis| 10 | +0 | **+2** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14 | +2 | +2 |
+|Cha| 11 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Dexterity +2, Wisdom +2
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +2
+- **Damage Immunities** Cold
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Languages** Draconic
+- **Challenge** 2
+
+## Traits
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, [Difficult Terrain](3.Mechanics/rules/variant-rules/difficult-terrain-xphb.md) composed of ice or snow doesn't cost it extra movement.
+
+## Actions
+
+***Multiattack.*** The dragon makes two Rend attacks.
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) Slashing damage plus `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) Cold damage.
+
+***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw:* DC 12, each creature in a 15-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* `dice:5d8|noform|noparens|avg|text(22)` (`5d8`) Cold damage. *Success:* Half damage.
 ```
 ^statblock
 

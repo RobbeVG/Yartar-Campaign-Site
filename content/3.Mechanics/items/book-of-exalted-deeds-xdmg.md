@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/artifact
+title: "Book of Exalted Deeds"
 aliases:
 - "Book of Exalted Deeds"
 ---
 # Book of Exalted Deeds
 *Wondrous item, artifact (requires attunement)*  
-![](file://items/XDMG/Book%20of%20Exalted%20Deeds.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Book%20of%20Exalted%20Deeds.webp#right)
 
 - **Weight**: 5.0 lbs.
 

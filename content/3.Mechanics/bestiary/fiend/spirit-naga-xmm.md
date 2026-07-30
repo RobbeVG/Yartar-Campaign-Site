@@ -10,13 +10,16 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend
-statblock: inline
-statblock-link: "#^statblock"
+title: "Spirit Naga"
 aliases:
 - "Spirit Naga"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Spirit Naga](3.Mechanics/bestiary/fiend/spirit-naga-xmm.md)
+# Spirit Naga
 *Source: Monster Manual (2024) p. 297. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Spirit%20Naga.webp#right)
 
 ## Spirit Naga
 
@@ -42,64 +45,55 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 | 5 | A rival is spying on it. |
 | 6 | Someone's treasure rightfully belongs to it. |
 ^spirit-naga-grievances
+```ad-statblock
+title: Spirit Naga
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Spirit%20Naga.webp#token)
+*Large Fiend, Chaotic Evil*
 
-```statblock
-"name": "Spirit Naga (XMM)"
-"size": "Large"
-"type": "fiend"
-"alignment": "Chaotic Evil"
-"ac": !!int "17"
-"hp": !!int "135"
-"hit_dice": "18d10 + 36"
-"modifier": !!int "3"
-"stats":
-  - !!int "18"
-  - !!int "17"
-  - !!int "14"
-  - !!int "16"
-  - !!int "15"
-  - !!int "16"
-"speed": "40 ft."
-"saves":
-  - "dexterity": !!int "6"
-  - "constitution": !!int "5"
-  - "wisdom": !!int "5"
-  - "charisma": !!int "6"
-"damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
-"languages": "Abyssal, Common"
-"cr": "8"
-"traits":
-  - "desc": "If it dies, the naga returns to life in dice:1d6|noform|noparens|avg\
-      \ (1d6) days and regains all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md).\
-      \ Only a [Wish](3.Mechanics/spells/wish-xphb.md) spell can prevent this trait\
-      \ from functioning."
-    "name": "Fiendish Restoration"
-"actions":
-  - "desc": "The naga makes three attacks, using Bite or Necrotic Ray in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+7|noform|noparens|text(+7), reach 10\
-      \ ft. *Hit:* dice:1d6+4|noform|noparens|avg|text(7) (1d6 + 4) Piercing damage\
-      \ plus dice:4d6|noform|noparens|avg|text(14) (4d6) Poison damage."
-    "name": "Bite"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+6|noform|noparens|text(+6), range 60\
-      \ ft. *Hit:* dice:6d6|noform|noparens|avg|text(21) (6d6) Necrotic damage."
-    "name": "Necrotic Ray"
-  - "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
-      \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 14):\n\n**At will:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md),\
-      \ [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md), [Minor Illusion](3.Mechanics/spells/minor-illusion-xphb.md),\
-      \ [Water Breathing](3.Mechanics/spells/water-breathing-xphb.md)\n\n**2/day each:**\
-      \ [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [Dimension\
-      \ Door](3.Mechanics/spells/dimension-door-xphb.md), [Hold Person](3.Mechanics/spells/hold-person-xphb.md)\
-      \ (level 3 version), [Lightning Bolt](3.Mechanics/spells/lightning-bolt-xphb.md)\
-      \ (level 4 version)"
-    "name": "Spellcasting"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Spirit%20Naga.webp"
+- **Armor Class** 17 
+- **Hit Points** 135 (18d10 + 36) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 16 | +3 | +3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 17 | +3 | **+6** |
+|Wis| 15 | +2 | **+5** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14 | +2 | **+5** |
+|Cha| 16 | +3 | **+6** |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Dexterity +6, Constitution +5, Wisdom +5, Charisma +6
+- **Skills** ⏤
+- **Damage Immunities** Poison
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
+- **Languages** Abyssal, Common
+- **Challenge** 8
+
+## Traits
+
+***Fiendish Restoration.*** If it dies, the naga returns to life in `dice:1d6|noform|noparens|avg` (`1d6`) days and regains all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md). Only a [Wish](3.Mechanics/spells/wish-xphb.md) spell can prevent this trait from functioning.
+
+## Actions
+
+***Multiattack.*** The naga makes three attacks, using Bite or Necrotic Ray in any combination.
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 10 ft. *Hit:* `dice:1d6+4|noform|noparens|avg|text(7)` (`1d6 + 4`) Piercing damage plus `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) Poison damage.
+
+***Necrotic Ray.*** *Ranged Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, range 60 ft. *Hit:* `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) Necrotic damage.
+
+***Spellcasting.*** The naga casts one of the following spells, requiring no Somatic or Material components and using Intelligence as the spellcasting ability (spell save DC 14):
+
+**At will:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md), [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md), [Minor Illusion](3.Mechanics/spells/minor-illusion-xphb.md), [Water Breathing](3.Mechanics/spells/water-breathing-xphb.md)
+
+**2/day each:** [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [Dimension Door](3.Mechanics/spells/dimension-door-xphb.md), [Hold Person](3.Mechanics/spells/hold-person-xphb.md) (level 3 version), [Lightning Bolt](3.Mechanics/spells/lightning-bolt-xphb.md) (level 4 version)
 ```
 ^statblock
 

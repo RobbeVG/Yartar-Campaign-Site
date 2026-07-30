@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Kuo-toa"
 aliases:
 - "Kuo-toa"
 ---
-# [Kuo-toa](3.Mechanics/bestiary/aberration/kuo-toa-xmm.md)
+# Kuo-toa
 *Source: Monster Manual (2024) p. 189*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Kuo-toa.webp#right)
 
 Kuo-toa loot ruins and raid communities near their dwellings in the Underdark. Their shields are coated in sticky slime, which they use to disarm their foes, and they employ slimy nets to entrap victims. They usually strive to take their enemies alive and drag captives to their hidden lairs.
 
@@ -83,63 +83,52 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 > When the Corpse Moon rises and the Chum-Tide washes in, up rise the Gogglers from their pits beneath the waves. Burbling and noisome they come, fishing night's shores as we do dawn's waves.
 
 
-```statblock
-"name": "Kuo-toa (XMM)"
-"size": "Medium"
-"type": "aberration"
-"alignment": "Neutral Evil"
-"ac": !!int "13"
-"hp": !!int "18"
-"hit_dice": "4d8"
-"modifier": !!int "0"
-"stats":
-  - !!int "13"
-  - !!int "10"
-  - !!int "11"
-  - !!int "11"
-  - !!int "10"
-  - !!int "8"
-"speed": "30 ft., swim 30 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-"gear":
-  - "[spear](3.Mechanics/items/spear-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., [Truesight](3.Mechanics/rules/senses.md#Truesight)\
-  \ 30 ft., passive Perception 14"
-"languages": "Undercommon"
-"cr": "1/4"
-"traits":
-  - "desc": "The kuo-toa can breathe air and water."
-    "name": "Amphibious"
-  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
-      \ on ability checks and attack rolls."
-    "name": "Sunlight Sensitivity"
-"actions":
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+3|noform|noparens|text(+3),\
-      \ reach 5 ft. or range 20/60 ft. *Hit:* dice:1d8+1|noform|noparens|avg|text(5)\
-      \ (1d8 + 1) Piercing damage."
-    "name": "Spear"
-  - "desc": "*Dexterity Saving Throw:* DC 10, one Large or smaller creature the kuo-toa\
-      \ can see within 15 feet. *Failure:* The target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition until the net is destroyed (AC 10; HP 5; [Immunity](3.Mechanics/rules/variant-rules/immunity-xphb.md)\
-      \ to Bludgeoning, Poison, and Psychic damage). A creature can take an action\
-      \ to make a DC 10 Strength ([Athletics](3.Mechanics/rules/skills.md#Athletics))\
-      \ check to free itself or another creature in a net within 5 feet, destroying\
-      \ the net on a success."
-    "name": "Sticky Net (1/Day)"
-"reactions":
-  - "desc": "Trigger: A creature misses the kuo-toa with a melee attack roll using\
-      \ a weapon. _Response—_*Strength Saving Throw:* DC 11, the triggering creature.\
-      \ *Failure:* The attack's weapon sticks to the kuo-toa's shield. If the target\
-      \ doesn't let go of the weapon, the target has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition while the weapon is stuck (escape DC 11). While stuck, the weapon\
-      \ can't be used. The target can take an action to make a DC 11 Strength ([Athletics](3.Mechanics/rules/skills.md#Athletics))\
-      \ check, freeing the weapon on a success."
-    "name": "Sticky Shield"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Kuo-toa.webp"
+```ad-statblock
+title: Kuo-toa
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Kuo-toa.webp#token)
+*Medium Aberration, Neutral Evil*
+
+- **Armor Class** 13 
+- **Hit Points** 18 (4d8) 
+- **Speed** 30 ft., swim 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13 | +1 | +1 |
+|Int| 11 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | +0 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 11 | +0 | +0 |
+|Cha| 8 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4
+- **Gear** [spear](3.Mechanics/items/spear-xphb.md)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., [Truesight](3.Mechanics/rules/senses.md#Truesight) 30 Ft., Passive Perception 14
+- **Languages** Undercommon
+- **Challenge** 1/4
+
+## Traits
+
+***Amphibious.*** The kuo-toa can breathe air and water.
+
+***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls.
+
+## Actions
+
+***Spear.*** *Melee  or Ranged Attack Roll:* `dice:1d20+3|noform|noparens|text(+3)`, reach 5 ft. or range 20/60 ft. *Hit:* `dice:1d8+1|noform|noparens|avg|text(5)` (`1d8 + 1`) Piercing damage.
+
+***Sticky Net (1/Day).*** *Dexterity Saving Throw:* DC 10, one Large or smaller creature the kuo-toa can see within 15 feet. *Failure:* The target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition until the net is destroyed (AC 10; HP 5; [Immunity](3.Mechanics/rules/variant-rules/immunity-xphb.md) to Bludgeoning, Poison, and Psychic damage). A creature can take an action to make a DC 10 Strength ([Athletics](3.Mechanics/rules/skills.md#Athletics)) check to free itself or another creature in a net within 5 feet, destroying the net on a success.
+
+## Reactions
+
+***Sticky Shield.*** Trigger: A creature misses the kuo-toa with a melee attack roll using a weapon. _Response—_*Strength Saving Throw:* DC 11, the triggering creature. *Failure:* The attack's weapon sticks to the kuo-toa's shield. If the target doesn't let go of the weapon, the target has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition while the weapon is stuck (escape DC 11). While stuck, the weapon can't be used. The target can take an action to make a DC 11 Strength ([Athletics](3.Mechanics/rules/skills.md#Athletics)) check, freeing the weapon on a success.
 ```
 ^statblock
 

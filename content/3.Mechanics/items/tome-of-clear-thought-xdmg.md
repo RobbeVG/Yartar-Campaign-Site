@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
+title: "Tome of Clear Thought"
 aliases:
 - "Tome of Clear Thought"
 ---
 # Tome of Clear Thought
 *Wondrous item, very rare*  
-![](file://items/XDMG/Tome%20of%20Clear%20Thought.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Tome%20of%20Clear%20Thought.webp#right)
 
 - **Weight**: 5.0 lbs.
 

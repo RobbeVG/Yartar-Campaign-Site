@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Armor of Thunder Resistance"
 aliases:
 - "Armor of Thunder Resistance"
 - "Breastplate of Thunder Resistance"

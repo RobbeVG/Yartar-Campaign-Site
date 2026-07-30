@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Dust of Sneezing and Choking"
 aliases:
 - "Dust of Sneezing and Choking"
 ---
 # Dust of Sneezing and Choking
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Dust%20of%20Sneezing%20and%20Choking.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Dust%20of%20Sneezing%20and%20Choking.webp#right)
 
 
 Found in a small container, this powder resembles [Dust of Disappearance](3.Mechanics/items/dust-of-disappearance-xdmg.md), and [Identify](3.Mechanics/spells/identify-xphb.md) reveals it to be such. There is enough of it for one use.

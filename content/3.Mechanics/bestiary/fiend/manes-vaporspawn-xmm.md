@@ -9,13 +9,20 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend/demon
-statblock: inline
-statblock-link: "#^statblock"
+title: "Manes Vaporspawn"
 aliases:
 - "Manes Vaporspawn"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- [grappled](3.Mechanics/rules/conditions.md#Grappled)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- [restrained](3.Mechanics/rules/conditions.md#Restrained)
 ---
-# [Manes Vaporspawn](3.Mechanics/bestiary/fiend/manes-vaporspawn-xmm.md)
+# Manes Vaporspawn
 *Source: Monster Manual (2024) p. 201*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Manes.webp#right)
 
 Vaporspawn arise from evil souls shattered by unspeakable torments or the depredations of more powerful demons. These distorted manes undergo endless, painful contortions, and they share their torment with whatever creatures they encounter.
 
@@ -28,56 +35,52 @@ Vaporspawn arise from evil souls shattered by unspeakable torments or the depred
 
 The lowest form of demons, manes appear when truly loathsome souls are condemned to the Abyss. These misshapen demons have distorted features and bodies that crawl with Abyssal parasites. Overwhelmed by demonic urges and constant terror, manes know only shock and frenzied outbursts.
 
-```statblock
-"name": "Manes Vaporspawn (XMM)"
-"size": "Medium"
-"type": "fiend"
-"subtype": "demon"
-"alignment": "Chaotic Evil"
-"ac": !!int "13"
-"hp": !!int "19"
-"hit_dice": "3d8 + 6"
-"modifier": !!int "1"
-"stats":
-  - !!int "14"
-  - !!int "12"
-  - !!int "15"
-  - !!int "5"
-  - !!int "8"
-  - !!int "3"
-"speed": "30 ft."
-"damage_resistances": "cold, fire, lightning"
-"damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [restrained](3.Mechanics/rules/conditions.md#Restrained)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
-"languages": "understands Abyssal but can't speak"
-"cr": "1"
-"traits":
-  - "desc": "The manes can move through a space as narrow as 1 inch without expending\
-      \ extra movement to do so."
-    "name": "Contortionist"
-  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the manes at the end of the manes's turn. *Failure:* The\
-      \ target has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition until the end of its next turn. *Success:* The target is immune\
-      \ to this manes's Sickening Vapors for 24 hours."
-    "name": "Sickening Vapors"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5) (1d6 + 2) Slashing damage\
-      \ plus dice:2d4|noform|noparens|avg|text(5) (2d4) Necrotic damage."
-    "name": "Claw"
-"bonus_actions":
-  - "desc": "While in [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md), the manes\
-      \ takes the [Hide](3.Mechanics/rules/actions.md#Hide) action."
-    "name": "Shadow Stealth"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Manes%20Vaporspawn.webp"
+```ad-statblock
+title: Manes Vaporspawn
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Manes%20Vaporspawn.webp#token)
+*Medium Fiend (demon), Chaotic Evil*
+
+- **Armor Class** 13 
+- **Hit Points** 19 (3d8 + 6) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 14 | +2 | +2 |
+|Int| 5 | -3 | -3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15 | +2 | +2 |
+|Cha| 3 | -4 | -4 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Resistances** Cold, Fire, Lightning
+- **Damage Immunities** Poison
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Restrained](3.Mechanics/rules/conditions.md#Restrained)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
+- **Languages** Understands Abyssal but can't speak
+- **Challenge** 1
+
+## Traits
+
+***Contortionist.*** The manes can move through a space as narrow as 1 inch without expending extra movement to do so.
+
+***Sickening Vapors.*** *Constitution Saving Throw:* DC 12, each creature in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the manes at the end of the manes's turn. *Failure:* The target has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition until the end of its next turn. *Success:* The target is immune to this manes's Sickening Vapors for 24 hours.
+
+## Actions
+
+***Claw.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Slashing damage plus `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) Necrotic damage.
+
+## Bonus Actions
+
+***Shadow Stealth.*** While in [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md) or [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md), the manes takes the [Hide](3.Mechanics/rules/actions.md#Hide) action.
 ```
 ^statblock
 

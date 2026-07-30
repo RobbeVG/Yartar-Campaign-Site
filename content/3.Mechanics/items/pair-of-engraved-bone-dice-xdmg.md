@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
+title: "Pair of engraved bone dice"
 aliases:
 - "Pair of engraved bone dice"
 ---

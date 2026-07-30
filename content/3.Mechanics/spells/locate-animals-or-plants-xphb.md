@@ -16,6 +16,7 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
+title: "Locate Animals or Plants"
 aliases:
 - "Locate Animals or Plants"
 ---

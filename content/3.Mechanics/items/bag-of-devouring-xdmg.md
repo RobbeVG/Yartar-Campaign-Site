@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
+title: "Bag of Devouring"
 aliases:
 - "Bag of Devouring"
 ---
 # Bag of Devouring
 *Wondrous item, very rare*  
-![](file://items/XDMG/Bag%20of%20Devouring.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Bag%20of%20Devouring.webp#right)
 
 
 This bag resembles a [Bag of Holding](3.Mechanics/items/bag-of-holding-xdmg.md) but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.

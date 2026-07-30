@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+title: "Cape of the Mountebank"
 aliases:
 - "Cape of the Mountebank"
 ---
 # Cape of the Mountebank
 *Wondrous item, rare*  
-![](file://items/XDMG/Cape%20of%20the%20Mountebank.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Cape%20of%20the%20Mountebank.webp#right)
 
 
 This cape smells faintly of brimstone. While wearing it, you can use it to cast [Dimension Door](3.Mechanics/spells/dimension-door-xphb.md) as a [Magic](3.Mechanics/rules/actions.md#Magic) action. This property can't be used again until the next dawn.

@@ -8,13 +8,15 @@ tags:
 - ttrpg-cli/monster/environment/forest
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/plant
-statblock: inline
-statblock-link: "#^statblock"
+title: "Tree Blight"
 aliases:
 - "Tree Blight"
+conditionImmunities:
+- [deafened](3.Mechanics/rules/conditions.md#Deafened)
 ---
-# [Tree Blight](3.Mechanics/bestiary/plant/tree-blight-xmm.md)
+# Tree Blight
 *Source: Monster Manual (2024) p. 44*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Vine%2C%20Needle%2C%20and%20Tree%20Blights.webp#right)
 
 Tree blights look like ancient, dead trees with gnarled limbs and splintered hollows. Imbued with bloodlust, these blights feed on the living. Evidence of their past meals is often tangled amid their branches and roots. Tree blights cooperate with other blights, but they attack other tree-shaped beings they encounter, such as awakened trees and treants.
 
@@ -32,50 +34,48 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
 
 
-```statblock
-"name": "Tree Blight (XMM)"
-"size": "Huge"
-"type": "plant"
-"alignment": "Neutral Evil"
-"ac": !!int "15"
-"hp": !!int "115"
-"hit_dice": "10d12 + 50"
-"modifier": !!int "3"
-"stats":
-  - !!int "23"
-  - !!int "10"
-  - !!int "20"
-  - !!int "6"
-  - !!int "10"
-  - !!int "3"
-"speed": "30 ft."
-"condition_immunities": "[deafened](3.Mechanics/rules/conditions.md#Deafened)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 10"
-"languages": "understands Common and Druidic but can't speak"
-"cr": "7"
-"actions":
-  - "desc": "The blight makes two Branch attacks and uses Grasping Root."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+9|noform|noparens|text(+9), reach 15\
-      \ ft. *Hit:* dice:3d6+6|noform|noparens|avg|text(16) (3d6 + 6) Bludgeoning\
-      \ damage."
-    "name": "Branch"
-  - "desc": "*Strength Saving Throw:* DC 17, one Large or smaller creature the blight\
-      \ can see within 15 feet. *Failure:* The target is pulled up to 10 feet straight\
-      \ toward the blight and has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition (escape DC 16) from one of six roots. Until the grapple ends, the\
-      \ target takes dice:2d6+6|noform|noparens|avg|text(13) (2d6 + 6) Bludgeoning\
-      \ damage at the start of each of its turns."
-    "name": "Grasping Root"
-"bonus_actions":
-  - "desc": "*Dexterity Saving Throw:* DC 17, one creature [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ by the blight. *Failure:* dice:3d8+6|noform|noparens|avg|text(19) (3d8\
-      \ + 6) Piercing damage. *Success:* Half damage."
-    "name": "Gnash"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Tree%20Blight.webp"
+```ad-statblock
+title: Tree Blight
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Tree%20Blight.webp#token)
+*Huge Plant, Neutral Evil*
+
+- **Armor Class** 15 
+- **Hit Points** 115 (10d12 + 50) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 23 | +6 | +6 |
+|Int| 6 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | +0 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 20 | +5 | +5 |
+|Cha| 3 | -4 | -4 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Condition Immunities** [Deafened](3.Mechanics/rules/conditions.md#Deafened)
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 10
+- **Languages** Understands Common and Druidic but can't speak
+- **Challenge** 7
+
+## Actions
+
+***Multiattack.*** The blight makes two Branch attacks and uses Grasping Root.
+
+***Branch.*** *Melee Attack Roll:* `dice:1d20+9|noform|noparens|text(+9)`, reach 15 ft. *Hit:* `dice:3d6+6|noform|noparens|avg|text(16)` (`3d6 + 6`) Bludgeoning damage.
+
+***Grasping Root.*** *Strength Saving Throw:* DC 17, one Large or smaller creature the blight can see within 15 feet. *Failure:* The target is pulled up to 10 feet straight toward the blight and has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 16) from one of six roots. Until the grapple ends, the target takes `dice:2d6+6|noform|noparens|avg|text(13)` (`2d6 + 6`) Bludgeoning damage at the start of each of its turns.
+
+## Bonus Actions
+
+***Gnash.*** *Dexterity Saving Throw:* DC 17, one creature [Grappled](3.Mechanics/rules/conditions.md#Grappled) by the blight. *Failure:* `dice:3d8+6|noform|noparens|avg|text(19)` (`3d8 + 6`) Piercing damage. *Success:* Half damage.
 ```
 ^statblock
 

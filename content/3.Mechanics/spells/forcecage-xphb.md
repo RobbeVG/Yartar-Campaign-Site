@@ -15,6 +15,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
+title: "Forcecage"
 aliases:
 - "Forcecage"
 ---

@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/ring
+title: "Ring of Warmth"
 aliases:
 - "Ring of Warmth"
 ---
 # Ring of Warmth
 *Ring, uncommon (requires attunement)*  
-![](file://items/XDMG/Ring%20of%20Warmth.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ring%20of%20Warmth.webp#right)
 
 
 If you take Cold damage while wearing this ring, the ring reduces the damage you take by `dice:2d8|noform|noparens|avg` (`2d8`).

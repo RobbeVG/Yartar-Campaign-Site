@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Sword of Sharpness"
 aliases:
 - "Sword of Sharpness"
 - "Glaive of Sharpness"
@@ -18,7 +19,7 @@ aliases:
 ---
 # Sword of Sharpness
 *Very rare (requires attunement)*  
-![Sword of Sharpness (Greatsword)](file://items/XDMG/Sword%20of%20Sharpness.webp#right)
+![Sword of Sharpness (Greatsword)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Sword%20of%20Sharpness.webp#right)
 
 
 When you attack an object with this magic weapon and hit, maximize your weapon damage dice against the target.

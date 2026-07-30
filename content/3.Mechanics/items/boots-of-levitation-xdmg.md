@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+title: "Boots of Levitation"
 aliases:
 - "Boots of Levitation"
 ---

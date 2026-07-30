@@ -13,6 +13,7 @@ classes:
 - Bard
 - Wizard
 - Wizard (Abjurer)
+title: "Mind Blank"
 aliases:
 - "Mind Blank"
 ---

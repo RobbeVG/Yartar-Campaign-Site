@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Druid
+title: "Conjure Fey"
 aliases:
 - "Conjure Fey"
 ---

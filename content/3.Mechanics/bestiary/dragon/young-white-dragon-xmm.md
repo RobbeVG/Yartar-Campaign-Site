@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/arctic
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/dragon/chromatic
-statblock: inline
-statblock-link: "#^statblock"
+title: "Young White Dragon"
 aliases:
 - "Young White Dragon"
 ---
-# [Young White Dragon](3.Mechanics/bestiary/dragon/young-white-dragon-xmm.md)
+# Young White Dragon
 *Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/White%20Dragon.webp#right)
 
 Young white dragons defend their hunting grounds from rivals. In some cases, kobolds and groups of humanoids might offer food and treasure to young white dragons, attempting to keep the dragons satiated and less likely to prey on their communities.
 
@@ -33,56 +33,48 @@ White dragons create lairs to defend themselves from other deadly arctic creatur
 
 White dragons brood in bitterly cold lairs clawed from stone and ice.
 
-```statblock
-"name": "Young White Dragon (XMM)"
-"size": "Large"
-"type": "dragon"
-"subtype": "chromatic"
-"alignment": "Chaotic Evil"
-"ac": !!int "17"
-"hp": !!int "123"
-"hit_dice": "13d10 + 52"
-"modifier": !!int "3"
-"stats":
-  - !!int "18"
-  - !!int "10"
-  - !!int "18"
-  - !!int "6"
-  - !!int "11"
-  - !!int "12"
-"speed": "40 ft., burrow 20 ft., fly 80 ft., swim 40 ft."
-"saves":
-  - "dexterity": !!int "3"
-  - "wisdom": !!int "3"
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+6"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+3"
-"damage_immunities": "cold"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 16"
-"languages": "Common, Draconic"
-"cr": "6"
-"traits":
-  - "desc": "The dragon can move across and climb icy surfaces without needing to\
-      \ make an ability check. Additionally, [Difficult Terrain](3.Mechanics/rules/variant-rules/difficult-terrain-xphb.md)\
-      \ composed of ice or snow doesn't cost it extra movement."
-    "name": "Ice Walk"
-"actions":
-  - "desc": "The dragon makes three Rend attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+7|noform|noparens|text(+7), reach 10\
-      \ ft. *Hit:* dice:2d4+4|noform|noparens|avg|text(9) (2d4 + 4) Slashing damage\
-      \ plus dice:1d4|noform|noparens|avg|text(2) (1d4) Cold damage."
-    "name": "Rend"
-  - "desc": "*Constitution Saving Throw:* DC 15, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* dice:9d8|noform|noparens|avg|text(40) (9d8) Cold damage. *Success:*\
-      \ Half damage."
-    "name": "Cold Breath (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Young%20White%20Dragon.webp"
+```ad-statblock
+title: Young White Dragon
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Young%20White%20Dragon.webp#token)
+*Large Dragon (chromatic), Chaotic Evil*
+
+- **Armor Class** 17 
+- **Hit Points** 123 (13d10 + 52) 
+- **Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 6 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | **+3** |
+|Wis| 11 | +0 | **+3** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18 | +4 | +4 |
+|Cha| 12 | +1 | +1 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Dexterity +3, Wisdom +3
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
+- **Damage Immunities** Cold
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 16
+- **Languages** Common, Draconic
+- **Challenge** 6
+
+## Traits
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, [Difficult Terrain](3.Mechanics/rules/variant-rules/difficult-terrain-xphb.md) composed of ice or snow doesn't cost it extra movement.
+
+## Actions
+
+***Multiattack.*** The dragon makes three Rend attacks.
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 10 ft. *Hit:* `dice:2d4+4|noform|noparens|avg|text(9)` (`2d4 + 4`) Slashing damage plus `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) Cold damage.
+
+***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw:* DC 15, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* `dice:9d8|noform|noparens|avg|text(40)` (`9d8`) Cold damage. *Success:* Half damage.
 ```
 ^statblock
 

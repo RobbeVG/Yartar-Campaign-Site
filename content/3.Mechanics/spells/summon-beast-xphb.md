@@ -17,6 +17,7 @@ classes:
 - Druid
 - Ranger
 - Wizard (Illusionist)
+title: "Summon Beast"
 aliases:
 - "Summon Beast"
 ---

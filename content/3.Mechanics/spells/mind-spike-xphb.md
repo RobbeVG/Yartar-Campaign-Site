@@ -23,6 +23,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
+title: "Mind Spike"
 aliases:
 - "Mind Spike"
 ---

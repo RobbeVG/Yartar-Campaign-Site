@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Warlock
+title: "Enthrall"
 aliases:
 - "Enthrall"
 ---

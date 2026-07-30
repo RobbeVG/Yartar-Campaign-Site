@@ -26,6 +26,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
+title: "Illusory Script"
 aliases:
 - "Illusory Script"
 ---

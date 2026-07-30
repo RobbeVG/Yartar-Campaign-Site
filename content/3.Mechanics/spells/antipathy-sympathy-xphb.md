@@ -13,6 +13,7 @@ classes:
 - Bard
 - Druid
 - Wizard
+title: "Antipathy/Sympathy"
 aliases:
 - "Antipathy/Sympathy"
 ---

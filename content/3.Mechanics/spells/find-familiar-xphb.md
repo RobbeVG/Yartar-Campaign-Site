@@ -24,12 +24,13 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
+title: "Find Familiar"
 aliases:
 - "Find Familiar"
 ---
 # Find Familiar
 *1st-level, Conjuration (ritual)*  
-![](file://spells/XPHB/Find%20Familiar.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Find%20Familiar.webp#right)
 
 - **Casting time:** 1 hour unless cast as a ritual
 - **Range:** 10 feet

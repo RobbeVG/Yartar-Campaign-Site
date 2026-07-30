@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Druid
+title: "Storm of Vengeance"
 aliases:
 - "Storm of Vengeance"
 ---

@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/desert
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/dragon/chromatic
-statblock: inline
-statblock-link: "#^statblock"
+title: "Young Blue Dragon"
 aliases:
 - "Young Blue Dragon"
 ---
-# [Young Blue Dragon](3.Mechanics/bestiary/dragon/young-blue-dragon-xmm.md)
+# Young Blue Dragon
 *Source: Monster Manual (2024) p. 48. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Blue%20Dragon.webp#right)
 
 Young blue dragons seek to establish themselves as forces to be feared. Many claim isolated communities to rule over or ancient ruins where they might find magical paths to power. These blue dragons might temporarily cooperate with other dragons or powerful villains to gain followers and influence.
 
@@ -36,52 +36,44 @@ Regalia of rulership and artistic masterpieces fill blue dragons' hoards. These 
 
 Blue dragons dwell in arid lands. Their lairs might be death traps meant to entomb invaders or ostentatious fortresses where they plot domination.
 
-```statblock
-"name": "Young Blue Dragon (XMM)"
-"size": "Large"
-"type": "dragon"
-"subtype": "chromatic"
-"alignment": "Lawful Evil"
-"ac": !!int "18"
-"hp": !!int "152"
-"hit_dice": "16d10 + 64"
-"modifier": !!int "4"
-"stats":
-  - !!int "21"
-  - !!int "10"
-  - !!int "19"
-  - !!int "14"
-  - !!int "13"
-  - !!int "17"
-"speed": "40 ft., burrow 20 ft., fly 80 ft."
-"saves":
-  - "dexterity": !!int "4"
-  - "wisdom": !!int "5"
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+9"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+4"
-"damage_immunities": "lightning"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 19"
-"languages": "Common, Draconic"
-"cr": "9"
-"actions":
-  - "desc": "The dragon makes three Rend attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+9|noform|noparens|text(+9), reach 10\
-      \ ft. *Hit:* dice:2d6+5|noform|noparens|avg|text(12) (2d6 + 5) Slashing\
-      \ damage plus dice:1d10|noform|noparens|avg|text(5) (1d10) Lightning damage."
-    "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 16, each creature in a 60-foot-long, 5-foot-wide\
-      \ [Line](3.Mechanics/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
-      \ dice:10d10|noform|noparens|avg|text(55) (10d10) Lightning damage. *Success:*\
-      \ Half damage."
-    "name": "Lightning Breath (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Young%20Blue%20Dragon.webp"
+```ad-statblock
+title: Young Blue Dragon
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Young%20Blue%20Dragon.webp#token)
+*Large Dragon (chromatic), Lawful Evil*
+
+- **Armor Class** 18 
+- **Hit Points** 152 (16d10 + 64) 
+- **Speed** 40 ft., burrow 20 ft., fly 80 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 21 | +5 | +5 |
+|Int| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | **+4** |
+|Wis| 13 | +1 | **+5** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 19 | +4 | +4 |
+|Cha| 17 | +3 | +3 |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Dexterity +4, Wisdom +5
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +9, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
+- **Damage Immunities** Lightning
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 19
+- **Languages** Common, Draconic
+- **Challenge** 9
+
+## Actions
+
+***Multiattack.*** The dragon makes three Rend attacks.
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+9|noform|noparens|text(+9)`, reach 10 ft. *Hit:* `dice:2d6+5|noform|noparens|avg|text(12)` (`2d6 + 5`) Slashing damage plus `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) Lightning damage.
+
+***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 16, each creature in a 60-foot-long, 5-foot-wide [Line](3.Mechanics/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:* `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) Lightning damage. *Success:* Half damage.
 ```
 ^statblock
 

@@ -22,6 +22,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Diviner)
+title: "Divination"
 aliases:
 - "Divination"
 ---

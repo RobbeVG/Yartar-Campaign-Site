@@ -19,6 +19,7 @@ classes:
 - Cleric
 - Druid
 - Druid (Circle of the Stars)
+title: "Guidance"
 aliases:
 - "Guidance"
 ---

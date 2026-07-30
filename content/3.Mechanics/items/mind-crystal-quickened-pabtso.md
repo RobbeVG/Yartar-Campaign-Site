@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/rarity/rare
+title: "Mind Crystal (Quickened)"
 aliases:
 - "Mind Crystal (Quickened)"
 ---
 # Mind Crystal (Quickened)
 *Wondrous item, rare*  
-![](file://items/PaBTSO/Mind%20Crystal.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/PaBTSO/Mind%20Crystal.webp#right)
 
 
 This gemstone contains a crystallized bit of spellcasting magic.

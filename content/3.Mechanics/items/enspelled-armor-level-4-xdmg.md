@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Enspelled Armor (Level 4)"
 aliases:
 - "Enspelled Armor (Level 4)"
 - "Enspelled (Level 4) Breastplate"

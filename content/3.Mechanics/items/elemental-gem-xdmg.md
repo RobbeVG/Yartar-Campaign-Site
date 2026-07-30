@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Elemental Gem"
 aliases:
 - "Elemental Gem"
 ---
 # Elemental Gem
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Elemental%20Gem.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Elemental%20Gem.webp#right)
 
 
 **Items in this group:**

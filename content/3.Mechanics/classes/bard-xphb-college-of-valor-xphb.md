@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/bard/valor
+title: "College of Valor"
 aliases:
 - "College of Valor"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Valor%20Bard.webp#right)
 
 *Sing the Deeds of Ancient Heroes*
 

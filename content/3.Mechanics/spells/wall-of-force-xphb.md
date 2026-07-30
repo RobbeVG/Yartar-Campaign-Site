@@ -15,6 +15,7 @@ classes:
 - Sorcerer (Clockwork Sorcery)
 - Wizard
 - Wizard (Evoker)
+title: "Wall of Force"
 aliases:
 - "Wall of Force"
 ---

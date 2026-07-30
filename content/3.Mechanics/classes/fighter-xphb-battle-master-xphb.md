@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/fighter/battle-master
+title: "Battle Master"
 aliases:
 - "Battle Master"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Battle%20Master%20Fighter.webp#right)
 
 *Master Sophisticated Battle Maneuvers*
 

@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Hat of Disguise"
 aliases:
 - "Hat of Disguise"
 ---
 # Hat of Disguise
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Hat%20of%20Disguise.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Hat%20of%20Disguise.webp#right)
 
 
 While wearing this hat, you can cast the [Disguise Self](3.Mechanics/spells/disguise-self-xphb.md) spell. The spell ends if the hat is removed.

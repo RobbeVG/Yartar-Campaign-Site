@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/school/conjuration
 classes:
 - Ranger
+title: "Hail of Thorns"
 aliases:
 - "Hail of Thorns"
 ---

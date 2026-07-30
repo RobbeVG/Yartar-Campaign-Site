@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Boots of the Winterlands"
 aliases:
 - "Boots of the Winterlands"
 ---
 # Boots of the Winterlands
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Boots%20of%20the%20Winterlands.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Boots%20of%20the%20Winterlands.webp#right)
 
 
 These furred boots are snug and feel warm. While wearing them, you gain the following benefits.

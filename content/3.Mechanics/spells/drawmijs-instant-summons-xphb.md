@@ -12,6 +12,7 @@ tags:
 classes:
 - Bard
 - Wizard
+title: "Drawmij's Instant Summons"
 aliases:
 - "Drawmij's Instant Summons"
 ---

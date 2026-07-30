@@ -15,6 +15,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Power Word Stun"
 aliases:
 - "Power Word Stun"
 ---

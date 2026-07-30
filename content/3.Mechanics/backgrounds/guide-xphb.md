@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Guide"
 aliases:
 - "Guide"
 ---
 # Guide
 *Source: Player's Handbook (2024) p. 181*  
-![](file://backgrounds/XPHB/Guide.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/backgrounds/XPHB/Guide.webp#right)
 
 - **Ability Scores.** Dexterity, Constitution, Wisdom  
 - **Feat.** [Magic Initiate](3.Mechanics/feats/magic-initiate-xphb.md) (Druid)  

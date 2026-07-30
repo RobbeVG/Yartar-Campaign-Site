@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Grick"
 aliases:
 - "Grick"
 ---
-# [Grick](3.Mechanics/bestiary/aberration/grick-xmm.md)
+# Grick
 *Source: Monster Manual (2024) p. 158. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Gricks.webp#right)
 
 Gricks tend to be solitary hunters, but young gricks might lurk near dozens of their brood mates for years before gradually drifting apart.
 
@@ -30,44 +30,43 @@ Gricks are wormlike predators that burst from hiding—flailing and snapping—t
 
 Gricks' origins are unclear, but some suggest these creatures arise from natural worms or similar invertebrates mutated by magical phenomena. Many cite the presence of gricks in a region as evidence of portals to other planes of existence, legendary magic items, or powerful supernatural beings.
 
-```statblock
-"name": "Grick (XMM)"
-"size": "Medium"
-"type": "aberration"
-"alignment": "Unaligned"
-"ac": !!int "14"
-"hp": !!int "54"
-"hit_dice": "12d8"
-"modifier": !!int "2"
-"stats":
-  - !!int "14"
-  - !!int "14"
-  - !!int "11"
-  - !!int "3"
-  - !!int "14"
-  - !!int "5"
-"speed": "30 ft., climb 30 ft."
-"skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+4"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
-"languages": ""
-"cr": "2"
-"actions":
-  - "desc": "The grick makes one Beak attack and one Tentacles attack."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:2d6+2|noform|noparens|avg|text(9) (2d6 + 2) Piercing damage."
-    "name": "Beak"
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d10+2|noform|noparens|avg|text(7) (1d10 + 2) Slashing\
-      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition (escape DC 12) from all four tentacles."
-    "name": "Tentacles"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Grick.webp"
+```ad-statblock
+title: Grick
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Grick.webp#token)
+*Medium Aberration, Unaligned*
+
+- **Armor Class** 14 
+- **Hit Points** 54 (12d8) 
+- **Speed** 30 ft., climb 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 14 | +2 | +2 |
+|Int| 3 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 11 | +0 | +0 |
+|Cha| 5 | -3 | -3 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
+- **Languages** —
+- **Challenge** 2
+
+## Actions
+
+***Multiattack.*** The grick makes one Beak attack and one Tentacles attack.
+
+***Beak.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:2d6+2|noform|noparens|avg|text(9)` (`2d6 + 2`) Piercing damage.
+
+***Tentacles.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d10+2|noform|noparens|avg|text(7)` (`1d10 + 2`) Slashing damage. If the target is a Medium or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 12) from all four tentacles.
 ```
 ^statblock
 

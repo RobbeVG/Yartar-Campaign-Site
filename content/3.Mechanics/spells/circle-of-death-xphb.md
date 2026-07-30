@@ -15,6 +15,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Circle of Death"
 aliases:
 - "Circle of Death"
 ---

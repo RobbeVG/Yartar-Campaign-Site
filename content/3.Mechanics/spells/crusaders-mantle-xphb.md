@@ -11,6 +11,7 @@ tags:
 classes:
 - Cleric (War Domain)
 - Paladin
+title: "Crusader's Mantle"
 aliases:
 - "Crusader's Mantle"
 ---

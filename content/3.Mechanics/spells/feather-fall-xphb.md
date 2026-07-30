@@ -20,6 +20,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
+title: "Feather Fall"
 aliases:
 - "Feather Fall"
 ---

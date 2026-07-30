@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+title: "Necklace of Prayer Beads"
 aliases:
 - "Necklace of Prayer Beads"
 ---
 # Necklace of Prayer Beads
 *Wondrous item, rare (requires attunement by a cleric, druid, or paladin)*  
-![](file://items/XDMG/Necklace%20of%20Prayer%20Beads.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Necklace%20of%20Prayer%20Beads.webp#right)
 
 - **Weight**: 1.0 lbs.
 

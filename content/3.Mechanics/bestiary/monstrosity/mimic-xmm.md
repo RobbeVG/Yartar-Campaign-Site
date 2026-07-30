@@ -9,13 +9,15 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Mimic"
 aliases:
 - "Mimic"
+conditionImmunities:
+- [prone](3.Mechanics/rules/conditions.md#Prone)
 ---
-# [Mimic](3.Mechanics/bestiary/monstrosity/mimic-xmm.md)
+# Mimic
 *Source: Monster Manual (2024) p. 212. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Mimic.webp#right)
 
 ## Mimic
 
@@ -99,62 +101,51 @@ Throne
 Topiary
 
 Weapon rack
+```ad-statblock
+title: Mimic
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mimic.webp#token)
+*Medium Monstrosity, Neutral*
 
-```statblock
-"name": "Mimic (XMM)"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Neutral"
-"ac": !!int "12"
-"hp": !!int "58"
-"hit_dice": "9d8 + 18"
-"modifier": !!int "3"
-"stats":
-  - !!int "17"
-  - !!int "12"
-  - !!int "15"
-  - !!int "5"
-  - !!int "13"
-  - !!int "8"
-"speed": "20 ft."
-"skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+5"
-"damage_immunities": "acid"
-"condition_immunities": "[prone](3.Mechanics/rules/conditions.md#Prone)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
-"languages": ""
-"cr": "2"
-"traits":
-  - "desc": "The mimic adheres to anything that touches it. A Huge or smaller creature\
-      \ adhered to the mimic has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition (escape DC 13). Ability checks made to escape this grapple have\
-      \ [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)."
-    "name": "Adhesive (Object Form Only)"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5) (with [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ if the target is [Grappled](3.Mechanics/rules/conditions.md#Grappled) by the\
-      \ mimic), reach 5 ft. *Hit:* dice:1d8+3|noform|noparens|avg|text(7) (1d8\
-      \ + 3) Piercing damage—or dice:2d8+3|noform|noparens|avg|text(12) (2d8 +\
-      \ 3) Piercing damage if the target is [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ by the mimic—plus dice:1d8|noform|noparens|avg|text(4) (1d8) Acid damage."
-    "name": "Bite"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:1d8+3|noform|noparens|avg|text(7) (1d8 + 3) Bludgeoning\
-      \ damage plus dice:1d8|noform|noparens|avg|text(4) (1d8) Acid damage. If\
-      \ the target is a Large or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition (escape DC 13). Ability checks made to escape this grapple have\
-      \ [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)."
-    "name": "Pseudopod"
-"bonus_actions":
-  - "desc": "The mimic shape-shifts to resemble a Medium or Small object while retaining\
-      \ its game statistics, or it returns to its true blob form. Any equipment it\
-      \ is wearing or carrying isn't transformed."
-    "name": "Shape-Shift"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Mimic.webp"
+- **Armor Class** 12 
+- **Hit Points** 58 (9d8 + 18) 
+- **Speed** 20 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17 | +3 | +3 |
+|Int| 5 | -3 | -3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15 | +2 | +2 |
+|Cha| 8 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
+- **Damage Immunities** Acid
+- **Condition Immunities** [Prone](3.Mechanics/rules/conditions.md#Prone)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 11
+- **Languages** —
+- **Challenge** 2
+
+## Traits
+
+***Adhesive (Object Form Only).*** The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 13). Ability checks made to escape this grapple have [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md).
+
+## Actions
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)` (with [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) if the target is [Grappled](3.Mechanics/rules/conditions.md#Grappled) by the mimic), reach 5 ft. *Hit:* `dice:1d8+3|noform|noparens|avg|text(7)` (`1d8 + 3`) Piercing damage—or `dice:2d8+3|noform|noparens|avg|text(12)` (`2d8 + 3`) Piercing damage if the target is [Grappled](3.Mechanics/rules/conditions.md#Grappled) by the mimic—plus `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) Acid damage.
+
+***Pseudopod.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d8+3|noform|noparens|avg|text(7)` (`1d8 + 3`) Bludgeoning damage plus `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) Acid damage. If the target is a Large or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 13). Ability checks made to escape this grapple have [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md).
+
+## Bonus Actions
+
+***Shape-Shift.*** The mimic shape-shifts to resemble a Medium or Small object while retaining its game statistics, or it returns to its true blob form. Any equipment it is wearing or carrying isn't transformed.
 ```
 ^statblock
 

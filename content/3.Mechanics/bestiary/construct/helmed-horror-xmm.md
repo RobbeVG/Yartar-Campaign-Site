@@ -8,13 +8,23 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
-statblock: inline
-statblock-link: "#^statblock"
+title: "Helmed Horror"
 aliases:
 - "Helmed Horror"
+conditionImmunities:
+- [blinded](3.Mechanics/rules/conditions.md#Blinded)
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [deafened](3.Mechanics/rules/conditions.md#Deafened)
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
+- [petrified](3.Mechanics/rules/conditions.md#Petrified)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- [stunned](3.Mechanics/rules/conditions.md#Stunned)
 ---
-# [Helmed Horror](3.Mechanics/bestiary/construct/helmed-horror-xmm.md)
+# Helmed Horror
 *Source: Monster Manual (2024) p. 166*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Helmed%20Horror.webp#right)
 
 ## Helmed Horror
 
@@ -40,57 +50,50 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
 | 5 | Serve in a legion formed from the armors of a land's ancient defenders. |
 | 6 | Stand sentry in a gallery of mundane armors. |
 ^helmed-horror-directives
+```ad-statblock
+title: Helmed Horror
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Helmed%20Horror.webp#token)
+*Medium Construct, Neutral*
 
-```statblock
-"name": "Helmed Horror (XMM)"
-"size": "Medium"
-"type": "construct"
-"alignment": "Neutral"
-"ac": !!int "20"
-"hp": !!int "67"
-"hit_dice": "9d8 + 27"
-"modifier": !!int "3"
-"stats":
-  - !!int "18"
-  - !!int "13"
-  - !!int "16"
-  - !!int "10"
-  - !!int "10"
-  - !!int "10"
-"speed": "30 ft., fly 30 ft. (hover)"
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-"damage_immunities": "necrotic, poison"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [deafened](3.Mechanics/rules/conditions.md#Deafened), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [stunned](3.Mechanics/rules/conditions.md#Stunned)"
-"gear":
-  - "[shield](3.Mechanics/items/shield-xphb.md)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 14"
-"languages": "understands Common plus one other language but can't speak"
-"cr": "4"
-"traits":
-  - "desc": "The helmed horror has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-  - "desc": "The helmed horror is immune to three spells chosen by its creator. Typical\
-      \ choices include [Heat Metal](3.Mechanics/spells/heat-metal-xphb.md), [Lightning\
-      \ Bolt](3.Mechanics/spells/lightning-bolt-xphb.md), and [Magic Missile](3.Mechanics/spells/magic-missile-xphb.md)."
-    "name": "Spell Immunity"
-"actions":
-  - "desc": "The helmed horror makes two Arcane Sword attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:1d8+4|noform|noparens|avg|text(8) (1d8 + 4) Slashing damage\
-      \ plus dice:1d10|noform|noparens|avg|text(5) (1d10) Force damage."
-    "name": "Arcane Sword"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Helmed%20Horror.webp"
+- **Armor Class** 20 
+- **Hit Points** 67 (9d8 + 27) 
+- **Speed** 30 ft., fly 30 ft. (hover)
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 13 | +1 | +1 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 10 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4
+- **Damage Immunities** Necrotic, Poison
+- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Deafened](3.Mechanics/rules/conditions.md#Deafened), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Stunned](3.Mechanics/rules/conditions.md#Stunned)
+- **Gear** [shield](3.Mechanics/items/shield-xphb.md)
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 14
+- **Languages** Understands Common plus one other language but can't speak
+- **Challenge** 4
+
+## Traits
+
+***Magic Resistance.*** The helmed horror has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+***Spell Immunity.*** The helmed horror is immune to three spells chosen by its creator. Typical choices include [Heat Metal](3.Mechanics/spells/heat-metal-xphb.md), [Lightning Bolt](3.Mechanics/spells/lightning-bolt-xphb.md), and [Magic Missile](3.Mechanics/spells/magic-missile-xphb.md).
+
+## Actions
+
+***Multiattack.*** The helmed horror makes two Arcane Sword attacks.
+
+***Arcane Sword.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:1d8+4|noform|noparens|avg|text(8)` (`1d8 + 4`) Slashing damage plus `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) Force damage.
 ```
 ^statblock
 

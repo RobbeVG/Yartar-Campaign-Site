@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
+title: "Embroidered glove set with jewel chips"
 aliases:
 - "Embroidered glove set with jewel chips"
 ---

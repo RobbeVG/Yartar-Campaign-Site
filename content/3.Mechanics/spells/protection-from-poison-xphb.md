@@ -19,6 +19,7 @@ classes:
 - Druid
 - Paladin
 - Ranger
+title: "Protection from Poison"
 aliases:
 - "Protection from Poison"
 ---

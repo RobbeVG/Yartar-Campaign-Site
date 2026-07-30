@@ -16,12 +16,13 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
+title: "Entangle"
 aliases:
 - "Entangle"
 ---
 # Entangle
 *1st-level, Conjuration*  
-![](file://spells/XPHB/Entangle.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Entangle.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

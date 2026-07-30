@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Sailor"
 aliases:
 - "Sailor"
 ---
 # Sailor
 *Source: Player's Handbook (2024) p. 184*  
-![](file://backgrounds/XPHB/Sailor.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/backgrounds/XPHB/Sailor.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Wisdom  
 - **Feat.** [Tavern Brawler](3.Mechanics/feats/tavern-brawler-xphb.md)  

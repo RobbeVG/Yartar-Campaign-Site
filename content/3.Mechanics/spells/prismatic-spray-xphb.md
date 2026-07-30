@@ -15,6 +15,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Prismatic Spray"
 aliases:
 - "Prismatic Spray"
 ---

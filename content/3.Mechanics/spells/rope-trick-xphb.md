@@ -19,6 +19,7 @@ classes:
 - Ranger (Gloom Stalker)
 - Rogue (Arcane Trickster)
 - Wizard
+title: "Rope Trick"
 aliases:
 - "Rope Trick"
 ---

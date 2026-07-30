@@ -7,61 +7,58 @@ tags:
 - ttrpg-cli/monster/cr/
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Aberrant Spirit"
 aliases:
 - "Aberrant Spirit"
 ---
-# [Aberrant Spirit](3.Mechanics/bestiary/aberration/aberrant-spirit-xphb.md)
+# Aberrant Spirit
 *Source: Player's Handbook (2024) p. 322*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Aberrant%20Spirit.webp#center)
+```ad-statblock
+title: Aberrant Spirit
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Aberrant%20Spirit.webp#token)
+*Medium Aberration, Neutral*
 
-```statblock
-"name": "Aberrant Spirit (XPHB)"
-"size": "Medium"
-"type": "aberration"
-"alignment": "Neutral"
-"ac_class": "11 + the spell's level"
-"hp": "40 + 10 for each spell level above 4"
-"modifier": !!int "0"
-"stats":
-  - !!int "16"
-  - !!int "10"
-  - !!int "15"
-  - !!int "16"
-  - !!int "10"
-  - !!int "6"
-"speed": "30 ft., fly 30 ft. (hover; Beholderkin only)"
-"damage_immunities": "psychic"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Deep Speech, understands the languages you know"
-"traits":
-  - "desc": "The spirit regains 5 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ at the start of its turn if it has at least 1 [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md)."
-    "name": "Regeneration (Slaad Only)"
-  - "desc": "At the start of each of the spirit's turns, the spirit emits psionic\
-      \ energy if it doesn't have the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition. *Wisdom Saving Throw:* DC equals your spell save DC, each creature\
-      \ (other than you) within 5 feet of the spirit. *Failure:* dice:2d6|noform|noparens|avg\
-      \ (2d6) Psychic damage."
-    "name": "Whispering Aura (Mind Flayer Only)"
-"actions":
-  - "desc": "The spirit makes a number of attacks equal to half this spell's level\
-      \ (round down)."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
-      \ ft. *Hit:* 1d10 + 3 + the spell's level Slashing damage, and the target\
-      \ can't regain [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ until the start of the spirit's next turn."
-    "name": "Claw (Slaad Only)"
-  - "desc": "*Ranged Attack Roll:* Bonus equals your spell attack modifier, range\
-      \ 150 ft. *Hit:* 1d8 + 3 + the spell's level Psychic damage."
-    "name": "Eye Ray (Beholderkin Only)"
-  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
-      \ ft. *Hit:* 1d8 + 3 + the spell's level Psychic damage."
-    "name": "Psychic Slam (Mind Flayer Only)"
-"source":
-  - "XPHB"
-"image": "file://bestiary/tokens/XPHB/Aberrant%20Spirit.webp"
+- **Armor Class** (11 + the spell's level)
+- **Hit Points** 40 + 10 for each spell level above 4  (40 + 10 for each spell level above 4)
+- **Speed** 30 ft., fly 30 ft. (hover; Beholderkin only)
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16 | +3 | +3 |
+|Int| 16 | +3 | +3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | +0 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15 | +2 | +2 |
+|Cha| 6 | -2 | -2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Immunities** Psychic
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Deep Speech, Understands the languages you know
+- **Challenge** 
+
+## Traits
+
+***Regeneration (Slaad Only).*** The spirit regains 5 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) at the start of its turn if it has at least 1 [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md).
+
+***Whispering Aura (Mind Flayer Only).*** At the start of each of the spirit's turns, the spirit emits psionic energy if it doesn't have the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition. *Wisdom Saving Throw:* DC equals your spell save DC, each creature (other than you) within 5 feet of the spirit. *Failure:* `dice:2d6|noform|noparens|avg` (`2d6`) Psychic damage.
+
+## Actions
+
+***Multiattack.*** The spirit makes a number of attacks equal to half this spell's level (round down).
+
+***Claw (Slaad Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d10 + 3` + the spell's level Slashing damage, and the target can't regain [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) until the start of the spirit's next turn.
+
+***Eye Ray (Beholderkin Only).*** *Ranged Attack Roll:* Bonus equals your spell attack modifier, range 150 ft. *Hit:* `1d8 + 3` + the spell's level Psychic damage.
+
+***Psychic Slam (Mind Flayer Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8 + 3` + the spell's level Psychic damage.
 ```
 ^statblock

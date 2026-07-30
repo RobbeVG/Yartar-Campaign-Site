@@ -30,6 +30,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Hold Person"
 aliases:
 - "Hold Person"
 ---

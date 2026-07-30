@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Club"
 aliases:
 - "Club"
 ---
 # Club
 *Weapon*  
-![](file://items/XPHB/Club.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Club.webp#right)
 
 - **Damage**: 1d4 bludgeoning
 - **Properties**: [Light](3.Mechanics/rules/item-properties.md#Light)

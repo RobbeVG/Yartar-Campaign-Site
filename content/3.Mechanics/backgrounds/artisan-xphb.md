@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Artisan"
 aliases:
 - "Artisan"
 ---
 # Artisan
 *Source: Player's Handbook (2024) p. 179*  
-![](file://backgrounds/XPHB/Artisan.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/backgrounds/XPHB/Artisan.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Intelligence  
 - **Feat.** [Crafter](3.Mechanics/feats/crafter-xphb.md)  

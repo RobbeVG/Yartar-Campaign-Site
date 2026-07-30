@@ -24,12 +24,13 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Illusionist)
+title: "Silent Image"
 aliases:
 - "Silent Image"
 ---
 # Silent Image
 *1st-level, Illusion*  
-![](file://spells/XPHB/Silent%20Image.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Silent%20Image.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

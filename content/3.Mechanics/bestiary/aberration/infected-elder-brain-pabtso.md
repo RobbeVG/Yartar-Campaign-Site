@@ -7,103 +7,67 @@ tags:
 - ttrpg-cli/monster/cr/11
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/aberration/mind-flayer
-statblock: inline
-statblock-link: "#^statblock"
+title: "Infected Elder Brain"
 aliases:
 - "Infected Elder Brain"
 ---
-# [Infected Elder Brain](3.Mechanics/bestiary/aberration/infected-elder-brain-pabtso.md)
+# Infected Elder Brain
 *Source: Phandelver and Below: The Shattered Obelisk p. 159*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Infected%20Elder%20Brain.webp#right)
 
 The Far Realm has tainted the elder brain that fuels Illithinoch's mind flayers.
+```ad-statblock
+title: Infected Elder Brain
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Infected%20Elder%20Brain.webp#token)
+*Large Aberration (mind flayer), Lawful Evil*
 
-```statblock
-"name": "Infected Elder Brain (PaBTSO)"
-"size": "Large"
-"type": "aberration"
-"subtype": "mind flayer"
-"alignment": "Lawful Evil"
-"ac": !!int "10"
-"hp": !!int "189"
-"hit_dice": "18d10 + 90"
-"modifier": !!int "0"
-"stats":
-  - !!int "15"
-  - !!int "10"
-  - !!int "20"
-  - !!int "21"
-  - !!int "19"
-  - !!int "20"
-"speed": "5 ft., swim 10 ft."
-"saves":
-  - "intelligence": !!int "9"
-  - "wisdom": !!int "8"
-  - "charisma": !!int "9"
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+9"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
-    "desc": "+12"
-"senses": "[blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 ft., passive Perception\
-  \ 14"
-"languages": "telepathy 1 mile; understands Common, Deep Speech, and Undercommon but\
-  \ can't speak"
-"cr": "11"
-"traits":
-  - "desc": "The elder brain is aware of creatures within 1 mile of itself that have\
-      \ an Intelligence score of 4 or higher. It knows the distance and direction\
-      \ to each creature, as well as each one's Intelligence score, but can't sense\
-      \ anything else about it. A creature protected by a [mind blank](3.Mechanics/spells/mind-blank-xphb.md)\
-      \ spell, a [nondetection](3.Mechanics/spells/nondetection-xphb.md) spell, or\
-      \ similar magic can't be perceived in this manner."
-    "name": "Creature Sense"
-  - "desc": "The elder brain has advantage on saving throws against spells and other\
-      \ magical effects."
-    "name": "Magic Resistance"
-  - "desc": "The elder brain can use its telepathy to initiate and maintain telepathic\
-      \ conversations with up to ten creatures at a time. The elder brain can let\
-      \ those creatures telepathically hear each other while connected in this way."
-    "name": "Telepathic Hub"
-"actions":
-  - "desc": "The elder brain makes two Tentacle attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* dice:1d20+6|noform|noparens|text(+6) to hit,\
-      \ reach 30 ft., one target. *Hit:* dice:3d8+2|noform|noparens|avg|text(15)\
-      \ (3d8 + 2) bludgeoning damage. If the target is a Huge or smaller creature,\
-      \ it has the [grappled](3.Mechanics/rules/conditions.md#Grappled) condition\
-      \ (escape DC 14) and takes dice:1d8+5|noform|noparens|avg|text(9) (1d8 +\
-      \ 5) psychic damage at the start of each of its turns until the grapple ends.\
-      \ The elder brain can have up to four targets [grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ at a time."
-    "name": "Tentacle"
-  - "desc": "Creatures of the elder brain's choice within 60 feet of itself must succeed\
-      \ on a DC 17 Intelligence saving throw or take dice:5d10+5|noform|noparens|avg|text(32)\
-      \ (5d10 + 5) psychic damage and have the [stunned](3.Mechanics/rules/conditions.md#Stunned)\
-      \ condition for 1 minute. A [stunned](3.Mechanics/rules/conditions.md#Stunned)\
-      \ creature can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success."
-    "name": "Mind Blast (Recharge 5-6)"
-  - "desc": "The elder brain casts one of the following spells, requiring no spell\
-      \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 17):\n\n**At will:** [detect thoughts](3.Mechanics/spells/detect-thoughts-xphb.md),\
-      \ [levitate](3.Mechanics/spells/levitate-xphb.md)"
-    "name": "Spellcasting (Psionics)"
-"bonus_actions":
-  - "desc": "The elder brain targets one creature with the [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition that the elder brain senses with its Creature Sense trait and establishes\
-      \ a psychic link with the target. Until the link ends, the elder brain can perceive\
-      \ everything the target senses. The target becomes aware that something is linked\
-      \ to its mind once it no longer has the [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition, and the elder brain can terminate the link at any time (no action\
-      \ required). The target can use an action on its turn to attempt to break the\
-      \ link, doing so with a successful DC 17 Charisma check. If the target breaks\
-      \ the link this way, the target takes dice:3d6|noform|noparens|avg|text(10)\
-      \ (3d6) psychic damage. The link also ends if the target and the elder brain\
-      \ are more than 1 mile apart. The elder brain can form psychic links with up\
-      \ to ten creatures at a time."
-    "name": "Psychic Link"
-"source":
-  - "PaBTSO"
-"image": "file://bestiary/tokens/PaBTSO/Infected%20Elder%20Brain.webp"
+- **Armor Class** 10 
+- **Hit Points** 189 (18d10 + 90) 
+- **Speed** 5 ft., swim 10 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 15 | +2 | +2 |
+|Int| 21 | +5 | **+9** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | +0 |
+|Wis| 19 | +4 | **+8** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 20 | +5 | +5 |
+|Cha| 20 | +5 | **+9** |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Intelligence +9, Wisdom +8, Charisma +9
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +9, [Insight](3.Mechanics/rules/skills.md#Insight) +12
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 Ft., Passive Perception 14
+- **Languages** Telepathy 1 mile; Understands Common, Deep Speech, And Undercommon but can't speak
+- **Challenge** 11
+
+## Traits
+
+***Creature Sense.*** The elder brain is aware of creatures within 1 mile of itself that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each one's Intelligence score, but can't sense anything else about it. A creature protected by a [mind blank](3.Mechanics/spells/mind-blank-xphb.md) spell, a [nondetection](3.Mechanics/spells/nondetection-xphb.md) spell, or similar magic can't be perceived in this manner.
+
+***Magic Resistance.*** The elder brain has advantage on saving throws against spells and other magical effects.
+
+***Telepathic Hub.*** The elder brain can use its telepathy to initiate and maintain telepathic conversations with up to ten creatures at a time. The elder brain can let those creatures telepathically hear each other while connected in this way.
+
+## Actions
+
+***Multiattack.*** The elder brain makes two Tentacle attacks.
+
+***Tentacle.*** *Melee Weapon Attack:* `dice:1d20+6|noform|noparens|text(+6)` to hit, reach 30 ft., one target. *Hit:* `dice:3d8+2|noform|noparens|avg|text(15)` (`3d8 + 2`) bludgeoning damage. If the target is a Huge or smaller creature, it has the [grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 14) and takes `dice:1d8+5|noform|noparens|avg|text(9)` (`1d8 + 5`) psychic damage at the start of each of its turns until the grapple ends. The elder brain can have up to four targets [grappled](3.Mechanics/rules/conditions.md#Grappled) at a time.
+
+***Mind Blast (Recharge 5-6).*** Creatures of the elder brain's choice within 60 feet of itself must succeed on a DC 17 Intelligence saving throw or take `dice:5d10+5|noform|noparens|avg|text(32)` (`5d10 + 5`) psychic damage and have the [stunned](3.Mechanics/rules/conditions.md#Stunned) condition for 1 minute. A [stunned](3.Mechanics/rules/conditions.md#Stunned) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Spellcasting (Psionics).*** The elder brain casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 17):
+
+**At will:** [detect thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [levitate](3.Mechanics/spells/levitate-xphb.md)
+
+## Bonus Actions
+
+***Psychic Link.*** The elder brain targets one creature with the [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition that the elder brain senses with its Creature Sense trait and establishes a psychic link with the target. Until the link ends, the elder brain can perceive everything the target senses. The target becomes aware that something is linked to its mind once it no longer has the [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition, and the elder brain can terminate the link at any time (no action required). The target can use an action on its turn to attempt to break the link, doing so with a successful DC 17 Charisma check. If the target breaks the link this way, the target takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) psychic damage. The link also ends if the target and the elder brain are more than 1 mile apart. The elder brain can form psychic links with up to ten creatures at a time.
 ```
 ^statblock

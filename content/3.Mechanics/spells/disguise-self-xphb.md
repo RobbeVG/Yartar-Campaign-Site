@@ -28,6 +28,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Illusionist)
+title: "Disguise Self"
 aliases:
 - "Disguise Self"
 ---

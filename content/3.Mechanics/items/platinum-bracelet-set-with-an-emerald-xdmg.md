@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
+title: "Platinum bracelet set with an emerald"
 aliases:
 - "Platinum bracelet set with an emerald"
 ---

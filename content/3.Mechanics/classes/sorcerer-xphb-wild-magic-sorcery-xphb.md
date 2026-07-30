@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/sorcerer/wild-magic
+title: "Wild Magic Sorcery"
 aliases:
 - "Wild Magic Sorcery"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Wild%20Magic%20Sorcerer.webp#right)
 
 *Unleash Chaotic Magic*
 

@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/none
+title: "Breastplate"
 aliases:
 - "Breastplate"
 ---
 # Breastplate
 *Medium armor*  
-![](file://items/XPHB/Breastplate.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Breastplate.webp#right)
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Cost**: 400 gp

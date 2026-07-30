@@ -27,6 +27,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Poison Spray"
 aliases:
 - "Poison Spray"
 ---

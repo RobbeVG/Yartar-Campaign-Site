@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Commoner"
 aliases:
 - "Commoner"
 ---
-# [Commoner](3.Mechanics/bestiary/humanoid/commoner-xmm.md)
+# Commoner
 *Source: Monster Manual (2024) p. 77. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Commoner.webp#right)
 
 ## Commoner
 
@@ -102,41 +102,44 @@ Town crier
 Weaver
 
 Youngster
+```ad-statblock
+title: Commoner
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Commoner.webp#token)
+*Small or Medium Humanoid, Neutral*
 
-```statblock
-"name": "Commoner (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "10"
-"hp": !!int "4"
-"hit_dice": "1d8"
-"modifier": !!int "0"
-"stats":
-  - !!int "10"
-  - !!int "10"
-  - !!int "10"
-  - !!int "10"
-  - !!int "10"
-  - !!int "10"
-"speed": "30 ft."
-"gear":
-  - "[club](3.Mechanics/items/club-xphb.md)"
-"senses": "passive Perception 10"
-"languages": "Common"
-"cr": "0"
-"traits":
-  - "desc": "The commoner has proficiency in one skill of the DM's choice and has\
-      \ [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) whenever it\
-      \ makes an ability check using that skill."
-    "name": "Training"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+2|noform|noparens|text(+2), reach 5\
-      \ ft. *Hit:* dice:1d4|noform|noparens|avg|text(2) (1d4) Bludgeoning damage."
-    "name": "Club"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Commoner.webp"
+- **Armor Class** 10 
+- **Hit Points** 4 (1d8) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10 | +0 | +0 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | +0 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 10 | +0 | +0 |
+|Cha| 10 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Gear** [club](3.Mechanics/items/club-xphb.md)
+- **Senses** Passive Perception 10
+- **Languages** Common
+- **Challenge** 0
+
+## Traits
+
+***Training.*** The commoner has proficiency in one skill of the DM's choice and has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) whenever it makes an ability check using that skill.
+
+## Actions
+
+***Club.*** *Melee Attack Roll:* `dice:1d20+2|noform|noparens|text(+2)`, reach 5 ft. *Hit:* `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) Bludgeoning damage.
 ```
 ^statblock
 

@@ -9,13 +9,15 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/fiend/demon
-statblock: inline
-statblock-link: "#^statblock"
+title: "Dretch"
 aliases:
 - "Dretch"
+conditionImmunities:
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Dretch](3.Mechanics/bestiary/fiend/dretch-xmm.md)
+# Dretch
 *Source: Monster Manual (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Dretches.webp#right)
 
 Lone dretches serve other demons or evil magic-users. They are erratic, filthy, and violent, and they demonstrate little sense of self-preservation.
 
@@ -33,45 +35,44 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 > Ah, the infinite wonders of the Abyss. If there's anything you don't like, you'll find it here.
 
 
-```statblock
-"name": "Dretch (XMM)"
-"size": "Small"
-"type": "fiend"
-"subtype": "demon"
-"alignment": "Chaotic Evil"
-"ac": !!int "11"
-"hp": !!int "18"
-"hit_dice": "4d6 + 4"
-"modifier": !!int "0"
-"stats":
-  - !!int "12"
-  - !!int "11"
-  - !!int "12"
-  - !!int "5"
-  - !!int "8"
-  - !!int "3"
-"speed": "20 ft."
-"damage_resistances": "cold, fire, lightning"
-"damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
-"languages": "Abyssal; telepathy 60 ft. (works only with creatures that understand\
-  \ Abyssal)"
-"cr": "1/4"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+3|noform|noparens|text(+3), reach 5\
-      \ ft. *Hit:* dice:1d6+1|noform|noparens|avg|text(4) (1d6 + 1) Slashing damage."
-    "name": "Rend"
-  - "desc": "*Constitution Saving Throw:* DC 11, each creature in a 10-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the dretch. *Failure:* The target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition until the end of its next turn. While [Poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-      \ the creature can take either an action or a [Bonus Action](3.Mechanics/rules/variant-rules/bonus-action-xphb.md)\
-      \ on its turn, not both, and it can't take Reactions."
-    "name": "Fetid Cloud (1/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Dretch.webp"
+```ad-statblock
+title: Dretch
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Dretch.webp#token)
+*Small Fiend (demon), Chaotic Evil*
+
+- **Armor Class** 11 
+- **Hit Points** 18 (4d6 + 4) 
+- **Speed** 20 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 12 | +1 | +1 |
+|Int| 5 | -3 | -3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 11 | +0 | +0 |
+|Wis| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 3 | -4 | -4 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Resistances** Cold, Fire, Lightning
+- **Damage Immunities** Poison
+- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
+- **Languages** Abyssal; Telepathy 60 ft. (works only with creatures that understand Abyssal)
+- **Challenge** 1/4
+
+## Actions
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+3|noform|noparens|text(+3)`, reach 5 ft. *Hit:* `dice:1d6+1|noform|noparens|avg|text(4)` (`1d6 + 1`) Slashing damage.
+
+***Fetid Cloud (1/Day).*** *Constitution Saving Throw:* DC 11, each creature in a 10-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the dretch. *Failure:* The target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition until the end of its next turn. While [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), the creature can take either an action or a [Bonus Action](3.Mechanics/rules/variant-rules/bonus-action-xphb.md) on its turn, not both, and it can't take Reactions.
 ```
 ^statblock
 

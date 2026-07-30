@@ -13,6 +13,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Silvered Weapon"
 aliases:
 - "Silvered Weapon"
 - "Silvered Antimatter Rifle"

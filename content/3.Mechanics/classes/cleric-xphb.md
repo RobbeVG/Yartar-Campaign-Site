@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/class/cleric
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Cleric"
 aliases:
 - "Cleric"
 ---
@@ -42,6 +43,8 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Cleric.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d8 per Cleric level
@@ -60,6 +63,8 @@ aliases:
 ## Multiclassing Cleric
 
 - **Armor Training**: [Light armor](3.Mechanics/rules/item-types.md#Light%20Armor), [Medium armor](3.Mechanics/rules/item-types.md#Medium%20Armor), [Shields](3.Mechanics/items/shield-xphb.md)
+
+![A Cleric prays for the day's spells](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/051-03-027.cleric-praying.webp#center)
 
 ## Cleric
 

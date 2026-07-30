@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Staff of the Adder"
 aliases:
 - "Staff of the Adder"
 ---
 # Staff of the Adder
 *Staff, weapon, uncommon (requires attunement)*  
-![](file://items/XDMG/Staff%20of%20the%20Adder.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Staff%20of%20the%20Adder.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

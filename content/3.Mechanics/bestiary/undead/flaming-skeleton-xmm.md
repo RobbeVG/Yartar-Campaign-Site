@@ -11,13 +11,16 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
-statblock: inline
-statblock-link: "#^statblock"
+title: "Flaming Skeleton"
 aliases:
 - "Flaming Skeleton"
+conditionImmunities:
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Flaming Skeleton](3.Mechanics/bestiary/undead/flaming-skeleton-xmm.md)
+# Flaming Skeleton
 *Source: Monster Manual (2024) p. 283*  
+![Adventurers face an onslaught from all manner of skeletons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Skeletons.webp#right)
 
 Flaming skeletons burn with unbridled necromantic energy. This magic grants them blazing attacks and greater awareness, which they use to command lesser Undead.
 
@@ -44,55 +47,52 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 | 6 | Stands guard at the post it protected in life. |
 ^skeleton-pantomimes
 
-```statblock
-"name": "Flaming Skeleton (XMM)"
-"size": "Medium"
-"type": "undead"
-"alignment": "Lawful Evil"
-"ac": !!int "15"
-"hp": !!int "65"
-"hit_dice": "10d8 + 20"
-"modifier": !!int "2"
-"stats":
-  - !!int "10"
-  - !!int "14"
-  - !!int "15"
-  - !!int "10"
-  - !!int "15"
-  - !!int "8"
-"speed": "30 ft."
-"damage_vulnerabilities": "bludgeoning"
-"damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
-"languages": "understands Common plus one other language but can't speak"
-"cr": "3"
-"traits":
-  - "desc": "The skeleton explodes when it dies. *Dexterity Saving Throw:* DC 12,\
-      \ each creature in a 10-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the skeleton. *Failure:* dice:4d6|noform|noparens|avg|text(14)\
-      \ (4d6) Fire damage. *Success:* Half damage."
-    "name": "Death Burst"
-  - "desc": "The skeleton sheds [Bright Light](3.Mechanics/rules/variant-rules/bright-light-xphb.md)\
-      \ in a 15-foot radius and [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md)\
-      \ for an additional 15 feet."
-    "name": "Illumination"
-"actions":
-  - "desc": "The skeleton makes two attacks, using Flame Scepter or Hurl Flame in\
-      \ any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5) (1d6 + 2) Bludgeoning\
-      \ damage plus dice:1d6|noform|noparens|avg|text(3) (1d6) Fire damage."
-    "name": "Flame Scepter"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+4|noform|noparens|text(+4), range 60\
-      \ ft. *Hit:* dice:1d10+2|noform|noparens|avg|text(7) (1d10 + 2) Fire damage."
-    "name": "Hurl Flame"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Flaming%20Skeleton.webp"
+```ad-statblock
+title: Flaming Skeleton
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Flaming%20Skeleton.webp#token)
+*Medium Undead, Lawful Evil*
+
+- **Armor Class** 15 
+- **Hit Points** 65 (10d8 + 20) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10 | +0 | +0 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 15 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15 | +2 | +2 |
+|Cha| 8 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Vulnerabilities** Bludgeoning
+- **Damage Immunities** Fire, Poison
+- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
+- **Languages** Understands Common plus one other language but can't speak
+- **Challenge** 3
+
+## Traits
+
+***Death Burst.*** The skeleton explodes when it dies. *Dexterity Saving Throw:* DC 12, each creature in a 10-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the skeleton. *Failure:* `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) Fire damage. *Success:* Half damage.
+
+***Illumination.*** The skeleton sheds [Bright Light](3.Mechanics/rules/variant-rules/bright-light-xphb.md) in a 15-foot radius and [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md) for an additional 15 feet.
+
+## Actions
+
+***Multiattack.*** The skeleton makes two attacks, using Flame Scepter or Hurl Flame in any combination.
+
+***Flame Scepter.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Bludgeoning damage plus `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) Fire damage.
+
+***Hurl Flame.*** *Ranged Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, range 60 ft. *Hit:* `dice:1d10+2|noform|noparens|avg|text(7)` (`1d10 + 2`) Fire damage.
 ```
 ^statblock
 

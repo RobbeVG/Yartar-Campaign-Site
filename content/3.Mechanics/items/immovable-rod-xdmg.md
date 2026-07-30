@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/rod
+title: "Immovable Rod"
 aliases:
 - "Immovable Rod"
 ---
 # Immovable Rod
 *Rod, uncommon*  
-![](file://items/XDMG/Immovable%20Rod.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Immovable%20Rod.webp#right)
 
 - **Weight**: 2.0 lbs.
 

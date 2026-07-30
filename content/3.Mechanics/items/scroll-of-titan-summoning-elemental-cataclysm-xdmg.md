@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/scroll
+title: "Scroll of Titan Summoning (Elemental Cataclysm)"
 aliases:
 - "Scroll of Titan Summoning (Elemental Cataclysm)"
 ---

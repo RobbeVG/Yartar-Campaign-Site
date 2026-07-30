@@ -13,12 +13,13 @@ classes:
 - Bard
 - Sorcerer (Draconic Sorcery)
 - Wizard
+title: "Summon Dragon"
 aliases:
 - "Summon Dragon"
 ---
 # Summon Dragon
 *5th-level, Conjuration*  
-![](file://spells/XPHB/Summon%20Dragon.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Summon%20Dragon.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

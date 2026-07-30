@@ -9,13 +9,15 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend/devil
-statblock: inline
-statblock-link: "#^statblock"
+title: "Bone Devil"
 aliases:
 - "Bone Devil"
+conditionImmunities:
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Bone Devil](3.Mechanics/bestiary/fiend/bone-devil-xmm.md)
+# Bone Devil
 *Source: Monster Manual (2024) p. 52. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Bone%20Devil.webp#right)
 
 ## Bone Devil
 
@@ -45,68 +47,52 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
 | 3 | Find someone who broke a deal with a devil. |
 | 4 | Slay someone or steal something as part of its pact with a wicked magic-user. |
 ^bone-devil-objectives
+```ad-statblock
+title: Bone Devil
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bone%20Devil.webp#token)
+*Large Fiend (devil), Lawful Evil*
 
-```statblock
-"name": "Bone Devil (XMM)"
-"size": "Large"
-"type": "fiend"
-"subtype": "devil"
-"alignment": "Lawful Evil"
-"ac": !!int "16"
-"hp": !!int "161"
-"hit_dice": "17d10 + 68"
-"modifier": !!int "7"
-"stats":
-  - !!int "18"
-  - !!int "16"
-  - !!int "18"
-  - !!int "13"
-  - !!int "14"
-  - !!int "16"
-"speed": "40 ft., fly 40 ft."
-"saves":
-  - "strength": !!int "8"
-  - "intelligence": !!int "5"
-  - "wisdom": !!int "6"
-  - "charisma": !!int "7"
-"skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
-    "desc": "+7"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
-    "desc": "+6"
-"damage_resistances": "cold"
-"damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive\
-  \ Perception 12"
-"languages": "Infernal; telepathy 120 ft."
-"cr": "9"
-"traits":
-  - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ somewhere in the Nine Hells."
-    "name": "Diabolical Restoration"
-  - "desc": "The devil has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The devil makes two Claw attacks and one Infernal Sting attack."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+8|noform|noparens|text(+8), reach 10\
-      \ ft. *Hit:* dice:2d8+4|noform|noparens|avg|text(13) (2d8 + 4) Slashing\
-      \ damage."
-    "name": "Claw"
-  - "desc": "*Melee Attack Roll:* dice:1d20+8|noform|noparens|text(+8), reach 10\
-      \ ft. *Hit:* dice:2d10+4|noform|noparens|avg|text(15) (2d10 + 4) Piercing\
-      \ damage plus dice:4d8|noform|noparens|avg|text(18) (4d8) Poison damage,\
-      \ and the target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition until the start of the devil's next turn. While [Poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-      \ the target can't regain [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)."
-    "name": "Infernal Sting"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Bone%20Devil.webp"
+- **Armor Class** 16 
+- **Hit Points** 161 (17d10 + 68) 
+- **Speed** 40 ft., fly 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | **+8** |
+|Int| 13 | +1 | **+5** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16 | +3 | +3 |
+|Wis| 14 | +2 | **+6** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18 | +4 | +4 |
+|Cha| 16 | +3 | **+7** |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Strength +8, Intelligence +5, Wisdom +6, Charisma +7
+- **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +7, [Insight](3.Mechanics/rules/skills.md#Insight) +6
+- **Damage Resistances** Cold
+- **Damage Immunities** Fire, Poison
+- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), Passive Perception 12
+- **Languages** Infernal; Telepathy 120 ft.
+- **Challenge** 9
+
+## Traits
+
+***Diabolical Restoration.*** If the devil dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) somewhere in the Nine Hells.
+
+***Magic Resistance.*** The devil has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The devil makes two Claw attacks and one Infernal Sting attack.
+
+***Claw.*** *Melee Attack Roll:* `dice:1d20+8|noform|noparens|text(+8)`, reach 10 ft. *Hit:* `dice:2d8+4|noform|noparens|avg|text(13)` (`2d8 + 4`) Slashing damage.
+
+***Infernal Sting.*** *Melee Attack Roll:* `dice:1d20+8|noform|noparens|text(+8)`, reach 10 ft. *Hit:* `dice:2d10+4|noform|noparens|avg|text(15)` (`2d10 + 4`) Piercing damage plus `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) Poison damage, and the target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition until the start of the devil's next turn. While [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), the target can't regain [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md).
 ```
 ^statblock
 

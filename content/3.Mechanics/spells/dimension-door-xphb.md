@@ -25,6 +25,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Dimension Door"
 aliases:
 - "Dimension Door"
 ---

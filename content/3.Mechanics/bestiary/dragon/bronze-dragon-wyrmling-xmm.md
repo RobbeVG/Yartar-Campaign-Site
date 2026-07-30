@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/coastal
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/dragon/metallic
-statblock: inline
-statblock-link: "#^statblock"
+title: "Bronze Dragon Wyrmling"
 aliases:
 - "Bronze Dragon Wyrmling"
 ---
-# [Bronze Dragon Wyrmling](3.Mechanics/bestiary/dragon/bronze-dragon-wyrmling-xmm.md)
+# Bronze Dragon Wyrmling
 *Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Bronze%20Dragon%20Wyrmling.webp#right)
 
 Bronze dragon wyrmlings believe they can solve any problems, and they seek to prove it. They often fixate on local challenges, such as drought or rampant banditry. While their zeal can be charming, these wyrmlings can get in over their heads and might then need help correcting mistakes.
 
@@ -33,59 +33,50 @@ Bronze dragons enjoy the power and endless possibilities of the sea, and they of
 
 Bronze dragons usually make their homes near or under the sea.
 
-```statblock
-"name": "Bronze Dragon Wyrmling (XMM)"
-"size": "Medium"
-"type": "dragon"
-"subtype": "metallic"
-"alignment": "Lawful Good"
-"ac": !!int "15"
-"hp": !!int "39"
-"hit_dice": "6d8 + 12"
-"modifier": !!int "2"
-"stats":
-  - !!int "17"
-  - !!int "10"
-  - !!int "15"
-  - !!int "12"
-  - !!int "11"
-  - !!int "15"
-"speed": "30 ft., fly 60 ft., swim 30 ft."
-"saves":
-  - "dexterity": !!int "2"
-  - "wisdom": !!int "2"
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+2"
-"damage_immunities": "lightning"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
-"languages": "Draconic"
-"cr": "2"
-"traits":
-  - "desc": "The dragon can breathe air and water."
-    "name": "Amphibious"
-"actions":
-  - "desc": "The dragon makes two Rend attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:1d10+3|noform|noparens|avg|text(8) (1d10 + 3) Slashing\
-      \ damage."
-    "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 12, each creature in a 40-foot-long, 5-foot-wide\
-      \ [Line](3.Mechanics/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
-      \ dice:3d10|noform|noparens|avg|text(16) (3d10) Lightning damage. *Success:*\
-      \ Half damage."
-    "name": "Lightning Breath (Recharge 5-6)"
-  - "desc": "*Strength Saving Throw:* DC 12, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* The target is pushed up to 30 feet straight away from the dragon\
-      \ and has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition."
-    "name": "Repulsion Breath"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Bronze%20Dragon%20Wyrmling.webp"
+```ad-statblock
+title: Bronze Dragon Wyrmling
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bronze%20Dragon%20Wyrmling.webp#token)
+*Medium Dragon (metallic), Lawful Good*
+
+- **Armor Class** 15 
+- **Hit Points** 39 (6d8 + 12) 
+- **Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17 | +3 | +3 |
+|Int| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | **+2** |
+|Wis| 11 | +0 | **+2** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15 | +2 | +2 |
+|Cha| 15 | +2 | +2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Dexterity +2, Wisdom +2
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +2
+- **Damage Immunities** Lightning
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Languages** Draconic
+- **Challenge** 2
+
+## Traits
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes two Rend attacks.
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d10+3|noform|noparens|avg|text(8)` (`1d10 + 3`) Slashing damage.
+
+***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 12, each creature in a 40-foot-long, 5-foot-wide [Line](3.Mechanics/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:* `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) Lightning damage. *Success:* Half damage.
+
+***Repulsion Breath.*** *Strength Saving Throw:* DC 12, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* The target is pushed up to 30 feet straight away from the dragon and has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition.
 ```
 ^statblock
 

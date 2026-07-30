@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+title: "Belt of Hill Giant Strength"
 aliases:
 - "Belt of Hill Giant Strength"
 ---

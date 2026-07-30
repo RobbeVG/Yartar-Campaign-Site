@@ -15,6 +15,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Chain Lightning"
 aliases:
 - "Chain Lightning"
 ---

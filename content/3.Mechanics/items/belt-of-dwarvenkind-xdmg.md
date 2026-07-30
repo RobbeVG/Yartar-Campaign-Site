@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+title: "Belt of Dwarvenkind"
 aliases:
 - "Belt of Dwarvenkind"
 ---
 # Belt of Dwarvenkind
 *Wondrous item, rare (requires attunement)*  
-![](file://items/XDMG/Belt%20of%20Dwarvenkind.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Belt%20of%20Dwarvenkind.webp#right)
 
 
 While wearing this belt, you gain the following benefits:

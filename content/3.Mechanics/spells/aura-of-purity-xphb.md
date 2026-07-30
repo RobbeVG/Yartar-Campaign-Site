@@ -13,6 +13,7 @@ classes:
 - Bard
 - Cleric
 - Paladin
+title: "Aura of Purity"
 aliases:
 - "Aura of Purity"
 ---

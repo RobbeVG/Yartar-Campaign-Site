@@ -28,6 +28,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
+title: "Fog Cloud"
 aliases:
 - "Fog Cloud"
 ---

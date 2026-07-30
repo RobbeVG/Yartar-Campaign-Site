@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/forest
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Displacer Beast"
 aliases:
 - "Displacer Beast"
 ---
-# [Displacer Beast](3.Mechanics/bestiary/monstrosity/displacer-beast-xmm.md)
+# Displacer Beast
 *Source: Monster Manual (2024) p. 98*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Displacer%20Beast.webp#right)
 
 ## Displacer Beast
 
@@ -33,55 +33,49 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
 > 
 > The murderous fury of a displacer beast is fit only for nightmares, of which I've been haunted since narrowly escaping one's ambush. I'm certain that beast stalks me still.
 
+```ad-statblock
+title: Displacer Beast
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Displacer%20Beast.webp#token)
+*Large Monstrosity, Lawful Evil*
 
-```statblock
-"name": "Displacer Beast (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Lawful Evil"
-"ac": !!int "13"
-"hp": !!int "76"
-"hit_dice": "9d10 + 27"
-"modifier": !!int "4"
-"stats":
-  - !!int "18"
-  - !!int "15"
-  - !!int "16"
-  - !!int "6"
-  - !!int "12"
-  - !!int "8"
-"speed": "40 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
-"languages": "understands Sylvan but can't speak"
-"cr": "3"
-"traits":
-  - "desc": "If the displacer beast is subjected to an effect that allows it to make\
-      \ a saving throw to take only half damage, it instead takes no damage if it\
-      \ succeeds on the save and half damage if it fails. It can't use this trait\
-      \ if it has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition."
-    "name": "Avoidance"
-  - "desc": "Attack rolls against the displacer beast have [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md),\
-      \ since it projects an illusion that makes it appear to be near its actual location.\
-      \ This trait is suppressed while the displacer beast has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition."
-    "name": "Displacement"
-"actions":
-  - "desc": "The displacer beast makes one Rend attack and one Tentacle attack."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ feet. *Hit:* dice:1d10+4|noform|noparens|avg|text(9) (1d10 + 4) Slashing\
-      \ damage. If target is a Large or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone)\
-      \ condition."
-    "name": "Rend"
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 10\
-      \ feet. *Hit:* dice:2d6+4|noform|noparens|avg|text(11) (2d6 + 4) Piercing\
-      \ damage."
-    "name": "Tentacle"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Displacer%20Beast.webp"
+- **Armor Class** 13 
+- **Hit Points** 76 (9d10 + 27) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 6 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15 | +2 | +2 |
+|Wis| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 8 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 11
+- **Languages** Understands Sylvan but can't speak
+- **Challenge** 3
+
+## Traits
+
+***Avoidance.*** If the displacer beast is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the save and half damage if it fails. It can't use this trait if it has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition.
+
+***Displacement.*** Attack rolls against the displacer beast have [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md), since it projects an illusion that makes it appear to be near its actual location. This trait is suppressed while the displacer beast has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition.
+
+## Actions
+
+***Multiattack.*** The displacer beast makes one Rend attack and one Tentacle attack.
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 feet. *Hit:* `dice:1d10+4|noform|noparens|avg|text(9)` (`1d10 + 4`) Slashing damage. If target is a Large or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition.
+
+***Tentacle.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 10 feet. *Hit:* `dice:2d6+4|noform|noparens|avg|text(11)` (`2d6 + 4`) Piercing damage.
 ```
 ^statblock
 

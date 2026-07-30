@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Efreeti Chain"
 aliases:
 - "Efreeti Chain"
 - "Efreeti Chain Mail"
@@ -16,7 +17,7 @@ aliases:
 ---
 # Efreeti Chain
 *Legendary (requires attunement)*  
-![](file://items/XDMG/Efreeti%20Chain.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Efreeti%20Chain.webp#right)
 
 
 While wearing this armor, you gain a +3 bonus to [Armor Class](3.Mechanics/rules/variant-rules/armor-class-xphb.md), you have [Immunity](3.Mechanics/rules/variant-rules/immunity-xphb.md) to Fire damage, and you know Primordial. In addition, you can stand on and move across molten rock as if it were solid ground.

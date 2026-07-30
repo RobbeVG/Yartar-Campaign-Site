@@ -13,13 +13,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/giant
-statblock: inline
-statblock-link: "#^statblock"
+title: "Cyclops Oracle"
 aliases:
 - "Cyclops Oracle"
 ---
-# [Cyclops Oracle](3.Mechanics/bestiary/giant/cyclops-oracle-xmm.md)
+# Cyclops Oracle
 *Source: Monster Manual (2024) p. 88*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Cyclopes.webp#right)
 
 Cyclops oracles gaze through history to learn hidden truths. Many share these secrets with those who aid them in correcting the mistakes of the past.
 
@@ -32,63 +32,53 @@ Cyclops oracles gaze through history to learn hidden truths. Many share these se
 
 Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vision, cyclopes can witness how future events are likely to occur.
 
-```statblock
-"name": "Cyclops Oracle (XMM)"
-"size": "Huge"
-"type": "giant"
-"alignment": "Chaotic Neutral"
-"ac": !!int "16"
-"hp": !!int "207"
-"hit_dice": "18d12 + 90"
-"modifier": !!int "8"
-"stats":
-  - !!int "22"
-  - !!int "11"
-  - !!int "20"
-  - !!int "16"
-  - !!int "18"
-  - !!int "10"
-"speed": "40 ft."
-"saves":
-  - "constitution": !!int "9"
-  - "wisdom": !!int "8"
-"skillsaves":
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
-    "desc": "+11"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+12"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 30 ft., passive Perception\
-  \ 22"
-"languages": "Giant"
-"cr": "10"
-"actions":
-  - "desc": "The cyclops makes three attacks, using Radiant Strike or Flash of Light\
-      \ in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+10|noform|noparens|text(+10), reach\
-      \ 10 ft. *Hit:* dice:3d10+6|noform|noparens|avg|text(22) (3d10 + 6) Radiant\
-      \ damage."
-    "name": "Radiant Strike"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+10|noform|noparens|text(+10), range\
-      \ 120 ft. *Hit:* dice:2d10+6|noform|noparens|avg|text(17) (2d10 + 6) Radiant\
-      \ damage, and the target has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
-      \ on attack rolls until the end of the cyclops's next turn."
-    "name": "Flash of Light"
-  - "desc": "The cyclops casts one of the following spells, requiring no Material\
-      \ components and using Wisdom as the spellcasting ability (spell save DC 16):\n\
-      \n**2/day each:** [Arcane Eye](3.Mechanics/spells/arcane-eye-xphb.md), [Detect\
-      \ Magic](3.Mechanics/spells/detect-magic-xphb.md), [Locate Object](3.Mechanics/spells/locate-object-xphb.md)\n\
-      \n**1/day:** [Legend Lore](3.Mechanics/spells/legend-lore-xphb.md)"
-    "name": "Spellcasting"
-"reactions":
-  - "desc": "Trigger: The cyclops or an ally it can see makes a [D20 Test](3.Mechanics/rules/variant-rules/d20-test-xphb.md).\
-      \ _Response:_ The cyclops rolls dice:1d20|noform|noparens|avg (1d20) and\
-      \ chooses whether to use that roll in place of the dice:d20|noform|noparens|avg\
-      \ (d20) rolled for the [D20 Test](3.Mechanics/rules/variant-rules/d20-test-xphb.md)."
-    "name": "Portent (Recharge 4-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Cyclops%20Oracle.webp"
+```ad-statblock
+title: Cyclops Oracle
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cyclops%20Oracle.webp#token)
+*Huge Giant, Chaotic Neutral*
+
+- **Armor Class** 16 
+- **Hit Points** 207 (18d12 + 90) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 22 | +6 | +6 |
+|Int| 16 | +3 | +3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 11 | +0 | +0 |
+|Wis| 18 | +4 | **+8** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 20 | +5 | **+9** |
+|Cha| 10 | +0 | +0 |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Constitution +9, Wisdom +8
+- **Skills** [History](3.Mechanics/rules/skills.md#History) +11, [Perception](3.Mechanics/rules/skills.md#Perception) +12
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 30 Ft., Passive Perception 22
+- **Languages** Giant
+- **Challenge** 10
+
+## Actions
+
+***Multiattack.*** The cyclops makes three attacks, using Radiant Strike or Flash of Light in any combination.
+
+***Radiant Strike.*** *Melee Attack Roll:* `dice:1d20+10|noform|noparens|text(+10)`, reach 10 ft. *Hit:* `dice:3d10+6|noform|noparens|avg|text(22)` (`3d10 + 6`) Radiant damage.
+
+***Flash of Light.*** *Ranged Attack Roll:* `dice:1d20+10|noform|noparens|text(+10)`, range 120 ft. *Hit:* `dice:2d10+6|noform|noparens|avg|text(17)` (`2d10 + 6`) Radiant damage, and the target has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on attack rolls until the end of the cyclops's next turn.
+
+***Spellcasting.*** The cyclops casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 16):
+
+**2/day each:** [Arcane Eye](3.Mechanics/spells/arcane-eye-xphb.md), [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md), [Locate Object](3.Mechanics/spells/locate-object-xphb.md)
+
+**1/day:** [Legend Lore](3.Mechanics/spells/legend-lore-xphb.md)
+
+## Reactions
+
+***Portent (Recharge 4-6).*** Trigger: The cyclops or an ally it can see makes a [D20 Test](3.Mechanics/rules/variant-rules/d20-test-xphb.md). _Response:_ The cyclops rolls `dice:1d20|noform|noparens|avg` (`1d20`) and chooses whether to use that roll in place of the `dice:d20|noform|noparens|avg` (`d20`) rolled for the [D20 Test](3.Mechanics/rules/variant-rules/d20-test-xphb.md).
 ```
 ^statblock
 

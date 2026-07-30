@@ -17,6 +17,7 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
+title: "Animal Friendship"
 aliases:
 - "Animal Friendship"
 ---

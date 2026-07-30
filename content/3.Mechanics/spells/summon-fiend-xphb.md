@@ -13,12 +13,13 @@ classes:
 - Bard
 - Warlock
 - Wizard
+title: "Summon Fiend"
 aliases:
 - "Summon Fiend"
 ---
 # Summon Fiend
 *6th-level, Conjuration*  
-![](file://spells/XPHB/Summon%20Fiend.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Summon%20Fiend.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

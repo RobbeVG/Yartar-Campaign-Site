@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+title: "Heward's Handy Haversack"
 aliases:
 - "Heward's Handy Haversack"
 ---
 # Heward's Handy Haversack
 *Wondrous item, rare*  
-![](file://items/XDMG/Hewards%20Handy%20Haversack.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Hewards%20Handy%20Haversack.webp#right)
 
 - **Weight**: 5.0 lbs.
 

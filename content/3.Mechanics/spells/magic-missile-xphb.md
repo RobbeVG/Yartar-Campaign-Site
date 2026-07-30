@@ -22,12 +22,13 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Magic Missile"
 aliases:
 - "Magic Missile"
 ---
 # Magic Missile
 *1st-level, Evocation*  
-![](file://spells/XPHB/Magic%20Missile.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Magic%20Missile.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet

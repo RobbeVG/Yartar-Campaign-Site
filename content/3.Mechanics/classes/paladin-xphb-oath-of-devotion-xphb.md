@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/paladin/devotion
+title: "Oath of Devotion"
 aliases:
 - "Oath of Devotion"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Devotion%20Paladin.webp#right)
 
 *Uphold the Ideals of Justice and Order*
 

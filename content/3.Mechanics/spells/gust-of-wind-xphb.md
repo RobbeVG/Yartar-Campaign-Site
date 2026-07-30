@@ -27,6 +27,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Gust of Wind"
 aliases:
 - "Gust of Wind"
 ---

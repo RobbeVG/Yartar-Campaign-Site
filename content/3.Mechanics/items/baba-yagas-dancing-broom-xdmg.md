@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Baba Yaga's Dancing Broom"
 aliases:
 - "Baba Yaga's Dancing Broom"
 ---
 # Baba Yaga's Dancing Broom
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Baba%20Yagas%20Dancing%20Broom.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Baba%20Yagas%20Dancing%20Broom.webp#right)
 
 
 The archfey "Baba Yaga" crafted many of these magic brooms. No two appear exactly alike. While holding the broom, you can take a [Magic](3.Mechanics/rules/actions.md#Magic) action to transform it into an [Animated Broom](3.Mechanics/bestiary/construct/animated-broom-xmm.md) under your control. The broom then moves into an unoccupied space as close to you as possible. The broom acts immediately after you on your [Initiative](3.Mechanics/rules/variant-rules/initiative-xphb.md) count and remains animate until you take a [Bonus Action](3.Mechanics/rules/variant-rules/bonus-action-xphb.md) and use a command word to render it inanimate.

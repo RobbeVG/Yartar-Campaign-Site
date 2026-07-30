@@ -23,6 +23,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Illusionist)
+title: "Blur"
 aliases:
 - "Blur"
 ---

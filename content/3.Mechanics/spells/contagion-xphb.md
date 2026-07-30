@@ -13,6 +13,7 @@ classes:
 - Bard
 - Cleric
 - Druid
+title: "Contagion"
 aliases:
 - "Contagion"
 ---

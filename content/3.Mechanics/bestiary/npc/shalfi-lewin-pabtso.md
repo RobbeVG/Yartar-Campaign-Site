@@ -7,89 +7,74 @@ tags:
 - ttrpg-cli/monster/cr/8
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Shalfi Lewin"
 aliases:
 - "Shalfi Lewin"
+conditionImmunities:
+- [blinded](3.Mechanics/rules/conditions.md#Blinded)
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- [grappled](3.Mechanics/rules/conditions.md#Grappled)
+- [restrained](3.Mechanics/rules/conditions.md#Restrained)
 ---
-# [Shalfi Lewin](3.Mechanics/bestiary/npc/shalfi-lewin-pabtso.md)
+# Shalfi Lewin
 *Source: Phandelver and Below: The Shattered Obelisk p. 174*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Shalfi%20Lewin.webp#center)
+```ad-statblock
+title: Shalfi Lewin
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Shalfi%20Lewin.webp#token)
+*Medium Aberration, Typically  Chaotic Evil*
 
-```statblock
-"name": "Shalfi Lewin (PaBTSO)"
-"size": "Medium"
-"type": "aberration"
-"alignment": "typically  Chaotic Evil"
-"ac": !!int "16"
-"ac_class": "[studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)"
-"hp": !!int "93"
-"hit_dice": "17d8 + 17"
-"modifier": !!int "4"
-"stats":
-  - !!int "15"
-  - !!int "18"
-  - !!int "12"
-  - !!int "13"
-  - !!int "8"
-  - !!int "19"
-"speed": "30 ft."
-"saves":
-  - "dexterity": !!int "7"
-  - "charisma": !!int "7"
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+5"
-"damage_resistances": "psychic"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled),\
-  \ [restrained](3.Mechanics/rules/conditions.md#Restrained)"
-"gear":
-  - "[shortsword](3.Mechanics/items/shortsword-xphb.md)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., [truesight](3.Mechanics/rules/senses.md#Truesight)\
-  \ 10 ft., passive Perception 15"
-"languages": "Common, Deep Speech"
-"cr": "8"
-"traits":
-  - "desc": "Shalfi exudes the chaos of the Far Realm. Any non-Aberration creature\
-      \ that starts its turn within 5 feet of Shalfi must succeed on a DC 15 Wisdom\
-      \ saving throw or take dice:2d6|noform|noparens|avg|text(7) (2d6) psychic\
-      \ damage."
-    "name": "Aberrant Form"
-  - "desc": "Shalfi, along with any equipment it is wearing or carrying, is unnaturally\
-      \ flexible. Shalfi can move through any space as narrow as 1 inch without squeezing."
-    "name": "Weirdly Pliable"
-"actions":
-  - "desc": "Shalfi makes one Psychic Rend attack and two Shortsword attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Spell Attack:* dice:1d20+7|noform|noparens|text(+7)\
-      \ to hit, reach 15 ft. or range 120 ft., one target. *Hit:* dice:3d6+4|noform|noparens|avg|text(14)\
-      \ (3d6 + 4) psychic damage, and the target must succeed on a DC 15 Wisdom\
-      \ saving throw or have the [stunned](3.Mechanics/rules/conditions.md#Stunned)\
-      \ condition until the start of Shalfi's next turn."
-    "name": "Psychic Rend"
-  - "desc": "*Melee Weapon Attack:* dice:1d20+7|noform|noparens|text(+7) to hit,\
-      \ reach 15 ft., one target. *Hit:* dice:1d6+4|noform|noparens|avg|text(7)\
-      \ (1d6 + 4) piercing damage plus dice:2d6|noform|noparens|avg|text(7) (2d6)\
-      \ psychic damage."
-    "name": "Shortsword"
-  - "desc": "Shalfi casts one of the following spells, requiring no components and\
-      \ using Charisma as the spellcasting ability (spell save DC 15):\n\n**At will:**\
-      \ [detect thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [minor illusion](3.Mechanics/spells/minor-illusion-xphb.md)\n\
-      \n**1/day each:** [arcane gate](3.Mechanics/spells/arcane-gate-xphb.md), [hunger\
-      \ of Hadar](3.Mechanics/spells/hunger-of-hadar-xphb.md)"
-    "name": "Spellcasting (Psionics)"
-"bonus_actions":
-  - "desc": "Shalfi teleports, along with any equipment it is wearing or carrying,\
-      \ to an unoccupied space it can see within 120 feet of itself, leaving a churning\
-      \ void in the space it left. Immediately after it teleports, each creature within\
-      \ 30 feet of the void other than Shalfi must make a DC 15 Strength saving throw.\
-      \ On a failed save, a creature takes dice:4d8|noform|noparens|avg|text(18)\
-      \ (4d8) force damage and is pulled to the unoccupied space closest to the\
-      \ void. On a successful save, the creature takes half as much damage only. The\
-      \ void then disappears."
-    "name": "Void Warp (Recharge 5-6)"
-"source":
-  - "PaBTSO"
-"image": "file://bestiary/tokens/PaBTSO/Shalfi%20Lewin.webp"
+- **Armor Class** 16 ([studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md))
+- **Hit Points** 93 (17d8 + 17) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 15 | +2 | +2 |
+|Int| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18 | +4 | **+7** |
+|Wis| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 19 | +4 | **+7** |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Dexterity +7, Charisma +7
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5
+- **Damage Resistances** Psychic
+- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Restrained](3.Mechanics/rules/conditions.md#Restrained)
+- **Gear** [shortsword](3.Mechanics/items/shortsword-xphb.md)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., [Truesight](3.Mechanics/rules/senses.md#Truesight) 10 Ft., Passive Perception 15
+- **Languages** Common, Deep Speech
+- **Challenge** 8
+
+## Traits
+
+***Aberrant Form.*** Shalfi exudes the chaos of the Far Realm. Any non-Aberration creature that starts its turn within 5 feet of Shalfi must succeed on a DC 15 Wisdom saving throw or take `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) psychic damage.
+
+***Weirdly Pliable.*** Shalfi, along with any equipment it is wearing or carrying, is unnaturally flexible. Shalfi can move through any space as narrow as 1 inch without squeezing.
+
+## Actions
+
+***Multiattack.*** Shalfi makes one Psychic Rend attack and two Shortsword attacks.
+
+***Psychic Rend.*** *Melee  or Ranged Spell Attack:* `dice:1d20+7|noform|noparens|text(+7)` to hit, reach 15 ft. or range 120 ft., one target. *Hit:* `dice:3d6+4|noform|noparens|avg|text(14)` (`3d6 + 4`) psychic damage, and the target must succeed on a DC 15 Wisdom saving throw or have the [stunned](3.Mechanics/rules/conditions.md#Stunned) condition until the start of Shalfi's next turn.
+
+***Shortsword.*** *Melee Weapon Attack:* `dice:1d20+7|noform|noparens|text(+7)` to hit, reach 15 ft., one target. *Hit:* `dice:1d6+4|noform|noparens|avg|text(7)` (`1d6 + 4`) piercing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) psychic damage.
+
+***Spellcasting (Psionics).*** Shalfi casts one of the following spells, requiring no components and using Charisma as the spellcasting ability (spell save DC 15):
+
+**At will:** [detect thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [minor illusion](3.Mechanics/spells/minor-illusion-xphb.md)
+
+**1/day each:** [arcane gate](3.Mechanics/spells/arcane-gate-xphb.md), [hunger of Hadar](3.Mechanics/spells/hunger-of-hadar-xphb.md)
+
+## Bonus Actions
+
+***Void Warp (Recharge 5-6).*** Shalfi teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 120 feet of itself, leaving a churning void in the space it left. Immediately after it teleports, each creature within 30 feet of the void other than Shalfi must make a DC 15 Strength saving throw. On a failed save, a creature takes `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) force damage and is pulled to the unoccupied space closest to the void. On a successful save, the creature takes half as much damage only. The void then disappears.
 ```
 ^statblock

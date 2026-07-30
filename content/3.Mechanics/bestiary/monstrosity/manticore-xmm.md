@@ -12,13 +12,13 @@ tags:
 - ttrpg-cli/monster/environment/mountain
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Manticore"
 aliases:
 - "Manticore"
 ---
-# [Manticore](3.Mechanics/bestiary/monstrosity/manticore-xmm.md)
+# Manticore
 *Source: Monster Manual (2024) p. 202. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Manticore.webp#right)
 
 ## Manticore
 
@@ -48,40 +48,43 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
 | 7 | Serve a creature as a steed until the sun sets. |
 | 8 | Try to locate something from its vantage point in the sky. |
 ^manticore-negotiations
+```ad-statblock
+title: Manticore
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Manticore.webp#token)
+*Large Monstrosity, Lawful Evil*
 
-```statblock
-"name": "Manticore (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Lawful Evil"
-"ac": !!int "14"
-"hp": !!int "68"
-"hit_dice": "8d10 + 24"
-"modifier": !!int "3"
-"stats":
-  - !!int "17"
-  - !!int "16"
-  - !!int "17"
-  - !!int "7"
-  - !!int "12"
-  - !!int "8"
-"speed": "30 ft., fly 50 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
-"languages": "Common"
-"cr": "3"
-"actions":
-  - "desc": "The manticore makes three attacks, using Rend or Tail Spike in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:1d8+3|noform|noparens|avg|text(7) (1d8 + 3) Slashing damage."
-    "name": "Rend"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+5|noform|noparens|text(+5), range 100/200\
-      \ ft. *Hit:* dice:1d8+3|noform|noparens|avg|text(7) (1d8 + 3) Piercing damage."
-    "name": "Tail Spike"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Manticore.webp"
+- **Armor Class** 14 
+- **Hit Points** 68 (8d10 + 24) 
+- **Speed** 30 ft., fly 50 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17 | +3 | +3 |
+|Int| 7 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16 | +3 | +3 |
+|Wis| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 17 | +3 | +3 |
+|Cha| 8 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 11
+- **Languages** Common
+- **Challenge** 3
+
+## Actions
+
+***Multiattack.*** The manticore makes three attacks, using Rend or Tail Spike in any combination.
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d8+3|noform|noparens|avg|text(7)` (`1d8 + 3`) Slashing damage.
+
+***Tail Spike.*** *Ranged Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, range 100/200 ft. *Hit:* `dice:1d8+3|noform|noparens|avg|text(7)` (`1d8 + 3`) Piercing damage.
 ```
 ^statblock
 

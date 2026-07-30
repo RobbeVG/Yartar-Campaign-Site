@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/generic-variant
+title: "+2 Armor"
 aliases:
 - "+2 Armor"
 - "+2 Breastplate"

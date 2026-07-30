@@ -15,6 +15,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Meteor Swarm"
 aliases:
 - "Meteor Swarm"
 ---

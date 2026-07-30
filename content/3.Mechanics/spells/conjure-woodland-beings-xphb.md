@@ -13,6 +13,7 @@ classes:
 - Bard
 - Druid
 - Ranger
+title: "Conjure Woodland Beings"
 aliases:
 - "Conjure Woodland Beings"
 ---

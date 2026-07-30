@@ -8,13 +8,15 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type//titan
-statblock: inline
-statblock-link: "#^statblock"
+title: "Empyrean Iota"
 aliases:
 - "Empyrean Iota"
+conditionImmunities:
+- [prone](3.Mechanics/rules/conditions.md#Prone)
 ---
-# [Empyrean Iota](3.Mechanics/bestiary/miscellaneous/empyrean-iota-xmm.md)
+# Empyrean Iota
 *Source: Monster Manual (2024) p. 112*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Empyreans.webp#right)
 
 Empyrean iotas are the thoughts, memories, or indirect attentions of deities personified and given a measure of autonomy. Resembling floating glyphs, motes of color, icons of divinity, or stranger shapes, these beings are messengers of the gods and aides to those gods' servants. Iotas have their own knowledge and personalities, though they might know little more than the realms and wishes of their creators.
 
@@ -46,62 +48,56 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 > One day I might be the god of storms—mind countless followers, answer prayers, change whole worlds—but, until then, I do what I please.
 
 
-```statblock
-"name": "Empyrean Iota (XMM)"
-"size": "Medium"
-"subtype": "titan"
-"alignment": "Neutral"
-"ac": !!int "13"
-"hp": !!int "22"
-"hit_dice": "5d8"
-"modifier": !!int "2"
-"stats":
-  - !!int "1"
-  - !!int "14"
-  - !!int "10"
-  - !!int "15"
-  - !!int "16"
-  - !!int "16"
-"speed": "5 ft., fly 30 ft. (hover)"
-"skillsaves":
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
-    "desc": "+4"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
-    "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+5"
-"damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[prone](3.Mechanics/rules/conditions.md#Prone)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 30 ft., passive Perception\
-  \ 15"
-"languages": "all"
-"cr": "1"
-"traits":
-  - "desc": "The empyrean can move through other creatures and objects as if they\
-      \ were [Difficult Terrain](3.Mechanics/rules/variant-rules/difficult-terrain-xphb.md).\
-      \ It takes dice:1d10|noform|noparens|avg|text(5) (1d10) Force damage if\
-      \ it ends its turn inside an object."
-    "name": "Incorporeal Movement"
-  - "desc": "The empyrean has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+5|noform|noparens|text(+5),\
-      \ reach 5 ft. or range 30 ft. *Hit:* dice:1d8+3|noform|noparens|avg|text(7)\
-      \ (1d8 + 3) Necrotic or Radiant damage (empyrean's choice)."
-    "name": "Otherworldly Strike"
-  - "desc": "The empyrean casts one of the following spells, requiring no Material\
-      \ components and using Wisdom as the spellcasting ability:\n\n**1/day each:**\
-      \ [Bless](3.Mechanics/spells/bless-xphb.md), [Lesser Restoration](3.Mechanics/spells/lesser-restoration-xphb.md)\
-      \ (as an action)"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The empyrean casts [Healing Word](3.Mechanics/spells/healing-word-xphb.md),\
-      \ using the same spellcasting ability as Spellcasting.\n"
-    "name": "Healing Word (1/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Empyrean%20Iota.webp"
+```ad-statblock
+title: Empyrean Iota
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Empyrean%20Iota.webp#token)
+*Medium  (titan), Neutral*
+
+- **Armor Class** 13 
+- **Hit Points** 22 (5d8) 
+- **Speed** 5 ft., fly 30 ft. (hover)
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 1 | -5 | -5 |
+|Int| 15 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 16 | +3 | +3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 10 | +0 | +0 |
+|Cha| 16 | +3 | +3 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [History](3.Mechanics/rules/skills.md#History) +4, [Insight](3.Mechanics/rules/skills.md#Insight) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +5
+- **Damage Resistances** Bludgeoning, Piercing, Slashing
+- **Condition Immunities** [Prone](3.Mechanics/rules/conditions.md#Prone)
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 30 Ft., Passive Perception 15
+- **Languages** All
+- **Challenge** 1
+
+## Traits
+
+***Incorporeal Movement.*** The empyrean can move through other creatures and objects as if they were [Difficult Terrain](3.Mechanics/rules/variant-rules/difficult-terrain-xphb.md). It takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) Force damage if it ends its turn inside an object.
+
+***Magic Resistance.*** The empyrean has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+## Actions
+
+***Otherworldly Strike.*** *Melee  or Ranged Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. or range 30 ft. *Hit:* `dice:1d8+3|noform|noparens|avg|text(7)` (`1d8 + 3`) Necrotic or Radiant damage (empyrean's choice).
+
+***Spellcasting.*** The empyrean casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability:
+
+**1/day each:** [Bless](3.Mechanics/spells/bless-xphb.md), [Lesser Restoration](3.Mechanics/spells/lesser-restoration-xphb.md) (as an action)
+
+## Bonus Actions
+
+***Healing Word (1/Day).*** The empyrean casts [Healing Word](3.Mechanics/spells/healing-word-xphb.md), using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
 

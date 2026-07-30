@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Dwarven Plate"
 aliases:
 - "Dwarven Plate"
 - "Dwarven Half Plate Armor"
@@ -15,7 +16,7 @@ aliases:
 ---
 # Dwarven Plate
 *Very rare*  
-![](file://items/XDMG/Dwarven%20Plate.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Dwarven%20Plate.webp#right)
 
 
 While wearing this armor, you gain a +2 bonus to [Armor Class](3.Mechanics/rules/variant-rules/armor-class-xphb.md). In addition, if an effect moves you against your will along the ground, you can take a [Reaction](3.Mechanics/rules/variant-rules/reaction-xphb.md) to reduce the distance you are moved by up to 10 feet.

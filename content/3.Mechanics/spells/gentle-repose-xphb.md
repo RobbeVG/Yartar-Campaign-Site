@@ -22,6 +22,7 @@ classes:
 - Paladin
 - Rogue (Arcane Trickster)
 - Wizard
+title: "Gentle Repose"
 aliases:
 - "Gentle Repose"
 ---

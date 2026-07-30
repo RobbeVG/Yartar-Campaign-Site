@@ -20,6 +20,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Evoker)
+title: "Leomund's Tiny Hut"
 aliases:
 - "Leomund's Tiny Hut"
 ---

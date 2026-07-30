@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/artisans-tools
 - ttrpg-cli/item/rarity/none
+title: "Leatherworker's Tools"
 aliases:
 - "Leatherworker's Tools"
 ---

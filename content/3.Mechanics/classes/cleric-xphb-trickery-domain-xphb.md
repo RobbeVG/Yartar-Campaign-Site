@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/domain/trickery
 - ttrpg-cli/subclass/cleric/trickery
+title: "Trickery Domain"
 aliases:
 - "Trickery Domain"
 ---
@@ -44,6 +45,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Trickery%20Cleric.webp#right)
 
 *Make Mischief and Challenge Authority*
 

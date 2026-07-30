@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/class/monk
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Monk"
 aliases:
 - "Monk"
 ---
@@ -42,6 +43,8 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Monk.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d8 per Monk level
@@ -56,7 +59,6 @@ aliases:
 - **Tool Proficiencies**: Choose one type of [Artisan's Tools](3.Mechanics/items/artisans-tools-xphb.md) or [Musical Instrument](3.Mechanics/items/musical-instrument-xphb.md)
 
 **Starting Equipment:** *Choose A or B:* (A) [Spear](3.Mechanics/items/spear-xphb.md), 5 [Daggers](3.Mechanics/items/dagger-xphb.md), [Artisan's Tools](3.Mechanics/items/artisans-tools-xphb.md) or [Musical Instrument](3.Mechanics/items/musical-instrument-xphb.md) chosen for the tool proficiency above, [Explorer's Pack](3.Mechanics/items/explorers-pack-xphb.md), and 11 GP; or (B) 50 GP
-
 
 ## Monk
 

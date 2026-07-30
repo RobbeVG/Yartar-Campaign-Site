@@ -23,6 +23,7 @@ classes:
 - Paladin
 - Sorcerer (Draconic Sorcery)
 - Warlock (Fiend Patron)
+title: "Command"
 aliases:
 - "Command"
 ---

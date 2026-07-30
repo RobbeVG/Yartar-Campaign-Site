@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/ranged
+title: "Pistol"
 aliases:
 - "Pistol"
 ---
 # Pistol
 *Weapon*  
-![](file://items/XPHB/Pistol.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Pistol.webp#right)
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90

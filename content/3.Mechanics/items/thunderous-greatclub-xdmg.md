@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Thunderous Greatclub"
 aliases:
 - "Thunderous Greatclub"
 ---
 # Thunderous Greatclub
 *Weapon ([greatclub](3.Mechanics/items/greatclub-xphb.md)), very rare (requires attunement)*  
-![](file://items/XDMG/Thunderous%20Greatclub.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Thunderous%20Greatclub.webp#right)
 
 - **Damage**: 1d8 bludgeoning
 - **Properties**: [Two-Handed](3.Mechanics/rules/item-properties.md#Two-Handed)

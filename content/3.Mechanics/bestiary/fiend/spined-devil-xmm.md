@@ -9,13 +9,15 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/fiend/devil
-statblock: inline
-statblock-link: "#^statblock"
+title: "Spined Devil"
 aliases:
 - "Spined Devil"
+conditionImmunities:
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Spined Devil](3.Mechanics/bestiary/fiend/spined-devil-xmm.md)
+# Spined Devil
 *Source: Monster Manual (2024) p. 296*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Spined%20Devil.webp#right)
 
 ## Spined Devil
 
@@ -39,55 +41,52 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 | 5 | The movements of extraplanar armies. |
 | 6 | Prophecies or secrets hidden by gods. |
 ^spined-devil-intelligence
+```ad-statblock
+title: Spined Devil
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Spined%20Devil.webp#token)
+*Small Fiend (devil), Lawful Evil*
 
-```statblock
-"name": "Spined Devil (XMM)"
-"size": "Small"
-"type": "fiend"
-"subtype": "devil"
-"alignment": "Lawful Evil"
-"ac": !!int "13"
-"hp": !!int "45"
-"hit_dice": "10d6 + 10"
-"modifier": !!int "2"
-"stats":
-  - !!int "10"
-  - !!int "15"
-  - !!int "12"
-  - !!int "11"
-  - !!int "14"
-  - !!int "8"
-"speed": "20 ft., fly 40 ft."
-"damage_resistances": "cold"
-"damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive\
-  \ Perception 12"
-"languages": "Infernal; telepathy 120 ft."
-"cr": "2"
-"traits":
-  - "desc": "The devil doesn't provoke an [Opportunity Attack](3.Mechanics/rules/actions.md#Opportunity%20Attack)\
-      \ when it flies out of an enemy's reach."
-    "name": "Flyby"
-  - "desc": "The devil has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The devil makes two attacks, using Infernal Fork and Tail Spine in any\
-      \ combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5) (1d6 + 2) Piercing damage\
-      \ plus dice:1d6|noform|noparens|avg|text(3) (1d6) Fire damage."
-    "name": "Infernal Fork"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+4|noform|noparens|text(+4), range 20/80\
-      \ ft. *Hit:* dice:1d4+2|noform|noparens|avg|text(4) (1d4 + 2) Piercing damage\
-      \ plus dice:1d6|noform|noparens|avg|text(3) (1d6) Fire damage."
-    "name": "Tail Spine"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Spined%20Devil.webp"
+- **Armor Class** 13 
+- **Hit Points** 45 (10d6 + 10) 
+- **Speed** 20 ft., fly 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10 | +0 | +0 |
+|Int| 11 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15 | +2 | +2 |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 8 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Resistances** Cold
+- **Damage Immunities** Fire, Poison
+- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), Passive Perception 12
+- **Languages** Infernal; Telepathy 120 ft.
+- **Challenge** 2
+
+## Traits
+
+***Flyby.*** The devil doesn't provoke an [Opportunity Attack](3.Mechanics/rules/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
+
+***Magic Resistance.*** The devil has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The devil makes two attacks, using Infernal Fork and Tail Spine in any combination.
+
+***Infernal Fork.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Piercing damage plus `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) Fire damage.
+
+***Tail Spine.*** *Ranged Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, range 20/80 ft. *Hit:* `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) Piercing damage plus `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) Fire damage.
 ```
 ^statblock
 

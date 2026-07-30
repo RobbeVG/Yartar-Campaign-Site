@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Mace of Smiting"
 aliases:
 - "Mace of Smiting"
 ---
 # Mace of Smiting
 *Weapon ([mace](3.Mechanics/items/mace-xphb.md)), rare*  
-![](file://items/XDMG/Mace%20of%20Smiting.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Mace%20of%20Smiting.webp#right)
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.

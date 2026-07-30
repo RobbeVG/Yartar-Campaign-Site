@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/monk/open-hand
+title: "Warrior of the Open Hand"
 aliases:
 - "Warrior of the Open Hand"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Open%20Hand%20Monk.webp#right)
 
 *Master Unarmed Combat Techniques*
 

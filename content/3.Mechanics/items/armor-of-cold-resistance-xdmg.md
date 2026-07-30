@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Armor of Cold Resistance"
 aliases:
 - "Armor of Cold Resistance"
 - "Breastplate of Cold Resistance"
@@ -27,7 +28,7 @@ aliases:
 ---
 # Armor of Cold Resistance
 *Rare (requires attunement)*  
-![Armor of resistance (Leather Armor), Armor of invulnerability (Plate Armor)](file://items/XDMG/Armor%20of%20Cold%20Resistance.webp#right)
+![Armor of resistance (Leather Armor), Armor of invulnerability (Plate Armor)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Armor%20of%20Cold%20Resistance.webp#right)
 
 
 You have [Resistance](3.Mechanics/rules/variant-rules/resistance-xphb.md) to cold damage while you wear this armor.

@@ -6,22 +6,23 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/large
 - ttrpg-cli/object/type/siege-weapon
+title: "Keg Launcher"
 aliases:
 - "Keg Launcher"
 ---
 # Keg Launcher
-%%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide (2024) p. 96*  
+*Source: Dungeon Master's Guide (2024) p. 96* 
+
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/objects/XDMG/Keg%20Launcher.webp#right)
 
 A back-mounted, wooden catapult flings small kegs of toxic gas. Loading a Keg Launcher requires the [Utilize](3.Mechanics/rules/actions.md#Utilize) action, and aiming it requires another [Utilize](3.Mechanics/rules/actions.md#Utilize) action. Then a crew member can take the Toxic Keg action.
-
 ```ad-statblock
 title: Keg Launcher
-![](file://objects/tokens/XDMG/Keg%20Launcher.webp#token)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/objects/tokens/XDMG/Keg%20Launcher.webp#token)
 *Large Siege weapon*
 
-- **Armor Class** 15
-- **Hit Points** 30
+- **Armor Class** 15 
+- **Hit Points** 30 
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|

@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/fighter/champion
+title: "Champion"
 aliases:
 - "Champion"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Champion%20Fighter.webp#right)
 
 *Pursue Physical Excellence in Combat*
 

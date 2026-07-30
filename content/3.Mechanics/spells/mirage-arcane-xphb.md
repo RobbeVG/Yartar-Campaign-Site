@@ -15,6 +15,7 @@ classes:
 - Druid
 - Wizard
 - Wizard (Illusionist)
+title: "Mirage Arcane"
 aliases:
 - "Mirage Arcane"
 ---

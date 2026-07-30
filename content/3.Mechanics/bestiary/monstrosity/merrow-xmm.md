@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/underwater
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Merrow"
 aliases:
 - "Merrow"
 ---
-# [Merrow](3.Mechanics/bestiary/monstrosity/merrow-xmm.md)
+# Merrow
 *Source: Monster Manual (2024) p. 210. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Merrow.webp#right)
 
 ## Merrow
 
@@ -32,50 +32,49 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
 > 
 > Sages trace merrows' origins to aquatic ogres, depraved merfolk, and worse. Such broad theories reveal little about these monsters but overmuch of the dread lurking beyond our certain shores.
 
+```ad-statblock
+title: Merrow
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Merrow.webp#token)
+*Large Monstrosity, Chaotic Evil*
 
-```statblock
-"name": "Merrow (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Chaotic Evil"
-"ac": !!int "13"
-"hp": !!int "45"
-"hit_dice": "6d10 + 12"
-"modifier": !!int "2"
-"stats":
-  - !!int "18"
-  - !!int "15"
-  - !!int "15"
-  - !!int "8"
-  - !!int "10"
-  - !!int "9"
-"speed": "10 ft., swim 40 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Abyssal, Primordial (Aquan)"
-"cr": "2"
-"traits":
-  - "desc": "The merrow can breathe air and water."
-    "name": "Amphibious"
-"actions":
-  - "desc": "The merrow makes two attacks, using Bite, Claw, or Harpoon in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:1d4+4|noform|noparens|avg|text(6) (1d4 + 4) Piercing damage,\
-      \ and the target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition until the end of the merrow's next turn."
-    "name": "Bite"
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:2d4+4|noform|noparens|avg|text(9) (2d4 + 4) Slashing damage."
-    "name": "Claw"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+6|noform|noparens|text(+6),\
-      \ reach 5 ft. or range 20/60 ft. *Hit:* dice:2d6+4|noform|noparens|avg|text(11)\
-      \ (2d6 + 4) Piercing damage. If the target is a Large or smaller creature,\
-      \ the merrow pulls the target up to 15 feet straight toward itself."
-    "name": "Harpoon"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Merrow.webp"
+- **Armor Class** 13 
+- **Hit Points** 45 (6d10 + 12) 
+- **Speed** 10 ft., swim 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15 | +2 | +2 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15 | +2 | +2 |
+|Cha| 9 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Abyssal, Primordial (Aquan)
+- **Challenge** 2
+
+## Traits
+
+***Amphibious.*** The merrow can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The merrow makes two attacks, using Bite, Claw, or Harpoon in any combination.
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:1d4+4|noform|noparens|avg|text(6)` (`1d4 + 4`) Piercing damage, and the target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition until the end of the merrow's next turn.
+
+***Claw.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:2d4+4|noform|noparens|avg|text(9)` (`2d4 + 4`) Slashing damage.
+
+***Harpoon.*** *Melee  or Ranged Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. or range 20/60 ft. *Hit:* `dice:2d6+4|noform|noparens|avg|text(11)` (`2d6 + 4`) Piercing damage. If the target is a Large or smaller creature, the merrow pulls the target up to 15 feet straight toward itself.
 ```
 ^statblock
 

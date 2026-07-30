@@ -9,13 +9,17 @@ tags:
 - ttrpg-cli/monster/environment/upper
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/celestial/angel
-statblock: inline
-statblock-link: "#^statblock"
+title: "Deva"
 aliases:
 - "Deva"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
 ---
-# [Deva](3.Mechanics/bestiary/celestial/deva-xmm.md)
+# Deva
 *Source: Monster Manual (2024) p. 97. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Deva.webp#right)
 
 ## Deva
 
@@ -41,74 +45,60 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
 | 5 | A seedling that wilts if exposed to anger. |
 | 6 | Someone from another world with a prophesied purpose but no memory. |
 ^deva-messages
+```ad-statblock
+title: Deva
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Deva.webp#token)
+*Medium Celestial (angel), Lawful Good*
 
-```statblock
-"name": "Deva (XMM)"
-"size": "Medium"
-"type": "celestial"
-"subtype": "angel"
-"alignment": "Lawful Good"
-"ac": !!int "17"
-"hp": !!int "229"
-"hit_dice": "27d8 + 108"
-"modifier": !!int "4"
-"stats":
-  - !!int "18"
-  - !!int "18"
-  - !!int "18"
-  - !!int "17"
-  - !!int "20"
-  - !!int "20"
-"speed": "30 ft., fly 90 ft. (hover)"
-"saves":
-  - "wisdom": !!int "9"
-  - "charisma": !!int "9"
-"skillsaves":
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
-    "desc": "+9"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+9"
-"damage_resistances": "radiant"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 19"
-"languages": "all; telepathy 120 ft."
-"cr": "10"
-"traits":
-  - "desc": "If the deva dies outside Mount Celestia, its body disappears, and it\
-      \ gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ somewhere in Mount Celestia."
-    "name": "Exalted Restoration"
-  - "desc": "The deva has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The deva makes two Holy Mace attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+8|noform|noparens|text(+8), reach 5\
-      \ ft. *Hit:* dice:1d6+4|noform|noparens|avg|text(7) (1d6 + 4) Bludgeoning\
-      \ damage plus dice:4d8|noform|noparens|avg|text(18) (4d8) Radiant damage."
-    "name": "Holy Mace"
-  - "desc": "The deva casts one of the following spells, requiring no Material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 17):\n\n**At\
-      \ will:** [Detect Evil and Good](3.Mechanics/spells/detect-evil-and-good-xphb.md),\
-      \ [Shapechange](3.Mechanics/spells/shapechange-xphb.md) (Beast or Humanoid form\
-      \ only, no [Temporary Hit Points](3.Mechanics/rules/variant-rules/temporary-hit-points-xphb.md)\
-      \ gained from the spell, and no [Concentration](3.Mechanics/rules/conditions.md#Concentration)\
-      \ or [Temporary Hit Points](3.Mechanics/rules/variant-rules/temporary-hit-points-xphb.md)\
-      \ required to maintain the spell)\n\n**1/day each:** [Commune](3.Mechanics/spells/commune-xphb.md),\
-      \ [Raise Dead](3.Mechanics/spells/raise-dead-xphb.md)"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The deva casts [Cure Wounds](3.Mechanics/spells/cure-wounds-xphb.md),\
-      \ [Lesser Restoration](3.Mechanics/spells/lesser-restoration-xphb.md), or [Remove\
-      \ Curse](3.Mechanics/spells/remove-curse-xphb.md), using the same spellcasting\
-      \ ability as Spellcasting.\n"
-    "name": "Divine Aid (2/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Deva.webp"
+- **Armor Class** 17 
+- **Hit Points** 229 (27d8 + 108) 
+- **Speed** 30 ft., fly 90 ft. (hover)
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 17 | +3 | +3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18 | +4 | +4 |
+|Wis| 20 | +5 | **+9** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18 | +4 | +4 |
+|Cha| 20 | +5 | **+9** |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Wisdom +9, Charisma +9
+- **Skills** [Insight](3.Mechanics/rules/skills.md#Insight) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +9
+- **Damage Resistances** Radiant
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 19
+- **Languages** All; Telepathy 120 ft.
+- **Challenge** 10
+
+## Traits
+
+***Exalted Restoration.*** If the deva dies outside Mount Celestia, its body disappears, and it gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) somewhere in Mount Celestia.
+
+***Magic Resistance.*** The deva has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The deva makes two Holy Mace attacks.
+
+***Holy Mace.*** *Melee Attack Roll:* `dice:1d20+8|noform|noparens|text(+8)`, reach 5 ft. *Hit:* `dice:1d6+4|noform|noparens|avg|text(7)` (`1d6 + 4`) Bludgeoning damage plus `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) Radiant damage.
+
+***Spellcasting.*** The deva casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
+
+**At will:** [Detect Evil and Good](3.Mechanics/spells/detect-evil-and-good-xphb.md), [Shapechange](3.Mechanics/spells/shapechange-xphb.md) (Beast or Humanoid form only, no [Temporary Hit Points](3.Mechanics/rules/variant-rules/temporary-hit-points-xphb.md) gained from the spell, and no [Concentration](3.Mechanics/rules/conditions.md#Concentration) or [Temporary Hit Points](3.Mechanics/rules/variant-rules/temporary-hit-points-xphb.md) required to maintain the spell)
+
+**1/day each:** [Commune](3.Mechanics/spells/commune-xphb.md), [Raise Dead](3.Mechanics/spells/raise-dead-xphb.md)
+
+## Bonus Actions
+
+***Divine Aid (2/Day).*** The deva casts [Cure Wounds](3.Mechanics/spells/cure-wounds-xphb.md), [Lesser Restoration](3.Mechanics/spells/lesser-restoration-xphb.md), or [Remove Curse](3.Mechanics/spells/remove-curse-xphb.md), using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
 

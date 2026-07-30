@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Light Hammer"
 aliases:
 - "Light Hammer"
 ---
 # Light Hammer
 *Weapon*  
-![](file://items/XPHB/Light%20Hammer.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Light%20Hammer.webp#right)
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60

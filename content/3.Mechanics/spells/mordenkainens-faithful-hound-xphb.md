@@ -15,6 +15,7 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
+title: "Mordenkainen's Faithful Hound"
 aliases:
 - "Mordenkainen's Faithful Hound"
 ---

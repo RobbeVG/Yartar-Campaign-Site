@@ -10,13 +10,13 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/fey
-statblock: inline
-statblock-link: "#^statblock"
+title: "Sprite"
 aliases:
 - "Sprite"
 ---
-# [Sprite](3.Mechanics/bestiary/fey/sprite-xmm.md)
+# Sprite
 *Source: Monster Manual (2024) p. 298, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Sprite.webp#right)
 
 ## Sprite
 
@@ -35,52 +35,46 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
 > 
 > The tree had a wee village nestled in its boughs, I swear. Next thing I knew, I was lyin' face-down in the dirt. My head was full of stars, an' when I stood up an' looked around, both the tree an' the wee village were gone.
 
+```ad-statblock
+title: Sprite
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sprite.webp#token)
+*Tiny Fey, Neutral Good*
 
-```statblock
-"name": "Sprite (XMM)"
-"size": "Tiny"
-"type": "fey"
-"alignment": "Neutral Good"
-"ac": !!int "15"
-"hp": !!int "10"
-"hit_dice": "4d4"
-"modifier": !!int "4"
-"stats":
-  - !!int "3"
-  - !!int "18"
-  - !!int "10"
-  - !!int "14"
-  - !!int "13"
-  - !!int "11"
-"speed": "10 ft., fly 40 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+3"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+8"
-"senses": "passive Perception 13"
-"languages": "Common, Elvish, Sylvan"
-"cr": "1/4"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:1d4+4|noform|noparens|avg|text(6) (1d4 + 4) Piercing damage."
-    "name": "Needle Sword"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+6|noform|noparens|text(+6), range 40/160\
-      \ ft. *Hit:* 1 Piercing damage, and the target has the [Charmed](3.Mechanics/rules/conditions.md#Charmed)\
-      \ condition until the start of the sprite's next turn."
-    "name": "Enchanting Bow"
-  - "desc": "*Charisma Saving Throw:* DC 10, one creature within 5 feet the sprite\
-      \ can see (Celestials, Fiends, and Undead automatically fail the save). *Failure:*\
-      \ The sprite knows the target's emotions and alignment."
-    "name": "Heart Sight"
-  - "desc": "The sprite casts [Invisibility](3.Mechanics/spells/invisibility-xphb.md)\
-      \ on itself, requiring no spell components and using Charisma as the spellcasting\
-      \ ability.\n"
-    "name": "Invisibility"
-"source":
-  - "XMM"
-  - "XPHB"
-"image": "file://bestiary/tokens/XMM/Sprite.webp"
+- **Armor Class** 15 
+- **Hit Points** 10 (4d4) 
+- **Speed** 10 ft., fly 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 3 | -4 | -4 |
+|Int| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18 | +4 | +4 |
+|Wis| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 10 | +0 | +0 |
+|Cha| 11 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +3, [Stealth](3.Mechanics/rules/skills.md#Stealth) +8
+- **Senses** Passive Perception 13
+- **Languages** Common, Elvish, Sylvan
+- **Challenge** 1/4
+
+## Actions
+
+***Needle Sword.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:1d4+4|noform|noparens|avg|text(6)` (`1d4 + 4`) Piercing damage.
+
+***Enchanting Bow.*** *Ranged Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, range 40/160 ft. *Hit:* 1 Piercing damage, and the target has the [Charmed](3.Mechanics/rules/conditions.md#Charmed) condition until the start of the sprite's next turn.
+
+***Heart Sight.*** *Charisma Saving Throw:* DC 10, one creature within 5 feet the sprite can see (Celestials, Fiends, and Undead automatically fail the save). *Failure:* The sprite knows the target's emotions and alignment.
+
+***Invisibility.*** The sprite casts [Invisibility](3.Mechanics/spells/invisibility-xphb.md) on itself, requiring no spell components and using Charisma as the spellcasting ability.
+
 ```
 ^statblock
 

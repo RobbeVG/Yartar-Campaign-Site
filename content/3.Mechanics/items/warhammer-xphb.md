@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Warhammer"
 aliases:
 - "Warhammer"
 ---
 # Warhammer
 *Weapon*  
-![](file://items/XPHB/Warhammer.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Warhammer.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 bludgeoning

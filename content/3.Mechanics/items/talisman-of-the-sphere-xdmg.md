@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
+title: "Talisman of the Sphere"
 aliases:
 - "Talisman of the Sphere"
 ---
 # Talisman of the Sphere
 *Wondrous item, legendary (requires attunement)*  
-![](file://items/XDMG/Talisman%20of%20the%20Sphere.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Talisman%20of%20the%20Sphere.webp#right)
 
 - **Weight**: 1.0 lbs.
 

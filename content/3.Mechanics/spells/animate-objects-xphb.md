@@ -13,12 +13,13 @@ classes:
 - Bard
 - Sorcerer
 - Wizard
+title: "Animate Objects"
 aliases:
 - "Animate Objects"
 ---
 # Animate Objects
 *5th-level, Transmutation*  
-![](file://spells/XPHB/Animate%20Objects.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Animate%20Objects.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet

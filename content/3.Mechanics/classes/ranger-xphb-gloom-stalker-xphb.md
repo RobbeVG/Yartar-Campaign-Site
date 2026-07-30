@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/ranger/gloom-stalker
+title: "Gloom Stalker"
 aliases:
 - "Gloom Stalker"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Gloom%20Stalker%20Ranger.webp#right)
 
 *Draw on Shadow Magic to Fight Your Foes*
 

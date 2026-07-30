@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/rod
+title: "Tentacle Rod"
 aliases:
 - "Tentacle Rod"
 ---
 # Tentacle Rod
 *Rod, rare (requires attunement)*  
-![](file://items/XDMG/Tentacle%20Rod.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Tentacle%20Rod.webp#right)
 
 - **Weight**: 2.0 lbs.
 

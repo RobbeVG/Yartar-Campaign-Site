@@ -13,12 +13,13 @@ classes:
 - Sorcerer (Aberrant Sorcery)
 - Warlock
 - Warlock (Great Old One Patron)
+title: "Hunger of Hadar"
 aliases:
 - "Hunger of Hadar"
 ---
 # Hunger of Hadar
 *3rd-level, Conjuration*  
-![](file://spells/XPHB/Hunger%20of%20Hadar.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Hunger%20of%20Hadar.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet

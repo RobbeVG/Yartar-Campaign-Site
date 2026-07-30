@@ -17,6 +17,7 @@ classes:
 - Cleric (Life Domain)
 - Druid
 - Druid (Circle of the Moon)
+title: "Mass Cure Wounds"
 aliases:
 - "Mass Cure Wounds"
 ---

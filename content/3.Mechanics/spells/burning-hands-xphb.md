@@ -28,6 +28,7 @@ classes:
 - Warlock (Fiend Patron)
 - Wizard
 - Wizard (Evoker)
+title: "Burning Hands"
 aliases:
 - "Burning Hands"
 ---

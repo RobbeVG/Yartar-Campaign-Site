@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/mountain
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/dragon/chromatic
-statblock: inline
-statblock-link: "#^statblock"
+title: "Red Dragon Wyrmling"
 aliases:
 - "Red Dragon Wyrmling"
 ---
-# [Red Dragon Wyrmling](3.Mechanics/bestiary/dragon/red-dragon-wyrmling-xmm.md)
+# Red Dragon Wyrmling
 *Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Red%20Dragon%20Wyrmling.webp#right)
 
 Red dragon wyrmlings are born destroyers. From a young age, they delight in igniting objects and creatures alike. They sometimes restrain themselves from scorching creatures to instead bully others into following their orders and bringing them gifts.
 
@@ -36,51 +36,44 @@ Red dragons believe themselves to be the greatest of all dragons and, by extensi
 
 Red dragons make their lairs in smoldering, unapproachable places such as volcanic mountains, burning wastelands, and ruins they've stolen from other creatures.
 
-```statblock
-"name": "Red Dragon Wyrmling (XMM)"
-"size": "Medium"
-"type": "dragon"
-"subtype": "chromatic"
-"alignment": "Chaotic Evil"
-"ac": !!int "17"
-"hp": !!int "75"
-"hit_dice": "10d8 + 30"
-"modifier": !!int "2"
-"stats":
-  - !!int "19"
-  - !!int "10"
-  - !!int "17"
-  - !!int "12"
-  - !!int "11"
-  - !!int "15"
-"speed": "30 ft., climb 30 ft., fly 60 ft."
-"saves":
-  - "dexterity": !!int "2"
-  - "wisdom": !!int "2"
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+2"
-"damage_immunities": "fire"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
-"languages": "Draconic"
-"cr": "4"
-"actions":
-  - "desc": "The dragon makes two Rend attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:1d10+4|noform|noparens|avg|text(9) (1d10 + 4) Slashing\
-      \ damage plus dice:1d6|noform|noparens|avg|text(3) (1d6) Fire damage."
-    "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 13, each creature in a 15-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* dice:7d6|noform|noparens|avg|text(24) (7d6) Fire damage. *Success:*\
-      \ Half damage."
-    "name": "Fire Breath (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Red%20Dragon%20Wyrmling.webp"
+```ad-statblock
+title: Red Dragon Wyrmling
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Red%20Dragon%20Wyrmling.webp#token)
+*Medium Dragon (chromatic), Chaotic Evil*
+
+- **Armor Class** 17 
+- **Hit Points** 75 (10d8 + 30) 
+- **Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 19 | +4 | +4 |
+|Int| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | **+2** |
+|Wis| 11 | +0 | **+2** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 17 | +3 | +3 |
+|Cha| 15 | +2 | +2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Dexterity +2, Wisdom +2
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +2
+- **Damage Immunities** Fire
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Languages** Draconic
+- **Challenge** 4
+
+## Actions
+
+***Multiattack.*** The dragon makes two Rend attacks.
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:1d10+4|noform|noparens|avg|text(9)` (`1d10 + 4`) Slashing damage plus `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) Fire damage.
+
+***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 13, each creature in a 15-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* `dice:7d6|noform|noparens|avg|text(24)` (`7d6`) Fire damage. *Success:* Half damage.
 ```
 ^statblock
 

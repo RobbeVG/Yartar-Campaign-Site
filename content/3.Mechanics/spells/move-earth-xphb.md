@@ -15,6 +15,7 @@ classes:
 - Druid
 - Sorcerer
 - Wizard
+title: "Move Earth"
 aliases:
 - "Move Earth"
 ---

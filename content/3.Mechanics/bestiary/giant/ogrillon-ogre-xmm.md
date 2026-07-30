@@ -15,13 +15,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/giant
-statblock: inline
-statblock-link: "#^statblock"
+title: "Ogrillon Ogre"
 aliases:
 - "Ogrillon Ogre"
 ---
-# [Ogrillon Ogre](3.Mechanics/bestiary/giant/ogrillon-ogre-xmm.md)
+# Ogrillon Ogre
 *Source: Monster Manual (2024) p. 231*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Ogres.webp#right)
 
 Ogrillons arise from Humanoids cursed by foul magic or the will of wrathful deities. They appear similar to whoever they once were, but they grow to over 8 feet tall and gain ogre-like features. Ogrillons constantly seethe with supernatural anger, which they might struggle to control or purposefully vent on other creatures.
 
@@ -36,41 +36,42 @@ Ogres are selfish raiders and hulking gluttons spawned of hateful supernatural f
 
 Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Vaprak. They magically emerge from the earth of lands corrupted by evil gods, sinister magic, or ancient curses. Some bear evidence of the places that spawned them, sporting rocky calluses, mossy growths, or frozen scars.
 
-```statblock
-"name": "Ogrillon Ogre (XMM)"
-"size": "Large"
-"type": "giant"
-"alignment": "Chaotic Evil"
-"ac": !!int "12"
-"hp": !!int "52"
-"hit_dice": "7d10 + 14"
-"modifier": !!int "0"
-"stats":
-  - !!int "17"
-  - !!int "10"
-  - !!int "14"
-  - !!int "7"
-  - !!int "9"
-  - !!int "10"
-"speed": "30 ft."
-"gear":
-  - "[battleaxe](3.Mechanics/items/battleaxe-xphb.md)"
-  - "three [javelins](3.Mechanics/items/javelin-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
-"languages": "Common, Giant"
-"cr": "1"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:1d8+3|noform|noparens|avg|text(7) (1d8 + 3) Slashing damage."
-    "name": "Battleaxe"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+5|noform|noparens|text(+5),\
-      \ reach 5 ft. or range 30/120 ft. *Hit:* dice:1d6+3|noform|noparens|avg|text(6)\
-      \ (1d6 + 3) Piercing damage."
-    "name": "Javelin"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Ogrillon%20Ogre.webp"
+```ad-statblock
+title: Ogrillon Ogre
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ogrillon%20Ogre.webp#token)
+*Large Giant, Chaotic Evil*
+
+- **Armor Class** 12 
+- **Hit Points** 52 (7d10 + 14) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17 | +3 | +3 |
+|Int| 7 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | +0 |
+|Wis| 9 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14 | +2 | +2 |
+|Cha| 10 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Gear** [battleaxe](3.Mechanics/items/battleaxe-xphb.md), three [javelins](3.Mechanics/items/javelin-xphb.md)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
+- **Languages** Common, Giant
+- **Challenge** 1
+
+## Actions
+
+***Battleaxe.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d8+3|noform|noparens|avg|text(7)` (`1d8 + 3`) Slashing damage.
+
+***Javelin.*** *Melee  or Ranged Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. or range 30/120 ft. *Hit:* `dice:1d6+3|noform|noparens|avg|text(6)` (`1d6 + 3`) Piercing damage.
 ```
 ^statblock
 

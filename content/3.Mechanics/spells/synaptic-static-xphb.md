@@ -15,6 +15,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Synaptic Static"
 aliases:
 - "Synaptic Static"
 ---

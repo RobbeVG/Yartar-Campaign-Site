@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/ranged
+title: "Heavy Crossbow"
 aliases:
 - "Heavy Crossbow"
 ---
 # Heavy Crossbow
 *Weapon*  
-![](file://items/XPHB/Heavy%20Crossbow.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Heavy%20Crossbow.webp#right)
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400

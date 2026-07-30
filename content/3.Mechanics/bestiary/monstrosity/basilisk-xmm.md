@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Basilisk"
 aliases:
 - "Basilisk"
 ---
-# [Basilisk](3.Mechanics/bestiary/monstrosity/basilisk-xmm.md)
+# Basilisk
 *Source: Monster Manual (2024) p. 32. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Basilisk.webp#right)
 
 ## Basilisk
 
@@ -47,46 +47,43 @@ The remains of [Petrified](3.Mechanics/rules/conditions.md#Petrified) creatures 
 | 7 | Someone caught in a comic pose or making a regrettable face. |
 | 8 | A victim now being used as a nest for insects or other vermin. |
 ^petrified-basilisk-victims
+```ad-statblock
+title: Basilisk
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Basilisk.webp#token)
+*Medium Monstrosity, Unaligned*
 
-```statblock
-"name": "Basilisk (XMM)"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "15"
-"hp": !!int "52"
-"hit_dice": "8d8 + 16"
-"modifier": !!int "-1"
-"stats":
-  - !!int "16"
-  - !!int "8"
-  - !!int "15"
-  - !!int "2"
-  - !!int "8"
-  - !!int "7"
-"speed": "20 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
-"languages": ""
-"cr": "3"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:2d6+3|noform|noparens|avg|text(10) (2d6 + 3) Piercing\
-      \ damage plus dice:2d6|noform|noparens|avg|text(7) (2d6) Poison damage."
-    "name": "Bite"
-"bonus_actions":
-  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ If the basilisk sees its reflection within the [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md),\
-      \ the basilisk must make this save. *1St Failure:* The target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition and repeats the save at the end of its next turn if it is still\
-      \ [Restrained](3.Mechanics/rules/conditions.md#Restrained), ending the effect\
-      \ on itself on a success. *2Nd Failure:* The target has the [Petrified](3.Mechanics/rules/conditions.md#Petrified)\
-      \ condition instead of the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition."
-    "name": "Petrifying Gaze (Recharge 4-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Basilisk.webp"
+- **Armor Class** 15 
+- **Hit Points** 52 (8d8 + 16) 
+- **Speed** 20 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16 | +3 | +3 |
+|Int| 2 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 8 | -1 | -1 |
+|Wis| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15 | +2 | +2 |
+|Cha| 7 | -2 | -2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
+- **Languages** —
+- **Challenge** 3
+
+## Actions
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:2d6+3|noform|noparens|avg|text(10)` (`2d6 + 3`) Piercing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Poison damage.
+
+## Bonus Actions
+
+***Petrifying Gaze (Recharge 4-6).*** *Constitution Saving Throw:* DC 12, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). If the basilisk sees its reflection within the [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md), the basilisk must make this save. *1St Failure:* The target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition and repeats the save at the end of its next turn if it is still [Restrained](3.Mechanics/rules/conditions.md#Restrained), ending the effect on itself on a success. *2Nd Failure:* The target has the [Petrified](3.Mechanics/rules/conditions.md#Petrified) condition instead of the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition.
 ```
 ^statblock
 

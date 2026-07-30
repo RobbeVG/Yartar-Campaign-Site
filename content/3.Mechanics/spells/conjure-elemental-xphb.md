@@ -15,6 +15,7 @@ classes:
 - Druid
 - Druid (Circle of the Sea)
 - Wizard
+title: "Conjure Elemental"
 aliases:
 - "Conjure Elemental"
 ---

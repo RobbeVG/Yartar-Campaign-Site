@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
+title: "Ioun Stone, Regeneration"
 aliases:
 - "Ioun Stone, Regeneration"
 ---
 # Ioun Stone, Regeneration
 *Wondrous item, legendary (requires attunement)*  
-![](file://items/XDMG/Ioun%20Stone.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ioun%20Stone.webp#right)
 
 
 Roughly marble sized, *Ioun Stones* are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun Stones* exist, each type a distinct combination of shape and color.

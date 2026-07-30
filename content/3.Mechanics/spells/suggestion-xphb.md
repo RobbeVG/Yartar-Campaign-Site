@@ -23,6 +23,7 @@ classes:
 - Warlock
 - Warlock (Fiend Patron)
 - Wizard
+title: "Suggestion"
 aliases:
 - "Suggestion"
 ---

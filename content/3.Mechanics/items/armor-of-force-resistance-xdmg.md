@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Armor of Force Resistance"
 aliases:
 - "Armor of Force Resistance"
 - "Breastplate of Force Resistance"

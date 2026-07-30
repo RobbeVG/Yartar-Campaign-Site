@@ -17,6 +17,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
+title: "Mislead"
 aliases:
 - "Mislead"
 ---

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/potion
+title: "Potion of Heroism"
 aliases:
 - "Potion of Heroism"
 ---

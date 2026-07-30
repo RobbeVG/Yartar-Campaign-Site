@@ -22,6 +22,7 @@ classes:
 - Sorcerer (Draconic Sorcery)
 - Wizard
 - Wizard (Diviner)
+title: "Arcane Eye"
 aliases:
 - "Arcane Eye"
 ---

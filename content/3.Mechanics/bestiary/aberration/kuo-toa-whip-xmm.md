@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Kuo-toa Whip"
 aliases:
 - "Kuo-toa Whip"
 ---
-# [Kuo-toa Whip](3.Mechanics/bestiary/aberration/kuo-toa-whip-xmm.md)
+# Kuo-toa Whip
 *Source: Monster Manual (2024) p. 190*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Kuo-toa%20Whip%20and%20Monitor.webp#right)
 
 The servants of kuo-toa archpriests, kuo-toa whips—so named for their role in enforcing order among other kuo-toa—lead war bands in carrying out the commands of their superiors. In return for their zeal, these kuo-toa are granted minor magical abilities and pincer-like weapons for subduing foes. In battle, whips drive on other kuo-toa with threats of violence and burbling chants.
 
@@ -81,55 +81,52 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 > When the Corpse Moon rises and the Chum-Tide washes in, up rise the Gogglers from their pits beneath the waves. Burbling and noisome they come, fishing night's shores as we do dawn's waves.
 
 
-```statblock
-"name": "Kuo-toa Whip (XMM)"
-"size": "Medium"
-"type": "aberration"
-"alignment": "Neutral Evil"
-"ac": !!int "11"
-"hp": !!int "45"
-"hit_dice": "7d8 + 14"
-"modifier": !!int "0"
-"stats":
-  - !!int "14"
-  - !!int "10"
-  - !!int "14"
-  - !!int "12"
-  - !!int "14"
-  - !!int "11"
-"speed": "30 ft., swim 30 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+6"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
-    "desc": "+3"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., [Truesight](3.Mechanics/rules/senses.md#Truesight)\
-  \ 30 ft., passive Perception 16"
-"languages": "Undercommon"
-"cr": "1"
-"traits":
-  - "desc": "The kuo-toa can breathe air and water."
-    "name": "Amphibious"
-  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
-      \ on ability checks and attack rolls."
-    "name": "Sunlight Sensitivity"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 10\
-      \ ft. *Hit:* dice:2d6+2|noform|noparens|avg|text(9) (2d6 + 2) Piercing damage.\
-      \ If the target is a Medium or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition (escape DC 12). Until the grapple ends, the kuo-toa can't make Pincer\
-      \ Staff attacks."
-    "name": "Pincer Staff"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+4|noform|noparens|text(+4), range 60\
-      \ ft. *Hit:* dice:3d4+2|noform|noparens|avg|text(9) (3d4 + 2) Acid damage."
-    "name": "Conjure Slimy Glob"
-"bonus_actions":
-  - "desc": "The kuo-toa casts [Shield of Faith](3.Mechanics/spells/shield-of-faith-xphb.md),\
-      \ using Wisdom as the spellcasting ability.\n"
-    "name": "Shield of Faith (2/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Kuo-toa%20Whip.webp"
+```ad-statblock
+title: Kuo-toa Whip
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Kuo-toa%20Whip.webp#token)
+*Medium Aberration, Neutral Evil*
+
+- **Armor Class** 11 
+- **Hit Points** 45 (7d8 + 14) 
+- **Speed** 30 ft., swim 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 14 | +2 | +2 |
+|Int| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | +0 |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14 | +2 | +2 |
+|Cha| 11 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Religion](3.Mechanics/rules/skills.md#Religion) +3
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., [Truesight](3.Mechanics/rules/senses.md#Truesight) 30 Ft., Passive Perception 16
+- **Languages** Undercommon
+- **Challenge** 1
+
+## Traits
+
+***Amphibious.*** The kuo-toa can breathe air and water.
+
+***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls.
+
+## Actions
+
+***Pincer Staff.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 10 ft. *Hit:* `dice:2d6+2|noform|noparens|avg|text(9)` (`2d6 + 2`) Piercing damage. If the target is a Medium or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 12). Until the grapple ends, the kuo-toa can't make Pincer Staff attacks.
+
+***Conjure Slimy Glob.*** *Ranged Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, range 60 ft. *Hit:* `dice:3d4+2|noform|noparens|avg|text(9)` (`3d4 + 2`) Acid damage.
+
+## Bonus Actions
+
+***Shield of Faith (2/Day).*** The kuo-toa casts [Shield of Faith](3.Mechanics/spells/shield-of-faith-xphb.md), using Wisdom as the spellcasting ability.
+
 ```
 ^statblock
 

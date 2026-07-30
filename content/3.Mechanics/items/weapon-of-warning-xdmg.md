@@ -14,6 +14,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Weapon of Warning"
 aliases:
 - "Weapon of Warning"
 - "Antimatter Rifle of Warning"
@@ -72,7 +73,7 @@ aliases:
 ---
 # Weapon of Warning
 *Uncommon (requires attunement)*  
-![Weapon of Warning (Trident)](file://items/XDMG/Weapon%20of%20Warning.webp#right)
+![Weapon of Warning (Trident)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Weapon%20of%20Warning.webp#right)
 
 
 As long as this weapon is within your reach and you are attuned to it, you and allies within 30 feet of you gain the following benefits.

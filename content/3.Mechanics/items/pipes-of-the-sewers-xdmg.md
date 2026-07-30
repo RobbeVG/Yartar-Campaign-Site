@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Pipes of the Sewers"
 aliases:
 - "Pipes of the Sewers"
 ---
 # Pipes of the Sewers
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Pipes%20of%20the%20Sewers.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Pipes%20of%20the%20Sewers.webp#right)
 
 
 While these pipes are on your person, ordinary [rats](3.Mechanics/bestiary/beast/rat-xmm.md) and [giant rats](3.Mechanics/bestiary/beast/giant-rat-xmm.md) are [Indifferent](3.Mechanics/rules/variant-rules/indifferent-attitude-xphb.md) toward you and won't attack you unless you threaten or harm them.

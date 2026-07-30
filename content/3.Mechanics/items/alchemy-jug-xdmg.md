@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Alchemy Jug"
 aliases:
 - "Alchemy Jug"
 ---
 # Alchemy Jug
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Alchemy%20Jug.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Alchemy%20Jug.webp#right)
 
 - **Weight**: 12.0 lbs.
 

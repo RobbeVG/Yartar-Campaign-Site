@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Greatclub"
 aliases:
 - "Greatclub"
 ---
 # Greatclub
 *Weapon*  
-![](file://items/XPHB/Greatclub.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Greatclub.webp#right)
 
 - **Damage**: 1d8 bludgeoning
 - **Properties**: [Two-Handed](3.Mechanics/rules/item-properties.md#Two-Handed)

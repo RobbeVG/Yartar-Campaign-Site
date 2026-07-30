@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Goggles of Night"
 aliases:
 - "Goggles of Night"
 ---
 # Goggles of Night
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Goggles%20of%20Night.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Goggles%20of%20Night.webp#right)
 
 
 While wearing these dark lenses, you have [Darkvision](3.Mechanics/rules/senses.md#Darkvision) out to 60 feet. If you already have [Darkvision](3.Mechanics/rules/senses.md#Darkvision), wearing the goggles increases its range by 60 feet.

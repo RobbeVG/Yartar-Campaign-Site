@@ -19,12 +19,13 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Evoker)
+title: "Melf's Acid Arrow"
 aliases:
 - "Melf's Acid Arrow"
 ---
 # Melf's Acid Arrow
 *2nd-level, Evocation*  
-![](file://spells/XPHB/Melf%27s%20Acid%20Arrow.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Melf%27s%20Acid%20Arrow.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Cloak of Elvenkind"
 aliases:
 - "Cloak of Elvenkind"
 ---
 # Cloak of Elvenkind
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Cloak%20of%20Elvenkind.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Cloak%20of%20Elvenkind.webp#right)
 
 
 While you wear this cloak, Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) checks made to perceive you have [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md), and you have [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on Dexterity ([Stealth](3.Mechanics/rules/skills.md#Stealth)) checks.

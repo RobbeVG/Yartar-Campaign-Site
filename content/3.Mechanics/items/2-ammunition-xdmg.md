@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/gear/ammunition-firearm
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
+title: "+2 Ammunition"
 aliases:
 - "+2 Ammunition"
 - "+2 Arrow"

@@ -25,6 +25,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Mage Hand"
 aliases:
 - "Mage Hand"
 ---

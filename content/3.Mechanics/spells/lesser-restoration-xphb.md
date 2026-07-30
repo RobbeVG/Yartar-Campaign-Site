@@ -27,12 +27,13 @@ classes:
 - Ranger
 - Sorcerer (Clockwork Sorcery)
 - Warlock (Celestial Patron)
+title: "Lesser Restoration"
 aliases:
 - "Lesser Restoration"
 ---
 # Lesser Restoration
 *2nd-level, Abjuration*  
-![](file://spells/XPHB/Lesser%20Restoration.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Lesser%20Restoration.webp#right)
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Touch

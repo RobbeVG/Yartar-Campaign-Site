@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/varies
+title: "Quaal's Feather Token"
 aliases:
 - "Quaal's Feather Token"
 ---
 # Quaal's Feather Token
 *Wondrous item*  
-![Quaal's Feather Tokens (Whip, Anchor, Bird, Swan Boat, Fan, Tree)](file://items/XDMG/Quaals%20Feather%20Token.webp#right)
+![Quaal's Feather Tokens (Whip, Anchor, Bird, Swan Boat, Fan, Tree)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Quaals%20Feather%20Token.webp#right)
 
 
 This object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The DM chooses the kind of token or determines it randomly by rolling on the Quaal's Feather Tokens table. The type of token determines its rarity.

@@ -19,6 +19,7 @@ classes:
 - Ranger
 - Rogue (Arcane Trickster)
 - Wizard
+title: "Summon Elemental"
 aliases:
 - "Summon Elemental"
 ---

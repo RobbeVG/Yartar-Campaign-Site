@@ -10,13 +10,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/elemental
-statblock: inline
-statblock-link: "#^statblock"
+title: "Salamander"
 aliases:
 - "Salamander"
 ---
-# [Salamander](3.Mechanics/bestiary/elemental/salamander-xmm.md)
+# Salamander
 *Source: Monster Manual (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Salamander.webp#right)
 
 Most salamanders are arrogant yet curious, seeking to create artful blazes or burn that which has never been burned. They eagerly explain their work to strangers before trying to determine how the strangers burn. Salamanders radiate intense heat, which is conducted by their blazing weapons.
 
@@ -36,55 +36,51 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 > The salamanders of the Elemental Plane of Fire delight in meeting visitors from other realms. For them, every stranger is a potential addition to their fiery artistry. Don't fall for their flattery, no matter how beautifully they say you'll burn.
 
 
-```statblock
-"name": "Salamander (XMM)"
-"size": "Large"
-"type": "elemental"
-"alignment": "Neutral Evil"
-"ac": !!int "15"
-"hp": !!int "90"
-"hit_dice": "12d10 + 24"
-"modifier": !!int "2"
-"stats":
-  - !!int "18"
-  - !!int "14"
-  - !!int "15"
-  - !!int "11"
-  - !!int "10"
-  - !!int "12"
-"speed": "30 ft., climb 30 ft."
-"damage_vulnerabilities": "cold"
-"damage_immunities": "fire"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Primordial (Ignan)"
-"cr": "5"
-"traits":
-  - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-      \ choice in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the salamander takes dice:2d6|noform|noparens|avg|text(7)\
-      \ (2d6) Fire damage."
-    "name": "Fire Aura"
-"actions":
-  - "desc": "The salamander makes two Flame Spear attacks. It can replace one attack\
-      \ with a use of Constrict."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+7|noform|noparens|text(+7),\
-      \ reach 5 ft. or range 20/60 ft. *Hit:* dice:2d8+4|noform|noparens|avg|text(13)\
-      \ (2d8 + 4) Piercing damage plus dice:2d6|noform|noparens|avg|text(7) (2d6)\
-      \ Fire damage. *Hit or Miss:* The spear magically returns to the salamander's\
-      \ hand immediately after a ranged attack."
-    "name": "Flame Spear"
-  - "desc": "*Strength Saving Throw:* DC 15, one Large or smaller creature the salamander\
-      \ can see within 10 feet. *Failure:* dice:2d6+4|noform|noparens|avg|text(11)\
-      \ (2d6 + 4) Bludgeoning damage plus dice:2d6|noform|noparens|avg|text(7)\
-      \ (2d6) Fire damage. The target has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition (escape DC 14), and it has the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition until the grapple ends."
-    "name": "Constrict"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Salamander.webp"
+![A salamander inferno master drives its salamander and fire snake minions to burn all they encounter](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Salamanders.webp#center)
+
+```ad-statblock
+title: Salamander
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Salamander.webp#token)
+*Large Elemental, Neutral Evil*
+
+- **Armor Class** 15 
+- **Hit Points** 90 (12d10 + 24) 
+- **Speed** 30 ft., climb 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 11 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15 | +2 | +2 |
+|Cha| 12 | +1 | +1 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Vulnerabilities** Cold
+- **Damage Immunities** Fire
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Primordial (Ignan)
+- **Challenge** 5
+
+## Traits
+
+***Fire Aura.*** At the end of each of the salamander's turns, each creature of the salamander's choice in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the salamander takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Fire damage.
+
+## Actions
+
+***Multiattack.*** The salamander makes two Flame Spear attacks. It can replace one attack with a use of Constrict.
+
+***Flame Spear.*** *Melee  or Ranged Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. or range 20/60 ft. *Hit:* `dice:2d8+4|noform|noparens|avg|text(13)` (`2d8 + 4`) Piercing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Fire damage. *Hit or Miss:* The spear magically returns to the salamander's hand immediately after a ranged attack.
+
+***Constrict.*** *Strength Saving Throw:* DC 15, one Large or smaller creature the salamander can see within 10 feet. *Failure:* `dice:2d6+4|noform|noparens|avg|text(11)` (`2d6 + 4`) Bludgeoning damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Fire damage. The target has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 14), and it has the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition until the grapple ends.
 ```
 ^statblock
 

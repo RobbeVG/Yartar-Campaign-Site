@@ -17,12 +17,13 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer (Clockwork Sorcery)
 - Wizard
+title: "Summon Construct"
 aliases:
 - "Summon Construct"
 ---
 # Summon Construct
 *4th-level, Conjuration*  
-![](file://spells/XPHB/Summon%20Construct.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Summon%20Construct.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

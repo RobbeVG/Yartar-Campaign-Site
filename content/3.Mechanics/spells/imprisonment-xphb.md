@@ -15,6 +15,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
+title: "Imprisonment"
 aliases:
 - "Imprisonment"
 ---

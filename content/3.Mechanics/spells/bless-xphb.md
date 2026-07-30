@@ -19,6 +19,7 @@ classes:
 - Cleric
 - Cleric (Life Domain)
 - Paladin
+title: "Bless"
 aliases:
 - "Bless"
 ---

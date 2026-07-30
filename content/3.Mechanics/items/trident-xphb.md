@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Trident"
 aliases:
 - "Trident"
 ---
 # Trident
 *Weapon*  
-![](file://items/XPHB/Trident.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Trident.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 piercing

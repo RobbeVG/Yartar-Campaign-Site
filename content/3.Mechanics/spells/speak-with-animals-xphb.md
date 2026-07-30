@@ -26,12 +26,13 @@ classes:
 - Paladin (Oath of the Ancients)
 - Ranger
 - Warlock
+title: "Speak with Animals"
 aliases:
 - "Speak with Animals"
 ---
 # Speak with Animals
 *1st-level, Divination (ritual)*  
-![](file://spells/XPHB/Speak%20with%20Animals.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Speak%20with%20Animals.webp#right)
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Self

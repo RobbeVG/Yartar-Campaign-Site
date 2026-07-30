@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
+title: "Veteran's Cane"
 aliases:
 - "Veteran's Cane"
 ---

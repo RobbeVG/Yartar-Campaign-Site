@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Vorpal Sword"
 aliases:
 - "Vorpal Sword"
 - "Vorpal Glaive"
@@ -18,7 +19,7 @@ aliases:
 ---
 # Vorpal Sword
 *Legendary (requires attunement)*  
-![Vorpal Sword (Longsword)](file://items/XDMG/Vorpal%20Sword.webp#right)
+![Vorpal Sword (Longsword)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Vorpal%20Sword.webp#right)
 
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. In addition, the weapon ignores [Resistance](3.Mechanics/rules/variant-rules/resistance-xphb.md) to Slashing damage.

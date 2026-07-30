@@ -7,63 +7,65 @@ tags:
 - ttrpg-cli/monster/cr/
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
-statblock: inline
-statblock-link: "#^statblock"
+title: "Construct Spirit"
 aliases:
 - "Construct Spirit"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Construct Spirit](3.Mechanics/bestiary/construct/construct-spirit-xphb.md)
+# Construct Spirit
 *Source: Player's Handbook (2024) p. 324*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Construct%20Spirit.webp#center)
+```ad-statblock
+title: Construct Spirit
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Construct%20Spirit.webp#token)
+*Medium Construct, Neutral*
 
-```statblock
-"name": "Construct Spirit (XPHB)"
-"size": "Medium"
-"type": "construct"
-"alignment": "Neutral"
-"ac_class": "13 + the spell's level"
-"hp": "40 + 15 for each spell level above 4"
-"modifier": !!int "0"
-"stats":
-  - !!int "18"
-  - !!int "10"
-  - !!int "18"
-  - !!int "14"
-  - !!int "11"
-  - !!int "5"
-"speed": "30 ft."
-"damage_resistances": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Understands the languages you know"
-"traits":
-  - "desc": "A creature that hits the spirit with a melee attack or that starts its\
-      \ turn in a grapple with the spirit takes dice:1d10|noform|noparens|avg (1d10)\
-      \ Fire damage."
-    "name": "Heated Body (Metal Only)"
-  - "desc": "When a creature starts its turn within 10 feet of the spirit, the spirit\
-      \ can target it with magical energy if the spirit can see it. *Wisdom Saving\
-      \ Throw:* DC equals your spell save DC, the target. *Failure:* Until the start\
-      \ of its next turn, the target can't make [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack),\
-      \ and its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) is halved."
-    "name": "Stony Lethargy (Stone Only)"
-"actions":
-  - "desc": "The spirit makes a number of Slam attacks equal to half this spell's\
-      \ level (round down)."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
-      \ ft. *Hit:* 1d8 + 4 + the spell's level Bludgeoning damage."
-    "name": "Slam"
-"reactions":
-  - "desc": "Trigger: The spirit takes damage from a creature. _Response:_ The spirit\
-      \ makes a Slam attack against that creature if possible, or the spirit moves\
-      \ up to half its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) toward\
-      \ that creature without provoking [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack)."
-    "name": "Berserk Lashing (Clay Only)"
-"source":
-  - "XPHB"
-"image": "file://bestiary/tokens/XPHB/Construct%20Spirit.webp"
+- **Armor Class** (13 + the spell's level)
+- **Hit Points** 40 + 15 for each spell level above 4  (40 + 15 for each spell level above 4)
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | +0 |
+|Wis| 11 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18 | +4 | +4 |
+|Cha| 5 | -3 | -3 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Resistances** Poison
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Understands the languages you know
+- **Challenge** 
+
+## Traits
+
+***Heated Body (Metal Only).*** A creature that hits the spirit with a melee attack or that starts its turn in a grapple with the spirit takes `dice:1d10|noform|noparens|avg` (`1d10`) Fire damage.
+
+***Stony Lethargy (Stone Only).*** When a creature starts its turn within 10 feet of the spirit, the spirit can target it with magical energy if the spirit can see it. *Wisdom Saving Throw:* DC equals your spell save DC, the target. *Failure:* Until the start of its next turn, the target can't make [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack), and its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) is halved.
+
+## Actions
+
+***Multiattack.*** The spirit makes a number of Slam attacks equal to half this spell's level (round down).
+
+***Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8 + 4` + the spell's level Bludgeoning damage.
+
+## Reactions
+
+***Berserk Lashing (Clay Only).*** Trigger: The spirit takes damage from a creature. _Response:_ The spirit makes a Slam attack against that creature if possible, or the spirit moves up to half its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) toward that creature without provoking [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack).
 ```
 ^statblock

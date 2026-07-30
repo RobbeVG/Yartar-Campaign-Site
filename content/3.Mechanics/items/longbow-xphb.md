@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/ranged
+title: "Longbow"
 aliases:
 - "Longbow"
 ---
 # Longbow
 *Weapon*  
-![](file://items/XPHB/Longbow.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Longbow.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600

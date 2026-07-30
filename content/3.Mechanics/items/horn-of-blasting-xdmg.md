@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/instrument
 - ttrpg-cli/item/rarity/rare
+title: "Horn of Blasting"
 aliases:
 - "Horn of Blasting"
 ---
 # Horn of Blasting
 *Wondrous item, instrument ([horn](3.Mechanics/items/horn-xphb.md)), rare*  
-![](file://items/XDMG/Horn%20of%20Blasting.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Horn%20of%20Blasting.webp#right)
 
 
 You can take a [Magic](3.Mechanics/rules/actions.md#Magic) action to blow the horn, which emits a thunderous blast in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md) that is audible out to 600 feet. Each creature in the [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md) makes a DC 15 Constitution saving throw. On a failed save, a creature takes `dice:5d8|noform|noparens|avg` (`5d8`) Thunder damage and has the [Deafened](3.Mechanics/rules/conditions.md#Deafened) condition for 1 minute. On a successful save, a creature takes half as much damage only. Glass or crystal objects in the [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md) that aren't being worn or carried take `dice:10d8|noform|noparens|avg` (`10d8`) Thunder damage.

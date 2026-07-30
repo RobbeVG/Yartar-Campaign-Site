@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Dwarven Thrower"
 aliases:
 - "Dwarven Thrower"
 ---
 # Dwarven Thrower
 *Weapon ([warhammer](3.Mechanics/items/warhammer-xphb.md)), very rare (requires attunement by a Dwarf or a Creature Attuned to a [Belt of Dwarvenkind](3.Mechanics/items/belt-of-dwarvenkind-xdmg.md))*  
-![](file://items/XDMG/Dwarven%20Thrower.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Dwarven%20Thrower.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 bludgeoning

@@ -14,6 +14,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Nine Lives Stealer"
 aliases:
 - "Nine Lives Stealer"
 - "Nine Lives Stealer Antimatter Rifle"
@@ -72,7 +73,7 @@ aliases:
 ---
 # Nine Lives Stealer
 *Very rare (requires attunement)*  
-![Nine Lives Stealer (Greatsword)](file://items/XDMG/Nine%20Lives%20Stealer.webp#right)
+![Nine Lives Stealer (Greatsword)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Nine%20Lives%20Stealer.webp#right)
 
 
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.

@@ -17,6 +17,7 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Paladin
+title: "Detect Evil and Good"
 aliases:
 - "Detect Evil and Good"
 ---

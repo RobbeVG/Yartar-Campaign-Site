@@ -13,12 +13,13 @@ classes:
 - Bard
 - Cleric
 - Paladin
+title: "Raise Dead"
 aliases:
 - "Raise Dead"
 ---
 # Raise Dead
 *5th-level, Necromancy*  
-![](file://spells/XPHB/Raise%20Dead.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Raise%20Dead.webp#right)
 
 - **Casting time:** 1 hour
 - **Range:** Touch

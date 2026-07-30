@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Elemental Cultist"
 aliases:
 - "Elemental Cultist"
 ---
-# [Elemental Cultist](3.Mechanics/bestiary/humanoid/elemental-cultist-xmm.md)
+# Elemental Cultist
 *Source: Monster Manual (2024) p. 87*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Aberrant%20Cultist%20and%20Elemental%20Cultist.webp#right)
 
 Elemental cultists harness destructive natural forces to cleanse the world of civilization or prove the dominance of one element over all others. Such cultists are aligned with Elemental monsters or wicked immortals such as the Princes of Elemental Evil or the Elder Elemental Eye.
 
@@ -76,64 +76,54 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
 
-```statblock
-"name": "Elemental Cultist (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Chaotic Evil"
-"ac": !!int "16"
-"hp": !!int "135"
-"hit_dice": "18d8 + 54"
-"modifier": !!int "4"
-"stats":
-  - !!int "18"
-  - !!int "12"
-  - !!int "16"
-  - !!int "14"
-  - !!int "18"
-  - !!int "12"
-"speed": "30 ft."
-"saves":
-  - "constitution": !!int "6"
-  - "wisdom": !!int "7"
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+7"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
-    "desc": "+5"
-"gear":
-  - "[chain mail](3.Mechanics/items/chain-mail-xphb.md)"
-"senses": "passive Perception 17"
-"languages": "Common, Primordial"
-"cr": "8"
-"actions":
-  - "desc": "The cultist makes three attacks, using Elemental Flail or Elemental Claw\
-      \ in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+7|noform|noparens|text(+7), reach 5\
-      \ ft. *Hit:* dice:6d6+4|noform|noparens|avg|text(25) (6d6 + 4) damage of\
-      \ a type chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder."
-    "name": "Elemental Flail"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+7|noform|noparens|text(+7), range 120\
-      \ ft. *Hit:* dice:4d10|noform|noparens|avg|text(22) (4d10) damage of a type\
-      \ chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder. If the target\
-      \ is a Medium or smaller creature, the cultist moves the target up to 10 feet\
-      \ straight toward or away from itself."
-    "name": "Elemental Claw"
-  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 15):\n\n**At will:** [Elementalism](3.Mechanics/spells/elementalism-xphb.md),\
-      \ [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md)"
-    "name": "Spellcasting"
-"reactions":
-  - "desc": "Trigger: The cultist takes Acid, Cold, Fire, Lightning, or Thunder damage.\
-      \ _Response:_ The cultist gives itself [Resistance](3.Mechanics/rules/variant-rules/resistance-xphb.md)\
-      \ to that instance of damage and gains 10 [Temporary Hit Points](3.Mechanics/rules/variant-rules/temporary-hit-points-xphb.md)."
-    "name": "Elemental Absorption (1/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Elemental%20Cultist.webp"
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Cultists.webp#center)
+
+```ad-statblock
+title: Elemental Cultist
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Elemental%20Cultist.webp#token)
+*Small or Medium Humanoid, Chaotic Evil*
+
+- **Armor Class** 16 
+- **Hit Points** 135 (18d8 + 54) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 18 | +4 | **+7** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | **+6** |
+|Cha| 12 | +1 | +1 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Constitution +6, Wisdom +7
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Religion](3.Mechanics/rules/skills.md#Religion) +5
+- **Gear** [chain mail](3.Mechanics/items/chain-mail-xphb.md)
+- **Senses** Passive Perception 17
+- **Languages** Common, Primordial
+- **Challenge** 8
+
+## Actions
+
+***Multiattack.*** The cultist makes three attacks, using Elemental Flail or Elemental Claw in any combination.
+
+***Elemental Flail.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. *Hit:* `dice:6d6+4|noform|noparens|avg|text(25)` (`6d6 + 4`) damage of a type chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder.
+
+***Elemental Claw.*** *Ranged Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, range 120 ft. *Hit:* `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) damage of a type chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder. If the target is a Medium or smaller creature, the cultist moves the target up to 10 feet straight toward or away from itself.
+
+***Spellcasting.*** The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 15):
+
+**At will:** [Elementalism](3.Mechanics/spells/elementalism-xphb.md), [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md)
+
+## Reactions
+
+***Elemental Absorption (1/Day).*** Trigger: The cultist takes Acid, Cold, Fire, Lightning, or Thunder damage. _Response:_ The cultist gives itself [Resistance](3.Mechanics/rules/variant-rules/resistance-xphb.md) to that instance of damage and gains 10 [Temporary Hit Points](3.Mechanics/rules/variant-rules/temporary-hit-points-xphb.md).
 ```
 ^statblock
 

@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/paladin/glory
+title: "Oath of Glory"
 aliases:
 - "Oath of Glory"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Glory%20Paladin.webp#right)
 
 *Strive for the Heights of Heroism*
 

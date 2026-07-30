@@ -14,6 +14,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Enspelled Weapon (Level 8)"
 aliases:
 - "Enspelled Weapon (Level 8)"
 - "Enspelled (Level 8) Antimatter Rifle"

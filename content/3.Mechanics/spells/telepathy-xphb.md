@@ -15,6 +15,7 @@ classes:
 - Wizard
 - Wizard (Diviner)
 - Wizard (Evoker)
+title: "Telepathy"
 aliases:
 - "Telepathy"
 ---

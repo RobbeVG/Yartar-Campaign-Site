@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/school/transmutation
 classes:
 - Ranger
+title: "Lightning Arrow"
 aliases:
 - "Lightning Arrow"
 ---

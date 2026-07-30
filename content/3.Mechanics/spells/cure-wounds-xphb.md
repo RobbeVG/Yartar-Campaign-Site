@@ -26,6 +26,7 @@ classes:
 - Paladin
 - Ranger
 - Warlock (Celestial Patron)
+title: "Cure Wounds"
 aliases:
 - "Cure Wounds"
 ---

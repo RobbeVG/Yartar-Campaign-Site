@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Berserker Axe"
 aliases:
 - "Berserker Axe"
 - "Berserker Battleaxe"
@@ -17,7 +18,7 @@ aliases:
 ---
 # Berserker Axe
 *Cursed item, rare (requires attunement)*  
-![Berserker axe (Battleaxe)](file://items/XDMG/Berserker%20Axe.webp#right)
+![Berserker axe (Battleaxe)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Berserker%20Axe.webp#right)
 
 - **Properties**: [Cursed](3.Mechanics/rules/item-properties.md#Cursed%20Items)
 

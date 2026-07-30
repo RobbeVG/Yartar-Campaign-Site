@@ -18,6 +18,7 @@ classes:
 - Cleric
 - Druid
 - Ranger
+title: "Meld into Stone"
 aliases:
 - "Meld into Stone"
 ---

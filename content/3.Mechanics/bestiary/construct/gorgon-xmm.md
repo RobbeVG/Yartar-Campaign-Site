@@ -10,13 +10,16 @@ tags:
 - ttrpg-cli/monster/environment/hill
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/construct
-statblock: inline
-statblock-link: "#^statblock"
+title: "Gorgon"
 aliases:
 - "Gorgon"
+conditionImmunities:
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [petrified](3.Mechanics/rules/conditions.md#Petrified)
 ---
-# [Gorgon](3.Mechanics/bestiary/construct/gorgon-xmm.md)
+# Gorgon
 *Source: Monster Manual (2024) p. 148. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Gorgons.webp#right)
 
 Most gorgons are iron bulls wreathed in clouds of petrifying gas. Their metal plates vary in sheen and color, from sleek silver to pitted black. The oldest gorgons might be covered in rust, but this rarely impedes their abilities. These gorgons' stomping grounds are littered with the shattered remains of [petrified](3.Mechanics/rules/conditions.md#Petrified) foes. Many gorgons outlive their creators by centuries, misleading some to believe these creations have natural origins and territories. Most such gorgons continue to follow age-old commands, guarding sites long fallen to ruin.
 
@@ -54,55 +57,46 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 > Notable among my eccentric ancestor's scattered designs was a schematic of a swamp-dwelling bovine monster and an ominous note: "Do better."
 
 
-```statblock
-"name": "Gorgon (XMM)"
-"size": "Large"
-"type": "construct"
-"alignment": "Unaligned"
-"ac": !!int "19"
-"hp": !!int "114"
-"hit_dice": "12d10 + 48"
-"modifier": !!int "0"
-"stats":
-  - !!int "20"
-  - !!int "11"
-  - !!int "18"
-  - !!int "2"
-  - !!int "12"
-  - !!int "7"
-"speed": "40 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+7"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 17"
-"languages": ""
-"cr": "5"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+8|noform|noparens|text(+8), reach 5\
-      \ ft. *Hit:* dice:2d12+5|noform|noparens|avg|text(18) (2d12 + 5) Piercing\
-      \ damage. If the target is a Large or smaller creature and the gorgon moved\
-      \ 20+ feet straight toward it immediately before the hit, the target has the\
-      \ [Prone](3.Mechanics/rules/conditions.md#Prone) condition."
-    "name": "Gore"
-  - "desc": "*Constitution Saving Throw:* DC 15, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *1St Failure:* The target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition and repeats the save at the end of its next turn if it is still\
-      \ [Restrained](3.Mechanics/rules/conditions.md#Restrained), ending the effect\
-      \ on itself on a success. *2Nd Failure:* The target has the [Petrified](3.Mechanics/rules/conditions.md#Petrified)\
-      \ condition instead of the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition."
-    "name": "Petrifying Breath (Recharge 5-6)"
-"bonus_actions":
-  - "desc": "*Dexterity Saving Throw:* DC 16, one creature within 5 feet that has\
-      \ the [Prone](3.Mechanics/rules/conditions.md#Prone) condition. *Failure:* dice:2d10+5|noform|noparens|avg|text(16)\
-      \ (2d10 + 5) Bludgeoning damage. *Success:* Half damage."
-    "name": "Trample"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Gorgon.webp"
+```ad-statblock
+title: Gorgon
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gorgon.webp#token)
+*Large Construct, Unaligned*
+
+- **Armor Class** 19 
+- **Hit Points** 114 (12d10 + 48) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 20 | +5 | +5 |
+|Int| 2 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 11 | +0 | +0 |
+|Wis| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18 | +4 | +4 |
+|Cha| 7 | -2 | -2 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +7
+- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Petrified](3.Mechanics/rules/conditions.md#Petrified)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 17
+- **Languages** —
+- **Challenge** 5
+
+## Actions
+
+***Gore.*** *Melee Attack Roll:* `dice:1d20+8|noform|noparens|text(+8)`, reach 5 ft. *Hit:* `dice:2d12+5|noform|noparens|avg|text(18)` (`2d12 + 5`) Piercing damage. If the target is a Large or smaller creature and the gorgon moved 20+ feet straight toward it immediately before the hit, the target has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition.
+
+***Petrifying Breath (Recharge 5-6).*** *Constitution Saving Throw:* DC 15, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *1St Failure:* The target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition and repeats the save at the end of its next turn if it is still [Restrained](3.Mechanics/rules/conditions.md#Restrained), ending the effect on itself on a success. *2Nd Failure:* The target has the [Petrified](3.Mechanics/rules/conditions.md#Petrified) condition instead of the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition.
+
+## Bonus Actions
+
+***Trample.*** *Dexterity Saving Throw:* DC 16, one creature within 5 feet that has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition. *Failure:* `dice:2d10+5|noform|noparens|avg|text(16)` (`2d10 + 5`) Bludgeoning damage. *Success:* Half damage.
 ```
 ^statblock
 

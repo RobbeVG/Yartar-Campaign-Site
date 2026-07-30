@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/armor/heavy
 - ttrpg-cli/item/rarity/none
+title: "Ring Mail"
 aliases:
 - "Ring Mail"
 ---
 # Ring Mail
 *Heavy armor*  
-![](file://items/XPHB/Ring%20Mail.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Ring%20Mail.webp#right)
 
 - **Armor Class**: 14
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

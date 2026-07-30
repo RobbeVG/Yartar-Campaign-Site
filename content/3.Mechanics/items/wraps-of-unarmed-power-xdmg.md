@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/varies
+title: "Wraps of Unarmed Power"
 aliases:
 - "Wraps of Unarmed Power"
 ---

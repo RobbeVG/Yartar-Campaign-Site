@@ -13,6 +13,7 @@ classes:
 - Bard
 - Wizard
 - Wizard (Illusionist)
+title: "Simulacrum"
 aliases:
 - "Simulacrum"
 ---

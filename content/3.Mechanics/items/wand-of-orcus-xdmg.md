@@ -9,12 +9,13 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/wand
+title: "Wand of Orcus"
 aliases:
 - "Wand of Orcus"
 ---
 # Wand of Orcus
 *Weapon ([mace](3.Mechanics/items/mace-xphb.md)), wand, artifact (requires attunement)*  
-![](file://items/XDMG/Wand%20of%20Orcus.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Wand%20of%20Orcus.webp#right)
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.

@@ -15,6 +15,7 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Paladin
+title: "Prayer of Healing"
 aliases:
 - "Prayer of Healing"
 ---

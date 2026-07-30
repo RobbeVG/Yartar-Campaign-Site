@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
+title: "Net"
 aliases:
 - "Net"
 ---
 # Net
 *Adventuring gear*  
-![](file://items/XPHB/Net.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Net.webp#right)
 
 - **Cost**: 1 gp
 - **Weight**: 3.0 lbs.

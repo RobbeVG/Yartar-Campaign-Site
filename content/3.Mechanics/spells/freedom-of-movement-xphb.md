@@ -25,6 +25,7 @@ classes:
 - Paladin (Oath of Glory)
 - Ranger
 - Sorcerer (Clockwork Sorcery)
+title: "Freedom of Movement"
 aliases:
 - "Freedom of Movement"
 ---

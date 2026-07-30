@@ -12,12 +12,13 @@ tags:
 classes:
 - Sorcerer (Aberrant Sorcery)
 - Warlock
+title: "Arms of Hadar"
 aliases:
 - "Arms of Hadar"
 ---
 # Arms of Hadar
 *1st-level, Conjuration*  
-![](file://spells/XPHB/Arms%20of%20Hadar.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Arms%20of%20Hadar.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Self (10-foot Emanation)

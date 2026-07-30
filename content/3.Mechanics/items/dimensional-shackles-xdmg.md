@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+title: "Dimensional Shackles"
 aliases:
 - "Dimensional Shackles"
 ---
 # Dimensional Shackles
 *Wondrous item, rare*  
-![](file://items/XDMG/Dimensional%20Shackles.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Dimensional%20Shackles.webp#right)
 
 
 You can take a [Utilize](3.Mechanics/rules/actions.md#Utilize) action to place these shackles on a creature that has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition. The shackles adjust to fit a creature of Small to Large size. The shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don't prevent the creature from passing through an interdimensional portal.

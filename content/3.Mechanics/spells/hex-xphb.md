@@ -13,6 +13,7 @@ tags:
 classes:
 - Warlock
 - Warlock (Great Old One Patron)
+title: "Hex"
 aliases:
 - "Hex"
 ---

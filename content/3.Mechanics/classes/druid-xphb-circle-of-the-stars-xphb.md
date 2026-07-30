@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/druid/stars
+title: "Circle of the Stars"
 aliases:
 - "Circle of the Stars"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Stars%20Druid.webp#right)
 
 *Harness Secrets Hidden in Constellations*
 

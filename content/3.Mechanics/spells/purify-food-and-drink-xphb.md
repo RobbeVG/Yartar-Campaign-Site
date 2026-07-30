@@ -21,6 +21,7 @@ classes:
 - Cleric
 - Druid
 - Paladin
+title: "Purify Food and Drink"
 aliases:
 - "Purify Food and Drink"
 ---

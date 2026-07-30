@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/underwater
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend
-statblock: inline
-statblock-link: "#^statblock"
+title: "Sahuagin Priest"
 aliases:
 - "Sahuagin Priest"
 ---
-# [Sahuagin Priest](3.Mechanics/bestiary/fiend/sahuagin-priest-xmm.md)
+# Sahuagin Priest
 *Source: Monster Manual (2024) p. 265*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Sahuagin.webp#right)
 
 Sahuagin priests serve the will of Sekolah or other fiendish masters. They direct and support other sahuagin, and they consider every combatant that falls in battle—whether enemy or ally—a sacrifice to their fierce deities.
 
@@ -35,63 +35,61 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 > When a sahuagin comes at you, it doesn't seem to be living until it bites you. Then the thing's black eyes turn red as hellfire and the waves foam crimson. Then comes the screaming.
 
 
-```statblock
-"name": "Sahuagin Priest (XMM)"
-"size": "Medium"
-"type": "fiend"
-"alignment": "Lawful Evil"
-"ac": !!int "12"
-"hp": !!int "38"
-"hit_dice": "7d8 + 7"
-"modifier": !!int "0"
-"stats":
-  - !!int "13"
-  - !!int "11"
-  - !!int "12"
-  - !!int "12"
-  - !!int "14"
-  - !!int "13"
-"speed": "30 ft., swim 40 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+6"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
-    "desc": "+3"
-"damage_resistances": "acid, cold"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
-"languages": "Sahuagin"
-"cr": "2"
-"traits":
-  - "desc": "The sahuagin has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on attack rolls against any creature that doesn't have all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)."
-    "name": "Blood Frenzy"
-  - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
-      \ once every 4 hours to avoid suffocating outside water."
-    "name": "Limited Amphibiousness"
-  - "desc": "The sahuagin can magically control sharks within 120 feet of itself,\
-      \ using a special telepathy."
-    "name": "Shark Telepathy"
-"actions":
-  - "desc": "The sahuagin makes two Spectral Jaws attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+4|noform|noparens|text(+4),\
-      \ reach 5 ft. or range 120 ft. *Hit:* dice:2d8+2|noform|noparens|avg|text(11)\
-      \ (2d8 + 2) Force damage."
-    "name": "Spectral Jaws"
-  - "desc": "The sahuagin casts one of the following spells, requiring no Material\
-      \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
-      \n**At will:** [Thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md)\n\n**2/day\
-      \ each:** [Hold Person](3.Mechanics/spells/hold-person-xphb.md), [Tongues](3.Mechanics/spells/tongues-xphb.md)"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The sahuagin casts [Bless](3.Mechanics/spells/bless-xphb.md) or [Healing\
-      \ Word](3.Mechanics/spells/healing-word-xphb.md), using the same spellcasting\
-      \ ability as Spellcasting.\n"
-    "name": "Fiendish Aid (2/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Sahuagin%20Priest.webp"
+```ad-statblock
+title: Sahuagin Priest
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sahuagin%20Priest.webp#token)
+*Medium Fiend, Lawful Evil*
+
+- **Armor Class** 12 
+- **Hit Points** 38 (7d8 + 7) 
+- **Speed** 30 ft., swim 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13 | +1 | +1 |
+|Int| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 11 | +0 | +0 |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 13 | +1 | +1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +6, [Religion](3.Mechanics/rules/skills.md#Religion) +3
+- **Damage Resistances** Acid, Cold
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 16
+- **Languages** Sahuagin
+- **Challenge** 2
+
+## Traits
+
+***Blood Frenzy.*** The sahuagin has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on attack rolls against any creature that doesn't have all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md).
+
+***Limited Amphibiousness.*** The sahuagin can breathe air and water, but it must be submerged at least once every 4 hours to avoid suffocating outside water.
+
+***Shark Telepathy.*** The sahuagin can magically control sharks within 120 feet of itself, using a special telepathy.
+
+## Actions
+
+***Multiattack.*** The sahuagin makes two Spectral Jaws attacks.
+
+***Spectral Jaws.*** *Melee  or Ranged Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. or range 120 ft. *Hit:* `dice:2d8+2|noform|noparens|avg|text(11)` (`2d8 + 2`) Force damage.
+
+***Spellcasting.*** The sahuagin casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 12):
+
+**At will:** [Thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md)
+
+**2/day each:** [Hold Person](3.Mechanics/spells/hold-person-xphb.md), [Tongues](3.Mechanics/spells/tongues-xphb.md)
+
+## Bonus Actions
+
+***Fiendish Aid (2/Day).*** The sahuagin casts [Bless](3.Mechanics/spells/bless-xphb.md) or [Healing Word](3.Mechanics/spells/healing-word-xphb.md), using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
 

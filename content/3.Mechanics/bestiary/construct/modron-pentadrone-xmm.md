@@ -9,13 +9,15 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/construct
-statblock: inline
-statblock-link: "#^statblock"
+title: "Modron Pentadrone"
 aliases:
 - "Modron Pentadrone"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
 ---
-# [Modron Pentadrone](3.Mechanics/bestiary/construct/modron-pentadrone-xmm.md)
+# Modron Pentadrone
 *Source: Monster Manual (2024) p. 218*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Modron%20Pentadrone.webp#right)
 
 Pentadrones oversee and protect contingents of lesser modrons. They're quick to call lengthy meetings with other modrons when making decisions.
 
@@ -59,53 +61,50 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 > The guide swore "beep boop" meant "hello, friend." I don't know why they're after us!
 
 
-```statblock
-"name": "Modron Pentadrone (XMM)"
-"size": "Large"
-"type": "construct"
-"alignment": "Lawful Neutral"
-"ac": !!int "16"
-"hp": !!int "32"
-"hit_dice": "5d10 + 5"
-"modifier": !!int "2"
-"stats":
-  - !!int "15"
-  - !!int "14"
-  - !!int "12"
-  - !!int "10"
-  - !!int "10"
-  - !!int "13"
-"speed": "40 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 14"
-"languages": "Modron"
-"cr": "2"
-"traits":
-  - "desc": "If the modron dies, it disintegrates into dust, leaving behind anything\
-      \ it was wearing or carrying."
-    "name": "Disintegration"
-"actions":
-  - "desc": "The modron makes five Slam attacks or five Electrical Discharge attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5) (1d6 + 2) Force damage."
-    "name": "Slam"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+4|noform|noparens|text(+4), range 120\
-      \ ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5) (1d6 + 2) Lightning\
-      \ damage."
-    "name": "Electrical Discharge"
-  - "desc": "Constitution Saving Throws: DC 11, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* The target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)\
-      \ condition and repeats the save at the end of each of its turns, ending the\
-      \ effect on itself on a success. After 1 minute, it succeeds automatically."
-    "name": "Paralysis Gas (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Modron%20Pentadrone.webp"
+```ad-statblock
+title: Modron Pentadrone
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Modron%20Pentadrone.webp#token)
+*Large Construct, Lawful Neutral*
+
+- **Armor Class** 16 
+- **Hit Points** 32 (5d10 + 5) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 15 | +2 | +2 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 13 | +1 | +1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed)
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 14
+- **Languages** Modron
+- **Challenge** 2
+
+## Traits
+
+***Disintegration.*** If the modron dies, it disintegrates into dust, leaving behind anything it was wearing or carrying.
+
+## Actions
+
+***Multiattack.*** The modron makes five Slam attacks or five Electrical Discharge attacks.
+
+***Slam.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Force damage.
+
+***Electrical Discharge.*** *Ranged Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, range 120 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Lightning damage.
+
+***Paralysis Gas (Recharge 5-6).*** Constitution Saving Throws: DC 11, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* The target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed) condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 ```
 ^statblock
 

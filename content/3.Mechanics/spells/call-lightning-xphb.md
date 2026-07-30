@@ -13,6 +13,7 @@ classes:
 - Bard
 - Bard (College of Lore)
 - Druid
+title: "Call Lightning"
 aliases:
 - "Call Lightning"
 ---

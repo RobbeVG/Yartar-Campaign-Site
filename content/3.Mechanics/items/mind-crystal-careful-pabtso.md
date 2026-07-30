@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/rarity/uncommon
+title: "Mind Crystal (Careful)"
 aliases:
 - "Mind Crystal (Careful)"
 ---
 # Mind Crystal (Careful)
 *Wondrous item, uncommon*  
-![](file://items/PaBTSO/Mind%20Crystal.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/PaBTSO/Mind%20Crystal.webp#right)
 
 
 This gemstone contains a crystallized bit of spellcasting magic.

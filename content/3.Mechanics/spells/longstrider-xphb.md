@@ -23,6 +23,7 @@ classes:
 - Ranger
 - Rogue (Arcane Trickster)
 - Wizard
+title: "Longstrider"
 aliases:
 - "Longstrider"
 ---

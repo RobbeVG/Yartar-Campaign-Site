@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/mount
 - ttrpg-cli/item/rarity/none
+title: "Riding Horse"
 aliases:
 - "Riding Horse"
 ---

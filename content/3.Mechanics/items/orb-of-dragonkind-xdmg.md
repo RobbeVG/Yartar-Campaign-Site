@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/artifact
+title: "Orb of Dragonkind"
 aliases:
 - "Orb of Dragonkind"
 ---
 # Orb of Dragonkind
 *Wondrous item, artifact (requires attunement)*  
-![](file://items/XDMG/Orb%20of%20Dragonkind.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Orb%20of%20Dragonkind.webp#right)
 
 - **Weight**: 3.0 lbs.
 

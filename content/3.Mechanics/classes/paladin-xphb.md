@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/class/paladin
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Paladin"
 aliases:
 - "Paladin"
 ---
@@ -42,6 +43,8 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Paladin.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d10 per Paladin level
@@ -61,7 +64,6 @@ aliases:
 
 - **Weapon Proficiencies**: Martial weapons
 - **Armor Training**: [Light armor](3.Mechanics/rules/item-types.md#Light%20Armor), [Medium armor](3.Mechanics/rules/item-types.md#Medium%20Armor), [Shields](3.Mechanics/items/shield-xphb.md)
-
 ## Paladin
 
 Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.

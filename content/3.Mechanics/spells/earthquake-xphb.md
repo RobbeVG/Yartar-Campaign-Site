@@ -15,6 +15,7 @@ classes:
 - Cleric
 - Druid
 - Sorcerer
+title: "Earthquake"
 aliases:
 - "Earthquake"
 ---

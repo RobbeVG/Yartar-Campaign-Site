@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/rare
+title: "Dragonguard"
 aliases:
 - "Dragonguard"
 ---

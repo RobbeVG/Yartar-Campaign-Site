@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/vehicle/airship-air
+title: "Airship"
 aliases:
 - "Airship"
 ---

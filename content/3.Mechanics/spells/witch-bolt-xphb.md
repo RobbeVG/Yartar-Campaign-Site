@@ -24,12 +24,13 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
+title: "Witch Bolt"
 aliases:
 - "Witch Bolt"
 ---
 # Witch Bolt
 *1st-level, Evocation*  
-![](file://spells/XPHB/Witch%20Bolt.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Witch%20Bolt.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

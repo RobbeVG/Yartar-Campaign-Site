@@ -27,6 +27,7 @@ classes:
 - Warlock (Fiend Patron)
 - Wizard
 - Wizard (Evoker)
+title: "Wall of Fire"
 aliases:
 - "Wall of Fire"
 ---

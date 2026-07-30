@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
+title: "Carpet of Flying, 4 ft. × 6 ft."
 aliases:
 - "Carpet of Flying, 4 ft. × 6 ft."
 ---

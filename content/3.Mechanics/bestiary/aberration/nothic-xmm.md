@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Nothic"
 aliases:
 - "Nothic"
 ---
-# [Nothic](3.Mechanics/bestiary/aberration/nothic-xmm.md)
+# Nothic
 *Source: Monster Manual (2024) p. 228. Available in the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Nothic.webp#right)
 
 ## Nothic
 
@@ -31,56 +31,47 @@ Some nothics seek to end the curse that warped them into their bizarre forms, bu
 > 
 > Deeper. Deeper and Deeper. Deeper and creeper. Creeping they come. Up from the place that isn't a place. They come to feed. Feed on what I know. So I hide. I hide away. Away in the secret dark. Secret and dark, like all that I know I shouldn't know!
 
+```ad-statblock
+title: Nothic
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Nothic.webp#token)
+*Medium Aberration, Neutral Evil*
 
-```statblock
-"name": "Nothic (XMM)"
-"size": "Medium"
-"type": "aberration"
-"alignment": "Neutral Evil"
-"ac": !!int "15"
-"hp": !!int "45"
-"hit_dice": "6d8 + 18"
-"modifier": !!int "3"
-"stats":
-  - !!int "14"
-  - !!int "16"
-  - !!int "16"
-  - !!int "13"
-  - !!int "10"
-  - !!int "8"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+3"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
-    "desc": "+4"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+5"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 14"
-"languages": "Undercommon"
-"cr": "2"
-"actions":
-  - "desc": "The nothic makes two Claw attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:1d10+3|noform|noparens|avg|text(8) (1d10 + 3) Slashing\
-      \ damage."
-    "name": "Claw"
-  - "desc": "*Constitution Saving Throw:* DC 13, one creature the nothic can see within\
-      \ 120 feet. *Failure:* dice:5d6|noform|noparens|avg|text(17) (5d6) Necrotic\
-      \ damage. *Success:* Half damage."
-    "name": "Rotting Gaze"
-"bonus_actions":
-  - "desc": "*Wisdom Saving Throw:* DC 14, one creature the nothic can see within\
-      \ 120 feet. *Failure:* The nothic magically learns one fact or secret about\
-      \ the target."
-    "name": "Weird Insight (Recharge 6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Nothic.webp"
+- **Armor Class** 15 
+- **Hit Points** 45 (6d8 + 18) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 14 | +2 | +2 |
+|Int| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16 | +3 | +3 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 8 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +3, [Insight](3.Mechanics/rules/skills.md#Insight) +4, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 14
+- **Languages** Undercommon
+- **Challenge** 2
+
+## Actions
+
+***Multiattack.*** The nothic makes two Claw attacks.
+
+***Claw.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d10+3|noform|noparens|avg|text(8)` (`1d10 + 3`) Slashing damage.
+
+***Rotting Gaze.*** *Constitution Saving Throw:* DC 13, one creature the nothic can see within 120 feet. *Failure:* `dice:5d6|noform|noparens|avg|text(17)` (`5d6`) Necrotic damage. *Success:* Half damage.
+
+## Bonus Actions
+
+***Weird Insight (Recharge 6).*** *Wisdom Saving Throw:* DC 14, one creature the nothic can see within 120 feet. *Failure:* The nothic magically learns one fact or secret about the target.
 ```
 ^statblock
 

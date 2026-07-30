@@ -23,6 +23,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Warlock
 - Wizard
+title: "Unseen Servant"
 aliases:
 - "Unseen Servant"
 ---

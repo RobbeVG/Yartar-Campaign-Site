@@ -9,13 +9,20 @@ tags:
 - ttrpg-cli/monster/environment/swamp
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Hydra"
 aliases:
 - "Hydra"
+conditionImmunities:
+- [blinded](3.Mechanics/rules/conditions.md#Blinded)
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [deafened](3.Mechanics/rules/conditions.md#Deafened)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- [stunned](3.Mechanics/rules/conditions.md#Stunned)
+- [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 ---
-# [Hydra](3.Mechanics/bestiary/monstrosity/hydra-xmm.md)
+# Hydra
 *Source: Monster Manual (2024) p. 175. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Hydra.webp#right)
 
 ## Hydra
 
@@ -41,58 +48,50 @@ While many hydras claim their own territories, wicked deities might use them to 
 | 3 | Guard a magical herb that blooms once a year. |
 | 4 | Protect a font of poison that pollutes a river. |
 ^hydra-lairs
+```ad-statblock
+title: Hydra
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hydra.webp#token)
+*Huge Monstrosity, Unaligned*
 
-```statblock
-"name": "Hydra (XMM)"
-"size": "Huge"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "15"
-"hp": !!int "184"
-"hit_dice": "16d12 + 80"
-"modifier": !!int "4"
-"stats":
-  - !!int "20"
-  - !!int "12"
-  - !!int "20"
-  - !!int "2"
-  - !!int "10"
-  - !!int "7"
-"speed": "40 ft., swim 40 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+6"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [deafened](3.Mechanics/rules/conditions.md#Deafened), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [stunned](3.Mechanics/rules/conditions.md#Stunned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 16"
-"languages": ""
-"cr": "8"
-"traits":
-  - "desc": "The hydra can hold its breath for 1 hour."
-    "name": "Hold Breath"
-  - "desc": "The hydra has five heads. Whenever the hydra takes 25 damage or more\
-      \ on a single turn, one of its heads dies. The hydra dies if all its heads are\
-      \ dead. At the end of each of its turns when it has at least one living head,\
-      \ the hydra grows two heads for each of its heads that died since its last turn,\
-      \ unless it has taken Fire damage since its last turn. The hydra regains 20\
-      \ [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) when it grows\
-      \ new heads."
-    "name": "Multiple Heads"
-  - "desc": "For each head the hydra has beyond one, it gets an extra [Reaction](3.Mechanics/rules/variant-rules/reaction-xphb.md)\
-      \ that can be used only for [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack)."
-    "name": "Reactive Heads"
-"actions":
-  - "desc": "The hydra makes as many Bite attacks as it has heads."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+8|noform|noparens|text(+8), reach 10\
-      \ ft. *Hit:* dice:1d10+5|noform|noparens|avg|text(10) (1d10 + 5) Piercing\
-      \ damage."
-    "name": "Bite"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Hydra.webp"
+- **Armor Class** 15 
+- **Hit Points** 184 (16d12 + 80) 
+- **Speed** 40 ft., swim 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 20 | +5 | +5 |
+|Int| 2 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 20 | +5 | +5 |
+|Cha| 7 | -2 | -2 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +6
+- **Condition Immunities** [Blinded](3.Mechanics/rules/conditions.md#Blinded), [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Deafened](3.Mechanics/rules/conditions.md#Deafened), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Stunned](3.Mechanics/rules/conditions.md#Stunned), [Unconscious](3.Mechanics/rules/conditions.md#Unconscious)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 16
+- **Languages** —
+- **Challenge** 8
+
+## Traits
+
+***Hold Breath.*** The hydra can hold its breath for 1 hour.
+
+***Multiple Heads.*** The hydra has five heads. Whenever the hydra takes 25 damage or more on a single turn, one of its heads dies. The hydra dies if all its heads are dead. At the end of each of its turns when it has at least one living head, the hydra grows two heads for each of its heads that died since its last turn, unless it has taken Fire damage since its last turn. The hydra regains 20 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) when it grows new heads.
+
+***Reactive Heads.*** For each head the hydra has beyond one, it gets an extra [Reaction](3.Mechanics/rules/variant-rules/reaction-xphb.md) that can be used only for [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack).
+
+## Actions
+
+***Multiattack.*** The hydra makes as many Bite attacks as it has heads.
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+8|noform|noparens|text(+8)`, reach 10 ft. *Hit:* `dice:1d10+5|noform|noparens|avg|text(10)` (`1d10 + 5`) Piercing damage.
 ```
 ^statblock
 

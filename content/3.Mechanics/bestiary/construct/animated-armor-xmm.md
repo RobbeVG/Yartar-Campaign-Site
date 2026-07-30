@@ -8,13 +8,21 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
-statblock: inline
-statblock-link: "#^statblock"
+title: "Animated Armor"
 aliases:
 - "Animated Armor"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [deafened](3.Mechanics/rules/conditions.md#Deafened)
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
+- [petrified](3.Mechanics/rules/conditions.md#Petrified)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Animated Armor](3.Mechanics/bestiary/construct/animated-armor-xmm.md)
+# Animated Armor
 *Source: Monster Manual (2024) p. 16. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animated%20Objects.webp#right)
 
 Animated suits of armor might move with steady deliberateness or awkward gaits. They're often constructed from plate armor, making them easy to mistake for soldiers or helmed horrors. Other types of armor or even metal statuary might also become animated armor.
 
@@ -51,42 +59,43 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 | 10 | The will of a powerful psychic being. |
 ^animated-object-catalysts
 
-```statblock
-"name": "Animated Armor (XMM)"
-"size": "Medium"
-"type": "construct"
-"alignment": "Unaligned"
-"ac": !!int "18"
-"hp": !!int "33"
-"hit_dice": "6d8 + 6"
-"modifier": !!int "2"
-"stats":
-  - !!int "14"
-  - !!int "11"
-  - !!int "13"
-  - !!int "1"
-  - !!int "3"
-  - !!int "1"
-"speed": "25 ft."
-"damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened),\
-  \ [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 6"
-"languages": ""
-"cr": "1"
-"actions":
-  - "desc": "The armor makes two Slam attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5) (1d6 + 2) Bludgeoning\
-      \ damage."
-    "name": "Slam"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Animated%20Armor.webp"
+```ad-statblock
+title: Animated Armor
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Animated%20Armor.webp#token)
+*Medium Construct, Unaligned*
+
+- **Armor Class** 18 
+- **Hit Points** 33 (6d8 + 6) 
+- **Speed** 25 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 14 | +2 | +2 |
+|Int| 1 | -5 | -5 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 11 | +0 | +0 |
+|Wis| 3 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 13 | +1 | +1 |
+|Cha| 1 | -5 | -5 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Immunities** Poison, Psychic
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Deafened](3.Mechanics/rules/conditions.md#Deafened), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 6
+- **Languages** —
+- **Challenge** 1
+
+## Actions
+
+***Multiattack.*** The armor makes two Slam attacks.
+
+***Slam.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Bludgeoning damage.
 ```
 ^statblock
 

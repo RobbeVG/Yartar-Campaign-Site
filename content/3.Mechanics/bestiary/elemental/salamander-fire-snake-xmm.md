@@ -10,13 +10,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/elemental
-statblock: inline
-statblock-link: "#^statblock"
+title: "Salamander Fire Snake"
 aliases:
 - "Salamander Fire Snake"
 ---
-# [Salamander Fire Snake](3.Mechanics/bestiary/elemental/salamander-fire-snake-xmm.md)
+# Salamander Fire Snake
 *Source: Monster Manual (2024) p. 266*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Salamander%20Fire%20Snake.webp#right)
 
 Juvenile salamanders emerge from burning hot, two-foot-diameter eggs. Called fire snakes, these serpent-like creatures slither through the Plane of Fire and other intensely hot places. After consuming the proper fuels and exposing themselves to fiery extremes, fire snakes grow into salamanders.
 
@@ -36,43 +36,47 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 > The salamanders of the Elemental Plane of Fire delight in meeting visitors from other realms. For them, every stranger is a potential addition to their fiery artistry. Don't fall for their flattery, no matter how beautifully they say you'll burn.
 
 
-```statblock
-"name": "Salamander Fire Snake (XMM)"
-"size": "Medium"
-"type": "elemental"
-"alignment": "Neutral Evil"
-"ac": !!int "14"
-"hp": !!int "27"
-"hit_dice": "6d8"
-"modifier": !!int "2"
-"stats":
-  - !!int "12"
-  - !!int "14"
-  - !!int "11"
-  - !!int "7"
-  - !!int "10"
-  - !!int "8"
-"speed": "30 ft., climb 30 ft."
-"damage_vulnerabilities": "cold"
-"damage_immunities": "fire"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "understands Primordial but can't speak"
-"cr": "1"
-"traits":
-  - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-      \ choice in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the salamander takes dice:1d6|noform|noparens|avg|text(3)\
-      \ (1d6) Fire damage."
-    "name": "Fire Aura"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d8+2|noform|noparens|avg|text(6) (1d8 + 2) Piercing damage\
-      \ plus dice:1d6|noform|noparens|avg|text(3) (1d6) Fire damage."
-    "name": "Bite"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Salamander%20Fire%20Snake.webp"
+![A salamander inferno master drives its salamander and fire snake minions to burn all they encounter](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Salamanders.webp#center)
+
+```ad-statblock
+title: Salamander Fire Snake
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Salamander%20Fire%20Snake.webp#token)
+*Medium Elemental, Neutral Evil*
+
+- **Armor Class** 14 
+- **Hit Points** 27 (6d8) 
+- **Speed** 30 ft., climb 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 12 | +1 | +1 |
+|Int| 7 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 11 | +0 | +0 |
+|Cha| 8 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Vulnerabilities** Cold
+- **Damage Immunities** Fire
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Understands Primordial but can't speak
+- **Challenge** 1
+
+## Traits
+
+***Fire Aura.*** At the end of each of the salamander's turns, each creature of the salamander's choice in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the salamander takes `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) Fire damage.
+
+## Actions
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) Piercing damage plus `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) Fire damage.
 ```
 ^statblock
 

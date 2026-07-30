@@ -13,6 +13,7 @@ classes:
 - Bard
 - Wizard
 - Wizard (Abjurer)
+title: "Guards and Wards"
 aliases:
 - "Guards and Wards"
 ---

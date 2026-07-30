@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/rogue/arcane-trickster
+title: "Arcane Trickster"
 aliases:
 - "Arcane Trickster"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Arcane%20Trickster%20Rogue.webp#right)
 
 *Enhance Stealth with Arcane Spells*
 

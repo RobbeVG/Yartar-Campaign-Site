@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+title: "Iron Bands of Bilarro"
 aliases:
 - "Iron Bands of Bilarro"
 ---
 # Iron Bands of Bilarro
 *Wondrous item, rare*  
-![](file://items/XDMG/Iron%20Bands%20of%20Bilarro.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Iron%20Bands%20of%20Bilarro.webp#right)
 
 - **Weight**: 1.0 lbs.
 

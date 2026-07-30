@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Brooch of Shielding"
 aliases:
 - "Brooch of Shielding"
 ---
 # Brooch of Shielding
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Brooch%20of%20Shielding.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Brooch%20of%20Shielding.webp#right)
 
 
 While wearing this brooch, you have [Resistance](3.Mechanics/rules/variant-rules/resistance-xphb.md) to Force damage, and you have [Immunity](3.Mechanics/rules/variant-rules/immunity-xphb.md) to damage from the [Magic Missile](3.Mechanics/spells/magic-missile-xphb.md) spell.

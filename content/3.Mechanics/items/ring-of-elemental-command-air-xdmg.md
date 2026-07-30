@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/ring
+title: "Ring of Elemental Command (Air)"
 aliases:
 - "Ring of Elemental Command (Air)"
 ---
 # Ring of Elemental Command (Air)
 *Ring, legendary (requires attunement)*  
-![](file://items/XDMG/Ring%20of%20Elemental%20Command%20%28Air%29.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ring%20of%20Elemental%20Command%20%28Air%29.webp#right)
 
 
 The Ring of Elemental Command (air) is linked to the Elemental Plane of Air. Every Ring of Elemental Command has the following two properties:

@@ -12,6 +12,7 @@ tags:
 - ttrpg-cli/spell/school/evocation
 classes:
 - Warlock
+title: "Eldritch Blast"
 aliases:
 - "Eldritch Blast"
 ---

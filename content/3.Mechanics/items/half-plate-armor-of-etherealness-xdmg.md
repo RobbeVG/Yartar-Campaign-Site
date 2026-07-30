@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
+title: "Half Plate Armor of Etherealness"
 aliases:
 - "Half Plate Armor of Etherealness"
 ---

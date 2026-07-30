@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend
-statblock: inline
-statblock-link: "#^statblock"
+title: "Larva"
 aliases:
 - "Larva"
 ---
-# [Larva](3.Mechanics/bestiary/fiend/larva-xmm.md)
+# Larva
 *Source: Monster Manual (2024) p. 193*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Larvae.webp#right)
 
 Larvae have disjointed, painful memories of their past lives. Most desperately avoid other creatures.
 
@@ -30,34 +30,39 @@ Souls condemned to the Lower Planes often become larvae—repulsive, maggot-like
 
 Larvae that survive on the Lower Planes long enough can eventually transform into other sorts of lesser Fiends.
 
-```statblock
-"name": "Larva (XMM)"
-"size": "Medium"
-"type": "fiend"
-"alignment": "Neutral Evil"
-"ac": !!int "9"
-"hp": !!int "9"
-"hit_dice": "2d8"
-"modifier": !!int "-1"
-"stats":
-  - !!int "9"
-  - !!int "9"
-  - !!int "10"
-  - !!int "6"
-  - !!int "10"
-  - !!int "2"
-"speed": "20 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "understands Common plus one other language but can't speak"
-"cr": "0"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+1|noform|noparens|text(+1), reach 5\
-      \ ft. *Hit:* dice:1d4-1|noform|noparens|avg|text(1) (1d4 - 1) Necrotic damage."
-    "name": "Bite"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Larva.webp"
+```ad-statblock
+title: Larva
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Larva.webp#token)
+*Medium Fiend, Neutral Evil*
+
+- **Armor Class** 9 
+- **Hit Points** 9 (2d8) 
+- **Speed** 20 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 9 | -1 | -1 |
+|Int| 6 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 9 | -1 | -1 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 10 | +0 | +0 |
+|Cha| 2 | -4 | -4 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Understands Common plus one other language but can't speak
+- **Challenge** 0
+
+## Actions
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+1|noform|noparens|text(+1)`, reach 5 ft. *Hit:* `dice:1d4-1|noform|noparens|avg|text(1)` (`1d4 - 1`) Necrotic damage.
 ```
 ^statblock
 

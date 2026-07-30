@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/common
+title: "Hat of Wizardry"
 aliases:
 - "Hat of Wizardry"
 ---
 # Hat of Wizardry
 *Wondrous item, spellcasting focus, common (requires attunement by a wizard)*  
-![](file://items/XDMG/Hat%20of%20Wizardry.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Hat%20of%20Wizardry.webp#right)
 
 
 This cone-shaped hat is adorned with moons and stars. While you are wearing it, you gain the following benefits.

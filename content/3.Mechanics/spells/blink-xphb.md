@@ -21,6 +21,7 @@ classes:
 - Sorcerer
 - Warlock (Archfey Patron)
 - Wizard
+title: "Blink"
 aliases:
 - "Blink"
 ---

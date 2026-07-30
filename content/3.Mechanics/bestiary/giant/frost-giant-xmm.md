@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/mountain
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/giant
-statblock: inline
-statblock-link: "#^statblock"
+title: "Frost Giant"
 aliases:
 - "Frost Giant"
 ---
-# [Frost Giant](3.Mechanics/bestiary/giant/frost-giant-xmm.md)
+# Frost Giant
 *Source: Monster Manual (2024) p. 124. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Frost%20Giant.webp#right)
 
 ## Frost Giant
 
@@ -32,59 +32,48 @@ Frost giants often travel far to find food and goods. This leads many to become 
 > 
 > The small folk have barely anything worth looting, so they shouldn't much mind when we take it from them.
 
+```ad-statblock
+title: Frost Giant
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Frost%20Giant.webp#token)
+*Huge Giant, Neutral Evil*
 
-```statblock
-"name": "Frost Giant (XMM)"
-"size": "Huge"
-"type": "giant"
-"alignment": "Neutral Evil"
-"ac": !!int "15"
-"hp": !!int "149"
-"hit_dice": "13d12 + 65"
-"modifier": !!int "2"
-"stats":
-  - !!int "23"
-  - !!int "9"
-  - !!int "21"
-  - !!int "9"
-  - !!int "10"
-  - !!int "12"
-"speed": "40 ft."
-"saves":
-  - "constitution": !!int "8"
-  - "wisdom": !!int "3"
-  - "charisma": !!int "4"
-"skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
-    "desc": "+9"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+3"
-"damage_immunities": "cold"
-"senses": "passive Perception 13"
-"languages": "Giant"
-"cr": "8"
-"actions":
-  - "desc": "The giant makes two attacks, using Frost Axe or Great Bow in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+9|noform|noparens|text(+9), reach 10\
-      \ ft. *Hit:* dice:2d12+6|noform|noparens|avg|text(19) (2d12 + 6) Slashing\
-      \ damage plus dice:2d8|noform|noparens|avg|text(9) (2d8) Cold damage."
-    "name": "Frost Axe"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+9|noform|noparens|text(+9), range 150/600\
-      \ ft. *Hit:* dice:2d10+6|noform|noparens|avg|text(17) (2d10 + 6) Piercing\
-      \ damage plus dice:2d6|noform|noparens|avg|text(7) (2d6) Cold damage, and\
-      \ the target's [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) decreases\
-      \ by 10 feet until the end of its next turn."
-    "name": "Great Bow"
-"bonus_actions":
-  - "desc": "The giant or one creature of its choice that can see or hear it gains\
-      \ dice:2d10+5|noform|noparens|avg|text(16) (2d10 + 5) [Temporary Hit Points](3.Mechanics/rules/variant-rules/temporary-hit-points-xphb.md)\
-      \ and has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on\
-      \ attack rolls until the start of the giant's next turn."
-    "name": "War Cry (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Frost%20Giant.webp"
+- **Armor Class** 15 
+- **Hit Points** 149 (13d12 + 65) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 23 | +6 | +6 |
+|Int| 9 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 9 | -1 | -1 |
+|Wis| 10 | +0 | **+3** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 21 | +5 | **+8** |
+|Cha| 12 | +1 | **+4** |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Constitution +8, Wisdom +3, Charisma +4
+- **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +3
+- **Damage Immunities** Cold
+- **Senses** Passive Perception 13
+- **Languages** Giant
+- **Challenge** 8
+
+## Actions
+
+***Multiattack.*** The giant makes two attacks, using Frost Axe or Great Bow in any combination.
+
+***Frost Axe.*** *Melee Attack Roll:* `dice:1d20+9|noform|noparens|text(+9)`, reach 10 ft. *Hit:* `dice:2d12+6|noform|noparens|avg|text(19)` (`2d12 + 6`) Slashing damage plus `dice:2d8|noform|noparens|avg|text(9)` (`2d8`) Cold damage.
+
+***Great Bow.*** *Ranged Attack Roll:* `dice:1d20+9|noform|noparens|text(+9)`, range 150/600 ft. *Hit:* `dice:2d10+6|noform|noparens|avg|text(17)` (`2d10 + 6`) Piercing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Cold damage, and the target's [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) decreases by 10 feet until the end of its next turn.
+
+## Bonus Actions
+
+***War Cry (Recharge 5-6).*** The giant or one creature of its choice that can see or hear it gains `dice:2d10+5|noform|noparens|avg|text(16)` (`2d10 + 5`) [Temporary Hit Points](3.Mechanics/rules/variant-rules/temporary-hit-points-xphb.md) and has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on attack rolls until the start of the giant's next turn.
 ```
 ^statblock
 

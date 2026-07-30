@@ -17,6 +17,7 @@ classes:
 - Sorcerer
 - Warlock (Archfey Patron)
 - Wizard
+title: "Dominate Person"
 aliases:
 - "Dominate Person"
 ---

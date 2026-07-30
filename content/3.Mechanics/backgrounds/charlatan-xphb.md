@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Charlatan"
 aliases:
 - "Charlatan"
 ---
 # Charlatan
 *Source: Player's Handbook (2024) p. 180*  
-![](file://backgrounds/XPHB/Charlatan.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/backgrounds/XPHB/Charlatan.webp#right)
 
 - **Ability Scores.** Dexterity, Constitution, Charisma  
 - **Feat.** [Skilled](3.Mechanics/feats/skilled-xphb.md)  

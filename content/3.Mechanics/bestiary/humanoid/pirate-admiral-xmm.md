@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Pirate Admiral"
 aliases:
 - "Pirate Admiral"
 ---
-# [Pirate Admiral](3.Mechanics/bestiary/humanoid/pirate-admiral-xmm.md)
+# Pirate Admiral
 *Source: Monster Manual (2024) p. 242*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Pirates.webp#right)
 
 Pirate admirals command whole pirate fleets. They undertake audacious ventures, such as challenging the navies of coastal nations, hunting legendary sea creatures, or carving out their own pirate kingdoms. Pirate admirals might launch their fleets from hidden fortresses where they hoard their treasure—or keep maps to where they've hidden their riches. Some pirate admirals ally with the followers of oceanic deities, underwater dwellers, and sea monsters, as well as their fellow scalawags.
 
@@ -49,71 +49,55 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 | 8 | Whale | A treasure chest |
 ^pirate-flags
 
-```statblock
-"name": "Pirate Admiral (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "20"
-"hp": !!int "182"
-"hit_dice": "28d8 + 56"
-"modifier": !!int "10"
-"stats":
-  - !!int "14"
-  - !!int "22"
-  - !!int "14"
-  - !!int "12"
-  - !!int "14"
-  - !!int "19"
-"speed": "30 ft."
-"saves":
-  - "strength": !!int "6"
-  - "dexterity": !!int "10"
-  - "wisdom": !!int "6"
-  - "charisma": !!int "8"
-"skillsaves":
-  - "name": "[Acrobatics](3.Mechanics/rules/skills.md#Acrobatics)"
-    "desc": "+10"
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
-    "desc": "+6"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+6"
-"gear":
-  - "[pistol](3.Mechanics/items/pistol-xphb.md)"
-  - "[scimitar](3.Mechanics/items/scimitar-xphb.md)"
-"senses": "passive Perception 16"
-"languages": "Common plus one other language"
-"cr": "12"
-"actions":
-  - "desc": "The pirate makes three attacks, using Scimitar or Pistol in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+10|noform|noparens|text(+10), reach\
-      \ 5 ft. *Hit:* dice:3d6+6|noform|noparens|avg|text(16) (3d6 + 6) Slashing\
-      \ damage plus dice:2d6|noform|noparens|avg|text(7) (2d6) Poison damage,\
-      \ and the target suffers one of the following effects of the pirate's choice:\n\
-      \n- **Awestruck.** The target has the [Charmed](3.Mechanics/rules/conditions.md#Charmed)\
-      \ condition until the start of the pirate's next turn.  \n- **Poison.** The\
-      \ target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition\
-      \ until the start of the pirate's next turn.  "
-    "name": "Scimitar"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+10|noform|noparens|text(+10), range\
-      \ 30/90 ft. *Hit:* dice:4d10+6|noform|noparens|avg|text(28) (4d10 + 6) Piercing\
-      \ damage."
-    "name": "Pistol"
-"bonus_actions":
-  - "desc": "The pirate chooses up to three other creatures it can see within 30 feet.\
-      \ Until the start of the pirate's next turn, the targets have [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on attack rolls and saving throws."
-    "name": "Rally (1/Day)"
-"reactions":
-  - "desc": "Trigger: The pirate is hit by a melee attack roll while holding a weapon.\
-      \ _Response:_ The pirate adds 4 to its AC against melee attack rolls (including\
-      \ the triggering attack) until the start of its next turn, possibly causing\
-      \ the attacks to miss."
-    "name": "Defensive Stance"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Pirate%20Admiral.webp"
+```ad-statblock
+title: Pirate Admiral
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Pirate%20Admiral.webp#token)
+*Small or Medium Humanoid, Neutral*
+
+- **Armor Class** 20 
+- **Hit Points** 182 (28d8 + 56) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 14 | +2 | **+6** |
+|Int| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 22 | +6 | **+10** |
+|Wis| 14 | +2 | **+6** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14 | +2 | +2 |
+|Cha| 19 | +4 | **+8** |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Strength +6, Dexterity +10, Wisdom +6, Charisma +8
+- **Skills** [Acrobatics](3.Mechanics/rules/skills.md#Acrobatics) +10, [Athletics](3.Mechanics/rules/skills.md#Athletics) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +6
+- **Gear** [pistol](3.Mechanics/items/pistol-xphb.md), [scimitar](3.Mechanics/items/scimitar-xphb.md)
+- **Senses** Passive Perception 16
+- **Languages** Common plus one other language
+- **Challenge** 12
+
+## Actions
+
+***Multiattack.*** The pirate makes three attacks, using Scimitar or Pistol in any combination.
+
+***Scimitar.*** *Melee Attack Roll:* `dice:1d20+10|noform|noparens|text(+10)`, reach 5 ft. *Hit:* `dice:3d6+6|noform|noparens|avg|text(16)` (`3d6 + 6`) Slashing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Poison damage, and the target suffers one of the following effects of the pirate's choice:
+
+- **Awestruck.** The target has the [Charmed](3.Mechanics/rules/conditions.md#Charmed) condition until the start of the pirate's next turn.  
+- **Poison.** The target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition until the start of the pirate's next turn.  
+
+***Pistol.*** *Ranged Attack Roll:* `dice:1d20+10|noform|noparens|text(+10)`, range 30/90 ft. *Hit:* `dice:4d10+6|noform|noparens|avg|text(28)` (`4d10 + 6`) Piercing damage.
+
+## Bonus Actions
+
+***Rally (1/Day).*** The pirate chooses up to three other creatures it can see within 30 feet. Until the start of the pirate's next turn, the targets have [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on attack rolls and saving throws.
+
+## Reactions
+
+***Defensive Stance.*** Trigger: The pirate is hit by a melee attack roll while holding a weapon. _Response:_ The pirate adds 4 to its AC against melee attack rolls (including the triggering attack) until the start of its next turn, possibly causing the attacks to miss.
 ```
 ^statblock
 

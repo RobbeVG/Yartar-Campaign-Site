@@ -12,6 +12,7 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Adamantine Weapon"
 aliases:
 - "Adamantine Weapon"
 - "Adamantine Arrow"

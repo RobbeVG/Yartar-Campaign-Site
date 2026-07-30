@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/potion
+title: "Potion of Vitality"
 aliases:
 - "Potion of Vitality"
 ---
 # Potion of Vitality
 *Potion, very rare*  
-![](file://items/XDMG/Potion%20of%20Vitality.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Potion%20of%20Vitality.webp#right)
 
 - **Weight**: 0.5 lbs.
 

@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/barbarian/zealot
+title: "Path of the Zealot"
 aliases:
 - "Path of the Zealot"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Zealot%20Barbarian.webp#right)
 
 *Rage in Ecstatic Union with a God*
 

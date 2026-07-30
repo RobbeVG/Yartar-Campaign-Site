@@ -11,13 +11,16 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/undead
-statblock: inline
-statblock-link: "#^statblock"
+title: "Ogre Zombie"
 aliases:
 - "Ogre Zombie"
+conditionImmunities:
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Ogre Zombie](3.Mechanics/bestiary/undead/ogre-zombie-xmm.md)
+# Ogre Zombie
 *Source: Monster Manual (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Zombies.webp#right)
 
 Ogre zombies serve as tireless labor and undying weapons of war. These massive zombies possess the size and strength to break through barriers that repel smaller zombies.
 
@@ -37,47 +40,45 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 > Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, "The dead come for Marais d'Tarascon! An army of the walking dead!"
 
 
-```statblock
-"name": "Ogre Zombie (XMM)"
-"size": "Large"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "8"
-"hp": !!int "85"
-"hit_dice": "9d10 + 36"
-"modifier": !!int "-2"
-"stats":
-  - !!int "19"
-  - !!int "6"
-  - !!int "18"
-  - !!int "3"
-  - !!int "6"
-  - !!int "5"
-"speed": "30 ft."
-"saves":
-  - "wisdom": !!int "0"
-"damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
-"languages": "understands Common and Giant but can't speak"
-"cr": "2"
-"traits":
-  - "desc": "If damage reduces the zombie to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md),\
-      \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
-      \ damage is Radiant or from a [Critical Hit](3.Mechanics/rules/variant-rules/critical-hit-xphb.md).\
-      \ On a successful save, the zombie drops to 1 [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ instead."
-    "name": "Undead Fortitude"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:2d8+4|noform|noparens|avg|text(13) (2d8 + 4) Bludgeoning\
-      \ damage."
-    "name": "Slam"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Ogre%20Zombie.webp"
+```ad-statblock
+title: Ogre Zombie
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ogre%20Zombie.webp#token)
+*Large Undead, Neutral Evil*
+
+- **Armor Class** 8 
+- **Hit Points** 85 (9d10 + 36) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 19 | +4 | +4 |
+|Int| 3 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 6 | -2 | -2 |
+|Wis| 6 | -2 | **+0** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18 | +4 | +4 |
+|Cha| 5 | -3 | -3 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Wisdom +0
+- **Skills** ⏤
+- **Damage Immunities** Poison
+- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 8
+- **Languages** Understands Common and Giant but can't speak
+- **Challenge** 2
+
+## Traits
+
+***Undead Fortitude.*** If damage reduces the zombie to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md), it makes a Constitution saving throw (DC 5 plus the damage taken) unless the damage is Radiant or from a [Critical Hit](3.Mechanics/rules/variant-rules/critical-hit-xphb.md). On a successful save, the zombie drops to 1 [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md) instead.
+
+## Actions
+
+***Slam.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:2d8+4|noform|noparens|avg|text(13)` (`2d8 + 4`) Bludgeoning damage.
 ```
 ^statblock
 

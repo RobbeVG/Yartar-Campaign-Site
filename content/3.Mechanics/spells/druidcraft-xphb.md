@@ -15,12 +15,13 @@ tags:
 classes:
 - Bard (College of Lore)
 - Druid
+title: "Druidcraft"
 aliases:
 - "Druidcraft"
 ---
 # Druidcraft
 *cantrip, Transmutation*  
-![](file://spells/XPHB/Druidcraft.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Druidcraft.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet

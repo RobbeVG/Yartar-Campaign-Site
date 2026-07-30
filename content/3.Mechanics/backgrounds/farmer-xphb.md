@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Farmer"
 aliases:
 - "Farmer"
 ---
 # Farmer
 *Source: Player's Handbook (2024) p. 180*  
-![](file://backgrounds/XPHB/Farmer.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/backgrounds/XPHB/Farmer.webp#right)
 
 - **Ability Scores.** Strength, Constitution, Wisdom  
 - **Feat.** [Tough](3.Mechanics/feats/tough-xphb.md)  

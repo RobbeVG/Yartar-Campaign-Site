@@ -10,13 +10,13 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend
-statblock: inline
-statblock-link: "#^statblock"
+title: "Succubus"
 aliases:
 - "Succubus"
 ---
-# [Succubus](3.Mechanics/bestiary/fiend/succubus-xmm.md)
+# Succubus
 *Source: Monster Manual (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Succubus.webp#right)
 
 ## Succubus
 
@@ -42,72 +42,54 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
 | 5 | Posing as a flattering underling. |
 | 6 | Taking the form of one in need of protection. |
 ^succubus-temptations
+```ad-statblock
+title: Succubus
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Succubus.webp#token)
+*Medium Fiend, Neutral Evil*
 
-```statblock
-"name": "Succubus (XMM)"
-"size": "Medium"
-"type": "fiend"
-"alignment": "Neutral Evil"
-"ac": !!int "15"
-"hp": !!int "71"
-"hit_dice": "13d8 + 13"
-"modifier": !!int "3"
-"stats":
-  - !!int "8"
-  - !!int "17"
-  - !!int "13"
-  - !!int "15"
-  - !!int "12"
-  - !!int "20"
-"speed": "30 ft., fly 60 ft."
-"skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
-    "desc": "+9"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
-    "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+5"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
-    "desc": "+9"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+7"
-"damage_resistances": "cold, fire, poison, psychic"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
-"languages": "Abyssal, Common, Infernal; telepathy 60 ft."
-"cr": "4"
-"traits":
-  - "desc": "When the succubus finishes a [Long Rest](3.Mechanics/rules/variant-rules/long-rest-xphb.md),\
-      \ it can shape-shift into an [Incubus](3.Mechanics/bestiary/fiend/incubus-xmm.md),\
-      \ using that stat block instead of this one."
-    "name": "Incubus Form"
-"actions":
-  - "desc": "The succubus makes one Fiendish Touch attack and uses Charm or Draining\
-      \ Kiss."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+7|noform|noparens|text(+7), reach 5\
-      \ ft. *Hit:* dice:2d10+5|noform|noparens|avg|text(16) (2d10 + 5) Psychic\
-      \ damage."
-    "name": "Fiendish Touch"
-  - "desc": "The succubus casts [Dominate Person](3.Mechanics/spells/dominate-person-xphb.md)\
-      \ (level 8 version), requiring no spell components and using Charisma as the\
-      \ spellcasting ability (spell save DC 15)."
-    "name": "Charm"
-  - "desc": "*Constitution Saving Throw:* DC 15, one creature [Charmed](3.Mechanics/rules/conditions.md#Charmed)\
-      \ by the succubus within 5 feet. *Failure:* dice:3d8|noform|noparens|avg|text(13)\
-      \ (3d8) Psychic damage. *Success:* Half damage. *Failure or Success:* The\
-      \ target's [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md) maximum\
-      \ decreases by an amount equal to the damage taken."
-    "name": "Draining Kiss"
-"bonus_actions":
-  - "desc": "The succubus shape-shifts to resemble a Medium or Small Humanoid or back\
-      \ into its true form. Its game statistics are the same in each form, except\
-      \ its [Fly Speed](3.Mechanics/rules/variant-rules/fly-speed-xphb.md) is available\
-      \ only in its true form. Any equipment it's wearing or carrying isn't transformed."
-    "name": "Shape-Shift"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Succubus.webp"
+- **Armor Class** 15 
+- **Hit Points** 71 (13d8 + 13) 
+- **Speed** 30 ft., fly 60 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 8 | -1 | -1 |
+|Int| 15 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 17 | +3 | +3 |
+|Wis| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 13 | +1 | +1 |
+|Cha| 20 | +5 | +5 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +9, [Insight](3.Mechanics/rules/skills.md#Insight) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +9, [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
+- **Damage Resistances** Cold, Fire, Poison, Psychic
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 15
+- **Languages** Abyssal, Common, Infernal; Telepathy 60 ft.
+- **Challenge** 4
+
+## Traits
+
+***Incubus Form.*** When the succubus finishes a [Long Rest](3.Mechanics/rules/variant-rules/long-rest-xphb.md), it can shape-shift into an [Incubus](3.Mechanics/bestiary/fiend/incubus-xmm.md), using that stat block instead of this one.
+
+## Actions
+
+***Multiattack.*** The succubus makes one Fiendish Touch attack and uses Charm or Draining Kiss.
+
+***Fiendish Touch.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. *Hit:* `dice:2d10+5|noform|noparens|avg|text(16)` (`2d10 + 5`) Psychic damage.
+
+***Charm.*** The succubus casts [Dominate Person](3.Mechanics/spells/dominate-person-xphb.md) (level 8 version), requiring no spell components and using Charisma as the spellcasting ability (spell save DC 15).
+
+***Draining Kiss.*** *Constitution Saving Throw:* DC 15, one creature [Charmed](3.Mechanics/rules/conditions.md#Charmed) by the succubus within 5 feet. *Failure:* `dice:3d8|noform|noparens|avg|text(13)` (`3d8`) Psychic damage. *Success:* Half damage. *Failure or Success:* The target's [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md) maximum decreases by an amount equal to the damage taken.
+
+## Bonus Actions
+
+***Shape-Shift.*** The succubus shape-shifts to resemble a Medium or Small Humanoid or back into its true form. Its game statistics are the same in each form, except its [Fly Speed](3.Mechanics/rules/variant-rules/fly-speed-xphb.md) is available only in its true form. Any equipment it's wearing or carrying isn't transformed.
 ```
 ^statblock
 

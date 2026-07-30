@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Mariner's Armor"
 aliases:
 - "Mariner's Armor"
 - "Mariner's Breastplate"
@@ -26,7 +27,7 @@ aliases:
 ---
 # Mariner's Armor
 *Uncommon*  
-![Mariner's armor (Leather Armor)](file://items/XDMG/Mariners%20Armor.webp#right)
+![Mariner's armor (Leather Armor)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Mariners%20Armor.webp#right)
 
 
 While wearing this armor, you have a [Swim Speed](3.Mechanics/rules/variant-rules/swim-speed-xphb.md) equal to your [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md). In addition, if you start your turn underwater with 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md), you immediately regain `dice:1d4|noform|noparens|avg` (`1d4`) [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md). The armor can't heal anyone again until the next dawn.

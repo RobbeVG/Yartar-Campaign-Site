@@ -9,13 +9,16 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/undead
-statblock: inline
-statblock-link: "#^statblock"
+title: "Vampire Umbral Lord"
 aliases:
 - "Vampire Umbral Lord"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
 ---
-# [Vampire Umbral Lord](3.Mechanics/bestiary/undead/vampire-umbral-lord-xmm.md)
+# Vampire Umbral Lord
 *Source: Monster Manual (2024) p. 318*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Vampire%20Umbral%20Lord.webp#right)
 
 Vampire umbral lords embrace their ties to the darkness, devoting themselves to sinister powers in exchange for access to forbidden magic.
 
@@ -53,117 +56,86 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > Darling, you are simply delicious...
 
 
-```statblock
-"name": "Vampire Umbral Lord (XMM)"
-"size": "Small or Medium"
-"type": "undead"
-"alignment": "Lawful Evil"
-"ac": !!int "16"
-"hp": !!int "187"
-"hit_dice": "22d8 + 88"
-"modifier": !!int "14"
-"stats":
-  - !!int "20"
-  - !!int "18"
-  - !!int "18"
-  - !!int "19"
-  - !!int "16"
-  - !!int "21"
-"speed": "40 ft., climb 40 ft., fly 40 ft. (hover)"
-"saves":
-  - "strength": !!int "10"
-  - "dexterity": !!int "9"
-  - "wisdom": !!int "8"
-  - "charisma": !!int "10"
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+9"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+13"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+9"
-"damage_immunities": "cold, necrotic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 ft., passive Perception\
-  \ 23"
-"languages": "Common plus three other languages"
-"cr": "15"
-"traits":
-  - "desc": "If the vampire fails a saving throw, it can choose to succeed instead."
-    "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-  - "desc": "If the vampire drops to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ outside its resting place, it teleports into its resting place unless it is\
-      \ in running water or sunlight. If it can't teleport, it is destroyed. Once\
-      \ inside its resting place, it has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)\
-      \ condition for 1 hour, after which it regains 1 [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md)."
-    "name": "Shadow Escape"
-  - "desc": "The vampire has these weaknesses:\n\n- **Forbiddance.** The vampire can't\
-      \ enter a residence without an invitation from an occupant.  \n- **Running Water.**\
-      \ The vampire takes 20 Acid damage if it ends its turn in running water.  \n\
-      - **Stake to the Heart.** If a weapon that deals Piercing damage is driven into\
-      \ the vampire's heart while the vampire has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition in its resting place, the vampire has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)\
-      \ condition until the weapon is removed.  \n- **Sunlight.** The vampire takes\
-      \ 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it\
-      \ has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on\
-      \ attack rolls and ability checks.  "
-    "name": "Vampire Weakness"
-"actions":
-  - "desc": "The vampire makes two attacks, using Grave Strike or Sickening Ray in\
-      \ any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+10|noform|noparens|text(+10), reach\
-      \ 5 ft. *Hit:* dice:1d8+5|noform|noparens|avg|text(9) (1d8 + 5) Slashing\
-      \ damage plus dice:3d8|noform|noparens|avg|text(13) (3d8) Necrotic damage."
-    "name": "Grave Strike"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+10|noform|noparens|text(+10), range\
-      \ 120 ft. *Hit:* dice:2d10+5|noform|noparens|avg|text(16) (2d10 + 5) Necrotic\
-      \ damage, and the target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition until the start of the vampire's next turn."
-    "name": "Sickening Ray"
-  - "desc": "The vampire casts [Hunger of Hadar](3.Mechanics/spells/hunger-of-hadar-xphb.md)\
-      \ (level 5 version), requiring no spell components and using Charisma as the\
-      \ spellcasting ability (spell save DC 18).\n"
-    "name": "Hunger of Hadar (Recharge 5-6)"
-"bonus_actions":
-  - "desc": "*Constitution Saving Throw:* DC 18, one creature the vampire can see\
-      \ within 30 feet that isn't a Construct or an Undead. *Failure:* dice:4d6|noform|noparens|avg|text(14)\
-      \ (4d6) Necrotic damage. The target's [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ maximum decreases by an amount equal to the damage taken, and the vampire\
-      \ regains [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) equal\
-      \ to that amount."
-    "name": "Sanguine Drain"
-"regional_effects":
-  - "desc": "The region containing a vampire's lair is warped by its presence, creating\
-      \ the following effects:\n\n- **Children of the Night.** The vampire exerts\
-      \ influence over the animals in its domain. From dusk until dawn, Medium or\
-      \ smaller Beasts have the [Charmed](3.Mechanics/rules/conditions.md#Charmed)\
-      \ condition while within 1 mile of the lair.  \n- **Looming Shadows.** Shadows\
-      \ within 1 mile of the lair seem to move as if alive. Any creature (excluding\
-      \ the vampire and its allies) that finishes a [Short Rest](3.Mechanics/rules/variant-rules/short-rest-xphb.md)\
-      \ while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw\
-      \ or gain no benefit from that rest.  \n- **Mists.** The area within 1 mile\
-      \ of the lair is [Lightly Obscured](3.Mechanics/rules/variant-rules/lightly-obscured-xphb.md)\
-      \ by a persistent, creeping fog. The vampire and any creatures of its choice\
-      \ are unaffected by the fog.  \n\nIf the vampire dies or moves its lair elsewhere,\
-      \ these effects end immediately."
-    "name": ""
-"legendary_description": "Legendary Action Uses: 3 (4 in Lair). Immediately after\
-  \ another creature's turn, the vampire umbral lord can expend a use to take one\
-  \ of the following actions. The vampire umbral lord regains all expended uses at\
-  \ the start of each of its turns."
-"legendary_actions":
-  - "desc": "The vampire moves up to half its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md),\
-      \ and it makes one Grave Strike or Sickening Ray attack."
-    "name": "Umbral Strike"
-  - "desc": "The vampire casts [Command](3.Mechanics/spells/command-xphb.md), requiring\
-      \ no spell components and using Charisma as the spellcasting ability (spell\
-      \ save DC 18). The vampire can't take this action again until the start of its\
-      \ next turn.\n"
-    "name": "Beguile"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Vampire%20Umbral%20Lord.webp"
+![A vampire familiar provides a meal for a vampire spawn](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Vampires.webp#center)
+
+```ad-statblock
+title: Vampire Umbral Lord
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Vampire%20Umbral%20Lord.webp#token)
+*Small or Medium Undead, Lawful Evil*
+
+- **Armor Class** 16 
+- **Hit Points** 187 (22d8 + 88) 
+- **Speed** 40 ft., climb 40 ft., fly 40 ft. (hover)
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 20 | +5 | **+10** |
+|Int| 19 | +4 | +4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 18 | +4 | **+9** |
+|Wis| 16 | +3 | **+8** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 18 | +4 | +4 |
+|Cha| 21 | +5 | **+10** |
+
+
+- **Proficiency Bonus** +5
+- **Saving Throws** Strength +10, Dexterity +9, Wisdom +8, Charisma +10
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +13, [Stealth](3.Mechanics/rules/skills.md#Stealth) +9
+- **Damage Immunities** Cold, Necrotic
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 Ft., Passive Perception 23
+- **Languages** Common plus three other languages
+- **Challenge** 15
+
+## Traits
+
+***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the vampire fails a saving throw, it can choose to succeed instead.
+
+***Shadow Escape.*** If the vampire drops to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) outside its resting place, it teleports into its resting place unless it is in running water or sunlight. If it can't teleport, it is destroyed. Once inside its resting place, it has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed) condition for 1 hour, after which it regains 1 [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md).
+
+***Vampire Weakness.*** The vampire has these weaknesses:
+
+- **Forbiddance.** The vampire can't enter a residence without an invitation from an occupant.  
+- **Running Water.** The vampire takes 20 Acid damage if it ends its turn in running water.  
+- **Stake to the Heart.** If a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition in its resting place, the vampire has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed) condition until the weapon is removed.  
+- **Sunlight.** The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on attack rolls and ability checks.  
+
+## Actions
+
+***Multiattack.*** The vampire makes two attacks, using Grave Strike or Sickening Ray in any combination.
+
+***Grave Strike.*** *Melee Attack Roll:* `dice:1d20+10|noform|noparens|text(+10)`, reach 5 ft. *Hit:* `dice:1d8+5|noform|noparens|avg|text(9)` (`1d8 + 5`) Slashing damage plus `dice:3d8|noform|noparens|avg|text(13)` (`3d8`) Necrotic damage.
+
+***Sickening Ray.*** *Ranged Attack Roll:* `dice:1d20+10|noform|noparens|text(+10)`, range 120 ft. *Hit:* `dice:2d10+5|noform|noparens|avg|text(16)` (`2d10 + 5`) Necrotic damage, and the target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition until the start of the vampire's next turn.
+
+***Hunger of Hadar (Recharge 5-6).*** The vampire casts [Hunger of Hadar](3.Mechanics/spells/hunger-of-hadar-xphb.md) (level 5 version), requiring no spell components and using Charisma as the spellcasting ability (spell save DC 18).
+
+
+## Bonus Actions
+
+***Sanguine Drain.*** *Constitution Saving Throw:* DC 18, one creature the vampire can see within 30 feet that isn't a Construct or an Undead. *Failure:* `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) Necrotic damage. The target's [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md) maximum decreases by an amount equal to the damage taken, and the vampire regains [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) equal to that amount.
+
+## Legendary Actions
+
+Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the vampire umbral lord can expend a use to take one of the following actions. The vampire umbral lord regains all expended uses at the start of each of its turns.
+
+***Umbral Strike.*** The vampire moves up to half its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md), and it makes one Grave Strike or Sickening Ray attack.
+
+***Beguile.*** The vampire casts [Command](3.Mechanics/spells/command-xphb.md), requiring no spell components and using Charisma as the spellcasting ability (spell save DC 18). The vampire can't take this action again until the start of its next turn.
+
+
+## Regional Effects
+
+The region containing a vampire's lair is warped by its presence, creating the following effects:
+
+- **Children of the Night.** The vampire exerts influence over the animals in its domain. From dusk until dawn, Medium or smaller Beasts have the [Charmed](3.Mechanics/rules/conditions.md#Charmed) condition while within 1 mile of the lair.  
+- **Looming Shadows.** Shadows within 1 mile of the lair seem to move as if alive. Any creature (excluding the vampire and its allies) that finishes a [Short Rest](3.Mechanics/rules/variant-rules/short-rest-xphb.md) while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw or gain no benefit from that rest.  
+- **Mists.** The area within 1 mile of the lair is [Lightly Obscured](3.Mechanics/rules/variant-rules/lightly-obscured-xphb.md) by a persistent, creeping fog. The vampire and any creatures of its choice are unaffected by the fog.  
+
+If the vampire dies or moves its lair elsewhere, these effects end immediately.
 ```
 ^statblock
 

@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Wizard
+title: "Clone"
 aliases:
 - "Clone"
 ---

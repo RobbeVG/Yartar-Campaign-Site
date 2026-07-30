@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/rod
+title: "Rod of Resurrection"
 aliases:
 - "Rod of Resurrection"
 ---
 # Rod of Resurrection
 *Rod, legendary (requires attunement by a cleric, druid, or paladin)*  
-![](file://items/XDMG/Rod%20of%20Resurrection.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Rod%20of%20Resurrection.webp#right)
 
 - **Weight**: 2.0 lbs.
 

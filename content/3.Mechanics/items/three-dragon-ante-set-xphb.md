@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/gaming-set
 - ttrpg-cli/item/rarity/none
+title: "Three-Dragon Ante Set"
 aliases:
 - "Three-Dragon Ante Set"
 ---

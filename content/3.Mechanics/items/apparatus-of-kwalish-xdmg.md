@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/legendary
+title: "Apparatus of Kwalish"
 aliases:
 - "Apparatus of Kwalish"
 ---
 # Apparatus of Kwalish
 *Wondrous item, legendary*  
-![](file://items/XDMG/Apparatus%20of%20Kwalish.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Apparatus%20of%20Kwalish.webp#right)
 
 - **Weight**: 500.0 lbs.
 

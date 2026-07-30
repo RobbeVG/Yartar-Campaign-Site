@@ -15,6 +15,7 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
+title: "Leomund's Secret Chest"
 aliases:
 - "Leomund's Secret Chest"
 ---

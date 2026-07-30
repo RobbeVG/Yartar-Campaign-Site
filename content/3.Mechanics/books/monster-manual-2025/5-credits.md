@@ -30,8 +30,8 @@ aliases:
 - **Based on the Monster Manual (2014) by.** Christopher Perkins (lead), Jeremy Crawford, Peter Lee, Mike Mearls, Robert J. Schwalb, Matt Sernett, Chris Sims, Rodney Thompson, Steve Townshend, James Wyatt  
 - **Building on the original game created by.** Gary Gygax and Dave Arneson and then developed by many others over the past 50 years  
 
-![](file://book/XMM/028-29-001.title-splash.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/028-29-001.title-splash.webp#center)
 
 > [!gallery]
-> ![On the Cover: On this cover by Tyler Jacobson, adventurers Vajra Safahr and Minsc test their mettle against a beholder and its horde of horrors. Will they prove themselves heroes or lunch?](file://book/XMM/029-29-002.traditional-cover.webp#gallery)
-> ![On the Alt-Cover: Got something on your mind? A mind flayer offers one of its brain-consuming brood as an alternative in this aberrant illustration by Olena Richards.](file://book/XMM/030-29-003.alt-cover.webp#gallery)
+> ![On the Cover: On this cover by Tyler Jacobson, adventurers Vajra Safahr and Minsc test their mettle against a beholder and its horde of horrors. Will they prove themselves heroes or lunch?](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/029-29-002.traditional-cover.webp#gallery)
+> ![On the Alt-Cover: Got something on your mind? A mind flayer offers one of its brain-consuming brood as an alternative in this aberrant illustration by Olena Richards.](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/030-29-003.alt-cover.webp#gallery)

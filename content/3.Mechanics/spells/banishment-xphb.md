@@ -27,6 +27,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
+title: "Banishment"
 aliases:
 - "Banishment"
 ---

@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Druid
+title: "Animal Shapes"
 aliases:
 - "Animal Shapes"
 ---

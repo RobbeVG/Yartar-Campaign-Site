@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/scroll
+title: "Spell Scroll (Level 1)"
 aliases:
 - "Spell Scroll (Level 1)"
 ---
 # Spell Scroll (Level 1)
 *Scroll, common*  
-![](file://items/XDMG/Spell%20Scroll.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Spell%20Scroll.webp#right)
 
 - **Cost**: 50 gp
 

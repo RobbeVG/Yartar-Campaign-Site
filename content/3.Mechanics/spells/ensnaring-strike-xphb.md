@@ -11,6 +11,7 @@ tags:
 classes:
 - Paladin (Oath of the Ancients)
 - Ranger
+title: "Ensnaring Strike"
 aliases:
 - "Ensnaring Strike"
 ---

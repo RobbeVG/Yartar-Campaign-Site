@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/gear/ammunition-firearm
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Walloping Ammunition"
 aliases:
 - "Walloping Ammunition"
 - "Walloping Arrow"

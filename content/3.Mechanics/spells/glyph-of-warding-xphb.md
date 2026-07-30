@@ -21,6 +21,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Abjurer)
+title: "Glyph of Warding"
 aliases:
 - "Glyph of Warding"
 ---

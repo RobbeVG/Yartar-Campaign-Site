@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+title: "Amulet of the Planes"
 aliases:
 - "Amulet of the Planes"
 ---
 # Amulet of the Planes
 *Wondrous item, very rare (requires attunement)*  
-![](file://items/XDMG/Amulet%20of%20the%20Planes.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Amulet%20of%20the%20Planes.webp#right)
 
 - **Weight**: 1.0 lbs.
 

@@ -23,6 +23,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
+title: "Major Image"
 aliases:
 - "Major Image"
 ---

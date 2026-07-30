@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/domain/light
 - ttrpg-cli/subclass/cleric/light
+title: "Light Domain"
 aliases:
 - "Light Domain"
 ---
@@ -44,6 +45,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Light%20Cleric.webp#right)
 
 *Bring Light to Banish Darkness*
 

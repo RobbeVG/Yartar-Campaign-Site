@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/ring
+title: "Ring of Water Walking"
 aliases:
 - "Ring of Water Walking"
 ---
 # Ring of Water Walking
 *Ring, uncommon*  
-![](file://items/XDMG/Ring%20of%20Water%20Walking.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ring%20of%20Water%20Walking.webp#right)
 
 
 While wearing this ring, you cast [Water Walk](3.Mechanics/spells/water-walk-xphb.md) from it, targeting only yourself.

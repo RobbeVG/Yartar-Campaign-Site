@@ -15,6 +15,7 @@ classes:
 - Cleric
 - Warlock
 - Wizard
+title: "Astral Projection"
 aliases:
 - "Astral Projection"
 ---

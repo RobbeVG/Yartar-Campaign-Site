@@ -27,12 +27,13 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
+title: "Water Breathing"
 aliases:
 - "Water Breathing"
 ---
 # Water Breathing
 *3rd-level, Transmutation (ritual)*  
-![](file://spells/XPHB/Water%20Breathing.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Water%20Breathing.webp#right)
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 30 feet

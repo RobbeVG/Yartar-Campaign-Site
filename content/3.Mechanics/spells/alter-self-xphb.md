@@ -22,6 +22,7 @@ classes:
 - Sorcerer
 - Sorcerer (Draconic Sorcery)
 - Wizard
+title: "Alter Self"
 aliases:
 - "Alter Self"
 ---

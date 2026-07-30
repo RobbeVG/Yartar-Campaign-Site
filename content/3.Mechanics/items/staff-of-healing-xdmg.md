@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Staff of Healing"
 aliases:
 - "Staff of Healing"
 ---
 # Staff of Healing
 *Staff, weapon, rare (requires attunement by a bard, cleric, or druid)*  
-![](file://items/XDMG/Staff%20of%20Healing.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Staff%20of%20Healing.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

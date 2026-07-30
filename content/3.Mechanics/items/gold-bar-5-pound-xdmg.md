@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/trade-bar
 - ttrpg-cli/item/rarity/none
+title: "Gold Bar (5-pound)"
 aliases:
 - "Gold Bar (5-pound)"
 ---

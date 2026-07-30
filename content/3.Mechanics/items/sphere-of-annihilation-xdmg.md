@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/legendary
+title: "Sphere of Annihilation"
 aliases:
 - "Sphere of Annihilation"
 ---
 # Sphere of Annihilation
 *Wondrous item, legendary*  
-![](file://items/XDMG/Sphere%20of%20Annihilation.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Sphere%20of%20Annihilation.webp#right)
 
 
 This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.

@@ -13,12 +13,13 @@ classes:
 - Bard
 - Paladin (Oath of Glory)
 - Wizard
+title: "Yolande's Regal Presence"
 aliases:
 - "Yolande's Regal Presence"
 ---
 # Yolande's Regal Presence
 *5th-level, Enchantment*  
-![](file://spells/XPHB/Yolande%27s%20Regal%20Presence.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Yolande%27s%20Regal%20Presence.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Self (10-foot Emanation)

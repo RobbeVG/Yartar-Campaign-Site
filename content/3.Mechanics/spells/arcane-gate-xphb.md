@@ -15,6 +15,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Arcane Gate"
 aliases:
 - "Arcane Gate"
 ---

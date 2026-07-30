@@ -25,6 +25,7 @@ classes:
 - Warlock (Fiend Patron)
 - Wizard
 - Wizard (Evoker)
+title: "Fire Shield"
 aliases:
 - "Fire Shield"
 ---

@@ -10,7 +10,7 @@ aliases:
 # Chapter 6: Equipment
 *Source: Player's Handbook (2024), p. 213* 
 
-![In the skies of Eberron, the inventor Vi and her Fixers escape the Lord of Blades and a plummeting airship that burns with green flame!](file://book/XPHB/168-07-001.inventor-vi.webp#center)
+![In the skies of Eberron, the inventor Vi and her Fixers escape the Lord of Blades and a plummeting airship that burns with green flame!](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/168-07-001.inventor-vi.webp#center)
 
 The right equipment can make the difference between success and failure for adventurers. This chapter provides rules and prices for weapons, armor, and other kinds of equipment that characters might purchase or find. The DM lets you know if a shop has an item for sale and whether it's available at the listed price.
 
@@ -39,13 +39,13 @@ The Weapons table in this section shows the game's main weapons. The table lists
 
 ![Weapons](3.Mechanics/tables/weapons-xphb.md)
 
-![Simple Melee Weapons](file://book/XPHB/169-07-058.simple-melee.webp#center)
+![Simple Melee Weapons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/169-07-058.simple-melee.webp#center)
 
-![Simple Ranged Weapons](file://book/XPHB/170-07-059.simple-range.webp#center)
+![Simple Ranged Weapons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/170-07-059.simple-range.webp#center)
 
-![Martial Melee Weapons](file://book/XPHB/171-07-061.martial-melee.webp#center)
+![Martial Melee Weapons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/171-07-061.martial-melee.webp#center)
 
-![Martial Ranged Weapons](file://book/XPHB/172-07-060.martial-range.webp#center)
+![Martial Ranged Weapons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/172-07-060.martial-range.webp#center)
 
 ### Weapon Proficiency
 
@@ -149,11 +149,11 @@ The Armor table lists the game's main armor. The table includes the cost and wei
 
 ![Armor](3.Mechanics/tables/armor-xphb.md)
 
-![Light Armor and Shields](file://book/XPHB/173-07-062.light-armor-and-shields.webp#center)
+![Light Armor and Shields](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/173-07-062.light-armor-and-shields.webp#center)
 
-![Medium Armor](file://book/XPHB/174-07-063.medium-armor.webp#center)
+![Medium Armor](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/174-07-063.medium-armor.webp#center)
 
-![Heavy Armor](file://book/XPHB/175-07-064.heavy-armor.webp#center)
+![Heavy Armor](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/175-07-064.heavy-armor.webp#center)
 
 ### Armor Training
 
@@ -189,7 +189,7 @@ A tool helps you make specialized ability checks, craft certain items, or both. 
 - **Craft.** This entry lists what, if anything, you can craft with the tool. For crafting rules, see ""Crafting Equipment"" later in the chapter.  
 - **Variants.** This entry appears if the tool has variants, which are listed. Each requires a separate proficiency.  
 
-![](file://book/XPHB/176-07-002.tools.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/176-07-002.tools.webp#center)
 
 ### Tool Proficiency
 
@@ -379,7 +379,7 @@ These tools support adventure and other pursuits.
 
 ## Adventuring Gear
 
-![A Warlock channels magic through an Arcane Focus](file://book/XPHB/177-07-003.arcane-focus.webp#center)
+![A Warlock channels magic through an Arcane Focus](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/177-07-003.arcane-focus.webp#center)
 
 The Adventuring Gear table in this section includes gear that adventurers often find useful. These items are described here in alphabetical order, with an item's price appearing after its name.
 
@@ -579,7 +579,7 @@ A Lamp burns [Oil](3.Mechanics/items/oil-xphb.md) as fuel to cast [Bright Light]
 
 A Bullseye Lantern burns [Oil](3.Mechanics/items/oil-xphb.md) as fuel to cast [Bright Light](3.Mechanics/rules/variant-rules/bright-light-xphb.md) in a 60-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md) and [Dim Light](3.Mechanics/rules/variant-rules/dim-light-xphb.md) for an additional 60 feet.
 
-![Lamp and Net](file://book/XPHB/178-07-004.lamp-net.webp#center)
+![Lamp and Net](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/178-07-004.lamp-net.webp#center)
 
 ### Lantern, Hooded (5 GP)
 
@@ -737,7 +737,7 @@ A Torch burns for 1 hour, casting [Bright Light](3.Mechanics/rules/variant-rules
 
 A Vial holds up to 4 ounces.
 
-![](file://book/XPHB/179-07-005.adventurer-with-tools.webp#center)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/179-07-005.adventurer-with-tools.webp#center)
 
 ### Waterskin (2 SP)
 
@@ -791,7 +791,7 @@ Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 H
 
 ## Services
 
-![A Wizard and her familiar spend an afternoon shopping](file://book/XPHB/180-07-006.wizard-familiar-shopping.webp#center)
+![A Wizard and her familiar spend an afternoon shopping](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/180-07-006.wizard-familiar-shopping.webp#center)
 
 This section outlines services and other expenses that adventurers might spend money on.
 

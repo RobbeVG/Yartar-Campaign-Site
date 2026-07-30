@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Bag of Holding"
 aliases:
 - "Bag of Holding"
 ---
 # Bag of Holding
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Bag%20of%20Holding.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Bag%20of%20Holding.webp#right)
 
 - **Weight**: 5.0 lbs.
 

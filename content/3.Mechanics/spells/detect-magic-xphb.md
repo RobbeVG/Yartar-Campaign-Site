@@ -37,6 +37,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
+title: "Detect Magic"
 aliases:
 - "Detect Magic"
 ---

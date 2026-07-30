@@ -25,6 +25,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
+title: "Mirror Image"
 aliases:
 - "Mirror Image"
 ---

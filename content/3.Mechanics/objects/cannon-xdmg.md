@@ -6,22 +6,21 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/large
 - ttrpg-cli/object/type/siege-weapon
+title: "Cannon"
 aliases:
 - "Cannon"
 ---
 # Cannon
-%%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide (2024) p. 96*  
+*Source: Dungeon Master's Guide (2024) p. 96* 
 
 A Cannon uses gunpowder or arcane power to propel heavy iron balls at destructive speeds. A Cannon is usually attached to a wooden frame with wheels. Loading a Cannon requires the [Utilize](3.Mechanics/rules/actions.md#Utilize) action, and aiming it requires another [Utilize](3.Mechanics/rules/actions.md#Utilize) action. Then a crew member can take the Cannonball action.
-
 ```ad-statblock
 title: Cannon
-![](file://objects/tokens/XDMG/Cannon.webp#token)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/objects/tokens/XDMG/Cannon.webp#token)
 *Large Siege weapon*
 
-- **Armor Class** 19
-- **Hit Points** 75
+- **Armor Class** 19 
+- **Hit Points** 75 
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|

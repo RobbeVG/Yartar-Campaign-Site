@@ -17,6 +17,7 @@ classes:
 - Paladin
 - Wizard
 - Wizard (Abjurer)
+title: "Circle of Power"
 aliases:
 - "Circle of Power"
 ---

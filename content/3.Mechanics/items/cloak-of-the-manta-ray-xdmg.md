@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Cloak of the Manta Ray"
 aliases:
 - "Cloak of the Manta Ray"
 ---
 # Cloak of the Manta Ray
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Cloak%20of%20the%20Manta%20Ray.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Cloak%20of%20the%20Manta%20Ray.webp#right)
 
 
 While wearing this cloak, you can breathe underwater, and you have a [Swim Speed](3.Mechanics/rules/variant-rules/swim-speed-xphb.md) of 60 feet.

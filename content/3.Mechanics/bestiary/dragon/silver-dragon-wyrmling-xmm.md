@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/dragon/metallic
-statblock: inline
-statblock-link: "#^statblock"
+title: "Silver Dragon Wyrmling"
 aliases:
 - "Silver Dragon Wyrmling"
 ---
-# [Silver Dragon Wyrmling](3.Mechanics/bestiary/dragon/silver-dragon-wyrmling-xmm.md)
+# Silver Dragon Wyrmling
 *Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Silver%20Dragon%20Wyrmling.webp#right)
 
 Silver dragon wyrmlings typically live with one or more parents or mentors, learning much about the world and its past before living on their own.
 
@@ -36,58 +36,46 @@ Silver dragons take inspiration from legendary heroes and have grand ambitions. 
 
 Silver dragons typically lair in picturesque mountain retreats or on sculpted cloud "islands."
 
-```statblock
-"name": "Silver Dragon Wyrmling (XMM)"
-"size": "Medium"
-"type": "dragon"
-"subtype": "metallic"
-"alignment": "Lawful Good"
-"ac": !!int "17"
-"hp": !!int "45"
-"hit_dice": "6d8 + 18"
-"modifier": !!int "2"
-"stats":
-  - !!int "19"
-  - !!int "10"
-  - !!int "17"
-  - !!int "12"
-  - !!int "11"
-  - !!int "15"
-"speed": "30 ft., fly 60 ft."
-"saves":
-  - "dexterity": !!int "2"
-  - "wisdom": !!int "2"
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+2"
-"damage_immunities": "cold"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
-"languages": "Draconic"
-"cr": "2"
-"actions":
-  - "desc": "The dragon makes two Rend attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:1d10+4|noform|noparens|avg|text(9) (1d10 + 4) Piercing\
-      \ damage."
-    "name": "Rend"
-  - "desc": "*Constitution Saving Throw:* DC 13, each creature in a 15-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* dice:4d8|noform|noparens|avg|text(18) (4d8) Cold damage. *Success:*\
-      \ Half damage."
-    "name": "Cold Breath (Recharge 5-6)"
-  - "desc": "*Constitution Saving Throw:* DC 13, each creature in a 15-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *1St Failure:* The target has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition until the end of its next turn, when it repeats the save. *2Nd Failure:*\
-      \ The target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)\
-      \ condition, and it repeats the save at the end of each of its turns, ending\
-      \ the effect on itself on a success. After 1 minute, it succeeds automatically."
-    "name": "Paralyzing Breath"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Silver%20Dragon%20Wyrmling.webp"
+```ad-statblock
+title: Silver Dragon Wyrmling
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Silver%20Dragon%20Wyrmling.webp#token)
+*Medium Dragon (metallic), Lawful Good*
+
+- **Armor Class** 17 
+- **Hit Points** 45 (6d8 + 18) 
+- **Speed** 30 ft., fly 60 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 19 | +4 | +4 |
+|Int| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | **+2** |
+|Wis| 11 | +0 | **+2** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 17 | +3 | +3 |
+|Cha| 15 | +2 | +2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Dexterity +2, Wisdom +2
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +2
+- **Damage Immunities** Cold
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Languages** Draconic
+- **Challenge** 2
+
+## Actions
+
+***Multiattack.*** The dragon makes two Rend attacks.
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:1d10+4|noform|noparens|avg|text(9)` (`1d10 + 4`) Piercing damage.
+
+***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw:* DC 13, each creature in a 15-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) Cold damage. *Success:* Half damage.
+
+***Paralyzing Breath.*** *Constitution Saving Throw:* DC 13, each creature in a 15-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *1St Failure:* The target has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition until the end of its next turn, when it repeats the save. *2Nd Failure:* The target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed) condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 ```
 ^statblock
 

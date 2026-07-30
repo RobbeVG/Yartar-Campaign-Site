@@ -13,12 +13,13 @@ classes:
 - Bard
 - Wizard
 - Wizard (Illusionist)
+title: "Programmed Illusion"
 aliases:
 - "Programmed Illusion"
 ---
 # Programmed Illusion
 *6th-level, Illusion*  
-![](file://spells/XPHB/Programmed%20Illusion.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Programmed%20Illusion.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/shield/
+title: "Shield of Expression"
 aliases:
 - "Shield of Expression"
 ---

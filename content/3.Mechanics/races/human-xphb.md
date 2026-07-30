@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/race/human
+title: "Human"
 aliases:
 - "Human"
 ---
 # Human
 *Source: Player's Handbook (2024) p. 194. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-![](file://races/XPHB/Human.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/races/XPHB/Human.webp#right)
 
 - **Ability Scores**: None
 - **Type**: humanoid

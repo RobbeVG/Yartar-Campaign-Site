@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/school/transmutation
 classes:
 - Paladin
+title: "Shining Smite"
 aliases:
 - "Shining Smite"
 ---

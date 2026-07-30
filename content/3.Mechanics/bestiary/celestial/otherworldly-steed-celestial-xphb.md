@@ -7,47 +7,51 @@ tags:
 - ttrpg-cli/monster/cr/
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/celestial
-statblock: inline
-statblock-link: "#^statblock"
+title: "Otherworldly Steed (Celestial)"
 aliases:
 - "Otherworldly Steed (Celestial)"
 ---
-# [Otherworldly Steed (Celestial)](3.Mechanics/bestiary/celestial/otherworldly-steed-celestial-xphb.md)
+# Otherworldly Steed (Celestial)
 *Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+```ad-statblock
+title: Otherworldly Steed (Celestial)
+*Large Celestial, Neutral*
 
-```statblock
-"name": "Otherworldly Steed (Celestial) (XPHB)"
-"size": "Large"
-"type": "celestial"
-"alignment": "Neutral"
-"ac_class": "10 + 1 per spell level"
-"hp": "5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to\
-  \ the spell's level)"
-"modifier": !!int "1"
-"stats":
-  - !!int "18"
-  - !!int "12"
-  - !!int "14"
-  - !!int "6"
-  - !!int "12"
-  - !!int "8"
-"speed": "60 ft., fly 60 ft. (requires level 4+ spell)"
-"senses": "passive Perception 11"
-"languages": "telepathy 1 mile (works only with you)"
-"traits":
-  - "desc": "When you regain [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ from a level 1+ spell, the steed regains the same number of [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ if you're within 5 feet of it."
-    "name": "Life Bond"
-"actions":
-  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
-      \ ft. *Hit:* 1d8 + the spell's level Radiant damage."
-    "name": "Otherworldly Slam"
-"bonus_actions":
-  - "desc": "One creature within 5 feet of the steed regains a number of [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ equal to 2d8 + the spell's level."
-    "name": "Healing Touch (Recharges after a Long Rest)"
-"source":
-  - "XPHB"
+- **Armor Class** (10 + 1 per spell level)
+- **Hit Points** 5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell's level)  (5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell's level))
+- **Speed** 60 ft., fly 60 ft. (requires level 4+ spell)
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 6 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14 | +2 | +2 |
+|Cha| 8 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** Passive Perception 11
+- **Languages** Telepathy 1 mile (works only with you)
+- **Challenge** 
+
+## Traits
+
+***Life Bond.*** When you regain [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) from a level 1+ spell, the steed regains the same number of [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) if you're within 5 feet of it.
+
+## Actions
+
+***Otherworldly Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8` + the spell's level Radiant damage.
+
+## Bonus Actions
+
+***Healing Touch (Recharges after a Long Rest).*** One creature within 5 feet of the steed regains a number of [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) equal to `2d8` + the spell's level.
 ```
 ^statblock

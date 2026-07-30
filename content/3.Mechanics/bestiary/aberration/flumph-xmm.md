@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Flumph"
 aliases:
 - "Flumph"
 ---
-# [Flumph](3.Mechanics/bestiary/aberration/flumph-xmm.md)
+# Flumph
 *Source: Monster Manual (2024) p. 122*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Flumph.webp#right)
 
 ## Flumph
 
@@ -64,65 +64,50 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
 ^flumph-colors-and-emotions
 
 *Rarely seen; potentially no human equivalent
+```ad-statblock
+title: Flumph
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Flumph.webp#token)
+*Small Aberration, Lawful Good*
 
-```statblock
-"name": "Flumph (XMM)"
-"size": "Small"
-"type": "aberration"
-"alignment": "Lawful Good"
-"ac": !!int "12"
-"hp": !!int "7"
-"hit_dice": "2d6"
-"modifier": !!int "2"
-"stats":
-  - !!int "6"
-  - !!int "15"
-  - !!int "10"
-  - !!int "14"
-  - !!int "14"
-  - !!int "11"
-"speed": "5 ft., fly 30 ft. (hover)"
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+4"
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
-    "desc": "+4"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
-    "desc": "+4"
-"damage_vulnerabilities": "psychic"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
-"languages": "understands Undercommon but can't speak; telepathy 60 ft."
-"cr": "1/8"
-"traits":
-  - "desc": "The flumph perceives the content of any telepathic communication within\
-      \ 60 feet of it."
-    "name": "Advanced Telepathy"
-  - "desc": "If the flumph receives the [Prone](3.Mechanics/rules/conditions.md#Prone)\
-      \ condition, roll a die. On an odd number, it has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition. At the end of each of its turns, the flumph makes a DC 10 Dexterity\
-      \ saving throw, ending the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition on a success."
-    "name": "Prone Deficiency"
-  - "desc": "The flumph's thoughts can't be read by any means, and magic can't detect\
-      \ its location or observe it remotely."
-    "name": "Telepathic Shroud"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ feet. *Hit:* dice:1d4+2|noform|noparens|avg|text(4) (1d4 + 2) Acid damage."
-    "name": "Tentacle"
-  - "desc": "*Dexterity Saving Throw:* DC 10, one creature the flumph can see within\
-      \ 15 feet. *Failure:* The target is coated in a foul-smelling liquid, exudes\
-      \ a stench for dice:1d4|noform|noparens|avg (1d4) hours, and has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition while the stench lasts. Other creatures have the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition while in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the coated target. The target can remove the stench on itself\
-      \ if it bathes during a [Short](3.Mechanics/rules/variant-rules/short-rest-xphb.md)\
-      \ or [Long Rest](3.Mechanics/rules/variant-rules/long-rest-xphb.md)."
-    "name": "Stench Spray (1/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Flumph.webp"
+- **Armor Class** 12 
+- **Hit Points** 7 (2d6) 
+- **Speed** 5 ft., fly 30 ft. (hover)
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 6 | -2 | -2 |
+|Int| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15 | +2 | +2 |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 10 | +0 | +0 |
+|Cha| 11 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +4, [History](3.Mechanics/rules/skills.md#History) +4, [Religion](3.Mechanics/rules/skills.md#Religion) +4
+- **Damage Vulnerabilities** Psychic
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
+- **Languages** Understands Undercommon but can't speak; Telepathy 60 ft.
+- **Challenge** 1/8
+
+## Traits
+
+***Advanced Telepathy.*** The flumph perceives the content of any telepathic communication within 60 feet of it.
+
+***Prone Deficiency.*** If the flumph receives the [Prone](3.Mechanics/rules/conditions.md#Prone) condition, roll a die. On an odd number, it has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition. At the end of each of its turns, the flumph makes a DC 10 Dexterity saving throw, ending the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition on a success.
+
+***Telepathic Shroud.*** The flumph's thoughts can't be read by any means, and magic can't detect its location or observe it remotely.
+
+## Actions
+
+***Tentacle.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 feet. *Hit:* `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) Acid damage.
+
+***Stench Spray (1/Day).*** *Dexterity Saving Throw:* DC 10, one creature the flumph can see within 15 feet. *Failure:* The target is coated in a foul-smelling liquid, exudes a stench for `dice:1d4|noform|noparens|avg` (`1d4`) hours, and has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition while the stench lasts. Other creatures have the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition while in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the coated target. The target can remove the stench on itself if it bathes during a [Short](3.Mechanics/rules/variant-rules/short-rest-xphb.md) or [Long Rest](3.Mechanics/rules/variant-rules/long-rest-xphb.md).
 ```
 ^statblock
 

@@ -8,13 +8,15 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Quaggoth"
 aliases:
 - "Quaggoth"
+conditionImmunities:
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Quaggoth](3.Mechanics/bestiary/monstrosity/quaggoth-xmm.md)
+# Quaggoth
 *Source: Monster Manual (2024) p. 251*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Quaggoths.webp#right)
 
 For quaggoths, every fight means life or death. They battle with wild fury and do anything to survive.
 
@@ -29,48 +31,47 @@ Beastly hunters endemic to subterranean depths, quaggoths scrape harsh existence
 
 Quaggoths frequently collect in small bands led by the most fearsome group member. These bands are proud and quick to hold grudges. Anyone who harms a quaggoth—or who is suspected of doing so—earns the enmity of that quaggoth's band regardless of reason or fault. These grudges sometimes extend to whole communities rather than individuals. Generations of quaggoths might seek revenge against a settlement's inhabitants for decades-old slights. Only the leader of a quaggoth band can demand that a grudge ends.
 
-```statblock
-"name": "Quaggoth (XMM)"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Chaotic Neutral"
-"ac": !!int "13"
-"hp": !!int "45"
-"hit_dice": "6d8 + 18"
-"modifier": !!int "1"
-"stats":
-  - !!int "17"
-  - !!int "12"
-  - !!int "16"
-  - !!int "6"
-  - !!int "12"
-  - !!int "7"
-"speed": "30 ft., climb 30 ft."
-"skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
-    "desc": "+5"
-"damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
-"languages": "Undercommon"
-"cr": "2"
-"traits":
-  - "desc": "While [Bloodied](3.Mechanics/rules/conditions.md#Bloodied), the quaggoth\
-      \ has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on attack\
-      \ rolls."
-    "name": "Bloodied Fury"
-"actions":
-  - "desc": "The quaggoth makes two Claw attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:1d6+3|noform|noparens|avg|text(6) (1d6 + 3) Slashing damage,\
-      \ or dice:3d6+3|noform|noparens|avg|text(13) (3d6 + 3) Slashing damage if\
-      \ the quaggoth is [Bloodied](3.Mechanics/rules/conditions.md#Bloodied)."
-    "name": "Claw"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Quaggoth.webp"
+```ad-statblock
+title: Quaggoth
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Quaggoth.webp#token)
+*Medium Monstrosity, Chaotic Neutral*
+
+- **Armor Class** 13 
+- **Hit Points** 45 (6d8 + 18) 
+- **Speed** 30 ft., climb 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17 | +3 | +3 |
+|Int| 6 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 7 | -2 | -2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +5
+- **Damage Immunities** Poison
+- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 11
+- **Languages** Undercommon
+- **Challenge** 2
+
+## Traits
+
+***Bloodied Fury.*** While [Bloodied](3.Mechanics/rules/conditions.md#Bloodied), the quaggoth has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on attack rolls.
+
+## Actions
+
+***Multiattack.*** The quaggoth makes two Claw attacks.
+
+***Claw.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d6+3|noform|noparens|avg|text(6)` (`1d6 + 3`) Slashing damage, or `dice:3d6+3|noform|noparens|avg|text(13)` (`3d6 + 3`) Slashing damage if the quaggoth is [Bloodied](3.Mechanics/rules/conditions.md#Bloodied).
 ```
 ^statblock
 

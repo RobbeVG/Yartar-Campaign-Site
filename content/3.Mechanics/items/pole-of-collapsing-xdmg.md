@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
+title: "Pole of Collapsing"
 aliases:
 - "Pole of Collapsing"
 ---
 # Pole of Collapsing
 *Wondrous item, common*  
-![](file://items/XDMG/Pole%20of%20Collapsing.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Pole%20of%20Collapsing.webp#right)
 
 
 This item functions as a Pole. While holding it, you can take a [Magic](3.Mechanics/rules/actions.md#Magic) action to collapse it into a 1-foot-long rod for ease of storage (the pole's weight doesn't change) or cause the 1-foot-long rod to revert to a Pole. The rod elongates only as far as the surrounding space allows.

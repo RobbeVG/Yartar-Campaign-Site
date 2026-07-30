@@ -25,6 +25,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Diviner)
+title: "Locate Creature"
 aliases:
 - "Locate Creature"
 ---

@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/dragon/metallic
-statblock: inline
-statblock-link: "#^statblock"
+title: "Young Silver Dragon"
 aliases:
 - "Young Silver Dragon"
 ---
-# [Young Silver Dragon](3.Mechanics/bestiary/dragon/young-silver-dragon-xmm.md)
+# Young Silver Dragon
 *Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Silver%20Dragon.webp#right)
 
 Young silver dragons usually have close ties with elder metallic dragons or heroic role models, helping those with great goals achieve their ambitions. They might serve as messengers for or representatives of such do-gooders.
 
@@ -36,61 +36,46 @@ Silver dragons take inspiration from legendary heroes and have grand ambitions. 
 
 Silver dragons typically lair in picturesque mountain retreats or on sculpted cloud "islands."
 
-```statblock
-"name": "Young Silver Dragon (XMM)"
-"size": "Large"
-"type": "dragon"
-"subtype": "metallic"
-"alignment": "Lawful Good"
-"ac": !!int "18"
-"hp": !!int "168"
-"hit_dice": "16d10 + 80"
-"modifier": !!int "4"
-"stats":
-  - !!int "23"
-  - !!int "10"
-  - !!int "21"
-  - !!int "14"
-  - !!int "11"
-  - !!int "19"
-"speed": "40 ft., fly 80 ft."
-"saves":
-  - "dexterity": !!int "4"
-  - "wisdom": !!int "4"
-"skillsaves":
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
-    "desc": "+6"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+8"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+4"
-"damage_immunities": "cold"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 18"
-"languages": "Common, Draconic"
-"cr": "9"
-"actions":
-  - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of Paralyzing Breath."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+10|noform|noparens|text(+10), reach\
-      \ 10 ft. *Hit:* dice:2d8+6|noform|noparens|avg|text(15) (2d8 + 6) Slashing\
-      \ damage."
-    "name": "Rend"
-  - "desc": "*Constitution Saving Throw:* DC 17, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* dice:11d8|noform|noparens|avg|text(49) (11d8) Cold damage.\
-      \ *Success:* Half damage."
-    "name": "Cold Breath (Recharge 5-6)"
-  - "desc": "*Constitution Saving Throw:* DC 17, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *1St Failure:* The target has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition until the end of its next turn, when it repeats the save. *2Nd Failure:*\
-      \ The target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)\
-      \ condition, and it repeats the save at the end of each of its turns, ending\
-      \ the effect on itself on a success. After 1 minute, it succeeds automatically."
-    "name": "Paralyzing Breath"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Young%20Silver%20Dragon.webp"
+```ad-statblock
+title: Young Silver Dragon
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Young%20Silver%20Dragon.webp#token)
+*Large Dragon (metallic), Lawful Good*
+
+- **Armor Class** 18 
+- **Hit Points** 168 (16d10 + 80) 
+- **Speed** 40 ft., fly 80 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 23 | +6 | +6 |
+|Int| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | **+4** |
+|Wis| 11 | +0 | **+4** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 21 | +5 | +5 |
+|Cha| 19 | +4 | +4 |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Dexterity +4, Wisdom +4
+- **Skills** [History](3.Mechanics/rules/skills.md#History) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +8, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
+- **Damage Immunities** Cold
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 18
+- **Languages** Common, Draconic
+- **Challenge** 9
+
+## Actions
+
+***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Paralyzing Breath.
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+10|noform|noparens|text(+10)`, reach 10 ft. *Hit:* `dice:2d8+6|noform|noparens|avg|text(15)` (`2d8 + 6`) Slashing damage.
+
+***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw:* DC 17, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* `dice:11d8|noform|noparens|avg|text(49)` (`11d8`) Cold damage. *Success:* Half damage.
+
+***Paralyzing Breath.*** *Constitution Saving Throw:* DC 17, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *1St Failure:* The target has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition until the end of its next turn, when it repeats the save. *2Nd Failure:* The target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed) condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 ```
 ^statblock
 

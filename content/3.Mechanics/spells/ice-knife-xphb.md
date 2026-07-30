@@ -22,12 +22,13 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
+title: "Ice Knife"
 aliases:
 - "Ice Knife"
 ---
 # Ice Knife
 *1st-level, Conjuration*  
-![](file://spells/XPHB/Ice%20Knife.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Ice%20Knife.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

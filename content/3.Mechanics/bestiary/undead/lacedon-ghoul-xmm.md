@@ -10,13 +10,17 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
-statblock: inline
-statblock-link: "#^statblock"
+title: "Lacedon Ghoul"
 aliases:
 - "Lacedon Ghoul"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Lacedon Ghoul](3.Mechanics/bestiary/undead/lacedon-ghoul-xmm.md)
+# Lacedon Ghoul
 *Source: Monster Manual (2024) p. 132*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Lacedon%20Ghoul.webp#right)
 
 Lacedons are loose-skinned, aquatic ghouls. They often arise from the corpses of greedy pirates, those who starved on deserted islands, or scoundrels who met their end by drowning.
 
@@ -34,53 +38,52 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
 > On a plain of teeth, in a temple of filth, the starving king wastes no morsel. Every coffin a banquet. Every slab a platter. Now is the time of feasting!
 
 
-```statblock
-"name": "Lacedon Ghoul (XMM)"
-"size": "Medium"
-"type": "undead"
-"alignment": "Chaotic Evil"
-"ac": !!int "12"
-"hp": !!int "22"
-"hit_dice": "5d8"
-"modifier": !!int "2"
-"stats":
-  - !!int "13"
-  - !!int "15"
-  - !!int "10"
-  - !!int "7"
-  - !!int "10"
-  - !!int "6"
-"speed": "30 ft., swim 30 ft."
-"damage_resistances": "cold"
-"damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Common"
-"cr": "1"
-"actions":
-  - "desc": "The ghoul makes two Icy Bite attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:2d6+2|noform|noparens|avg|text(9) (2d6 + 2) Cold damage,\
-      \ and the target's [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) decreases\
-      \ by 5 feet until the start of the ghoul's next turn."
-    "name": "Icy Bite"
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d4+2|noform|noparens|avg|text(4) (1d4 + 2) Slashing damage.\
-      \ If the target is a creature that isn't an Undead or elf, it is subjected to\
-      \ the following effect. *Constitution Saving Throw:* DC 10. *Failure:* The target\
-      \ has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed) condition until\
-      \ the end of its next turn."
-    "name": "Claw"
-"bonus_actions":
-  - "desc": "While underwater, the ghoul moves up to half its [Swim Speed](3.Mechanics/rules/variant-rules/swim-speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack)."
-    "name": "Watery Rush"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Lacedon%20Ghoul.webp"
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Ghouls.webp#center)
+
+```ad-statblock
+title: Lacedon Ghoul
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Lacedon%20Ghoul.webp#token)
+*Medium Undead, Chaotic Evil*
+
+- **Armor Class** 12 
+- **Hit Points** 22 (5d8) 
+- **Speed** 30 ft., swim 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13 | +1 | +1 |
+|Int| 7 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15 | +2 | +2 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 10 | +0 | +0 |
+|Cha| 6 | -2 | -2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Resistances** Cold
+- **Damage Immunities** Poison
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Common
+- **Challenge** 1
+
+## Actions
+
+***Multiattack.*** The ghoul makes two Icy Bite attacks.
+
+***Icy Bite.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:2d6+2|noform|noparens|avg|text(9)` (`2d6 + 2`) Cold damage, and the target's [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) decreases by 5 feet until the start of the ghoul's next turn.
+
+***Claw.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) Slashing damage. If the target is a creature that isn't an Undead or elf, it is subjected to the following effect. *Constitution Saving Throw:* DC 10. *Failure:* The target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed) condition until the end of its next turn.
+
+## Bonus Actions
+
+***Watery Rush.*** While underwater, the ghoul moves up to half its [Swim Speed](3.Mechanics/rules/variant-rules/swim-speed-xphb.md) without provoking [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack).
 ```
 ^statblock
 

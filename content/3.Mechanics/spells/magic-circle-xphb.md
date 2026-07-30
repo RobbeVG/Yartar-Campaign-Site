@@ -25,6 +25,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
+title: "Magic Circle"
 aliases:
 - "Magic Circle"
 ---

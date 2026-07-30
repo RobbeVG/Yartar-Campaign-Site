@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/artifact
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Sword of Kas"
 aliases:
 - "Sword of Kas"
 ---
 # Sword of Kas
 *Weapon ([longsword](3.Mechanics/items/longsword-xphb.md)), artifact (requires attunement)*  
-![](file://items/XDMG/Sword%20of%20Kas.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Sword%20of%20Kas.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing

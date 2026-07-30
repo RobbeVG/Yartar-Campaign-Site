@@ -11,13 +11,15 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Yuan-ti Abomination"
 aliases:
 - "Yuan-ti Abomination"
+conditionImmunities:
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Yuan-ti Abomination](3.Mechanics/bestiary/monstrosity/yuan-ti-abomination-xmm.md)
+# Yuan-ti Abomination
 *Source: Monster Manual (2024) p. 345*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Yuan-ti%20Abomination.webp#right)
 
 Yuan-ti abominations have traded away nearly all evidence of their humanity, coming to resemble giant, upright serpents with scaly arms and hands. In battle, they relish opportunities to crush foes in their powerful coils or strike with their venomous fangs. These abominations can also shape-shift into snakes. In these forms, abominations are indistinguishable from normal serpents.
 
@@ -55,73 +57,63 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 > Great magic, twisted and corrupted... Malice beyond reckoning... Flesh reshaped, becoming serpentine horrors...
 
 
-```statblock
-"name": "Yuan-ti Abomination (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Neutral Evil"
-"ac": !!int "15"
-"hp": !!int "127"
-"hit_dice": "15d10 + 45"
-"modifier": !!int "6"
-"stats":
-  - !!int "19"
-  - !!int "16"
-  - !!int "17"
-  - !!int "17"
-  - !!int "18"
-  - !!int "15"
-"speed": "40 ft., climb 30 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+7"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+6"
-"damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 17"
-"languages": "Abyssal, Common, Draconic"
-"cr": "7"
-"traits":
-  - "desc": "The yuan-ti has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-"actions":
-  - "desc": "The yuan-ti makes two Bite attacks, and it can use Spellcasting to cast\
-      \ [Suggestion](3.Mechanics/spells/suggestion-xphb.md) if available."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+7|noform|noparens|text(+7), reach 5\
-      \ ft. *Hit:* dice:2d6+4|noform|noparens|avg|text(11) (2d6 + 4) Piercing\
-      \ damage plus dice:3d6|noform|noparens|avg|text(10) (3d6) Poison damage."
-    "name": "Bite"
-  - "desc": "*Strength Saving Throw:* DC 15, one Large or smaller creature within\
-      \ 5 feet. *Failure:* dice:7d6+4|noform|noparens|avg|text(28) (7d6 + 4) Bludgeoning\
-      \ damage. The target has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition (escape DC 14), and it has the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition until the grapple ends. *Success:* Half damage only."
-    "name": "Constrict"
-  - "desc": "*Constitution Saving Throw:* DC 14, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* dice:6d6|noform|noparens|avg|text(21) (6d6) Poison damage,\
-      \ and the target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition until the end of the yuan-ti's next turn. While [Poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-      \ the target has the [Blinded](3.Mechanics/rules/conditions.md#Blinded) condition.\
-      \ *Success:* Half damage only."
-    "name": "Poison Spray (Recharge 5-6)"
-  - "desc": "The yuan-ti casts one of the following spells, requiring no Material\
-      \ components and using Wisdom as the spellcasting ability (spell save DC 15):\n\
-      \n**At will:** [Animal Friendship](3.Mechanics/spells/animal-friendship-xphb.md)\
-      \ (snakes only)\n\n**3/day:** [Suggestion](3.Mechanics/spells/suggestion-xphb.md)"
-    "name": "Spellcasting (Yuan-ti Form Only)"
-"bonus_actions":
-  - "desc": "The yuan-ti shape-shifts into a Large snake or returns to its true form.\
-      \ If it dies, it stays in its current form. The yuan-ti's game statistics are\
-      \ the same in each form, except where noted. Any equipment it is wearing or\
-      \ carrying isn't transformed."
-    "name": "Shape-Shift"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Yuan-ti%20Abomination.webp"
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Yuan-ti.webp#center)
+
+```ad-statblock
+title: Yuan-ti Abomination
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Yuan-ti%20Abomination.webp#token)
+*Large Monstrosity, Neutral Evil*
+
+- **Armor Class** 15 
+- **Hit Points** 127 (15d10 + 45) 
+- **Speed** 40 ft., climb 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 19 | +4 | +4 |
+|Int| 17 | +3 | +3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16 | +3 | +3 |
+|Wis| 18 | +4 | +4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 17 | +3 | +3 |
+|Cha| 15 | +2 | +2 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
+- **Damage Immunities** Poison
+- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 17
+- **Languages** Abyssal, Common, Draconic
+- **Challenge** 7
+
+## Traits
+
+***Magic Resistance.*** The yuan-ti has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The yuan-ti makes two Bite attacks, and it can use Spellcasting to cast [Suggestion](3.Mechanics/spells/suggestion-xphb.md) if available.
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. *Hit:* `dice:2d6+4|noform|noparens|avg|text(11)` (`2d6 + 4`) Piercing damage plus `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) Poison damage.
+
+***Constrict.*** *Strength Saving Throw:* DC 15, one Large or smaller creature within 5 feet. *Failure:* `dice:7d6+4|noform|noparens|avg|text(28)` (`7d6 + 4`) Bludgeoning damage. The target has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 14), and it has the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition until the grapple ends. *Success:* Half damage only.
+
+***Poison Spray (Recharge 5-6).*** *Constitution Saving Throw:* DC 14, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) Poison damage, and the target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition until the end of the yuan-ti's next turn. While [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), the target has the [Blinded](3.Mechanics/rules/conditions.md#Blinded) condition. *Success:* Half damage only.
+
+***Spellcasting (Yuan-ti Form Only).*** The yuan-ti casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 15):
+
+**At will:** [Animal Friendship](3.Mechanics/spells/animal-friendship-xphb.md) (snakes only)
+
+**3/day:** [Suggestion](3.Mechanics/spells/suggestion-xphb.md)
+
+## Bonus Actions
+
+***Shape-Shift.*** The yuan-ti shape-shifts into a Large snake or returns to its true form. If it dies, it stays in its current form. The yuan-ti's game statistics are the same in each form, except where noted. Any equipment it is wearing or carrying isn't transformed.
 ```
 ^statblock
 

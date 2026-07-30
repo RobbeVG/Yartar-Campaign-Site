@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Spy Master"
 aliases:
 - "Spy Master"
 ---
-# [Spy Master](3.Mechanics/bestiary/humanoid/spy-master-xmm.md)
+# Spy Master
 *Source: Monster Manual (2024) p. 295*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Spies.webp#right)
 
 Spy masters have extensive experience in gathering secrets while leaving no evidence of their presence.
 
@@ -39,72 +39,50 @@ Spies gather information and disseminate lies, manipulating people to gain the r
 | 4 | A visitor from a different time or world. |
 ^spy-personas
 
-```statblock
-"name": "Spy Master (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "19"
-"hp": !!int "137"
-"hit_dice": "25d8 + 25"
-"modifier": !!int "9"
-"stats":
-  - !!int "10"
-  - !!int "20"
-  - !!int "12"
-  - !!int "18"
-  - !!int "16"
-  - !!int "16"
-"speed": "30 ft., climb 30 ft."
-"saves":
-  - "dexterity": !!int "9"
-  - "constitution": !!int "5"
-  - "intelligence": !!int "8"
-  - "wisdom": !!int "7"
-"skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
-    "desc": "+7"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
-    "desc": "+7"
-  - "name": "[Investigation](3.Mechanics/rules/skills.md#Investigation)"
-    "desc": "+8"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+11"
-  - "name": "[Sleight of Hand](3.Mechanics/rules/skills.md#Sleight%20of%20Hand)"
-    "desc": "+9"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+13"
-"gear":
-  - "[hand crossbow](3.Mechanics/items/hand-crossbow-xphb.md)"
-  - "[rapier](3.Mechanics/items/rapier-xphb.md)"
-  - "[thieves' tools](3.Mechanics/items/thieves-tools-xphb.md)"
-"senses": "passive Perception 21"
-"languages": "Common plus two other languages"
-"cr": "10"
-"actions":
-  - "desc": "The spy makes three attacks, using Rapier or Hand Crossbow in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+9|noform|noparens|text(+9), reach 5\
-      \ ft. *Hit:* dice:2d8+5|noform|noparens|avg|text(14) (2d8 + 5) Piercing\
-      \ damage plus dice:2d6|noform|noparens|avg|text(7) (2d6) Poison damage."
-    "name": "Rapier"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+9|noform|noparens|text(+9), range 30/120\
-      \ ft. *Hit:* dice:2d6+5|noform|noparens|avg|text(12) (2d6 + 5) Piercing\
-      \ damage plus dice:2d8|noform|noparens|avg|text(9) (2d8) Poison damage."
-    "name": "Hand Crossbow"
-  - "desc": "The spy throws a bomb to a point it can see within 30 feet of itself.\
-      \ *Constitution Saving Throw:* DC 16, each creature in a 20-foot-radius [Sphere](3.Mechanics/rules/variant-rules/sphere-area-of-effect-xphb.md)\
-      \ centered on that point. *Failure:* dice:8d6|noform|noparens|avg|text(28)\
-      \ (8d6) Poison damage, and the target has the [Blinded](3.Mechanics/rules/conditions.md#Blinded)\
-      \ condition until the end of the spy's next turn. *Success:* Half damage only."
-    "name": "Smoke Bomb (1/Day)"
-"bonus_actions":
-  - "desc": "The spy takes the [Dash](3.Mechanics/rules/actions.md#Dash), [Disengage](3.Mechanics/rules/actions.md#Disengage),\
-      \ or [Hide](3.Mechanics/rules/actions.md#Hide) action."
-    "name": "Cunning Action"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Spy%20Master.webp"
+```ad-statblock
+title: Spy Master
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Spy%20Master.webp#token)
+*Small or Medium Humanoid, Neutral*
+
+- **Armor Class** 19 
+- **Hit Points** 137 (25d8 + 25) 
+- **Speed** 30 ft., climb 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10 | +0 | +0 |
+|Int| 18 | +4 | **+8** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 20 | +5 | **+9** |
+|Wis| 16 | +3 | **+7** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | **+5** |
+|Cha| 16 | +3 | +3 |
+
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Dexterity +9, Constitution +5, Intelligence +8, Wisdom +7
+- **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +7, [Insight](3.Mechanics/rules/skills.md#Insight) +7, [Investigation](3.Mechanics/rules/skills.md#Investigation) +8, [Perception](3.Mechanics/rules/skills.md#Perception) +11, [Sleight of Hand](3.Mechanics/rules/skills.md#Sleight%20of%20Hand) +9, [Stealth](3.Mechanics/rules/skills.md#Stealth) +13
+- **Gear** [hand crossbow](3.Mechanics/items/hand-crossbow-xphb.md), [rapier](3.Mechanics/items/rapier-xphb.md), [thieves' tools](3.Mechanics/items/thieves-tools-xphb.md)
+- **Senses** Passive Perception 21
+- **Languages** Common plus two other languages
+- **Challenge** 10
+
+## Actions
+
+***Multiattack.*** The spy makes three attacks, using Rapier or Hand Crossbow in any combination.
+
+***Rapier.*** *Melee Attack Roll:* `dice:1d20+9|noform|noparens|text(+9)`, reach 5 ft. *Hit:* `dice:2d8+5|noform|noparens|avg|text(14)` (`2d8 + 5`) Piercing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Poison damage.
+
+***Hand Crossbow.*** *Ranged Attack Roll:* `dice:1d20+9|noform|noparens|text(+9)`, range 30/120 ft. *Hit:* `dice:2d6+5|noform|noparens|avg|text(12)` (`2d6 + 5`) Piercing damage plus `dice:2d8|noform|noparens|avg|text(9)` (`2d8`) Poison damage.
+
+***Smoke Bomb (1/Day).*** The spy throws a bomb to a point it can see within 30 feet of itself. *Constitution Saving Throw:* DC 16, each creature in a 20-foot-radius [Sphere](3.Mechanics/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on that point. *Failure:* `dice:8d6|noform|noparens|avg|text(28)` (`8d6`) Poison damage, and the target has the [Blinded](3.Mechanics/rules/conditions.md#Blinded) condition until the end of the spy's next turn. *Success:* Half damage only.
+
+## Bonus Actions
+
+***Cunning Action.*** The spy takes the [Dash](3.Mechanics/rules/actions.md#Dash), [Disengage](3.Mechanics/rules/actions.md#Disengage), or [Hide](3.Mechanics/rules/actions.md#Hide) action.
 ```
 ^statblock
 

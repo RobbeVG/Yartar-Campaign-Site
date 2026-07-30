@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/bard/dance
+title: "College of Dance"
 aliases:
 - "College of Dance"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Dance%20Bard.webp#right)
 
 *Move in Harmony with the Cosmos*
 

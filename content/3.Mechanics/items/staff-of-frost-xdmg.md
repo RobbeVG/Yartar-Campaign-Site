@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Staff of Frost"
 aliases:
 - "Staff of Frost"
 ---
 # Staff of Frost
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
-![](file://items/XDMG/Staff%20of%20Frost.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Staff%20of%20Frost.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

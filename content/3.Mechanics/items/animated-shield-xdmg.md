@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/shield/
+title: "Animated Shield"
 aliases:
 - "Animated Shield"
 ---
 # Animated Shield
 *Armor ([shield](3.Mechanics/items/shield-xphb.md)), very rare (requires attunement)*  
-![](file://items/XDMG/Animated%20Shield.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Animated%20Shield.webp#right)
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

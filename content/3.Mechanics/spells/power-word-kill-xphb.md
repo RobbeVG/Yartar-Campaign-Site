@@ -15,6 +15,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Power Word Kill"
 aliases:
 - "Power Word Kill"
 ---

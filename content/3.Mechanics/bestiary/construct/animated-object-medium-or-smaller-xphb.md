@@ -7,38 +7,43 @@ tags:
 - ttrpg-cli/monster/cr/
 - ttrpg-cli/monster/size/unknown
 - ttrpg-cli/monster/type/construct
-statblock: inline
-statblock-link: "#^statblock"
+title: "Animated Object (Medium or Smaller)"
 aliases:
 - "Animated Object (Medium or Smaller)"
 ---
-# [Animated Object (Medium or Smaller)](3.Mechanics/bestiary/construct/animated-object-medium-or-smaller-xphb.md)
+# Animated Object (Medium or Smaller)
 *Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+```ad-statblock
+title: Animated Object (Medium or Smaller)
+*Unknown Construct, Unaligned*
 
-```statblock
-"name": "Animated Object (Medium or Smaller) (XPHB)"
-"size": "Unknown"
-"type": "construct"
-"alignment": "Unaligned"
-"ac": !!int "15"
-"hp": !!int "10"
-"modifier": !!int "0"
-"stats":
-  - !!int "16"
-  - !!int "10"
-  - !!int "10"
-  - !!int "3"
-  - !!int "3"
-  - !!int "1"
-"speed": "30 ft."
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 6"
-"languages": "understands the languages you know"
-"actions":
-  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
-      \ ft. *Hit:* Force damage equal to 1d4 + 3 + your spellcasting ability modifier."
-    "name": "Slam"
-"source":
-  - "XPHB"
+- **Armor Class** 15 
+- **Hit Points** 10  
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16 | +3 | +3 |
+|Int| 3 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | +0 |
+|Wis| 3 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 10 | +0 | +0 |
+|Cha| 1 | -5 | -5 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., Passive Perception 6
+- **Languages** Understands the languages you know
+- **Challenge** 
+
+## Actions
+
+***Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* Force damage equal to 1d4 + 3 + your spellcasting ability modifier.
 ```
 ^statblock

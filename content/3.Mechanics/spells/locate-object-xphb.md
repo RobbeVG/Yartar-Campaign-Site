@@ -27,6 +27,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Diviner)
+title: "Locate Object"
 aliases:
 - "Locate Object"
 ---

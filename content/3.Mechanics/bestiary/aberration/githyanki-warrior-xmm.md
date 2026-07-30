@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration/gith
-statblock: inline
-statblock-link: "#^statblock"
+title: "Githyanki Warrior"
 aliases:
 - "Githyanki Warrior"
 ---
-# [Githyanki Warrior](3.Mechanics/bestiary/aberration/githyanki-warrior-xmm.md)
+# Githyanki Warrior
 *Source: Monster Manual (2024) p. 134*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Githyanki.webp#right)
 
 Githyanki warriors use psionic abilities to augment their battle prowess.
 
@@ -36,52 +36,53 @@ The victory of the gith was short-lived. As Gith was forging her own burgeoning 
 
 When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaakith's line has continued to the githyanki's current ruler, Vlaakith the Lich-Queen. This undead tyrant compels her people to wage endless wars against mind flayers, githzerai, and any others that threaten githyanki supremacy.
 
-```statblock
-"name": "Githyanki Warrior (XMM)"
-"size": "Medium"
-"type": "aberration"
-"subtype": "gith"
-"alignment": "Lawful Evil"
-"ac": !!int "17"
-"hp": !!int "49"
-"hit_dice": "9d8 + 9"
-"modifier": !!int "4"
-"stats":
-  - !!int "15"
-  - !!int "14"
-  - !!int "12"
-  - !!int "13"
-  - !!int "13"
-  - !!int "10"
-"speed": "30 ft."
-"saves":
-  - "constitution": !!int "3"
-  - "intelligence": !!int "3"
-  - "wisdom": !!int "3"
-"gear":
-  - "[half plate armor](3.Mechanics/items/half-plate-armor-xphb.md)"
-"senses": "passive Perception 11"
-"languages": "Common, Gith"
-"cr": "3"
-"actions":
-  - "desc": "The githyanki makes two Psi Blade attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:2d6+2|noform|noparens|avg|text(9) (2d6 + 2) Slashing damage\
-      \ plus dice:2d6|noform|noparens|avg|text(7) (2d6) Psychic damage."
-    "name": "Psi Blade"
-  - "desc": "The githyanki casts one of the following spells, requiring no spell components\
-      \ and using Intelligence as the spellcasting ability:\n\n**At will:** [Mage\
-      \ Hand](3.Mechanics/spells/mage-hand-xphb.md) (the hand is [Invisible](3.Mechanics/rules/conditions.md#Invisible))\n\
-      \n**2/day:** [Nondetection](3.Mechanics/spells/nondetection-xphb.md) (self only)"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The githyanki casts [Misty Step](3.Mechanics/spells/misty-step-xphb.md),\
-      \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
-    "name": "Misty Step (2/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Githyanki%20Warrior.webp"
+```ad-statblock
+title: Githyanki Warrior
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Githyanki%20Warrior.webp#token)
+*Medium Aberration (gith), Lawful Evil*
+
+- **Armor Class** 17 
+- **Hit Points** 49 (9d8 + 9) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 15 | +2 | +2 |
+|Int| 13 | +1 | **+3** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 13 | +1 | **+3** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | **+3** |
+|Cha| 10 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Constitution +3, Intelligence +3, Wisdom +3
+- **Skills** ⏤
+- **Gear** [half plate armor](3.Mechanics/items/half-plate-armor-xphb.md)
+- **Senses** Passive Perception 11
+- **Languages** Common, Gith
+- **Challenge** 3
+
+## Actions
+
+***Multiattack.*** The githyanki makes two Psi Blade attacks.
+
+***Psi Blade.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:2d6+2|noform|noparens|avg|text(9)` (`2d6 + 2`) Slashing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Psychic damage.
+
+***Spellcasting.*** The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability:
+
+**At will:** [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md) (the hand is [Invisible](3.Mechanics/rules/conditions.md#Invisible))
+
+**2/day:** [Nondetection](3.Mechanics/spells/nondetection-xphb.md) (self only)
+
+## Bonus Actions
+
+***Misty Step (2/Day).*** The githyanki casts [Misty Step](3.Mechanics/spells/misty-step-xphb.md), requiring no spell components and using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
 

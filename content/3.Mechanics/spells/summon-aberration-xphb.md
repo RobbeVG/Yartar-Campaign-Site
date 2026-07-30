@@ -21,12 +21,13 @@ classes:
 - Warlock
 - Warlock (Great Old One Patron)
 - Wizard
+title: "Summon Aberration"
 aliases:
 - "Summon Aberration"
 ---
 # Summon Aberration
 *4th-level, Conjuration*  
-![](file://spells/XPHB/Summon%20Aberration.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Summon%20Aberration.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

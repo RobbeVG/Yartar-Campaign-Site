@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/arctic
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Winter Wolf"
 aliases:
 - "Winter Wolf"
 ---
-# [Winter Wolf](3.Mechanics/bestiary/monstrosity/winter-wolf-xmm.md)
+# Winter Wolf
 *Source: Monster Manual (2024) p. 334. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Winter%20Wolf.webp#right)
 
 ## Winter Wolf
 
@@ -33,52 +33,46 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 > 
 > You'll never reach it, but at least your last thoughts will be warm.
 
+```ad-statblock
+title: Winter Wolf
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Winter%20Wolf.webp#token)
+*Large Monstrosity, Neutral Evil*
 
-```statblock
-"name": "Winter Wolf (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Neutral Evil"
-"ac": !!int "13"
-"hp": !!int "75"
-"hit_dice": "10d10 + 20"
-"modifier": !!int "1"
-"stats":
-  - !!int "18"
-  - !!int "13"
-  - !!int "14"
-  - !!int "7"
-  - !!int "12"
-  - !!int "8"
-"speed": "50 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+5"
-"damage_immunities": "cold"
-"senses": "passive Perception 15"
-"languages": "Common, Giant"
-"cr": "3"
-"traits":
-  - "desc": "The wolf has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on an attack roll against a creature if at least one of the wolf's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition."
-    "name": "Pack Tactics"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:2d6+4|noform|noparens|avg|text(11) (2d6 + 4) Piercing\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone)\
-      \ condition."
-    "name": "Bite"
-  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 15-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* dice:4d8|noform|noparens|avg|text(18) (4d8) Cold damage. *Success:*\
-      \ Half damage."
-    "name": "Cold Breath (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Winter%20Wolf.webp"
+- **Armor Class** 13 
+- **Hit Points** 75 (10d10 + 20) 
+- **Speed** 50 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 7 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 13 | +1 | +1 |
+|Wis| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14 | +2 | +2 |
+|Cha| 8 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
+- **Damage Immunities** Cold
+- **Senses** Passive Perception 15
+- **Languages** Common, Giant
+- **Challenge** 3
+
+## Traits
+
+***Pack Tactics.*** The wolf has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition.
+
+## Actions
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:2d6+4|noform|noparens|avg|text(11)` (`2d6 + 4`) Piercing damage. If the target is a Large or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition.
+
+***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw:* DC 12, each creature in a 15-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) Cold damage. *Success:* Half damage.
 ```
 ^statblock
 

@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/wand
+title: "Wand of Fireballs"
 aliases:
 - "Wand of Fireballs"
 ---
 # Wand of Fireballs
 *Wand, rare (requires attunement by a spellcaster)*  
-![](file://items/XDMG/Wand%20of%20Fireballs.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Wand%20of%20Fireballs.webp#right)
 
 - **Weight**: 1.0 lbs.
 

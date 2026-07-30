@@ -15,6 +15,7 @@ classes:
 - Cleric (Trickery Domain)
 - Warlock (Great Old One Patron)
 - Wizard
+title: "Modify Memory"
 aliases:
 - "Modify Memory"
 ---

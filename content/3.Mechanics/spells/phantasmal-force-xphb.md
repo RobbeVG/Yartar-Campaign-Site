@@ -25,6 +25,7 @@ classes:
 - Warlock (Great Old One Patron)
 - Wizard
 - Wizard (Illusionist)
+title: "Phantasmal Force"
 aliases:
 - "Phantasmal Force"
 ---

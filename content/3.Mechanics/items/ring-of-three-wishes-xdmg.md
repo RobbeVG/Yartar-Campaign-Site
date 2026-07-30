@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/ring
+title: "Ring of Three Wishes"
 aliases:
 - "Ring of Three Wishes"
 ---
 # Ring of Three Wishes
 *Ring, legendary*  
-![](file://items/XDMG/Ring%20of%20Three%20Wishes.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ring%20of%20Three%20Wishes.webp#right)
 
 
 While wearing this ring, you can expend 1 of its 3 charges to cast [Wish](3.Mechanics/spells/wish-xphb.md) from it. The ring becomes nonmagical when you use the last charge.

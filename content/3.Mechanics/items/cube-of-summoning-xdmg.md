@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+title: "Cube of Summoning"
 aliases:
 - "Cube of Summoning"
 ---
 # Cube of Summoning
 *Wondrous item, rare*  
-![](file://items/XDMG/Cube%20of%20Summoning.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Cube%20of%20Summoning.webp#right)
 
 
 This Tiny cube looks like a jack-in-the-box. When you wind its crank as a [Magic](3.Mechanics/rules/actions.md#Magic) action, a merry tune emits from the box, the lid pops open, a creature appears in the nearest unoccupied space, and the lid closes. The lid can't otherwise be opened.

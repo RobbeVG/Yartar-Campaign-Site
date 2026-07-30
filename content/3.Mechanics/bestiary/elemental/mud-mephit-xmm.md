@@ -9,13 +9,16 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/elemental
-statblock: inline
-statblock-link: "#^statblock"
+title: "Mud Mephit"
 aliases:
 - "Mud Mephit"
+conditionImmunities:
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Mud Mephit](3.Mechanics/bestiary/elemental/mud-mephit-xmm.md)
+# Mud Mephit
 *Source: Monster Manual (2024) p. 207*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Mephits.webp#right)
 
 A combination of earth and water, mud mephits are crude, disgusting creatures. They take every opportunity to ruin objects and pollute food with muck.
 
@@ -35,51 +38,47 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 > I am Seamusxanthuszenus, Slayer of Fiends, Merchant Most Excellent, Purveyor of Death!
 
 
-```statblock
-"name": "Mud Mephit (XMM)"
-"size": "Small"
-"type": "elemental"
-"alignment": "Neutral Evil"
-"ac": !!int "11"
-"hp": !!int "13"
-"hit_dice": "3d6 + 3"
-"modifier": !!int "1"
-"stats":
-  - !!int "8"
-  - !!int "12"
-  - !!int "12"
-  - !!int "9"
-  - !!int "11"
-  - !!int "7"
-"speed": "20 ft., fly 20 ft., swim 20 ft."
-"skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+3"
-"damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Primordial (Aquan, Terran)"
-"cr": "1/4"
-"traits":
-  - "desc": "The mephit explodes when it dies. *Dexterity Saving Throw:* DC 11, each\
-      \ creature in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the mephit. *Failure:* The target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition until the end of its next turn."
-    "name": "Death Burst"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+3|noform|noparens|text(+3), reach 5\
-      \ ft. *Hit:* dice:1d6+1|noform|noparens|avg|text(4) (1d6 + 1) Bludgeoning\
-      \ damage."
-    "name": "Slam"
-  - "desc": "*Dexterity Saving Throw:* DC 11, one creature the mephit can see within\
-      \ 15 feet. *Failure:* The target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition until the end of the mephit's next turn."
-    "name": "Mud Breath (Recharge 6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Mud%20Mephit.webp"
+```ad-statblock
+title: Mud Mephit
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mud%20Mephit.webp#token)
+*Small Elemental, Neutral Evil*
+
+- **Armor Class** 11 
+- **Hit Points** 13 (3d6 + 3) 
+- **Speed** 20 ft., fly 20 ft., swim 20 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 8 | -1 | -1 |
+|Int| 9 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 11 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 7 | -2 | -2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
+- **Damage Immunities** Poison
+- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Primordial (Aquan, Terran)
+- **Challenge** 1/4
+
+## Traits
+
+***Death Burst.*** The mephit explodes when it dies. *Dexterity Saving Throw:* DC 11, each creature in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the mephit. *Failure:* The target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition until the end of its next turn.
+
+## Actions
+
+***Slam.*** *Melee Attack Roll:* `dice:1d20+3|noform|noparens|text(+3)`, reach 5 ft. *Hit:* `dice:1d6+1|noform|noparens|avg|text(4)` (`1d6 + 1`) Bludgeoning damage.
+
+***Mud Breath (Recharge 6).*** *Dexterity Saving Throw:* DC 11, one creature the mephit can see within 15 feet. *Failure:* The target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition until the end of the mephit's next turn.
 ```
 ^statblock
 

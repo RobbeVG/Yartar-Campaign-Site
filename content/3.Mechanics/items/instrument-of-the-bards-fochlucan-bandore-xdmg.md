@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/gear/instrument
 - ttrpg-cli/item/rarity/uncommon
+title: "Instrument of the Bards, Fochlucan Bandore"
 aliases:
 - "Instrument of the Bards, Fochlucan Bandore"
 ---
 # Instrument of the Bards, Fochlucan Bandore
 *Wondrous item, instrument, uncommon (requires attunement by a bard)*  
-![](file://items/XDMG/Fochlucan%20Bandore.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Fochlucan%20Bandore.webp#right)
 
 
 An Instrument of the Bards is superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a bard college. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take `dice:2d4|noform|noparens|avg` (`2d4`) Psychic damage.

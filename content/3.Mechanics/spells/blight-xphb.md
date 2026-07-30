@@ -23,6 +23,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Blight"
 aliases:
 - "Blight"
 ---

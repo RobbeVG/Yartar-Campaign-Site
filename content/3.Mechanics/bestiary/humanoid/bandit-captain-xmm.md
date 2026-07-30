@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Bandit Captain"
 aliases:
 - "Bandit Captain"
 ---
-# [Bandit Captain](3.Mechanics/bestiary/humanoid/bandit-captain-xmm.md)
+# Bandit Captain
 *Source: Monster Manual (2024) p. 27. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Bandits.webp#right)
 
 Bandit captains command gangs of scoundrels and conduct straightforward heists. Others serve as guards and muscle for more influential criminals.
 
@@ -47,57 +47,48 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 | 6 | Takes what they need to survive. |
 ^bandit-motivations
 
-```statblock
-"name": "Bandit Captain (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "15"
-"hp": !!int "52"
-"hit_dice": "8d8 + 16"
-"modifier": !!int "3"
-"stats":
-  - !!int "15"
-  - !!int "16"
-  - !!int "14"
-  - !!int "14"
-  - !!int "11"
-  - !!int "14"
-"speed": "30 ft."
-"saves":
-  - "strength": !!int "4"
-  - "dexterity": !!int "5"
-  - "wisdom": !!int "2"
-"skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
-    "desc": "+4"
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
-    "desc": "+4"
-"gear":
-  - "[pistol](3.Mechanics/items/pistol-xphb.md)"
-  - "[scimitar](3.Mechanics/items/scimitar-xphb.md)"
-  - "[studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)"
-"senses": "passive Perception 10"
-"languages": "Common, Thieves' cant"
-"cr": "2"
-"actions":
-  - "desc": "The bandit makes two attacks, using Scimitar and Pistol in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:1d6+3|noform|noparens|avg|text(6) (1d6 + 3) Slashing damage."
-    "name": "Scimitar"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+5|noform|noparens|text(+5), range 30/90\
-      \ ft. *Hit:* dice:1d10+3|noform|noparens|avg|text(8) (1d10 + 3) Piercing\
-      \ damage."
-    "name": "Pistol"
-"reactions":
-  - "desc": "Trigger: The bandit is hit by a melee attack roll while holding a weapon.\
-      \ _Response:_ The bandit adds 2 to its AC against that attack, possibly causing\
-      \ it to miss."
-    "name": "Parry"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Bandit%20Captain.webp"
+```ad-statblock
+title: Bandit Captain
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bandit%20Captain.webp#token)
+*Small or Medium Humanoid, Neutral*
+
+- **Armor Class** 15 
+- **Hit Points** 52 (8d8 + 16) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 15 | +2 | **+4** |
+|Int| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16 | +3 | **+5** |
+|Wis| 11 | +0 | **+2** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14 | +2 | +2 |
+|Cha| 14 | +2 | +2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Strength +4, Dexterity +5, Wisdom +2
+- **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +4, [Deception](3.Mechanics/rules/skills.md#Deception) +4
+- **Gear** [pistol](3.Mechanics/items/pistol-xphb.md), [scimitar](3.Mechanics/items/scimitar-xphb.md), [studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)
+- **Senses** Passive Perception 10
+- **Languages** Common, Thieves' cant
+- **Challenge** 2
+
+## Actions
+
+***Multiattack.*** The bandit makes two attacks, using Scimitar and Pistol in any combination.
+
+***Scimitar.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d6+3|noform|noparens|avg|text(6)` (`1d6 + 3`) Slashing damage.
+
+***Pistol.*** *Ranged Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, range 30/90 ft. *Hit:* `dice:1d10+3|noform|noparens|avg|text(8)` (`1d10 + 3`) Piercing damage.
+
+## Reactions
+
+***Parry.*** Trigger: The bandit is hit by a melee attack roll while holding a weapon. _Response:_ The bandit adds 2 to its AC against that attack, possibly causing it to miss.
 ```
 ^statblock
 

@@ -15,6 +15,7 @@ classes:
 - Bard
 - Paladin
 - Paladin (Oath of Glory)
+title: "Heroism"
 aliases:
 - "Heroism"
 ---

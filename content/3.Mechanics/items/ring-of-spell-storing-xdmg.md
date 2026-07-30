@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/ring
+title: "Ring of Spell Storing"
 aliases:
 - "Ring of Spell Storing"
 ---
 # Ring of Spell Storing
 *Ring, rare (requires attunement)*  
-![](file://items/XDMG/Ring%20of%20Spell%20Storing.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ring%20of%20Spell%20Storing.webp#right)
 
 
 This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains `dice:1d6-1|noform|noparens|avg` (`1d6 - 1`) levels of stored spells chosen by the DM.

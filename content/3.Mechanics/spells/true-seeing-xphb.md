@@ -19,6 +19,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
+title: "True Seeing"
 aliases:
 - "True Seeing"
 ---

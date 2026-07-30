@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/wand
+title: "Wand of Web"
 aliases:
 - "Wand of Web"
 ---
 # Wand of Web
 *Wand, uncommon (requires attunement by a spellcaster)*  
-![](file://items/XDMG/Wand%20of%20Web.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Wand%20of%20Web.webp#right)
 
 - **Weight**: 1.0 lbs.
 

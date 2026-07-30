@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid/wizard
-statblock: inline
-statblock-link: "#^statblock"
+title: "Mage"
 aliases:
 - "Mage"
 ---
-# [Mage](3.Mechanics/bestiary/humanoid/mage-xmm.md)
+# Mage
 *Source: Monster Manual (2024) p. 199. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Mages.webp#right)
 
 Mages are accomplished spellcasters whose lives have been shaped by magic. They can use their powers to defend or dominate other creatures, or they could focus on magical research and unlocking mystical secrets.
 
@@ -52,66 +52,60 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 > Have you gazed on the Runes of Chaos, held the Death Moon Orb in your trembling hands, entered the Devouring Portal and walked the Paths of the Doomed, or sat at the left hand of Szass Tam during the Ritual of Twin Burnings? No? Then speak not to me of wizards. Speak not to me of Thay.
 
 
-```statblock
-"name": "Mage (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"subtype": "wizard"
-"alignment": "Neutral"
-"ac": !!int "15"
-"hp": !!int "81"
-"hit_dice": "18d8"
-"modifier": !!int "2"
-"stats":
-  - !!int "9"
-  - !!int "14"
-  - !!int "11"
-  - !!int "17"
-  - !!int "12"
-  - !!int "11"
-"speed": "30 ft."
-"saves":
-  - "intelligence": !!int "6"
-  - "wisdom": !!int "4"
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+6"
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
-    "desc": "+6"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-"gear":
-  - "[wand](3.Mechanics/items/wand-xphb.md)"
-"senses": "passive Perception 14"
-"languages": "Common plus three other languages"
-"cr": "6"
-"actions":
-  - "desc": "The mage makes three Arcane Burst attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+6|noform|noparens|text(+6),\
-      \ reach 5 ft. or range 120 ft. *Hit:* dice:3d8+3|noform|noparens|avg|text(16)\
-      \ (3d8 + 3) Force damage."
-    "name": "Arcane Burst"
-  - "desc": "The mage casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 14):\n\n**At will:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md),\
-      \ [Light](3.Mechanics/spells/light-xphb.md), [Mage Armor](3.Mechanics/spells/mage-armor-xphb.md)\
-      \ (included in AC), [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md), [Prestidigitation](3.Mechanics/spells/prestidigitation-xphb.md)\n\
-      \n**2/day each:** [Fireball](3.Mechanics/spells/fireball-xphb.md) (level 4 version),\
-      \ [Invisibility](3.Mechanics/spells/invisibility-xphb.md)\n\n**1/day each:**\
-      \ [Cone of Cold](3.Mechanics/spells/cone-of-cold-xphb.md), [Fly](3.Mechanics/spells/fly-xphb.md)"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The mage casts [Misty Step](3.Mechanics/spells/misty-step-xphb.md), using\
-      \ the same spellcasting ability as Spellcasting.\n"
-    "name": "Misty Step (3/Day)"
-"reactions":
-  - "desc": "The mage casts [Counterspell](3.Mechanics/spells/counterspell-xphb.md)\
-      \ or [Shield](3.Mechanics/spells/shield-xphb.md) in response to the spell's\
-      \ trigger, using the same spellcasting ability as Spellcasting.\n"
-    "name": "Protective Magic (3/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Mage.webp"
+```ad-statblock
+title: Mage
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mage.webp#token)
+*Small or Medium Humanoid (wizard), Neutral*
+
+- **Armor Class** 15 
+- **Hit Points** 81 (18d8) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 9 | -1 | -1 |
+|Int| 17 | +3 | **+6** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 12 | +1 | **+4** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 11 | +0 | +0 |
+|Cha| 11 | +0 | +0 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Intelligence +6, Wisdom +4
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +6, [History](3.Mechanics/rules/skills.md#History) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +4
+- **Gear** [wand](3.Mechanics/items/wand-xphb.md)
+- **Senses** Passive Perception 14
+- **Languages** Common plus three other languages
+- **Challenge** 6
+
+## Actions
+
+***Multiattack.*** The mage makes three Arcane Burst attacks.
+
+***Arcane Burst.*** *Melee  or Ranged Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. or range 120 ft. *Hit:* `dice:3d8+3|noform|noparens|avg|text(16)` (`3d8 + 3`) Force damage.
+
+***Spellcasting.*** The mage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):
+
+**At will:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md), [Light](3.Mechanics/spells/light-xphb.md), [Mage Armor](3.Mechanics/spells/mage-armor-xphb.md) (included in AC), [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md), [Prestidigitation](3.Mechanics/spells/prestidigitation-xphb.md)
+
+**2/day each:** [Fireball](3.Mechanics/spells/fireball-xphb.md) (level 4 version), [Invisibility](3.Mechanics/spells/invisibility-xphb.md)
+
+**1/day each:** [Cone of Cold](3.Mechanics/spells/cone-of-cold-xphb.md), [Fly](3.Mechanics/spells/fly-xphb.md)
+
+## Bonus Actions
+
+***Misty Step (3/Day).*** The mage casts [Misty Step](3.Mechanics/spells/misty-step-xphb.md), using the same spellcasting ability as Spellcasting.
+
+
+## Reactions
+
+***Protective Magic (3/Day).*** The mage casts [Counterspell](3.Mechanics/spells/counterspell-xphb.md) or [Shield](3.Mechanics/spells/shield-xphb.md) in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
 

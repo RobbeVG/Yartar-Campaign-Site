@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Luminous War Pick"
 aliases:
 - "Luminous War Pick"
 ---
 # Luminous War Pick
 *Weapon ([war pick](3.Mechanics/items/war-pick-xphb.md)), rare (requires attunement)*  
-![](file://items/PaBTSO/Luminous%20War%20Pick.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/PaBTSO/Luminous%20War%20Pick.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Weight**: 2.0 lbs.

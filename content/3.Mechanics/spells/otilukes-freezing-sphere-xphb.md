@@ -15,6 +15,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Otiluke's Freezing Sphere"
 aliases:
 - "Otiluke's Freezing Sphere"
 ---

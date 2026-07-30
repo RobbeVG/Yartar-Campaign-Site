@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/warlock/great-old-one
+title: "Great Old One Patron"
 aliases:
 - "Great Old One Patron"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Great%20Old%20One%20Warlock.webp#right)
 
 *Unearth Forbidden Lore of Ineffable Beings*
 

@@ -16,6 +16,7 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
+title: "Animal Messenger"
 aliases:
 - "Animal Messenger"
 ---

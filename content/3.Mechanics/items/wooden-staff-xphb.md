@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/simple
+title: "Wooden Staff"
 aliases:
 - "Wooden Staff"
 ---

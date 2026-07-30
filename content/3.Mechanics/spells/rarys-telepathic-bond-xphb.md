@@ -16,6 +16,7 @@ classes:
 - Sorcerer (Aberrant Sorcery)
 - Wizard
 - Wizard (Diviner)
+title: "Rary's Telepathic Bond"
 aliases:
 - "Rary's Telepathic Bond"
 ---

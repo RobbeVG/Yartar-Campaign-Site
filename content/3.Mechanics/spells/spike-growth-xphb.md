@@ -15,6 +15,7 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
+title: "Spike Growth"
 aliases:
 - "Spike Growth"
 ---

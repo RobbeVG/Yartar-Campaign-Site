@@ -13,6 +13,7 @@ classes:
 - Bard
 - Bard (College of Lore)
 - Druid
+title: "Heat Metal"
 aliases:
 - "Heat Metal"
 ---

@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/forest
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fey
-statblock: inline
-statblock-link: "#^statblock"
+title: "Dryad"
 aliases:
 - "Dryad"
 ---
-# [Dryad](3.Mechanics/bestiary/fey/dryad-xmm.md)
+# Dryad
 *Source: Monster Manual (2024) p. 107. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Dryad.webp#right)
 
 ## Dryad
 
@@ -38,66 +38,59 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 | 5 | A plant with magic fruit or remarkable seeds. |
 | 6 | A shambling mound or treant that the dryad lives in or around as a Fey symbiote. |
 ^dryad-sanctuaries
+```ad-statblock
+title: Dryad
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Dryad.webp#token)
+*Medium Fey, Neutral*
 
-```statblock
-"name": "Dryad (XMM)"
-"size": "Medium"
-"type": "fey"
-"alignment": "Neutral"
-"ac": !!int "16"
-"hp": !!int "22"
-"hit_dice": "5d8"
-"modifier": !!int "1"
-"stats":
-  - !!int "10"
-  - !!int "12"
-  - !!int "11"
-  - !!int "14"
-  - !!int "15"
-  - !!int "18"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+5"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
-"languages": "Elvish, Sylvan"
-"cr": "1"
-"traits":
-  - "desc": "The dryad has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-  - "desc": "The dryad can communicate with Beasts and Plants as if they shared a\
-      \ language."
-    "name": "Speak with Beasts and Plants"
-"actions":
-  - "desc": "The dryad makes one Vine Lash or Thorn Burst attack, and it can use Spellcasting\
-      \ to cast [Charm Monster](3.Mechanics/spells/charm-monster-xphb.md)."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 10\
-      \ ft. *Hit:* dice:1d8+4|noform|noparens|avg|text(8) (1d8 + 4) Slashing damage."
-    "name": "Vine Lash"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+6|noform|noparens|text(+6), range 60\
-      \ ft. *Hit:* dice:1d6+4|noform|noparens|avg|text(7) (1d6 + 4) Piercing damage."
-    "name": "Thorn Burst"
-  - "desc": "The dryad casts one of the following spells, requiring no Material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 14):\n\n**At\
-      \ will:** [Animal Friendship](3.Mechanics/spells/animal-friendship-xphb.md),\
-      \ [Charm Monster](3.Mechanics/spells/charm-monster-xphb.md) (lasts 24 hours;\
-      \ ends early if the dryad casts the spell again), [Druidcraft](3.Mechanics/spells/druidcraft-xphb.md)\n\
-      \n**1/day each:** [Entangle](3.Mechanics/spells/entangle-xphb.md), [Pass without\
-      \ Trace](3.Mechanics/spells/pass-without-trace-xphb.md)"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "If within 5 feet of a Large or bigger tree, the dryad teleports to an\
-      \ unoccupied space within 5 feet of a second Large or bigger tree that is within\
-      \ 60 feet of the previous tree."
-    "name": "Tree Stride"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Dryad.webp"
+- **Armor Class** 16 
+- **Hit Points** 22 (5d8) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10 | +0 | +0 |
+|Int| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 15 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 11 | +0 | +0 |
+|Cha| 18 | +4 | +4 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 14
+- **Languages** Elvish, Sylvan
+- **Challenge** 1
+
+## Traits
+
+***Magic Resistance.*** The dryad has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+***Speak with Beasts and Plants.*** The dryad can communicate with Beasts and Plants as if they shared a language.
+
+## Actions
+
+***Multiattack.*** The dryad makes one Vine Lash or Thorn Burst attack, and it can use Spellcasting to cast [Charm Monster](3.Mechanics/spells/charm-monster-xphb.md).
+
+***Vine Lash.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 10 ft. *Hit:* `dice:1d8+4|noform|noparens|avg|text(8)` (`1d8 + 4`) Slashing damage.
+
+***Thorn Burst.*** *Ranged Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, range 60 ft. *Hit:* `dice:1d6+4|noform|noparens|avg|text(7)` (`1d6 + 4`) Piercing damage.
+
+***Spellcasting.*** The dryad casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14):
+
+**At will:** [Animal Friendship](3.Mechanics/spells/animal-friendship-xphb.md), [Charm Monster](3.Mechanics/spells/charm-monster-xphb.md) (lasts 24 hours; ends early if the dryad casts the spell again), [Druidcraft](3.Mechanics/spells/druidcraft-xphb.md)
+
+**1/day each:** [Entangle](3.Mechanics/spells/entangle-xphb.md), [Pass without Trace](3.Mechanics/spells/pass-without-trace-xphb.md)
+
+## Bonus Actions
+
+***Tree Stride.*** If within 5 feet of a Large or bigger tree, the dryad teleports to an unoccupied space within 5 feet of a second Large or bigger tree that is within 60 feet of the previous tree.
 ```
 ^statblock
 

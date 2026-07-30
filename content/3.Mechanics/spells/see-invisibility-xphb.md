@@ -23,6 +23,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Diviner)
+title: "See Invisibility"
 aliases:
 - "See Invisibility"
 ---

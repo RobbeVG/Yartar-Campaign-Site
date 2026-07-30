@@ -114,7 +114,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Deer
 > ![Deer](3.Mechanics/bestiary/beast/deer-xmm.md#^statblock)
 
-![Dire Wolf](file://book/XMM/005-27-006.dire-wolf.webp#center)
+![Dire Wolf](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/005-27-006.dire-wolf.webp#center)
 
 > [!embed-monster]- Dire Wolf
 > ![Dire Wolf](3.Mechanics/bestiary/beast/dire-wolf-xmm.md#^statblock)
@@ -122,7 +122,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Draft Horse
 > ![Draft Horse](3.Mechanics/bestiary/beast/draft-horse-xmm.md#^statblock)
 
-![Elephant](file://book/XMM/006-27-007.elephant.webp#center)
+![Elephant](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/006-27-007.elephant.webp#center)
 
 > [!embed-monster]- Elephant
 > ![Elephant](3.Mechanics/bestiary/beast/elephant-xmm.md#^statblock)
@@ -139,7 +139,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Frog
 > ![Frog](3.Mechanics/bestiary/beast/frog-xmm.md#^statblock)
 
-![A giant ape defends its territory from giant bats](file://book/XMM/007-27-008.giant-ape.webp#center)
+![A giant ape defends its territory from giant bats](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/007-27-008.giant-ape.webp#center)
 
 > [!embed-monster]- Giant Ape
 > ![Giant Ape](3.Mechanics/bestiary/beast/giant-ape-xmm.md#^statblock)
@@ -150,7 +150,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Giant Bat
 > ![Giant Bat](3.Mechanics/bestiary/beast/giant-bat-xmm.md#^statblock)
 
-![Giant Boar](file://book/XMM/008-27-009.giant-boar.webp#center)
+![Giant Boar](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/008-27-009.giant-boar.webp#center)
 
 > [!embed-monster]- Giant Boar
 > ![Giant Boar](3.Mechanics/bestiary/beast/giant-boar-xmm.md#^statblock)
@@ -164,7 +164,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Giant Crab
 > ![Giant Crab](3.Mechanics/bestiary/beast/giant-crab-xmm.md#^statblock)
 
-![Giant Crab](file://book/XMM/009-27-010.giant-crab.webp#center)
+![Giant Crab](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/009-27-010.giant-crab.webp#center)
 
 > [!embed-monster]- Giant Crocodile
 > ![Giant Crocodile](3.Mechanics/bestiary/beast/giant-crocodile-xmm.md#^statblock)
@@ -181,7 +181,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Giant Frog
 > ![Giant Frog](3.Mechanics/bestiary/beast/giant-frog-xmm.md#^statblock)
 
-![Giant Goat](file://book/XMM/010-27-011.giant-goat.webp#center)
+![Giant Goat](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/010-27-011.giant-goat.webp#center)
 
 > [!embed-monster]- Giant Goat
 > ![Giant Goat](3.Mechanics/bestiary/beast/giant-goat-xmm.md#^statblock)
@@ -192,7 +192,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Giant Lizard
 > ![Giant Lizard](3.Mechanics/bestiary/beast/giant-lizard-xmm.md#^statblock)
 
-![Giant Lizard](file://book/XMM/011-27-012.giant-lizard.webp#center)
+![Giant Lizard](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/011-27-012.giant-lizard.webp#center)
 
 > [!embed-monster]- Giant Octopus
 > ![Giant Octopus](3.Mechanics/bestiary/beast/giant-octopus-xmm.md#^statblock)
@@ -218,7 +218,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Giant Squid
 > ![Giant Squid](3.Mechanics/bestiary/beast/giant-squid-xmm.md#^statblock)
 
-![Giant Squid](file://book/XMM/012-27-013.giant-squid.webp#center)
+![Giant Squid](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/012-27-013.giant-squid.webp#center)
 
 > [!embed-monster]- Giant Toad
 > ![Giant Toad](3.Mechanics/bestiary/beast/giant-toad-xmm.md#^statblock)
@@ -229,7 +229,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Giant Vulture
 > ![Giant Vulture](3.Mechanics/bestiary/monstrosity/giant-vulture-xmm.md#^statblock)
 
-![A gnome rogue distracts a hive of giant wasps while Sheila the thief sneaks by](file://book/XMM/013-27-015.giant-wasp.webp#center)
+![A gnome rogue distracts a hive of giant wasps while Sheila the thief sneaks by](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/013-27-015.giant-wasp.webp#center)
 
 > [!embed-monster]- Giant Wasp
 > ![Giant Wasp](3.Mechanics/bestiary/beast/giant-wasp-xmm.md#^statblock)
@@ -237,17 +237,17 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Giant Weasel
 > ![Giant Weasel](3.Mechanics/bestiary/beast/giant-weasel-xmm.md#^statblock)
 
-![Giant Weasel](file://book/XMM/014-27-014.giant-weasel.webp#center)
+![Giant Weasel](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/014-27-014.giant-weasel.webp#center)
 
 > [!embed-monster]- Giant Wolf Spider
 > ![Giant Wolf Spider](3.Mechanics/bestiary/beast/giant-wolf-spider-xmm.md#^statblock)
 
-![Giant Wolf Spider](file://book/XMM/015-27-016.giant-spider.webp#center)
+![Giant Wolf Spider](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/015-27-016.giant-spider.webp#center)
 
 > [!embed-monster]- Goat
 > ![Goat](3.Mechanics/bestiary/beast/goat-xmm.md#^statblock)
 
-![Hawk](file://book/XMM/016-27-017.hawk.webp#center)
+![Hawk](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/016-27-017.hawk.webp#center)
 
 > [!embed-monster]- Hawk
 > ![Hawk](3.Mechanics/bestiary/beast/hawk-xmm.md#^statblock)
@@ -258,7 +258,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Hunter Shark
 > ![Hunter Shark](3.Mechanics/bestiary/beast/hunter-shark-xmm.md#^statblock)
 
-![Aquatic animals swim alongside a druid exploring the sea](file://book/XMM/017-27-018.druid-with-fish.webp#center)
+![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/017-27-018.druid-with-fish.webp#center)
 
 > [!embed-monster]- Hyena
 > ![Hyena](3.Mechanics/bestiary/beast/hyena-xmm.md#^statblock)
@@ -269,7 +269,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Killer Whale
 > ![Killer Whale](3.Mechanics/bestiary/beast/killer-whale-xmm.md#^statblock)
 
-![Lion](file://book/XMM/018-27-019.lion.webp#center)
+![Lion](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/018-27-019.lion.webp#center)
 
 > [!embed-monster]- Lion
 > ![Lion](3.Mechanics/bestiary/beast/lion-xmm.md#^statblock)
@@ -286,12 +286,12 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Mule
 > ![Mule](3.Mechanics/bestiary/beast/mule-xmm.md#^statblock)
 
-![Octopus](file://book/XMM/019-27-020.octopus.webp#center)
+![Octopus](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/019-27-020.octopus.webp#center)
 
 > [!embed-monster]- Octopus
 > ![Octopus](3.Mechanics/bestiary/beast/octopus-xmm.md#^statblock)
 
-![Owl](file://book/XMM/020-27-021.owl.webp#center)
+![Owl](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/020-27-021.owl.webp#center)
 
 > [!embed-monster]- Owl
 > ![Owl](3.Mechanics/bestiary/beast/owl-xmm.md#^statblock)
@@ -317,7 +317,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Rat
 > ![Rat](3.Mechanics/bestiary/beast/rat-xmm.md#^statblock)
 
-![An adventurer underestimates the extent of a tavern's giant rat infestation](file://book/XMM/021-27-022.rats.webp#center)
+![An adventurer underestimates the extent of a tavern's giant rat infestation](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/021-27-022.rats.webp#center)
 
 > [!embed-monster]- Raven
 > ![Raven](3.Mechanics/bestiary/beast/raven-xmm.md#^statblock)
@@ -328,7 +328,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Rhinoceros
 > ![Rhinoceros](3.Mechanics/bestiary/beast/rhinoceros-xmm.md#^statblock)
 
-![Rhinoceros](file://book/XMM/022-27-023.rhinoceros.webp#center)
+![Rhinoceros](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/022-27-023.rhinoceros.webp#center)
 
 > [!embed-monster]- Riding Horse
 > ![Riding Horse](3.Mechanics/bestiary/beast/riding-horse-xmm.md#^statblock)
@@ -339,7 +339,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Scorpion
 > ![Scorpion](3.Mechanics/bestiary/beast/scorpion-xmm.md#^statblock)
 
-![Scorpion](file://book/XMM/023-27-024.scorpion.webp#center)
+![Scorpion](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/023-27-024.scorpion.webp#center)
 
 > [!embed-monster]- Seahorse
 > ![Seahorse](3.Mechanics/bestiary/beast/seahorse-xmm.md#^statblock)
@@ -359,7 +359,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Swarm of Rats
 > ![Swarm of Rats](3.Mechanics/bestiary/beast/swarm-of-rats-xmm.md#^statblock)
 
-![Swarm of Ravens](file://book/XMM/024-27-025.swarm-of-ravens.webp#center)
+![Swarm of Ravens](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/024-27-025.swarm-of-ravens.webp#center)
 
 > [!embed-monster]- Swarm of Ravens
 > ![Swarm of Ravens](3.Mechanics/bestiary/beast/swarm-of-ravens-xmm.md#^statblock)
@@ -373,7 +373,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Triceratops
 > ![Triceratops](3.Mechanics/bestiary/beast/triceratops-xmm.md#^statblock)
 
-![Tyrannosaurus Rex](file://book/XMM/025-27-026.tyrannosaurus.webp#center)
+![Tyrannosaurus Rex](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/025-27-026.tyrannosaurus.webp#center)
 
 > [!embed-monster]- Tyrannosaurus Rex
 > ![Tyrannosaurus Rex](3.Mechanics/bestiary/beast/tyrannosaurus-rex-xmm.md#^statblock)
@@ -393,4 +393,4 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Wolf
 > ![Wolf](3.Mechanics/bestiary/beast/wolf-xmm.md#^statblock)
 
-![Inhabitants of the rain forest answer a druid's summons](file://book/XMM/026-27-027.druid-in-jungle.webp#center)
+![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XMM/026-27-027.druid-in-jungle.webp#center)

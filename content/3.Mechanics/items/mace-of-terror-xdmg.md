@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Mace of Terror"
 aliases:
 - "Mace of Terror"
 ---
 # Mace of Terror
 *Weapon ([mace](3.Mechanics/items/mace-xphb.md)), rare (requires attunement)*  
-![](file://items/XDMG/Mace%20of%20Terror.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Mace%20of%20Terror.webp#right)
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.

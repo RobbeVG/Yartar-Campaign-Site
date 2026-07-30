@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+title: "Belt of Frost Giant Strength"
 aliases:
 - "Belt of Frost Giant Strength"
 ---

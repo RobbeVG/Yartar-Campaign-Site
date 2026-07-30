@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Performer"
 aliases:
 - "Performer"
 ---
-# [Performer](3.Mechanics/bestiary/humanoid/performer-xmm.md)
+# Performer
 *Source: Monster Manual (2024) p. 236*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Performers.webp#right)
 
 Common performers include traveling storytellers, tavern musicians, local entertainers, and chorus members performing with veteran artists. These performers might be self-taught or in the early years of formal training. Most have a modest level of celebrity and two or three instruments or talents at which they excel.
 
@@ -94,49 +94,44 @@ Wrestler
 > Welcome, one! Welcome, all! Welcome to the short, and welcome to the tall! Welcome angels, welcome fiends, welcome to all from walks between! Welcome to the Carnival!
 
 
-```statblock
-"name": "Performer (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "13"
-"hp": !!int "27"
-"hit_dice": "5d8 + 5"
-"modifier": !!int "3"
-"stats":
-  - !!int "12"
-  - !!int "16"
-  - !!int "12"
-  - !!int "13"
-  - !!int "14"
-  - !!int "16"
-"speed": "30 ft."
-"saves":
-  - "dexterity": !!int "5"
-  - "charisma": !!int "5"
-"skillsaves":
-  - "name": "[Acrobatics](3.Mechanics/rules/skills.md#Acrobatics)"
-    "desc": "+5"
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
-    "desc": "+3"
-  - "name": "[Performance](3.Mechanics/rules/skills.md#Performance)"
-    "desc": "+7"
-"gear":
-  - "[shortsword](3.Mechanics/items/shortsword-xphb.md)"
-"senses": "passive Perception 12"
-"languages": "Common plus one other language"
-"cr": "1/2"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:1d6+3|noform|noparens|avg|text(6) (1d6 + 3) Piercing damage."
-    "name": "Shortsword"
-"reactions":
-  - "desc": "Trigger: The performer is hit by an attack roll. _Response:_ The performer\
-      \ halves the damage (round down) it takes from that attack."
-    "name": "Uncanny Dodge"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Performer.webp"
+```ad-statblock
+title: Performer
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Performer.webp#token)
+*Small or Medium Humanoid, Neutral*
+
+- **Armor Class** 13 
+- **Hit Points** 27 (5d8 + 5) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 12 | +1 | +1 |
+|Int| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16 | +3 | **+5** |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 16 | +3 | **+5** |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Dexterity +5, Charisma +5
+- **Skills** [Acrobatics](3.Mechanics/rules/skills.md#Acrobatics) +5, [Athletics](3.Mechanics/rules/skills.md#Athletics) +3, [Performance](3.Mechanics/rules/skills.md#Performance) +7
+- **Gear** [shortsword](3.Mechanics/items/shortsword-xphb.md)
+- **Senses** Passive Perception 12
+- **Languages** Common plus one other language
+- **Challenge** 1/2
+
+## Actions
+
+***Shortsword.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d6+3|noform|noparens|avg|text(6)` (`1d6 + 3`) Piercing damage.
+
+## Reactions
+
+***Uncanny Dodge.*** Trigger: The performer is hit by an attack roll. _Response:_ The performer halves the damage (round down) it takes from that attack.
 ```
 ^statblock
 

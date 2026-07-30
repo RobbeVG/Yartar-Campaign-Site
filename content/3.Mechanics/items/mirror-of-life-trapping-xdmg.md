@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
+title: "Mirror of Life Trapping"
 aliases:
 - "Mirror of Life Trapping"
 ---
 # Mirror of Life Trapping
 *Wondrous item, very rare*  
-![](file://items/XDMG/Mirror%20of%20Life%20Trapping.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Mirror%20of%20Life%20Trapping.webp#right)
 
 - **Weight**: 50.0 lbs.
 

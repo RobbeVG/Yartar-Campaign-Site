@@ -22,6 +22,7 @@ classes:
 - Druid (Circle of the Stars)
 - Paladin (Oath of Glory)
 - Warlock (Celestial Patron)
+title: "Guiding Bolt"
 aliases:
 - "Guiding Bolt"
 ---

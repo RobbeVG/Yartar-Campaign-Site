@@ -15,6 +15,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Dominate Monster"
 aliases:
 - "Dominate Monster"
 ---

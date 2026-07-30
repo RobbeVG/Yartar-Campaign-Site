@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/artifact
+title: "Eye and Hand of Vecna"
 aliases:
 - "Eye and Hand of Vecna"
 ---
 # Eye and Hand of Vecna
 *Wondrous item, artifact (requires attunement)*  
-![](file://items/XDMG/Eye%20and%20Hand%20of%20Vecna.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Eye%20and%20Hand%20of%20Vecna.webp#right)
 
 
 "Vecna" was a mighty wizard who, through magic and conquest, forged a terrible empire. For all his power, however, Vecna feared death and took steps to prevent his demise by becoming a lich.

@@ -14,6 +14,7 @@ tags:
 classes:
 - Bard (College of Lore)
 - Cleric
+title: "Word of Radiance"
 aliases:
 - "Word of Radiance"
 ---

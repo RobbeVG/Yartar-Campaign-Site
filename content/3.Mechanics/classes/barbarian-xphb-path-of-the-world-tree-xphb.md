@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/barbarian/world-tree
+title: "Path of the World Tree"
 aliases:
 - "Path of the World Tree"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/World%20Tree%20Barbarian.webp#right)
 
 *Trace the Roots and Branches of the Multiverse*
 

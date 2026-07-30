@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Lightbringer"
 aliases:
 - "Lightbringer"
 ---

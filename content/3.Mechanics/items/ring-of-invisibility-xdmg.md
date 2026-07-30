@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/ring
+title: "Ring of Invisibility"
 aliases:
 - "Ring of Invisibility"
 ---
 # Ring of Invisibility
 *Ring, legendary (requires attunement)*  
-![](file://items/XDMG/Ring%20of%20Invisibility.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ring%20of%20Invisibility.webp#right)
 
 
 While wearing this ring, you can take a [Magic](3.Mechanics/rules/actions.md#Magic) action to give yourself the [Invisible](3.Mechanics/rules/conditions.md#Invisible) condition. You remain [Invisible](3.Mechanics/rules/conditions.md#Invisible) until the ring is removed or until you take a [Bonus Action](3.Mechanics/rules/variant-rules/bonus-action-xphb.md) to become visible again.

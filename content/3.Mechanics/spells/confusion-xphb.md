@@ -23,6 +23,7 @@ classes:
 - Sorcerer
 - Warlock (Great Old One Patron)
 - Wizard
+title: "Confusion"
 aliases:
 - "Confusion"
 ---

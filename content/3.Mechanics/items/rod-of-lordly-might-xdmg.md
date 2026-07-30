@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/rod
+title: "Rod of Lordly Might"
 aliases:
 - "Rod of Lordly Might"
 ---
 # Rod of Lordly Might
 *Rod, legendary (requires attunement)*  
-![](file://items/XDMG/Rod%20of%20Lordly%20Might.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Rod%20of%20Lordly%20Might.webp#right)
 
 - **Weight**: 2.0 lbs.
 

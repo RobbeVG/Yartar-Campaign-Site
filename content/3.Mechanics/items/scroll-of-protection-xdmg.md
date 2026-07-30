@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/scroll
+title: "Scroll of Protection"
 aliases:
 - "Scroll of Protection"
 ---
 # Scroll of Protection
 *Scroll, rare*  
-![](file://items/XDMG/Scroll%20of%20Protection.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Scroll%20of%20Protection.webp#right)
 
 
 Each Scroll of Protection works against creatures of a specific creature type chosen by the DM or determined by rolling on the following table.

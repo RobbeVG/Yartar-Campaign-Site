@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
+title: "Rival Coin"
 aliases:
 - "Rival Coin"
 ---
 # Rival Coin
 *Wondrous item, common*  
-![](file://items/XDMG/Rival%20Coin.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Rival%20Coin.webp#right)
 
 
 This gold coin has a creature embossed on each side. The two depicted creatures must be famous rivals or enemies of each other. For example, a Rival Coin might show "Iggwilv" on one side and "Mordenkainen" on the other, or "Venger" on one side and "Tiamat" on the other. One of these figures is on the "heads" side of the coin, the other on the "tails" side.

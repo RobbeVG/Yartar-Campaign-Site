@@ -8,13 +8,15 @@ tags:
 - ttrpg-cli/monster/environment/forest
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/dragon/chromatic
-statblock: inline
-statblock-link: "#^statblock"
+title: "Young Green Dragon"
 aliases:
 - "Young Green Dragon"
+conditionImmunities:
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Young Green Dragon](3.Mechanics/bestiary/dragon/young-green-dragon-xmm.md)
+# Young Green Dragon
 *Source: Monster Manual (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Green%20Dragon.webp#right)
 
 Young green dragons frequently control groups of ettercaps, kobolds, thieves, or other cowardly servants. These dragons do so while avoiding other evil dragons, who would sabotage them. Gradually, oppressing weaker creatures and amassing meaningless fortunes bore young green dragons, and they pursue more ambitious ways to indulge their egos.
 
@@ -33,57 +35,49 @@ Despite their might, most green dragons disdain physical violence, viewing comba
 
 Green dragons lair in ancient forests, often shaping stands of massive trees into compounds of interwoven branches, hollow trunks, and caverns amid mighty roots. They might also dwell amid forested ruins, particularly the former homes of those they've conquered.
 
-```statblock
-"name": "Young Green Dragon (XMM)"
-"size": "Large"
-"type": "dragon"
-"subtype": "chromatic"
-"alignment": "Lawful Evil"
-"ac": !!int "18"
-"hp": !!int "136"
-"hit_dice": "16d10 + 48"
-"modifier": !!int "4"
-"stats":
-  - !!int "19"
-  - !!int "12"
-  - !!int "17"
-  - !!int "16"
-  - !!int "13"
-  - !!int "15"
-"speed": "40 ft., fly 80 ft., swim 40 ft."
-"saves":
-  - "dexterity": !!int "4"
-  - "wisdom": !!int "4"
-"skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
-    "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+7"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+4"
-"damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 17"
-"languages": "Common, Draconic"
-"cr": "8"
-"traits":
-  - "desc": "The dragon can breathe air and water."
-    "name": "Amphibious"
-"actions":
-  - "desc": "The dragon makes three Rend attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+7|noform|noparens|text(+7), reach 10\
-      \ ft. *Hit:* dice:2d6+4|noform|noparens|avg|text(11) (2d6 + 4) Slashing\
-      \ damage plus dice:2d6|noform|noparens|avg|text(7) (2d6) Poison damage."
-    "name": "Rend"
-  - "desc": "*Constitution Saving Throw:* DC 14, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* dice:12d6|noform|noparens|avg|text(42) (12d6) Poison damage.\
-      \ *Success:* Half damage."
-    "name": "Poison Breath (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Young%20Green%20Dragon.webp"
+```ad-statblock
+title: Young Green Dragon
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Young%20Green%20Dragon.webp#token)
+*Large Dragon (chromatic), Lawful Evil*
+
+- **Armor Class** 18 
+- **Hit Points** 136 (16d10 + 48) 
+- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 19 | +4 | +4 |
+|Int| 16 | +3 | +3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | **+4** |
+|Wis| 13 | +1 | **+4** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 17 | +3 | +3 |
+|Cha| 15 | +2 | +2 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Dexterity +4, Wisdom +4
+- **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
+- **Damage Immunities** Poison
+- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 17
+- **Languages** Common, Draconic
+- **Challenge** 8
+
+## Traits
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three Rend attacks.
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 10 ft. *Hit:* `dice:2d6+4|noform|noparens|avg|text(11)` (`2d6 + 4`) Slashing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Poison damage.
+
+***Poison Breath (Recharge 5-6).*** *Constitution Saving Throw:* DC 14, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). *Failure:* `dice:12d6|noform|noparens|avg|text(42)` (`12d6`) Poison damage. *Success:* Half damage.
 ```
 ^statblock
 

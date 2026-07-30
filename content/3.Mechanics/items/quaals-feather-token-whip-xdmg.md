@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+title: "Quaal's Feather Token, Whip"
 aliases:
 - "Quaal's Feather Token, Whip"
 ---
 # Quaal's Feather Token, Whip
 *Wondrous item, rare*  
-![](file://items/XDMG/Quaals%20Feather%20Token%20%28Whip%29.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Quaals%20Feather%20Token%20%28Whip%29.webp#right)
 
 
 This object looks like a feather.

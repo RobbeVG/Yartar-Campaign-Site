@@ -19,12 +19,13 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Vitriolic Sphere"
 aliases:
 - "Vitriolic Sphere"
 ---
 # Vitriolic Sphere
 *4th-level, Evocation*  
-![](file://spells/XPHB/Vitriolic%20Sphere.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Vitriolic%20Sphere.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet

@@ -13,6 +13,7 @@ classes:
 - Bard
 - Cleric
 - Druid
+title: "Find the Path"
 aliases:
 - "Find the Path"
 ---

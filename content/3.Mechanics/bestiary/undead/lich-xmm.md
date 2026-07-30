@@ -8,13 +8,19 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead/wizard
-statblock: inline
-statblock-link: "#^statblock"
+title: "Lich"
 aliases:
 - "Lich"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Lich](3.Mechanics/bestiary/undead/lich-xmm.md)
+# Lich
 *Source: Monster Manual (2024) p. 196. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Lich.webp#right)
 
 ## Lich
 
@@ -61,120 +67,86 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
 > 
 > Ambition can become an addiction of the mind and spirit. It builds beyond a driving flame into an insidious inferno that burns a mage hollow until only the desire for more magical power remains
 
+```ad-statblock
+title: Lich
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Lich.webp#token)
+*Medium Undead (wizard), Neutral Evil*
 
-```statblock
-"name": "Lich (XMM)"
-"size": "Medium"
-"type": "undead"
-"subtype": "wizard"
-"alignment": "Neutral Evil"
-"ac": !!int "20"
-"hp": !!int "315"
-"hit_dice": "42d8 + 126"
-"modifier": !!int "17"
-"stats":
-  - !!int "11"
-  - !!int "16"
-  - !!int "16"
-  - !!int "21"
-  - !!int "14"
-  - !!int "16"
-"speed": "30 ft."
-"saves":
-  - "dexterity": !!int "10"
-  - "constitution": !!int "10"
-  - "intelligence": !!int "12"
-  - "wisdom": !!int "9"
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+19"
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
-    "desc": "+12"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
-    "desc": "+9"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+9"
-"damage_resistances": "cold, lightning"
-"damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"gear":
-  - "[component pouch](3.Mechanics/items/component-pouch-xphb.md)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 19"
-"languages": "all"
-"cr": "21"
-"traits":
-  - "desc": "If the lich fails a saving throw, it can choose to succeed instead."
-    "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
-  - "desc": "If destroyed, the lich reforms in dice:1d10|noform|noparens|avg (1d10)\
-      \ days if it has a spirit jar, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md).\
-      \ The new body appears in an unoccupied space within the lich's lair."
-    "name": "Spirit Jar"
-"actions":
-  - "desc": "The lich makes three attacks, using Eldritch Burst or Paralyzing Touch\
-      \ in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+12|noform|noparens|text(+12),\
-      \ reach 5 ft. or range 120 ft. *Hit:* dice:4d12+5|noform|noparens|avg|text(31)\
-      \ (4d12 + 5) Force damage."
-    "name": "Eldritch Burst"
-  - "desc": "*Melee Attack Roll:* dice:1d20+12|noform|noparens|text(+12), reach\
-      \ 5 ft. *Hit:* dice:3d6+5|noform|noparens|avg|text(15) (3d6 + 5) Cold damage,\
-      \ and the target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)\
-      \ condition until the start of the lich's next turn."
-    "name": "Paralyzing Touch"
-  - "desc": "The lich casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 20):\n\n**At will:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md),\
-      \ [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [Dispel Magic](3.Mechanics/spells/dispel-magic-xphb.md),\
-      \ [Fireball](3.Mechanics/spells/fireball-xphb.md) (level 5 version), [Invisibility](3.Mechanics/spells/invisibility-xphb.md),\
-      \ [Lightning Bolt](3.Mechanics/spells/lightning-bolt-xphb.md) (level 5 version),\
-      \ [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md), [Prestidigitation](3.Mechanics/spells/prestidigitation-xphb.md)\n\
-      \n**2/day each:** [Animate Dead](3.Mechanics/spells/animate-dead-xphb.md), [Dimension\
-      \ Door](3.Mechanics/spells/dimension-door-xphb.md), [Plane Shift](3.Mechanics/spells/plane-shift-xphb.md)\n\
-      \n**1/day each:** [Chain Lightning](3.Mechanics/spells/chain-lightning-xphb.md),\
-      \ [Finger of Death](3.Mechanics/spells/finger-of-death-xphb.md), [Power Word\
-      \ Kill](3.Mechanics/spells/power-word-kill-xphb.md), [Scrying](3.Mechanics/spells/scrying-xphb.md)"
-    "name": "Spellcasting"
-"reactions":
-  - "desc": "The lich casts [Counterspell](3.Mechanics/spells/counterspell-xphb.md)\
-      \ or [Shield](3.Mechanics/spells/shield-xphb.md) in response to the spell's\
-      \ trigger, using the same spellcasting ability as Spellcasting.\n"
-    "name": "Protective Magic"
-"regional_effects":
-  - "desc": "The region containing a lich's lair is warped by its presence, creating\
-      \ the following effects:\n\n- **All-Seeing.** While in its lair, the lich can\
-      \ cast [Clairvoyance](3.Mechanics/spells/clairvoyance-xphb.md), requiring no\
-      \ spell components and using the same spellcasting ability as its Spellcasting\
-      \ action.  \n- **Inevitable Siphon.** Whenever a Humanoid dies within 1 mile\
-      \ of the lair, its soul is immediately consumed by the lich. A Humanoid whose\
-      \ soul is consumed in this way can be brought back to life only by a True Resurrection\
-      \ or [Wish](3.Mechanics/spells/wish-xphb.md) spell.  \n\nIf the lich is destroyed\
-      \ or moves its lair elsewhere, these effects end immediately. These effects\
-      \ resume if the lich gains a new body (see its Spirit Jar trait)."
-    "name": ""
-"legendary_description": "Legendary Action Uses: 3 (4 in Lair). Immediately after\
-  \ another creature's turn, the lich can expend a use to take one of the following\
-  \ actions. The lich regains all expended uses at the start of each of its turns."
-"legendary_actions":
-  - "desc": "The lich teleports up to 60 feet to an unoccupied space it can see, and\
-      \ each creature within 10 feet of the space it left takes dice:2d10|noform|noparens|avg|text(11)\
-      \ (2d10) Necrotic damage."
-    "name": "Deathly Teleport"
-  - "desc": "*Constitution Saving Throw:* DC 20, each creature that isn't an Undead\
-      \ in a 20-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the lich. *Failure:* dice:9d6|noform|noparens|avg|text(31)\
-      \ (9d6) Necrotic damage. *Success:* Half damage. *Failure or Success:* The\
-      \ lich can't take this action again until the start of its next turn."
-    "name": "Disrupt Life"
-  - "desc": "The lich casts [Fear](3.Mechanics/spells/fear-xphb.md), using the same\
-      \ spellcasting ability as Spellcasting. The lich can't take this action again\
-      \ until the start of its next turn.\n"
-    "name": "Frightening Gaze"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Lich.webp"
+- **Armor Class** 20 
+- **Hit Points** 315 (42d8 + 126) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 11 | +0 | +0 |
+|Int| 21 | +5 | **+12** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16 | +3 | **+10** |
+|Wis| 14 | +2 | **+9** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | **+10** |
+|Cha| 16 | +3 | +3 |
+
+
+- **Proficiency Bonus** +7
+- **Saving Throws** Dexterity +10, Constitution +10, Intelligence +12, Wisdom +9
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +19, [History](3.Mechanics/rules/skills.md#History) +12, [Insight](3.Mechanics/rules/skills.md#Insight) +9, [Perception](3.Mechanics/rules/skills.md#Perception) +9
+- **Damage Resistances** Cold, Lightning
+- **Damage Immunities** Necrotic, Poison
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Gear** [component pouch](3.Mechanics/items/component-pouch-xphb.md)
+- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 120 Ft., Passive Perception 19
+- **Languages** All
+- **Challenge** 21
+
+## Traits
+
+***Legendary Resistance (4/Day, or 5/Day in Lair).*** If the lich fails a saving throw, it can choose to succeed instead.
+
+***Spirit Jar.*** If destroyed, the lich reforms in `dice:1d10|noform|noparens|avg` (`1d10`) days if it has a spirit jar, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md). The new body appears in an unoccupied space within the lich's lair.
+
+## Actions
+
+***Multiattack.*** The lich makes three attacks, using Eldritch Burst or Paralyzing Touch in any combination.
+
+***Eldritch Burst.*** *Melee  or Ranged Attack Roll:* `dice:1d20+12|noform|noparens|text(+12)`, reach 5 ft. or range 120 ft. *Hit:* `dice:4d12+5|noform|noparens|avg|text(31)` (`4d12 + 5`) Force damage.
+
+***Paralyzing Touch.*** *Melee Attack Roll:* `dice:1d20+12|noform|noparens|text(+12)`, reach 5 ft. *Hit:* `dice:3d6+5|noform|noparens|avg|text(15)` (`3d6 + 5`) Cold damage, and the target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed) condition until the start of the lich's next turn.
+
+***Spellcasting.*** The lich casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20):
+
+**At will:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md), [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [Dispel Magic](3.Mechanics/spells/dispel-magic-xphb.md), [Fireball](3.Mechanics/spells/fireball-xphb.md) (level 5 version), [Invisibility](3.Mechanics/spells/invisibility-xphb.md), [Lightning Bolt](3.Mechanics/spells/lightning-bolt-xphb.md) (level 5 version), [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md), [Prestidigitation](3.Mechanics/spells/prestidigitation-xphb.md)
+
+**2/day each:** [Animate Dead](3.Mechanics/spells/animate-dead-xphb.md), [Dimension Door](3.Mechanics/spells/dimension-door-xphb.md), [Plane Shift](3.Mechanics/spells/plane-shift-xphb.md)
+
+**1/day each:** [Chain Lightning](3.Mechanics/spells/chain-lightning-xphb.md), [Finger of Death](3.Mechanics/spells/finger-of-death-xphb.md), [Power Word Kill](3.Mechanics/spells/power-word-kill-xphb.md), [Scrying](3.Mechanics/spells/scrying-xphb.md)
+
+## Reactions
+
+***Protective Magic.*** The lich casts [Counterspell](3.Mechanics/spells/counterspell-xphb.md) or [Shield](3.Mechanics/spells/shield-xphb.md) in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
+
+
+## Legendary Actions
+
+Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the lich can expend a use to take one of the following actions. The lich regains all expended uses at the start of each of its turns.
+
+***Deathly Teleport.*** The lich teleports up to 60 feet to an unoccupied space it can see, and each creature within 10 feet of the space it left takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) Necrotic damage.
+
+***Disrupt Life.*** *Constitution Saving Throw:* DC 20, each creature that isn't an Undead in a 20-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the lich. *Failure:* `dice:9d6|noform|noparens|avg|text(31)` (`9d6`) Necrotic damage. *Success:* Half damage. *Failure or Success:* The lich can't take this action again until the start of its next turn.
+
+***Frightening Gaze.*** The lich casts [Fear](3.Mechanics/spells/fear-xphb.md), using the same spellcasting ability as Spellcasting. The lich can't take this action again until the start of its next turn.
+
+
+## Regional Effects
+
+The region containing a lich's lair is warped by its presence, creating the following effects:
+
+- **All-Seeing.** While in its lair, the lich can cast [Clairvoyance](3.Mechanics/spells/clairvoyance-xphb.md), requiring no spell components and using the same spellcasting ability as its Spellcasting action.  
+- **Inevitable Siphon.** Whenever a Humanoid dies within 1 mile of the lair, its soul is immediately consumed by the lich. A Humanoid whose soul is consumed in this way can be brought back to life only by a True Resurrection or [Wish](3.Mechanics/spells/wish-xphb.md) spell.  
+
+If the lich is destroyed or moves its lair elsewhere, these effects end immediately. These effects resume if the lich gains a new body (see its Spirit Jar trait).
 ```
 ^statblock
 

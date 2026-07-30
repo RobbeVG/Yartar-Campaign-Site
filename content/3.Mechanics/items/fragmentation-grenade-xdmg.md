@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/age/modern
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/explosive
+title: "Fragmentation Grenade"
 aliases:
 - "Fragmentation Grenade"
 ---

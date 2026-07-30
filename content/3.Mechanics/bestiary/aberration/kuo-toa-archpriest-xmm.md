@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Kuo-toa Archpriest"
 aliases:
 - "Kuo-toa Archpriest"
 ---
-# [Kuo-toa Archpriest](3.Mechanics/bestiary/aberration/kuo-toa-archpriest-xmm.md)
+# Kuo-toa Archpriest
 *Source: Monster Manual (2024) p. 191*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Kuo-toa%20Archpriest.webp#right)
 
 Kuo-toa archpriests lead kuo-toa communities by interpreting omens and messages from their strange gods. They wear grotesque ceremonial regalia honoring their deities. Archpriests channel their faith into spells to support their followers.
 
@@ -81,59 +81,58 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 > When the Corpse Moon rises and the Chum-Tide washes in, up rise the Gogglers from their pits beneath the waves. Burbling and noisome they come, fishing night's shores as we do dawn's waves.
 
 
-```statblock
-"name": "Kuo-toa Archpriest (XMM)"
-"size": "Medium"
-"type": "aberration"
-"alignment": "Neutral Evil"
-"ac": !!int "13"
-"hp": !!int "105"
-"hit_dice": "14d8 + 42"
-"modifier": !!int "2"
-"stats":
-  - !!int "16"
-  - !!int "14"
-  - !!int "16"
-  - !!int "13"
-  - !!int "16"
-  - !!int "14"
-"speed": "30 ft., swim 30 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+9"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
-    "desc": "+4"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., [Truesight](3.Mechanics/rules/senses.md#Truesight)\
-  \ 30 ft., passive Perception 19"
-"languages": "Undercommon"
-"cr": "6"
-"traits":
-  - "desc": "The kuo-toa can breathe air and water."
-    "name": "Amphibious"
-  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
-      \ on ability checks and attack rolls."
-    "name": "Sunlight Sensitivity"
-"actions":
-  - "desc": "The kuo-toa makes three Strange Scepter attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+6|noform|noparens|text(+6),\
-      \ reach 5 ft. or range 120 ft. *Hit:* dice:5d6+3|noform|noparens|avg|text(20)\
-      \ (5d6 + 3) Lightning damage."
-    "name": "Strange Scepter"
-  - "desc": "The kuo-toa casts one of the following spells, requiring no Material\
-      \ components and using Wisdom as the spellcasting ability (spell save DC 14):\n\
-      \n**At will:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md), [Thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md)\n\
-      \n**1/day each:** [Destructive Wave](3.Mechanics/spells/destructive-wave-xphb.md),\
-      \ [Divination](3.Mechanics/spells/divination-xphb.md), [Hold Monster](3.Mechanics/spells/hold-monster-xphb.md)\
-      \ (level 6 version), [Scrying](3.Mechanics/spells/scrying-xphb.md), [Tongues](3.Mechanics/spells/tongues-xphb.md)"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The kuo-toa casts [Shield of Faith](3.Mechanics/spells/shield-of-faith-xphb.md),\
-      \ using the same spellcasting ability as Spellcasting.\n"
-    "name": "Shield of Faith (2/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Kuo-toa%20Archpriest.webp"
+```ad-statblock
+title: Kuo-toa Archpriest
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Kuo-toa%20Archpriest.webp#token)
+*Medium Aberration, Neutral Evil*
+
+- **Armor Class** 13 
+- **Hit Points** 105 (14d8 + 42) 
+- **Speed** 30 ft., swim 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16 | +3 | +3 |
+|Int| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 16 | +3 | +3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 14 | +2 | +2 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +9, [Religion](3.Mechanics/rules/skills.md#Religion) +4
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., [Truesight](3.Mechanics/rules/senses.md#Truesight) 30 Ft., Passive Perception 19
+- **Languages** Undercommon
+- **Challenge** 6
+
+## Traits
+
+***Amphibious.*** The kuo-toa can breathe air and water.
+
+***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls.
+
+## Actions
+
+***Multiattack.*** The kuo-toa makes three Strange Scepter attacks.
+
+***Strange Scepter.*** *Melee  or Ranged Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. or range 120 ft. *Hit:* `dice:5d6+3|noform|noparens|avg|text(20)` (`5d6 + 3`) Lightning damage.
+
+***Spellcasting.*** The kuo-toa casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 14):
+
+**At will:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md), [Thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md)
+
+**1/day each:** [Destructive Wave](3.Mechanics/spells/destructive-wave-xphb.md), [Divination](3.Mechanics/spells/divination-xphb.md), [Hold Monster](3.Mechanics/spells/hold-monster-xphb.md) (level 6 version), [Scrying](3.Mechanics/spells/scrying-xphb.md), [Tongues](3.Mechanics/spells/tongues-xphb.md)
+
+## Bonus Actions
+
+***Shield of Faith (2/Day).*** The kuo-toa casts [Shield of Faith](3.Mechanics/spells/shield-of-faith-xphb.md), using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
 

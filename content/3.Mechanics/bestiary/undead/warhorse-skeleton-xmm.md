@@ -11,13 +11,16 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/undead
-statblock: inline
-statblock-link: "#^statblock"
+title: "Warhorse Skeleton"
 aliases:
 - "Warhorse Skeleton"
+conditionImmunities:
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Warhorse Skeleton](3.Mechanics/bestiary/undead/warhorse-skeleton-xmm.md)
+# Warhorse Skeleton
 *Source: Monster Manual (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+![Adventurers face an onslaught from all manner of skeletons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Skeletons.webp#right)
 
 Warhorse skeletons are obedient, supernatural steeds bearing the rotted remains of the barding they wore in life. They're often ridden by the corpses of their former riders.
 
@@ -44,41 +47,42 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 | 6 | Stands guard at the post it protected in life. |
 ^skeleton-pantomimes
 
-```statblock
-"name": "Warhorse Skeleton (XMM)"
-"size": "Large"
-"type": "undead"
-"alignment": "Lawful Evil"
-"ac": !!int "13"
-"hp": !!int "22"
-"hit_dice": "3d10 + 6"
-"modifier": !!int "1"
-"stats":
-  - !!int "18"
-  - !!int "12"
-  - !!int "15"
-  - !!int "2"
-  - !!int "8"
-  - !!int "5"
-"speed": "60 ft."
-"damage_vulnerabilities": "bludgeoning"
-"damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
-"languages": ""
-"cr": "1/2"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:1d6+4|noform|noparens|avg|text(7) (1d6 + 4) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature and the skeleton moved\
-      \ 20+ feet straight toward it immediately before the hit, the target has the\
-      \ [Prone](3.Mechanics/rules/conditions.md#Prone) condition."
-    "name": "Hooves"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Warhorse%20Skeleton.webp"
+```ad-statblock
+title: Warhorse Skeleton
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Warhorse%20Skeleton.webp#token)
+*Large Undead, Lawful Evil*
+
+- **Armor Class** 13 
+- **Hit Points** 22 (3d10 + 6) 
+- **Speed** 60 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 2 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15 | +2 | +2 |
+|Cha| 5 | -3 | -3 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Vulnerabilities** Bludgeoning
+- **Damage Immunities** Poison
+- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
+- **Languages** —
+- **Challenge** 1/2
+
+## Actions
+
+***Hooves.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:1d6+4|noform|noparens|avg|text(7)` (`1d6 + 4`) Bludgeoning damage. If the target is a Large or smaller creature and the skeleton moved 20+ feet straight toward it immediately before the hit, the target has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition.
 ```
 ^statblock
 

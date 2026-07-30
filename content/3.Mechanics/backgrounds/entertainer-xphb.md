@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Entertainer"
 aliases:
 - "Entertainer"
 ---
 # Entertainer
 *Source: Player's Handbook (2024) p. 180*  
-![](file://backgrounds/XPHB/Entertainer.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/backgrounds/XPHB/Entertainer.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Charisma  
 - **Feat.** [Musician](3.Mechanics/feats/musician-xphb.md)  

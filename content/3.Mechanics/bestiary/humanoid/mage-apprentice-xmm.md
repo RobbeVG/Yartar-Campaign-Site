@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid/wizard
-statblock: inline
-statblock-link: "#^statblock"
+title: "Mage Apprentice"
 aliases:
 - "Mage Apprentice"
 ---
-# [Mage Apprentice](3.Mechanics/bestiary/humanoid/mage-apprentice-xmm.md)
+# Mage Apprentice
 *Source: Monster Manual (2024) p. 198*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Mage%20Apprentice.webp#right)
 
 Mage apprentices are spellcasters of humble skill. Some are students of accomplished mages, while others have innate powers.
 
@@ -52,52 +52,48 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 > Have you gazed on the Runes of Chaos, held the Death Moon Orb in your trembling hands, entered the Devouring Portal and walked the Paths of the Doomed, or sat at the left hand of Szass Tam during the Ritual of Twin Burnings? No? Then speak not to me of wizards. Speak not to me of Thay.
 
 
-```statblock
-"name": "Mage Apprentice (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"subtype": "wizard"
-"alignment": "Neutral"
-"ac": !!int "15"
-"hp": !!int "49"
-"hit_dice": "9d8 + 9"
-"modifier": !!int "2"
-"stats":
-  - !!int "8"
-  - !!int "14"
-  - !!int "12"
-  - !!int "16"
-  - !!int "13"
-  - !!int "10"
-"speed": "30 ft."
-"saves":
-  - "intelligence": !!int "5"
-  - "wisdom": !!int "3"
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+3"
-"gear":
-  - "[component pouch](3.Mechanics/items/component-pouch-xphb.md)"
-"senses": "passive Perception 13"
-"languages": "Common plus one other language"
-"cr": "2"
-"actions":
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+5|noform|noparens|text(+5),\
-      \ reach 5 ft. or range 120 ft. *Hit:* dice:2d10+3|noform|noparens|avg|text(14)\
-      \ (2d10 + 3) Force damage."
-    "name": "Arcane Burst"
-  - "desc": "The mage casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 13, dice:1d20+5|noform|noparens|text(+5)\
-      \ to hit with spell attacks):\n\n**At will:** [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md),\
-      \ [Prestidigitation](3.Mechanics/spells/prestidigitation-xphb.md)\n\n**1/day\
-      \ each:** [Disguise Self](3.Mechanics/spells/disguise-self-xphb.md), [Ice Knife](3.Mechanics/spells/ice-knife-xphb.md),\
-      \ [Mage Armor](3.Mechanics/spells/mage-armor-xphb.md) (included in AC), [Thunderwave](3.Mechanics/spells/thunderwave-xphb.md)"
-    "name": "Spellcasting"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Mage%20Apprentice.webp"
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Mages.webp#center)
+
+```ad-statblock
+title: Mage Apprentice
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mage%20Apprentice.webp#token)
+*Small or Medium Humanoid (wizard), Neutral*
+
+- **Armor Class** 15 
+- **Hit Points** 49 (9d8 + 9) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 8 | -1 | -1 |
+|Int| 16 | +3 | **+5** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 13 | +1 | **+3** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 10 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Intelligence +5, Wisdom +3
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +3
+- **Gear** [component pouch](3.Mechanics/items/component-pouch-xphb.md)
+- **Senses** Passive Perception 13
+- **Languages** Common plus one other language
+- **Challenge** 2
+
+## Actions
+
+***Arcane Burst.*** *Melee  or Ranged Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. or range 120 ft. *Hit:* `dice:2d10+3|noform|noparens|avg|text(14)` (`2d10 + 3`) Force damage.
+
+***Spellcasting.*** The mage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 13, `dice:1d20+5|noform|noparens|text(+5)` to hit with spell attacks):
+
+**At will:** [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md), [Prestidigitation](3.Mechanics/spells/prestidigitation-xphb.md)
+
+**1/day each:** [Disguise Self](3.Mechanics/spells/disguise-self-xphb.md), [Ice Knife](3.Mechanics/spells/ice-knife-xphb.md), [Mage Armor](3.Mechanics/spells/mage-armor-xphb.md) (included in AC), [Thunderwave](3.Mechanics/spells/thunderwave-xphb.md)
 ```
 ^statblock
 

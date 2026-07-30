@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Sword of Wounding"
 aliases:
 - "Sword of Wounding"
 - "Glaive of Wounding"

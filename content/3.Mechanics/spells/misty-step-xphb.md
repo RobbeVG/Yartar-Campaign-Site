@@ -34,6 +34,7 @@ classes:
 - Warlock
 - Warlock (Archfey Patron)
 - Wizard
+title: "Misty Step"
 aliases:
 - "Misty Step"
 ---

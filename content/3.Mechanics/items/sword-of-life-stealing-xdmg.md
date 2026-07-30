@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Sword of Life Stealing"
 aliases:
 - "Sword of Life Stealing"
 - "Glaive of Life Stealing"
@@ -20,7 +21,7 @@ aliases:
 ---
 # Sword of Life Stealing
 *Rare (requires attunement)*  
-![Sword of Life Stealing (Longsword)](file://items/XDMG/Sword%20of%20Life%20Stealing.webp#right)
+![Sword of Life Stealing (Longsword)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Sword%20of%20Life%20Stealing.webp#right)
 
 
 When you attack a creature with this magic weapon and roll a 20 on the `dice:d20|noform|noparens|avg` (`d20`) for the attack roll, that target takes an extra 15 Necrotic damage if it isn't a Construct or an Undead, and you gain [Temporary Hit Points](3.Mechanics/rules/variant-rules/temporary-hit-points-xphb.md) equal to the amount of Necrotic damage taken.

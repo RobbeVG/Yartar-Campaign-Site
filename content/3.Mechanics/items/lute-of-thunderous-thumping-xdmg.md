@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Lute of Thunderous Thumping"
 aliases:
 - "Lute of Thunderous Thumping"
 ---

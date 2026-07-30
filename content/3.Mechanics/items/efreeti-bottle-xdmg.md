@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
+title: "Efreeti Bottle"
 aliases:
 - "Efreeti Bottle"
 ---
 # Efreeti Bottle
 *Wondrous item, very rare*  
-![](file://items/XDMG/Efreeti%20Bottle.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Efreeti%20Bottle.webp#right)
 
 
 When you take a [Magic](3.Mechanics/rules/actions.md#Magic) action to remove the stopper of this painted brass bottle, a cloud of thick smoke flows out of it. At the end of your turn, the smoke disappears with a flash of harmless fire, and an [Efreeti](3.Mechanics/bestiary/elemental/efreeti-xmm.md) appears in an unoccupied space within 30 feet of you.

@@ -8,13 +8,15 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Quaggoth Thonot"
 aliases:
 - "Quaggoth Thonot"
+conditionImmunities:
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Quaggoth Thonot](3.Mechanics/bestiary/monstrosity/quaggoth-thonot-xmm.md)
+# Quaggoth Thonot
 *Source: Monster Manual (2024) p. 251*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Quaggoth%20Thonot.webp#right)
 
 Quaggoth thonots possess psionic abilities, which they use to give themselves an edge in combat and to coerce the service of other quaggoths.
 
@@ -29,59 +31,60 @@ Beastly hunters endemic to subterranean depths, quaggoths scrape harsh existence
 
 Quaggoths frequently collect in small bands led by the most fearsome group member. These bands are proud and quick to hold grudges. Anyone who harms a quaggoth—or who is suspected of doing so—earns the enmity of that quaggoth's band regardless of reason or fault. These grudges sometimes extend to whole communities rather than individuals. Generations of quaggoths might seek revenge against a settlement's inhabitants for decades-old slights. Only the leader of a quaggoth band can demand that a grudge ends.
 
-```statblock
-"name": "Quaggoth Thonot (XMM)"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Chaotic Neutral"
-"ac": !!int "15"
-"hp": !!int "67"
-"hit_dice": "9d8 + 27"
-"modifier": !!int "1"
-"stats":
-  - !!int "17"
-  - !!int "12"
-  - !!int "16"
-  - !!int "6"
-  - !!int "14"
-  - !!int "7"
-"speed": "30 ft., climb 30 ft."
-"skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
-    "desc": "+5"
-"damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
-"languages": "Undercommon"
-"cr": "3"
-"traits":
-  - "desc": "While [Bloodied](3.Mechanics/rules/conditions.md#Bloodied), the quaggoth\
-      \ has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on attack\
-      \ rolls."
-    "name": "Bloodied Fury"
-"actions":
-  - "desc": "The quaggoth makes two Claw attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:1d6+3|noform|noparens|avg|text(6) (1d6 + 3) Slashing damage\
-      \ plus dice:2d4|noform|noparens|avg|text(5) (2d4) Psychic damage."
-    "name": "Claw"
-  - "desc": "The quaggoth casts one of the following spells, requiring no spell components\
-      \ and using Wisdom as the spellcasting ability (spell save DC 12):\n\n**At will:**\
-      \ [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md) (the hand is [Invisible](3.Mechanics/rules/conditions.md#Invisible)),\
-      \ [Minor Illusion](3.Mechanics/spells/minor-illusion-xphb.md)\n\n**2/day:**\
-      \ [Mind Spike](3.Mechanics/spells/mind-spike-xphb.md)"
-    "name": "Spellcasting"
-"reactions":
-  - "desc": "The quaggoth casts [Feather Fall](3.Mechanics/spells/feather-fall-xphb.md)\
-      \ or [Shield](3.Mechanics/spells/shield-xphb.md) in response to the spell's\
-      \ trigger, requiring no spell components and using the same spellcasting ability\
-      \ as Spellcasting.\n"
-    "name": "Psionic Defense (3/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Quaggoth%20Thonot.webp"
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Quaggoths.webp#center)
+
+```ad-statblock
+title: Quaggoth Thonot
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Quaggoth%20Thonot.webp#token)
+*Medium Monstrosity, Chaotic Neutral*
+
+- **Armor Class** 15 
+- **Hit Points** 67 (9d8 + 27) 
+- **Speed** 30 ft., climb 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17 | +3 | +3 |
+|Int| 6 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 14 | +2 | +2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 7 | -2 | -2 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +5
+- **Damage Immunities** Poison
+- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 12
+- **Languages** Undercommon
+- **Challenge** 3
+
+## Traits
+
+***Bloodied Fury.*** While [Bloodied](3.Mechanics/rules/conditions.md#Bloodied), the quaggoth has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on attack rolls.
+
+## Actions
+
+***Multiattack.*** The quaggoth makes two Claw attacks.
+
+***Claw.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d6+3|noform|noparens|avg|text(6)` (`1d6 + 3`) Slashing damage plus `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) Psychic damage.
+
+***Spellcasting.*** The quaggoth casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 12):
+
+**At will:** [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md) (the hand is [Invisible](3.Mechanics/rules/conditions.md#Invisible)), [Minor Illusion](3.Mechanics/spells/minor-illusion-xphb.md)
+
+**2/day:** [Mind Spike](3.Mechanics/spells/mind-spike-xphb.md)
+
+## Reactions
+
+***Psionic Defense (3/Day).*** The quaggoth casts [Feather Fall](3.Mechanics/spells/feather-fall-xphb.md) or [Shield](3.Mechanics/spells/shield-xphb.md) in response to the spell's trigger, requiring no spell components and using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
 

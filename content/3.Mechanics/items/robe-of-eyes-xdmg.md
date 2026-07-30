@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+title: "Robe of Eyes"
 aliases:
 - "Robe of Eyes"
 ---
 # Robe of Eyes
 *Wondrous item, rare (requires attunement)*  
-![](file://items/XDMG/Robe%20of%20Eyes.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Robe%20of%20Eyes.webp#right)
 
 
 This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:

@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Cultist Fanatic"
 aliases:
 - "Cultist Fanatic"
 ---
-# [Cultist Fanatic](3.Mechanics/bestiary/humanoid/cultist-fanatic-xmm.md)
+# Cultist Fanatic
 *Source: Monster Manual (2024) p. 85. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Cultists.webp#right)
 
 Cultist fanatics lead small cults or cells within larger cults. They're privy to more of a cult's mysteries than lower-ranking cultists are, granting them access to magical powers from their patrons.
 
@@ -76,56 +76,53 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
 
-```statblock
-"name": "Cultist Fanatic (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "13"
-"hp": !!int "44"
-"hit_dice": "8d8 + 8"
-"modifier": !!int "2"
-"stats":
-  - !!int "11"
-  - !!int "14"
-  - !!int "12"
-  - !!int "10"
-  - !!int "14"
-  - !!int "13"
-"speed": "30 ft."
-"saves":
-  - "wisdom": !!int "4"
-"skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
-    "desc": "+3"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
-    "desc": "+3"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
-    "desc": "+2"
-"gear":
-  - "[holy symbol](3.Mechanics/items/holy-symbol-xphb.md)"
-  - "[leather armor](3.Mechanics/items/leather-armor-xphb.md)"
-"senses": "passive Perception 12"
-"languages": "Common"
-"cr": "2"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d8+2|noform|noparens|avg|text(6) (1d8 + 2) Slashing damage\
-      \ plus dice:2d6|noform|noparens|avg|text(7) (2d6) Necrotic damage."
-    "name": "Pact Blade"
-  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 12, dice:1d20+4|noform|noparens|text(+4) to hit with\
-      \ spell attacks):\n\n**At will:** [Light](3.Mechanics/spells/light-xphb.md),\
-      \ [Thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md)\n\n**2/day:** [Command](3.Mechanics/spells/command-xphb.md)\n\
-      \n**1/day:** [Hold Person](3.Mechanics/spells/hold-person-xphb.md)"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The cultist casts the [Spiritual Weapon](3.Mechanics/spells/spiritual-weapon-xphb.md)\
-      \ spell, using the same spellcasting ability as Spellcasting.\n"
-    "name": "Spiritual Weapon (2/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Cultist%20Fanatic.webp"
+```ad-statblock
+title: Cultist Fanatic
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cultist%20Fanatic.webp#token)
+*Small or Medium Humanoid, Neutral*
+
+- **Armor Class** 13 
+- **Hit Points** 44 (8d8 + 8) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 11 | +0 | +0 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 14 | +2 | **+4** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 13 | +1 | +1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Wisdom +4
+- **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +3, [Persuasion](3.Mechanics/rules/skills.md#Persuasion) +3, [Religion](3.Mechanics/rules/skills.md#Religion) +2
+- **Gear** [holy symbol](3.Mechanics/items/holy-symbol-xphb.md), [leather armor](3.Mechanics/items/leather-armor-xphb.md)
+- **Senses** Passive Perception 12
+- **Languages** Common
+- **Challenge** 2
+
+## Actions
+
+***Pact Blade.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) Slashing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Necrotic damage.
+
+***Spellcasting.*** The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12, `dice:1d20+4|noform|noparens|text(+4)` to hit with spell attacks):
+
+**At will:** [Light](3.Mechanics/spells/light-xphb.md), [Thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md)
+
+**2/day:** [Command](3.Mechanics/spells/command-xphb.md)
+
+**1/day:** [Hold Person](3.Mechanics/spells/hold-person-xphb.md)
+
+## Bonus Actions
+
+***Spiritual Weapon (2/Day).*** The cultist casts the [Spiritual Weapon](3.Mechanics/spells/spiritual-weapon-xphb.md) spell, using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
 

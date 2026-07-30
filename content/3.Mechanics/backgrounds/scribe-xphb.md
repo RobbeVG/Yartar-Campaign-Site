@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Scribe"
 aliases:
 - "Scribe"
 ---
 # Scribe
 *Source: Player's Handbook (2024) p. 184*  
-![](file://backgrounds/XPHB/Scribe.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/backgrounds/XPHB/Scribe.webp#right)
 
 - **Ability Scores.** Dexterity, Intelligence, Wisdom  
 - **Feat.** [Skilled](3.Mechanics/feats/skilled-xphb.md)  

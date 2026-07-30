@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/class/ranger
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Ranger"
 aliases:
 - "Ranger"
 ---
@@ -42,6 +43,8 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Ranger.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d10 per Ranger level
@@ -62,6 +65,8 @@ aliases:
 - **Skill Proficiencies**: *Choose 1:* [Animal Handling](3.Mechanics/rules/skills.md#Animal%20Handling), [Athletics](3.Mechanics/rules/skills.md#Athletics), [Insight](3.Mechanics/rules/skills.md#Insight), [Investigation](3.Mechanics/rules/skills.md#Investigation), [Nature](3.Mechanics/rules/skills.md#Nature), [Perception](3.Mechanics/rules/skills.md#Perception), [Stealth](3.Mechanics/rules/skills.md#Stealth), or [Survival](3.Mechanics/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Martial weapons
 - **Armor Training**: [Light armor](3.Mechanics/rules/item-types.md#Light%20Armor), [Medium armor](3.Mechanics/rules/item-types.md#Medium%20Armor), [Shields](3.Mechanics/items/shield-xphb.md)
+
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/093-04-008.ranger-and-deer.webp#center)
 
 ## Ranger
 

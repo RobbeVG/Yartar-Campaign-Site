@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Hermit"
 aliases:
 - "Hermit"
 ---
 # Hermit
 *Source: Player's Handbook (2024) p. 182*  
-![](file://backgrounds/XPHB/Hermit.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/backgrounds/XPHB/Hermit.webp#right)
 
 - **Ability Scores.** Constitution, Wisdom, Charisma  
 - **Feat.** [Healer](3.Mechanics/feats/healer-xphb.md)  

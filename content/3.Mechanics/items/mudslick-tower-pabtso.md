@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/rarity/very-rare
+title: "Mudslick Tower"
 aliases:
 - "Mudslick Tower"
 ---
 # Mudslick Tower
 *Wondrous item, very rare*  
-![](file://items/PaBTSO/Mudslick%20Tower.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/PaBTSO/Mudslick%20Tower.webp#right)
 
 
 You can use an action to place this 1-inch-diameter granite sphere on the ground and speak its command word, which is "petrification" in Terran. The sphere rapidly grows into a stout tower that remains until you use an action to touch the tower and speak the command word again, whereupon the tower shrinks back to a 1-inch-diameter granite sphere. The tower must be empty to shrink in this way. The tower bristles with muddy knobs that constantly extrude and retract across its surface, as though the tower were breathing through a coating of thick mud.

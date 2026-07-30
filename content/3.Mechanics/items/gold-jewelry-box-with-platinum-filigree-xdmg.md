@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
+title: "Gold jewelry box with platinum filigree"
 aliases:
 - "Gold jewelry box with platinum filigree"
 ---

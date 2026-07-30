@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Frost Brand"
 aliases:
 - "Frost Brand"
 - "Frost Brand Glaive"
@@ -20,7 +21,7 @@ aliases:
 ---
 # Frost Brand
 *Very rare (requires attunement)*  
-![Frost Brand (Scimitar)](file://items/XDMG/Frost%20Brand.webp#right)
+![Frost Brand (Scimitar)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Frost%20Brand.webp#right)
 
 
 When you hit with an attack roll using this magic weapon, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) Cold damage. In addition, while you hold the weapon, you have [Resistance](3.Mechanics/rules/variant-rules/resistance-xphb.md) to Fire damage.

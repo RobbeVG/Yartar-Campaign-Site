@@ -18,6 +18,7 @@ classes:
 - Druid
 - Druid (Circle of the Moon)
 - Ranger
+title: "Conjure Animals"
 aliases:
 - "Conjure Animals"
 ---

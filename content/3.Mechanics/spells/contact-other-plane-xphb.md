@@ -17,6 +17,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
+title: "Contact Other Plane"
 aliases:
 - "Contact Other Plane"
 ---

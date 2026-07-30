@@ -17,12 +17,13 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer (Aberrant Sorcery)
 - Wizard
+title: "Evard's Black Tentacles"
 aliases:
 - "Evard's Black Tentacles"
 ---
 # Evard's Black Tentacles
 *4th-level, Conjuration*  
-![](file://spells/XPHB/Evard%27s%20Black%20Tentacles.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Evard%27s%20Black%20Tentacles.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

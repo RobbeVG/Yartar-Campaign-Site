@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Bracers of Archery"
 aliases:
 - "Bracers of Archery"
 ---
 # Bracers of Archery
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Bracers%20of%20Archery.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Bracers%20of%20Archery.webp#right)
 
 
 While wearing these bracers, you have proficiency with the [Longbow](3.Mechanics/items/longbow-xphb.md) and [Shortbow](3.Mechanics/items/shortbow-xphb.md), and you gain a +2 bonus to damage rolls made with such weapons.

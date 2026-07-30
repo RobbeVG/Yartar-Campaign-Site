@@ -9,13 +9,22 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/elemental
-statblock: inline
-statblock-link: "#^statblock"
+title: "Water Weird"
 aliases:
 - "Water Weird"
+conditionImmunities:
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [grappled](3.Mechanics/rules/conditions.md#Grappled)
+- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
+- [petrified](3.Mechanics/rules/conditions.md#Petrified)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- [prone](3.Mechanics/rules/conditions.md#Prone)
+- [restrained](3.Mechanics/rules/conditions.md#Restrained)
+- [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 ---
-# [Water Weird](3.Mechanics/bestiary/elemental/water-weird-xmm.md)
+# Water Weird
 *Source: Monster Manual (2024) p. 323*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Water%20Weird.webp#right)
 
 ## Water Weird
 
@@ -32,52 +41,48 @@ Water weirds might protect a site for generations and learn much about their sur
 > 
 > Rule 2: Before you drink from a fountain or pool, toss a copper coin into it. It's a small price to pay for your life!
 
+```ad-statblock
+title: Water Weird
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Water%20Weird.webp#token)
+*Large Elemental, Neutral*
 
-```statblock
-"name": "Water Weird (XMM)"
-"size": "Large"
-"type": "elemental"
-"alignment": "Neutral"
-"ac": !!int "13"
-"hp": !!int "65"
-"hit_dice": "10d10 + 10"
-"modifier": !!int "3"
-"stats":
-  - !!int "17"
-  - !!int "16"
-  - !!int "13"
-  - !!int "11"
-  - !!int "10"
-  - !!int "10"
-"speed": "5 ft., swim 60 ft."
-"damage_resistances": "fire"
-"damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 10"
-"languages": "understands Primordial but can't speak"
-"cr": "3"
-"traits":
-  - "desc": "The water weird has the [Invisible](3.Mechanics/rules/conditions.md#Invisible)\
-      \ condition while fully immersed in water."
-    "name": "Invisible in Water"
-  - "desc": "The water weird dies if it leaves the water to which it is bound or if\
-      \ that water is destroyed."
-    "name": "Water Bound"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 10\
-      \ ft. *Hit:* dice:3d6+3|noform|noparens|avg|text(13) (3d6 + 3) Cold damage.\
-      \ If the target is a Medium or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition (escape DC 13), and it has the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition until the grapple ends."
-    "name": "Surge"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Water%20Weird.webp"
+- **Armor Class** 13 
+- **Hit Points** 65 (10d10 + 10) 
+- **Speed** 5 ft., swim 60 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17 | +3 | +3 |
+|Int| 11 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 16 | +3 | +3 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 13 | +1 | +1 |
+|Cha| 10 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Resistances** Fire
+- **Damage Immunities** Poison
+- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Grappled](3.Mechanics/rules/conditions.md#Grappled), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Prone](3.Mechanics/rules/conditions.md#Prone), [Restrained](3.Mechanics/rules/conditions.md#Restrained), [Unconscious](3.Mechanics/rules/conditions.md#Unconscious)
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., Passive Perception 10
+- **Languages** Understands Primordial but can't speak
+- **Challenge** 3
+
+## Traits
+
+***Invisible in Water.*** The water weird has the [Invisible](3.Mechanics/rules/conditions.md#Invisible) condition while fully immersed in water.
+
+***Water Bound.*** The water weird dies if it leaves the water to which it is bound or if that water is destroyed.
+
+## Actions
+
+***Surge.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 10 ft. *Hit:* `dice:3d6+3|noform|noparens|avg|text(13)` (`3d6 + 3`) Cold damage. If the target is a Medium or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 13), and it has the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition until the grapple ends.
 ```
 ^statblock
 

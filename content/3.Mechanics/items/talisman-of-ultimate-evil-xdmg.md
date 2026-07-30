@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
+title: "Talisman of Ultimate Evil"
 aliases:
 - "Talisman of Ultimate Evil"
 ---
 # Talisman of Ultimate Evil
 *Wondrous item, legendary (requires attunement)*  
-![](file://items/XDMG/Talisman%20of%20Ultimate%20Evil.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Talisman%20of%20Ultimate%20Evil.webp#right)
 
 - **Weight**: 1.0 lbs.
 

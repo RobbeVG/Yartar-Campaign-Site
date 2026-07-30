@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Greataxe"
 aliases:
 - "Greataxe"
 ---
 # Greataxe
 *Weapon*  
-![](file://items/XPHB/Greataxe.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Greataxe.webp#right)
 
 - **Damage**: 1d12 slashing
 - **Properties**: [Heavy](3.Mechanics/rules/item-properties.md#Heavy), [Two-Handed](3.Mechanics/rules/item-properties.md#Two-Handed)

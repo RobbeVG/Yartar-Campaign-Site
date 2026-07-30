@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Javelin of Lightning"
 aliases:
 - "Javelin of Lightning"
 ---
 # Javelin of Lightning
 *Weapon ([javelin](3.Mechanics/items/javelin-xphb.md)), uncommon*  
-![](file://items/XDMG/Javelin%20of%20Lightning.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Javelin%20of%20Lightning.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120

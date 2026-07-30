@@ -17,6 +17,7 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Druid
+title: "Spare the Dying"
 aliases:
 - "Spare the Dying"
 ---

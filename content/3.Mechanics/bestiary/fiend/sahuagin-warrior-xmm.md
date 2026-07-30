@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/underwater
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend
-statblock: inline
-statblock-link: "#^statblock"
+title: "Sahuagin Warrior"
 aliases:
 - "Sahuagin Warrior"
 ---
-# [Sahuagin Warrior](3.Mechanics/bestiary/fiend/sahuagin-warrior-xmm.md)
+# Sahuagin Warrior
 *Source: Monster Manual (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Sahuagin%20Warrior.webp#right)
 
 Sahuagin warriors are vicious combatants that savage their foes with webbed claws. Once sahuagin draw blood, they usually attack until either they or their foe is slain.
 
@@ -35,54 +35,56 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 > When a sahuagin comes at you, it doesn't seem to be living until it bites you. Then the thing's black eyes turn red as hellfire and the waves foam crimson. Then comes the screaming.
 
 
-```statblock
-"name": "Sahuagin Warrior (XMM)"
-"size": "Medium"
-"type": "fiend"
-"alignment": "Lawful Evil"
-"ac": !!int "12"
-"hp": !!int "22"
-"hit_dice": "4d8 + 4"
-"modifier": !!int "0"
-"stats":
-  - !!int "13"
-  - !!int "11"
-  - !!int "12"
-  - !!int "12"
-  - !!int "13"
-  - !!int "9"
-"speed": "30 ft., swim 40 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+5"
-"damage_resistances": "acid, cold"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 15"
-"languages": "Sahuagin"
-"cr": "1/2"
-"traits":
-  - "desc": "The sahuagin has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on attack rolls against any creature that doesn't have all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)."
-    "name": "Blood Frenzy"
-  - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
-      \ once every 4 hours to avoid suffocating outside water."
-    "name": "Limited Amphibiousness"
-  - "desc": "The sahuagin can magically control sharks within 120 feet of itself,\
-      \ using a special telepathy."
-    "name": "Shark Telepathy"
-"actions":
-  - "desc": "The sahuagin makes two Claw attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+3|noform|noparens|text(+3), reach 5\
-      \ ft. *Hit:* dice:1d6+1|noform|noparens|avg|text(4) (1d6 + 1) Slashing damage."
-    "name": "Claw"
-"bonus_actions":
-  - "desc": "The sahuagin swims up to its [Swim Speed](3.Mechanics/rules/variant-rules/swim-speed-xphb.md)\
-      \ straight toward an enemy it can see."
-    "name": "Aquatic Charge"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Sahuagin%20Warrior.webp"
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Sahuagin.webp#center)
+
+```ad-statblock
+title: Sahuagin Warrior
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sahuagin%20Warrior.webp#token)
+*Medium Fiend, Lawful Evil*
+
+- **Armor Class** 12 
+- **Hit Points** 22 (4d8 + 4) 
+- **Speed** 30 ft., swim 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13 | +1 | +1 |
+|Int| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 11 | +0 | +0 |
+|Wis| 13 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 9 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5
+- **Damage Resistances** Acid, Cold
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 15
+- **Languages** Sahuagin
+- **Challenge** 1/2
+
+## Traits
+
+***Blood Frenzy.*** The sahuagin has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on attack rolls against any creature that doesn't have all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md).
+
+***Limited Amphibiousness.*** The sahuagin can breathe air and water, but it must be submerged at least once every 4 hours to avoid suffocating outside water.
+
+***Shark Telepathy.*** The sahuagin can magically control sharks within 120 feet of itself, using a special telepathy.
+
+## Actions
+
+***Multiattack.*** The sahuagin makes two Claw attacks.
+
+***Claw.*** *Melee Attack Roll:* `dice:1d20+3|noform|noparens|text(+3)`, reach 5 ft. *Hit:* `dice:1d6+1|noform|noparens|avg|text(4)` (`1d6 + 1`) Slashing damage.
+
+## Bonus Actions
+
+***Aquatic Charge.*** The sahuagin swims up to its [Swim Speed](3.Mechanics/rules/variant-rules/swim-speed-xphb.md) straight toward an enemy it can see.
 ```
 ^statblock
 

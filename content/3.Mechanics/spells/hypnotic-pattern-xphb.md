@@ -25,6 +25,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
+title: "Hypnotic Pattern"
 aliases:
 - "Hypnotic Pattern"
 ---

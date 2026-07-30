@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
+title: "Robe of the Archmagi"
 aliases:
 - "Robe of the Archmagi"
 ---
 # Robe of the Archmagi
 *Wondrous item, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
-![](file://items/XDMG/Robe%20of%20the%20Archmagi.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Robe%20of%20the%20Archmagi.webp#right)
 
 
 This elegant garment is made from exquisite cloth and adorned with runes.

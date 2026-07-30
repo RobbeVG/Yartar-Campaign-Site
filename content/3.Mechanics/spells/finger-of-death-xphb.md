@@ -15,6 +15,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Finger of Death"
 aliases:
 - "Finger of Death"
 ---

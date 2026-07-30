@@ -19,6 +19,7 @@ classes:
 - Wizard
 - Wizard (Abjurer)
 - Wizard (Evoker)
+title: "Otiluke's Resilient Sphere"
 aliases:
 - "Otiluke's Resilient Sphere"
 ---

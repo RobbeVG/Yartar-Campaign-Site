@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
+title: "Instrument of Scribing"
 aliases:
 - "Instrument of Scribing"
 ---

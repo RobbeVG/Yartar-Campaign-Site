@@ -7,62 +7,57 @@ tags:
 - ttrpg-cli/monster/cr/8
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid/gith
-statblock: inline
-statblock-link: "#^statblock"
+title: "Varakkta"
 aliases:
 - "Varakkta"
 ---
-# [Varakkta](3.Mechanics/bestiary/npc/varakkta-pabtso.md)
+# Varakkta
 *Source: Phandelver and Below: The Shattered Obelisk p. 174*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Varakkta.webp#center)
+```ad-statblock
+title: Varakkta
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Varakkta.webp#token)
+*Medium Humanoid (gith), Lawful Evil*
 
-```statblock
-"name": "Varakkta (PaBTSO)"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "gith"
-"alignment": "Lawful Evil"
-"ac": !!int "18"
-"ac_class": "[plate armor](3.Mechanics/items/plate-armor-xphb.md)"
-"hp": !!int "91"
-"hit_dice": "14d8 + 28"
-"modifier": !!int "2"
-"stats":
-  - !!int "16"
-  - !!int "14"
-  - !!int "15"
-  - !!int "14"
-  - !!int "14"
-  - !!int "15"
-"speed": "30 ft."
-"saves":
-  - "constitution": !!int "5"
-  - "intelligence": !!int "5"
-  - "wisdom": !!int "5"
-"senses": "passive Perception 12"
-"languages": "Gith"
-"cr": "8"
-"traits":
-  - "desc": "Varakkta's innate spellcasting ability is Intelligence (spell save DC\
-      \ 13, dice:1d20+5|noform|noparens|text(+5) to hit with spell attacks). It\
-      \ can innately cast the following spells, requiring no components:\n\n**At will:**\
-      \ [mage hand](3.Mechanics/spells/mage-hand-xphb.md) (the hand is invisible)\n\
-      \n**3/day each:** [jump](3.Mechanics/spells/jump-xphb.md), [misty step](3.Mechanics/spells/misty-step-xphb.md),\
-      \ [nondetection](3.Mechanics/spells/nondetection-xphb.md) (self only), [tongues](3.Mechanics/spells/tongues-xphb.md)\n\
-      \n**1/day each:** [plane shift](3.Mechanics/spells/plane-shift-xphb.md), [telekinesis](3.Mechanics/spells/telekinesis-xphb.md)"
-    "name": "Innate Spellcasting (Psionics)"
-"actions":
-  - "desc": "Varakkta makes two silver greatsword attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* dice:1d20+9|noform|noparens|text(+9) to hit,\
-      \ reach 5 ft., one target. *Hit:* dice:2d6+6|noform|noparens|avg|text(13)\
-      \ (2d6 + 6) slashing damage plus dice:3d6|noform|noparens|avg|text(10) (3d6)\
-      \ psychic damage. This is a magic weapon attack. On a critical hit against a\
-      \ target in an astral body (as with the [astral projection](3.Mechanics/spells/astral-projection-xphb.md)\
-      \ spell), Varakkta can cut the silvery cord that tethers the target to its material\
-      \ body, instead of dealing damage."
-    "name": "Silver Greatsword"
-"source":
-  - "PaBTSO"
-"image": "file://bestiary/tokens/PaBTSO/Varakkta.webp"
+- **Armor Class** 18 ([plate armor](3.Mechanics/items/plate-armor-xphb.md))
+- **Hit Points** 91 (14d8 + 28) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16 | +3 | +3 |
+|Int| 14 | +2 | **+5** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 14 | +2 | **+5** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15 | +2 | **+5** |
+|Cha| 15 | +2 | +2 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Constitution +5, Intelligence +5, Wisdom +5
+- **Skills** ⏤
+- **Senses** Passive Perception 12
+- **Languages** Gith
+- **Challenge** 8
+
+## Traits
+
+***Innate Spellcasting (Psionics).*** Varakkta's innate spellcasting ability is Intelligence (spell save DC 13, `dice:1d20+5|noform|noparens|text(+5)` to hit with spell attacks). It can innately cast the following spells, requiring no components:
+
+**At will:** [mage hand](3.Mechanics/spells/mage-hand-xphb.md) (the hand is invisible)
+
+**3/day each:** [jump](3.Mechanics/spells/jump-xphb.md), [misty step](3.Mechanics/spells/misty-step-xphb.md), [nondetection](3.Mechanics/spells/nondetection-xphb.md) (self only), [tongues](3.Mechanics/spells/tongues-xphb.md)
+
+**1/day each:** [plane shift](3.Mechanics/spells/plane-shift-xphb.md), [telekinesis](3.Mechanics/spells/telekinesis-xphb.md)
+
+## Actions
+
+***Multiattack.*** Varakkta makes two silver greatsword attacks.
+
+***Silver Greatsword.*** *Melee Weapon Attack:* `dice:1d20+9|noform|noparens|text(+9)` to hit, reach 5 ft., one target. *Hit:* `dice:2d6+6|noform|noparens|avg|text(13)` (`2d6 + 6`) slashing damage plus `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) psychic damage. This is a magic weapon attack. On a critical hit against a target in an astral body (as with the [astral projection](3.Mechanics/spells/astral-projection-xphb.md) spell), Varakkta can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
 ```
 ^statblock

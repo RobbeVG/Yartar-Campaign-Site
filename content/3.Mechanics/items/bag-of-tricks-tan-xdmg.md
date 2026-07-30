@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Bag of Tricks, Tan"
 aliases:
 - "Bag of Tricks, Tan"
 ---
 # Bag of Tricks, Tan
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Bag%20of%20Tricks.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Bag%20of%20Tricks.webp#right)
 
 
 This bag made from tan cloth appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.

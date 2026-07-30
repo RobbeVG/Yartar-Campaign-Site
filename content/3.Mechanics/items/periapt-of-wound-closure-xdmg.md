@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Periapt of Wound Closure"
 aliases:
 - "Periapt of Wound Closure"
 ---
 # Periapt of Wound Closure
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Periapt%20of%20Wound%20Closure.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Periapt%20of%20Wound%20Closure.webp#right)
 
 - **Weight**: 1.0 lbs.
 

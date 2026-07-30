@@ -11,13 +11,13 @@ tags:
 - ttrpg-cli/monster/environment/hill
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend
-statblock: inline
-statblock-link: "#^statblock"
+title: "Gnoll Fang of Yeenoghu"
 aliases:
 - "Gnoll Fang of Yeenoghu"
 ---
-# [Gnoll Fang of Yeenoghu](3.Mechanics/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md)
+# Gnoll Fang of Yeenoghu
 *Source: Monster Manual (2024) p. 141*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Gnolls.webp#right)
 
 Gnolls possessed by demonic vestiges of the demon lord Yeenoghu, fangs of Yeenoghu direct the chaos of gnoll packs. Along the way, these fanatics seek grisly omens from Yeenoghu and strive to interpret the demon lord's vicious goals.
 
@@ -35,51 +35,47 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
 
 
-```statblock
-"name": "Gnoll Fang of Yeenoghu (XMM)"
-"size": "Medium"
-"type": "fiend"
-"alignment": "Chaotic Evil"
-"ac": !!int "14"
-"hp": !!int "71"
-"hit_dice": "11d8 + 22"
-"modifier": !!int "4"
-"stats":
-  - !!int "17"
-  - !!int "15"
-  - !!int "15"
-  - !!int "10"
-  - !!int "11"
-  - !!int "13"
-"speed": "30 ft."
-"saves":
-  - "constitution": !!int "4"
-  - "wisdom": !!int "2"
-  - "charisma": !!int "3"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Abyssal, Gnoll"
-"cr": "4"
-"actions":
-  - "desc": "The gnoll makes one Bite attack and two Bone Flail attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:1d6+3|noform|noparens|avg|text(6) (1d6 + 3) Piercing damage\
-      \ plus dice:2d6|noform|noparens|avg|text(7) (2d6) Poison damage, and the\
-      \ target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition\
-      \ until the start of the gnoll's next turn."
-    "name": "Bite"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 10\
-      \ ft. *Hit:* dice:1d8+3|noform|noparens|avg|text(7) (1d8 + 3) Piercing damage."
-    "name": "Bone Flail"
-"bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [Bloodied](3.Mechanics/rules/conditions.md#Bloodied),\
-      \ the gnoll moves up to half its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md),\
-      \ and it makes one Bite attack."
-    "name": "Rampage (2/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Gnoll%20Fang%20of%20Yeenoghu.webp"
+```ad-statblock
+title: Gnoll Fang of Yeenoghu
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gnoll%20Fang%20of%20Yeenoghu.webp#token)
+*Medium Fiend, Chaotic Evil*
+
+- **Armor Class** 14 
+- **Hit Points** 71 (11d8 + 22) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17 | +3 | +3 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15 | +2 | +2 |
+|Wis| 11 | +0 | **+2** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15 | +2 | **+4** |
+|Cha| 13 | +1 | **+3** |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Constitution +4, Wisdom +2, Charisma +3
+- **Skills** ⏤
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Abyssal, Gnoll
+- **Challenge** 4
+
+## Actions
+
+***Multiattack.*** The gnoll makes one Bite attack and two Bone Flail attacks.
+
+***Bite.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d6+3|noform|noparens|avg|text(6)` (`1d6 + 3`) Piercing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) Poison damage, and the target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition until the start of the gnoll's next turn.
+
+***Bone Flail.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 10 ft. *Hit:* `dice:1d8+3|noform|noparens|avg|text(7)` (`1d8 + 3`) Piercing damage.
+
+## Bonus Actions
+
+***Rampage (2/Day).*** Immediately after dealing damage to a creature that is already [Bloodied](3.Mechanics/rules/conditions.md#Bloodied), the gnoll moves up to half its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md), and it makes one Bite attack.
 ```
 ^statblock
 

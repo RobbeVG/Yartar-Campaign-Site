@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
+title: "Scarab of Protection"
 aliases:
 - "Scarab of Protection"
 ---
 # Scarab of Protection
 *Wondrous item, legendary (requires attunement)*  
-![](file://items/XDMG/Scarab%20of%20Protection.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Scarab%20of%20Protection.webp#right)
 
 - **Weight**: 1.0 lbs.
 

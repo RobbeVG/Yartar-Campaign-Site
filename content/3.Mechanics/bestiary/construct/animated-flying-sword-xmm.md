@@ -8,13 +8,21 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/construct
-statblock: inline
-statblock-link: "#^statblock"
+title: "Animated Flying Sword"
 aliases:
 - "Animated Flying Sword"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [deafened](3.Mechanics/rules/conditions.md#Deafened)
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
+- [petrified](3.Mechanics/rules/conditions.md#Petrified)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Animated Flying Sword](3.Mechanics/bestiary/construct/animated-flying-sword-xmm.md)
+# Animated Flying Sword
 *Source: Monster Manual (2024) p. 17. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animated%20Objects.webp#right)
 
 Animated flying swords move as if wielded by unseen warriors. Whether an animated blade is newly forged or a constellation of broken fragments, the object behaves the same. Other weapons from the "Player's Handbook" can also be animated and use game statistics similar to those here.
 
@@ -51,41 +59,41 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 | 10 | The will of a powerful psychic being. |
 ^animated-object-catalysts
 
-```statblock
-"name": "Animated Flying Sword (XMM)"
-"size": "Small"
-"type": "construct"
-"alignment": "Unaligned"
-"ac": !!int "17"
-"hp": !!int "14"
-"hit_dice": "4d6"
-"modifier": !!int "4"
-"stats":
-  - !!int "12"
-  - !!int "15"
-  - !!int "11"
-  - !!int "1"
-  - !!int "5"
-  - !!int "1"
-"speed": "5 ft., fly 50 ft. (hover)"
-"saves":
-  - "dexterity": !!int "4"
-"damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened),\
-  \ [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 7"
-"languages": ""
-"cr": "1/4"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d8+2|noform|noparens|avg|text(6) (1d8 + 2) Slashing damage."
-    "name": "Slash"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Animated%20Flying%20Sword.webp"
+```ad-statblock
+title: Animated Flying Sword
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Animated%20Flying%20Sword.webp#token)
+*Small Construct, Unaligned*
+
+- **Armor Class** 17 
+- **Hit Points** 14 (4d6) 
+- **Speed** 5 ft., fly 50 ft. (hover)
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 12 | +1 | +1 |
+|Int| 1 | -5 | -5 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15 | +2 | **+4** |
+|Wis| 5 | -3 | -3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 11 | +0 | +0 |
+|Cha| 1 | -5 | -5 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Dexterity +4
+- **Skills** ⏤
+- **Damage Immunities** Poison, Psychic
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Deafened](3.Mechanics/rules/conditions.md#Deafened), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 Ft., Passive Perception 7
+- **Languages** —
+- **Challenge** 1/4
+
+## Actions
+
+***Slash.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) Slashing damage.
 ```
 ^statblock
 

@@ -8,13 +8,21 @@ tags:
 - ttrpg-cli/monster/environment/grassland
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
-statblock: inline
-statblock-link: "#^statblock"
+title: "Scarecrow"
 aliases:
 - "Scarecrow"
+conditionImmunities:
+- [charmed](3.Mechanics/rules/conditions.md#Charmed)
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [frightened](3.Mechanics/rules/conditions.md#Frightened)
+- [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)
+- [petrified](3.Mechanics/rules/conditions.md#Petrified)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
 ---
-# [Scarecrow](3.Mechanics/bestiary/construct/scarecrow-xmm.md)
+# Scarecrow
 *Source: Monster Manual (2024) p. 269*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Scarecrow.webp#right)
 
 ## Scarecrow
 
@@ -42,49 +50,44 @@ Although scarecrows take their name from rural effigies, they might take varied 
 | 7 | A sackcloth head atop straw-stuffed clothes. |
 | 8 | Wedding clothes that were never worn. |
 ^scarecrow-frames
+```ad-statblock
+title: Scarecrow
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Scarecrow.webp#token)
+*Medium Construct, Chaotic Evil*
 
-```statblock
-"name": "Scarecrow (XMM)"
-"size": "Medium"
-"type": "construct"
-"alignment": "Chaotic Evil"
-"ac": !!int "11"
-"hp": !!int "27"
-"hit_dice": "6d8"
-"modifier": !!int "3"
-"stats":
-  - !!int "11"
-  - !!int "13"
-  - !!int "11"
-  - !!int "10"
-  - !!int "10"
-  - !!int "13"
-"speed": "30 ft."
-"damage_vulnerabilities": "fire"
-"damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
-"languages": "Common plus one other language"
-"cr": "1"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+3|noform|noparens|text(+3), reach 5\
-      \ ft. *Hit:* dice:2d4+1|noform|noparens|avg|text(6) (2d4 + 1) Slashing damage,\
-      \ and the target has the [Frightened](3.Mechanics/rules/conditions.md#Frightened)\
-      \ condition until the end of the scarecrow's next turn."
-    "name": "Fearsome Claw"
-  - "desc": "*Wisdom Saving Throw:* DC 11, one creature the scarecrow can see within\
-      \ 30 feet. *Failure:* The target has the [Frightened](3.Mechanics/rules/conditions.md#Frightened)\
-      \ condition until the end of the scarecrow's next turn. While [Frightened](3.Mechanics/rules/conditions.md#Frightened),\
-      \ the target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)\
-      \ condition."
-    "name": "Terrifying Glare"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Scarecrow.webp"
+- **Armor Class** 11 
+- **Hit Points** 27 (6d8) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 11 | +0 | +0 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 13 | +1 | +1 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 11 | +0 | +0 |
+|Cha| 13 | +1 | +1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Vulnerabilities** Fire
+- **Damage Immunities** Poison
+- **Condition Immunities** [Charmed](3.Mechanics/rules/conditions.md#Charmed), [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Frightened](3.Mechanics/rules/conditions.md#Frightened), [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [Petrified](3.Mechanics/rules/conditions.md#Petrified), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), [Unconscious](3.Mechanics/rules/conditions.md#Unconscious)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 10
+- **Languages** Common plus one other language
+- **Challenge** 1
+
+## Actions
+
+***Fearsome Claw.*** *Melee Attack Roll:* `dice:1d20+3|noform|noparens|text(+3)`, reach 5 ft. *Hit:* `dice:2d4+1|noform|noparens|avg|text(6)` (`2d4 + 1`) Slashing damage, and the target has the [Frightened](3.Mechanics/rules/conditions.md#Frightened) condition until the end of the scarecrow's next turn.
+
+***Terrifying Glare.*** *Wisdom Saving Throw:* DC 11, one creature the scarecrow can see within 30 feet. *Failure:* The target has the [Frightened](3.Mechanics/rules/conditions.md#Frightened) condition until the end of the scarecrow's next turn. While [Frightened](3.Mechanics/rules/conditions.md#Frightened), the target has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed) condition.
 ```
 ^statblock
 

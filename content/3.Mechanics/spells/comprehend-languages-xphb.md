@@ -28,6 +28,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
+title: "Comprehend Languages"
 aliases:
 - "Comprehend Languages"
 ---

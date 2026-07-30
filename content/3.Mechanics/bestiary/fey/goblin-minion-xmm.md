@@ -14,13 +14,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/fey/goblinoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Goblin Minion"
 aliases:
 - "Goblin Minion"
 ---
-# [Goblin Minion](3.Mechanics/bestiary/fey/goblin-minion-xmm.md)
+# Goblin Minion
 *Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![A goblin boss, a goblin hexer, and a goblin Warrior prepare to strike against a bitter foe](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Goblins.webp#right)
 
 Goblin minions enjoy participating in the disruptive schemes of clever leaders but are quick to flee when confronted by their comeuppance.
 
@@ -42,45 +42,44 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 > Bree-yark!
 
 
-```statblock
-"name": "Goblin Minion (XMM)"
-"size": "Small"
-"type": "fey"
-"subtype": "goblinoid"
-"alignment": "Chaotic Neutral"
-"ac": !!int "12"
-"hp": !!int "7"
-"hit_dice": "2d6"
-"modifier": !!int "2"
-"stats":
-  - !!int "8"
-  - !!int "15"
-  - !!int "10"
-  - !!int "10"
-  - !!int "8"
-  - !!int "8"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+6"
-"gear":
-  - "three [daggers](3.Mechanics/items/dagger-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
-"languages": "Common, Goblin"
-"cr": "1/8"
-"actions":
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+4|noform|noparens|text(+4),\
-      \ reach 5 ft. or range 20/60 ft. *Hit:* dice:1d4+2|noform|noparens|avg|text(4)\
-      \ (1d4 + 2) Piercing damage."
-    "name": "Dagger"
-"bonus_actions":
-  - "desc": "The goblin takes the [Disengage](3.Mechanics/rules/actions.md#Disengage)\
-      \ or [Hide](3.Mechanics/rules/actions.md#Hide) action."
-    "name": "Nimble Escape"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Goblin%20Minion.webp"
+```ad-statblock
+title: Goblin Minion
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Goblin%20Minion.webp#token)
+*Small Fey (goblinoid), Chaotic Neutral*
+
+- **Armor Class** 12 
+- **Hit Points** 7 (2d6) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 8 | -1 | -1 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15 | +2 | +2 |
+|Wis| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 10 | +0 | +0 |
+|Cha| 8 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
+- **Gear** three [daggers](3.Mechanics/items/dagger-xphb.md)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
+- **Languages** Common, Goblin
+- **Challenge** 1/8
+
+## Actions
+
+***Dagger.*** *Melee  or Ranged Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. or range 20/60 ft. *Hit:* `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) Piercing damage.
+
+## Bonus Actions
+
+***Nimble Escape.*** The goblin takes the [Disengage](3.Mechanics/rules/actions.md#Disengage) or [Hide](3.Mechanics/rules/actions.md#Hide) action.
 ```
 ^statblock
 

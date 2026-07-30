@@ -14,6 +14,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Enspelled Weapon (Cantrip)"
 aliases:
 - "Enspelled Weapon (Cantrip)"
 - "Enspelled (Cantrip) Antimatter Rifle"

@@ -25,6 +25,7 @@ classes:
 - Sorcerer
 - Warlock (Archfey Patron)
 - Wizard
+title: "Sleep"
 aliases:
 - "Sleep"
 ---

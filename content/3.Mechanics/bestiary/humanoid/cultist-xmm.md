@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Cultist"
 aliases:
 - "Cultist"
 ---
-# [Cultist](3.Mechanics/bestiary/humanoid/cultist-xmm.md)
+# Cultist
 *Source: Monster Manual (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Cultists.webp#right)
 
 Cultists devote themselves to their faith's leaders and otherworldly masters. While this zeal grants cultists no magical powers, it gives them remarkable resolve in the face of threats. Cultists perform much of a cult's mundane work, which might include evangelism, criminal acts, or serving as sacrifices.
 
@@ -76,44 +76,40 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
 
-```statblock
-"name": "Cultist (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "12"
-"hp": !!int "9"
-"hit_dice": "2d8"
-"modifier": !!int "1"
-"stats":
-  - !!int "11"
-  - !!int "12"
-  - !!int "10"
-  - !!int "10"
-  - !!int "11"
-  - !!int "10"
-"speed": "30 ft."
-"saves":
-  - "wisdom": !!int "2"
-"skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
-    "desc": "+2"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
-    "desc": "+2"
-"gear":
-  - "[leather armor](3.Mechanics/items/leather-armor-xphb.md)"
-  - "[sickle](3.Mechanics/items/sickle-xphb.md)"
-"senses": "passive Perception 10"
-"languages": "Common"
-"cr": "1/8"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+3|noform|noparens|text(+3), reach 5\
-      \ ft. *Hit:* dice:1d4+1|noform|noparens|avg|text(3) (1d4 + 1) Slashing damage\
-      \ plus 1 Necrotic damage."
-    "name": "Ritual Sickle"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Cultist.webp"
+```ad-statblock
+title: Cultist
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cultist.webp#token)
+*Small or Medium Humanoid, Neutral*
+
+- **Armor Class** 12 
+- **Hit Points** 9 (2d8) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 11 | +0 | +0 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 11 | +0 | **+2** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 10 | +0 | +0 |
+|Cha| 10 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Wisdom +2
+- **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +2, [Religion](3.Mechanics/rules/skills.md#Religion) +2
+- **Gear** [leather armor](3.Mechanics/items/leather-armor-xphb.md), [sickle](3.Mechanics/items/sickle-xphb.md)
+- **Senses** Passive Perception 10
+- **Languages** Common
+- **Challenge** 1/8
+
+## Actions
+
+***Ritual Sickle.*** *Melee Attack Roll:* `dice:1d20+3|noform|noparens|text(+3)`, reach 5 ft. *Hit:* `dice:1d4+1|noform|noparens|avg|text(3)` (`1d4 + 1`) Slashing damage plus 1 Necrotic damage.
 ```
 ^statblock
 

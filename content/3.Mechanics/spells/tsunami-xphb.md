@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Druid
+title: "Tsunami"
 aliases:
 - "Tsunami"
 ---

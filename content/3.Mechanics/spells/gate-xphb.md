@@ -17,12 +17,13 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Gate"
 aliases:
 - "Gate"
 ---
 # Gate
 *9th-level, Conjuration*  
-![](file://spells/XPHB/Gate.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Gate.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

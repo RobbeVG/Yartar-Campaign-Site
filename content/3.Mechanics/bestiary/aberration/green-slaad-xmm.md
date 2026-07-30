@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/aberration
-statblock: inline
-statblock-link: "#^statblock"
+title: "Green Slaad"
 aliases:
 - "Green Slaad"
 ---
-# [Green Slaad](3.Mechanics/bestiary/aberration/green-slaad-xmm.md)
+# Green Slaad
 *Source: Monster Manual (2024) p. 286*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Green%20Slaad.webp#right)
 
 Green slaadi come into being when the propagation methods of red or blue slaadi affect certain creatures capable of casting spells of level 3 or higher. Green slaadi are more intelligent than their blue and red brethren and often direct their kin to portals where gray slaadi have identified Humanoid communities ripe for invasion.
 
@@ -42,65 +42,58 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
 
 
-```statblock
-"name": "Green Slaad (XMM)"
-"size": "Large"
-"type": "aberration"
-"alignment": "Chaotic Neutral"
-"ac": !!int "16"
-"hp": !!int "144"
-"hit_dice": "17d10 + 51"
-"modifier": !!int "5"
-"stats":
-  - !!int "16"
-  - !!int "15"
-  - !!int "16"
-  - !!int "11"
-  - !!int "8"
-  - !!int "18"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+3"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+2"
-"damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
-"languages": "Common, Slaad; telepathy 60 ft."
-"cr": "8"
-"traits":
-  - "desc": "The slaad has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-  - "desc": "The slaad regains 10 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ at the start of each of its turns if it has at least 1 [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md)."
-    "name": "Regeneration"
-"actions":
-  - "desc": "The slaad makes three Chaos Staff attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* dice:1d20+7|noform|noparens|text(+7),\
-      \ reach 10 ft. or range 60 ft. *Hit:* dice:1d8+4|noform|noparens|avg|text(8)\
-      \ (1d8 + 4) Force damage. Until the start of the slaad's next turn, the target\
-      \ has a condition determined by rolling dice:1d4|noform|noparens|avg (1d4):\
-      \ on a 1, [Charmed](3.Mechanics/rules/conditions.md#Charmed); on a 2, [Frightened](3.Mechanics/rules/conditions.md#Frightened);\
-      \ on a 3, [Poisoned](3.Mechanics/rules/conditions.md#Poisoned); or on a 4, [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)."
-    "name": "Chaos Staff"
-  - "desc": "The slaad casts one of the following spells, requiring no Material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 14, dice:1d20+6|noform|noparens|text(+6)\
-      \ to hit with spell attacks):\n\n**At will:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md),\
-      \ [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md)\n\
-      \n**1/day each:** [Fireball](3.Mechanics/spells/fireball-xphb.md), [Invisibility](3.Mechanics/spells/invisibility-xphb.md)\
-      \ (self only)"
-    "name": "Spellcasting"
-"bonus_actions":
-  - "desc": "The slaad shape-shifts into a Small or Medium Humanoid, or it returns\
-      \ to its true form. Other than its size, its game statistics are the same in\
-      \ each form. Any equipment it is wearing or carrying isn't transformed."
-    "name": "Shape-Shift"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Green%20Slaad.webp"
+```ad-statblock
+title: Green Slaad
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Green%20Slaad.webp#token)
+*Large Aberration, Chaotic Neutral*
+
+- **Armor Class** 16 
+- **Hit Points** 144 (17d10 + 51) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16 | +3 | +3 |
+|Int| 11 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 15 | +2 | +2 |
+|Wis| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 18 | +4 | +4 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +3, [Perception](3.Mechanics/rules/skills.md#Perception) +2
+- **Damage Resistances** Acid, Cold, Fire, Lightning, Thunder
+- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 Ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
+- **Languages** Common, Slaad; Telepathy 60 ft.
+- **Challenge** 8
+
+## Traits
+
+***Magic Resistance.*** The slaad has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+***Regeneration.*** The slaad regains 10 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) at the start of each of its turns if it has at least 1 [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md).
+
+## Actions
+
+***Multiattack.*** The slaad makes three Chaos Staff attacks.
+
+***Chaos Staff.*** *Melee  or Ranged Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 10 ft. or range 60 ft. *Hit:* `dice:1d8+4|noform|noparens|avg|text(8)` (`1d8 + 4`) Force damage. Until the start of the slaad's next turn, the target has a condition determined by rolling `dice:1d4|noform|noparens|avg` (`1d4`): on a 1, [Charmed](3.Mechanics/rules/conditions.md#Charmed); on a 2, [Frightened](3.Mechanics/rules/conditions.md#Frightened); on a 3, [Poisoned](3.Mechanics/rules/conditions.md#Poisoned); or on a 4, [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated).
+
+***Spellcasting.*** The slaad casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14, `dice:1d20+6|noform|noparens|text(+6)` to hit with spell attacks):
+
+**At will:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md), [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md)
+
+**1/day each:** [Fireball](3.Mechanics/spells/fireball-xphb.md), [Invisibility](3.Mechanics/spells/invisibility-xphb.md) (self only)
+
+## Bonus Actions
+
+***Shape-Shift.*** The slaad shape-shifts into a Small or Medium Humanoid, or it returns to its true form. Other than its size, its game statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
 ```
 ^statblock
 

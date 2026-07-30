@@ -13,6 +13,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Vicious Weapon"
 aliases:
 - "Vicious Weapon"
 - "Vicious Antimatter Rifle"
@@ -71,7 +72,7 @@ aliases:
 ---
 # Vicious Weapon
 *Rare*  
-![Vicious Weapon (Rapier)](file://items/XDMG/Vicious%20Weapon.webp#right)
+![Vicious Weapon (Rapier)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Vicious%20Weapon.webp#right)
 
 
 This magic weapon deals an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage to any creature it hits. This extra damage is of the same type as the weapon's normal damage.

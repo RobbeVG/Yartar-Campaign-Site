@@ -19,6 +19,7 @@ classes:
 - Paladin
 - Warlock (Fiend Patron)
 - Wizard
+title: "Geas"
 aliases:
 - "Geas"
 ---

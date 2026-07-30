@@ -17,6 +17,7 @@ classes:
 - Cleric
 - Druid
 - Paladin
+title: "Aura of Vitality"
 aliases:
 - "Aura of Vitality"
 ---

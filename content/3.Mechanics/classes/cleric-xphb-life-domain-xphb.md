@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/domain/life
 - ttrpg-cli/subclass/cleric/life
+title: "Life Domain"
 aliases:
 - "Life Domain"
 ---
@@ -44,6 +45,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Life%20Cleric.webp#right)
 
 *Soothe the Hurts of the World*
 

@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Tough Boss"
 aliases:
 - "Tough Boss"
 ---
-# [Tough Boss](3.Mechanics/bestiary/humanoid/tough-boss-xmm.md)
+# Tough Boss
 *Source: Monster Manual (2024) p. 307. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Toughs.webp#right)
 
 Tough bosses leverage their street smarts, brawling prowess, and reputation to compel others to follow their demands.
 
@@ -32,56 +32,48 @@ Bodyguards, belligerents, and laborers, toughs rely on their physical strength t
 > There are two answers to every question: ours, and the wrong one.
 
 
-```statblock
-"name": "Tough Boss (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "16"
-"hp": !!int "82"
-"hit_dice": "11d8 + 33"
-"modifier": !!int "2"
-"stats":
-  - !!int "17"
-  - !!int "14"
-  - !!int "16"
-  - !!int "11"
-  - !!int "10"
-  - !!int "11"
-"speed": "30 ft."
-"saves":
-  - "strength": !!int "5"
-  - "constitution": !!int "5"
-  - "charisma": !!int "2"
-"gear":
-  - "[chain mail](3.Mechanics/items/chain-mail-xphb.md)"
-  - "[heavy crossbow](3.Mechanics/items/heavy-crossbow-xphb.md)"
-  - "[warhammer](3.Mechanics/items/warhammer-xphb.md)"
-"senses": "passive Perception 10"
-"languages": "Common plus one other language"
-"cr": "4"
-"traits":
-  - "desc": "The tough has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on an attack roll against a creature if at least one of the tough's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition."
-    "name": "Pack Tactics"
-"actions":
-  - "desc": "The tough makes two attacks, using Warhammer or Heavy Crossbow in any\
-      \ combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:2d8+3|noform|noparens|avg|text(12) (2d8 + 3) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, the tough pushes the\
-      \ target up to 10 feet straight away from itself."
-    "name": "Warhammer"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+4|noform|noparens|text(+4), range 100/400\
-      \ ft. *Hit:* dice:2d10+2|noform|noparens|avg|text(13) (2d10 + 2) Piercing\
-      \ damage."
-    "name": "Heavy Crossbow"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Tough%20Boss.webp"
+```ad-statblock
+title: Tough Boss
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Tough%20Boss.webp#token)
+*Small or Medium Humanoid, Neutral*
+
+- **Armor Class** 16 
+- **Hit Points** 82 (11d8 + 33) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 17 | +3 | **+5** |
+|Int| 11 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | **+5** |
+|Cha| 11 | +0 | **+2** |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Strength +5, Constitution +5, Charisma +2
+- **Skills** ⏤
+- **Gear** [chain mail](3.Mechanics/items/chain-mail-xphb.md), [heavy crossbow](3.Mechanics/items/heavy-crossbow-xphb.md), [warhammer](3.Mechanics/items/warhammer-xphb.md)
+- **Senses** Passive Perception 10
+- **Languages** Common plus one other language
+- **Challenge** 4
+
+## Traits
+
+***Pack Tactics.*** The tough has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on an attack roll against a creature if at least one of the tough's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition.
+
+## Actions
+
+***Multiattack.*** The tough makes two attacks, using Warhammer or Heavy Crossbow in any combination.
+
+***Warhammer.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:2d8+3|noform|noparens|avg|text(12)` (`2d8 + 3`) Bludgeoning damage. If the target is a Large or smaller creature, the tough pushes the target up to 10 feet straight away from itself.
+
+***Heavy Crossbow.*** *Ranged Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, range 100/400 ft. *Hit:* `dice:2d10+2|noform|noparens|avg|text(13)` (`2d10 + 2`) Piercing damage.
 ```
 ^statblock
 

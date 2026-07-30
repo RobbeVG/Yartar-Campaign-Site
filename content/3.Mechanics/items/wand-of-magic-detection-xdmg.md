@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/wand
+title: "Wand of Magic Detection"
 aliases:
 - "Wand of Magic Detection"
 ---
 # Wand of Magic Detection
 *Wand, uncommon*  
-![](file://items/XDMG/Wand%20of%20Magic%20Detection.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Wand%20of%20Magic%20Detection.webp#right)
 
 - **Weight**: 1.0 lbs.
 

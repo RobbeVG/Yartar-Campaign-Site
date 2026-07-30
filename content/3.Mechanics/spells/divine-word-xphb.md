@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Cleric
+title: "Divine Word"
 aliases:
 - "Divine Word"
 ---

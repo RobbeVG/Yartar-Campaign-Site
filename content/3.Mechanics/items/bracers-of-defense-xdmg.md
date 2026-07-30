@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+title: "Bracers of Defense"
 aliases:
 - "Bracers of Defense"
 ---
 # Bracers of Defense
 *Wondrous item, rare (requires attunement)*  
-![](file://items/XDMG/Bracers%20of%20Defense.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Bracers%20of%20Defense.webp#right)
 
 
 While wearing these bracers, you gain a +2 bonus to [Armor Class](3.Mechanics/rules/variant-rules/armor-class-xphb.md) if you are wearing no armor and using no [Shield](3.Mechanics/items/shield-xphb.md).

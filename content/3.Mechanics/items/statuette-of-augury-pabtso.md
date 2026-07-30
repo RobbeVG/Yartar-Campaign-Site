@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/rarity/unknown/magic
+title: "Statuette of Augury"
 aliases:
 - "Statuette of Augury"
 ---

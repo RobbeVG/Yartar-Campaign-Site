@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Druid
+title: "Giant Insect"
 aliases:
 - "Giant Insect"
 ---

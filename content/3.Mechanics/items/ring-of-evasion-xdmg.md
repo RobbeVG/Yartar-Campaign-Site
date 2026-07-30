@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/ring
+title: "Ring of Evasion"
 aliases:
 - "Ring of Evasion"
 ---
 # Ring of Evasion
 *Ring, rare (requires attunement)*  
-![](file://items/XDMG/Ring%20of%20Evasion.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ring%20of%20Evasion.webp#right)
 
 
 This ring has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. When you fail a Dexterity saving throw while wearing the ring, you can take a [Reaction](3.Mechanics/rules/variant-rules/reaction-xphb.md) to expend 1 charge to succeed on that save instead.

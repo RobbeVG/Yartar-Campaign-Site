@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+title: "Rope of Entanglement"
 aliases:
 - "Rope of Entanglement"
 ---
 # Rope of Entanglement
 *Wondrous item, rare*  
-![](file://items/XDMG/Rope%20of%20Entanglement.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Rope%20of%20Entanglement.webp#right)
 
 
 This rope is 30 feet long. While holding one end of the rope, you can take a [Magic](3.Mechanics/rules/actions.md#Magic) action to command the other end to dart forward and entangle one creature you can see within 20 feet of yourself. The target must succeed on a DC 15 Dexterity saving throw or have the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition. You can release the target by letting go of your end of the rope (causing the rope to coil up in the target's space) or by using a [Bonus Action](3.Mechanics/rules/variant-rules/bonus-action-xphb.md) to repeat the command (causing the rope to coil up in your hand).

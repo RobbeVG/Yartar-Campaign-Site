@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Enspelled Armor (Level 6)"
 aliases:
 - "Enspelled Armor (Level 6)"
 - "Enspelled (Level 6) Breastplate"

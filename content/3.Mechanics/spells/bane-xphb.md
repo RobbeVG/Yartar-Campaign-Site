@@ -19,6 +19,7 @@ classes:
 - Cleric
 - Paladin (Oath of Vengeance)
 - Warlock
+title: "Bane"
 aliases:
 - "Bane"
 ---

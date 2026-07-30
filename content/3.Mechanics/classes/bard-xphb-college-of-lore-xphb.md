@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/bard/lore
+title: "College of Lore"
 aliases:
 - "College of Lore"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Lore%20Bard.webp#right)
 
 *Plumb the Depths of Magical Knowledge*
 

@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/class/sorcerer
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Sorcerer"
 aliases:
 - "Sorcerer"
 ---
@@ -42,6 +43,8 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Sorcerer.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d6 per Sorcerer level
@@ -56,6 +59,8 @@ aliases:
 
 **Starting Equipment:** *Choose A or B:* (A) [Spear](3.Mechanics/items/spear-xphb.md), 2 [Daggers](3.Mechanics/items/dagger-xphb.md), [Arcane Focus](3.Mechanics/items/arcane-focus-xphb.md) ([crystal](3.Mechanics/items/crystal-xphb.md)), [Dungeoneer's Pack](3.Mechanics/items/dungeoneers-pack-xphb.md), and 28 GP; or (B) 50 GP
 
+
+![The Sorcerer Delina manipulates wild magic to create unpredictable wonders](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/112-04-027.delina.webp#center)
 
 ## Sorcerer
 

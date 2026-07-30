@@ -27,6 +27,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
+title: "Magic Weapon"
 aliases:
 - "Magic Weapon"
 ---

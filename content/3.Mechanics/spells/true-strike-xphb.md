@@ -26,6 +26,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
+title: "True Strike"
 aliases:
 - "True Strike"
 ---

@@ -11,12 +11,13 @@ tags:
 - ttrpg-cli/spell/school/enchantment
 classes:
 - Bard
+title: "Vicious Mockery"
 aliases:
 - "Vicious Mockery"
 ---
 # Vicious Mockery
 *cantrip, Enchantment*  
-![](file://spells/XPHB/Vicious%20Mockery.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Vicious%20Mockery.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

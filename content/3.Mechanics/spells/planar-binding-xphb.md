@@ -19,6 +19,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
+title: "Planar Binding"
 aliases:
 - "Planar Binding"
 ---

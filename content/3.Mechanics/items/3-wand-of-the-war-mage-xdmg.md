@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/wand
+title: "+3 Wand of the War Mage"
 aliases:
 - "+3 Wand of the War Mage"
 ---

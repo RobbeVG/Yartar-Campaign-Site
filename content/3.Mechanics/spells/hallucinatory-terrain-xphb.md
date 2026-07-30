@@ -21,6 +21,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
+title: "Hallucinatory Terrain"
 aliases:
 - "Hallucinatory Terrain"
 ---

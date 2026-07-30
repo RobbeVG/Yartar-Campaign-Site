@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Whip"
 aliases:
 - "Whip"
 ---
 # Whip
 *Weapon*  
-![](file://items/XPHB/Whip.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Whip.webp#right)
 
 - **Damage**: 1d4 slashing
 - **Properties**: [Finesse](3.Mechanics/rules/item-properties.md#Finesse), [Reach](3.Mechanics/rules/item-properties.md#Reach)

@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/class/fighter
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Fighter"
 aliases:
 - "Fighter"
 ---
@@ -42,6 +43,8 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Fighter.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d10 per Fighter level
@@ -61,6 +64,8 @@ aliases:
 
 - **Weapon Proficiencies**: Martial weapons
 - **Armor Training**: [Light armor](3.Mechanics/rules/item-types.md#Light%20Armor), [Medium armor](3.Mechanics/rules/item-types.md#Medium%20Armor), [Shields](3.Mechanics/items/shield-xphb.md)
+
+![A Fighter stands between an ally and the onslaught of a black dragon](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/064-03-040.fighter-v-black-dragon.webp#center)
 
 ## Fighter
 

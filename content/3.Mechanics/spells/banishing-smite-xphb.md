@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/school/conjuration
 classes:
 - Paladin
+title: "Banishing Smite"
 aliases:
 - "Banishing Smite"
 ---

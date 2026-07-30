@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/fighter/eldritch-knight
+title: "Eldritch Knight"
 aliases:
 - "Eldritch Knight"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Eldritch%20Knight%20Fighter.webp#right)
 
 *Support Combat Skills with Arcane Magic*
 

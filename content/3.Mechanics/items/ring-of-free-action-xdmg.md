@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/ring
+title: "Ring of Free Action"
 aliases:
 - "Ring of Free Action"
 ---
 # Ring of Free Action
 *Ring, rare (requires attunement)*  
-![](file://items/XDMG/Ring%20of%20Free%20Action.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Ring%20of%20Free%20Action.webp#right)
 
 
 While you wear this ring, [Difficult Terrain](3.Mechanics/rules/variant-rules/difficult-terrain-xphb.md) doesn't cost you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed) or [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition.

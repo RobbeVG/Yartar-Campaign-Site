@@ -27,6 +27,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
+title: "Invisibility"
 aliases:
 - "Invisibility"
 ---

@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Staff of Defense"
 aliases:
 - "Staff of Defense"
 ---

@@ -31,6 +31,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Charm Person"
 aliases:
 - "Charm Person"
 ---

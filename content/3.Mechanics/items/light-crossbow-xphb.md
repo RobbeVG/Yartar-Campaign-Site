@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
+title: "Light Crossbow"
 aliases:
 - "Light Crossbow"
 ---
 # Light Crossbow
 *Weapon*  
-![](file://items/XPHB/Light%20Crossbow.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Light%20Crossbow.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320

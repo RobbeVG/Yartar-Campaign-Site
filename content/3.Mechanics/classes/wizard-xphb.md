@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/class/wizard
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Wizard"
 aliases:
 - "Wizard"
 ---
@@ -42,6 +43,8 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Wizard.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d6 per Wizard level
@@ -56,6 +59,11 @@ aliases:
 
 **Starting Equipment:** *Choose A or B:* (A) 2 [Daggers](3.Mechanics/items/dagger-xphb.md), [Arcane Focus](3.Mechanics/items/arcane-focus-xphb.md) ([Quarterstaff](3.Mechanics/items/quarterstaff-xphb.md)), [Robe](3.Mechanics/items/robe-xphb.md), Spellbook, [Scholar's Pack](3.Mechanics/items/scholars-pack-xphb.md), and 5 GP; or (B) 55 GP
 
+
+> [!gallery]
+![The elf queen Yolande awes a red dragon with her spell, Yolande's Regal Presence](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/120-04-035.elf-queen-yolande.webp)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/121-04-036.wizard-book.webp)
+![The Wizard Leomund studies spellbooks to prepare his magic](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/122-04-037.wizard-leomund.webp)
 
 ## Wizard
 

@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/artifact
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Axe of the Dwarvish Lords"
 aliases:
 - "Axe of the Dwarvish Lords"
 ---
 # Axe of the Dwarvish Lords
 *Weapon ([battleaxe](3.Mechanics/items/battleaxe-xphb.md)), artifact (requires attunement)*  
-![](file://items/XDMG/Axe%20of%20the%20Dwarvish%20Lords.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Axe%20of%20the%20Dwarvish%20Lords.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing

@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/mountain
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Peryton"
 aliases:
 - "Peryton"
 ---
-# [Peryton](3.Mechanics/bestiary/monstrosity/peryton-xmm.md)
+# Peryton
 *Source: Monster Manual (2024) p. 238*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Peryton.webp#right)
 
 ## Peryton
 
@@ -39,53 +39,47 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
 | 3 | A new peryton hatches from each heart. |
 | 4 | A portal opens to the Lower Planes. |
 ^peryton-superstitions
+```ad-statblock
+title: Peryton
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Peryton.webp#token)
+*Medium Monstrosity, Chaotic Evil*
 
-```statblock
-"name": "Peryton (XMM)"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Chaotic Evil"
-"ac": !!int "13"
-"hp": !!int "33"
-"hit_dice": "6d8 + 6"
-"modifier": !!int "3"
-"stats":
-  - !!int "16"
-  - !!int "12"
-  - !!int "13"
-  - !!int "9"
-  - !!int "12"
-  - !!int "10"
-"speed": "20 ft., fly 60 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+3"
-"senses": "passive Perception 15"
-"languages": "understands Common and Elvish but can't speak"
-"cr": "2"
-"traits":
-  - "desc": "The peryton doesn't provoke an [Opportunity Attack](3.Mechanics/rules/actions.md#Opportunity%20Attack)\
-      \ when it flies out of an enemy's reach."
-    "name": "Flyby"
-"actions":
-  - "desc": "The peryton makes one Gore attack and one Talons attack."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:1d8+3|noform|noparens|avg|text(7) (1d8 + 3) Piercing damage.\
-      \ If the peryton moved 30+ feet straight toward the target immediately before\
-      \ the hit, the target takes an extra dice:2d8|noform|noparens|avg|text(9)\
-      \ (2d8) Piercing damage."
-    "name": "Gore"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:2d4+3|noform|noparens|avg|text(8) (2d4 + 3) Piercing damage.\
-      \ If the attack reduces a Humanoid target to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md),\
-      \ the peryton kills the target by removing its heart."
-    "name": "Talons"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Peryton.webp"
+- **Armor Class** 13 
+- **Hit Points** 33 (6d8 + 6) 
+- **Speed** 20 ft., fly 60 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16 | +3 | +3 |
+|Int| 9 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 13 | +1 | +1 |
+|Cha| 10 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
+- **Senses** Passive Perception 15
+- **Languages** Understands Common and Elvish but can't speak
+- **Challenge** 2
+
+## Traits
+
+***Flyby.*** The peryton doesn't provoke an [Opportunity Attack](3.Mechanics/rules/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
+
+## Actions
+
+***Multiattack.*** The peryton makes one Gore attack and one Talons attack.
+
+***Gore.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d8+3|noform|noparens|avg|text(7)` (`1d8 + 3`) Piercing damage. If the peryton moved 30+ feet straight toward the target immediately before the hit, the target takes an extra `dice:2d8|noform|noparens|avg|text(9)` (`2d8`) Piercing damage.
+
+***Talons.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:2d4+3|noform|noparens|avg|text(8)` (`2d4 + 3`) Piercing damage. If the attack reduces a Humanoid target to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md), the peryton kills the target by removing its heart.
 ```
 ^statblock
 

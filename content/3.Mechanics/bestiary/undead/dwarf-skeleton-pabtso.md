@@ -7,55 +7,55 @@ tags:
 - ttrpg-cli/monster/cr/1-2
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
-statblock: inline
-statblock-link: "#^statblock"
+title: "Dwarf Skeleton"
 aliases:
 - "Dwarf Skeleton"
+conditionImmunities:
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Dwarf Skeleton](3.Mechanics/bestiary/undead/dwarf-skeleton-pabtso.md)
+# Dwarf Skeleton
 *Source: Phandelver and Below: The Shattered Obelisk p. 123*  
+```ad-statblock
+title: Dwarf Skeleton
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Dwarf%20Skeleton.webp#token)
+*Medium Undead, Lawful Evil*
 
-```statblock
-"name": "Dwarf Skeleton (PaBTSO)"
-"size": "Medium"
-"type": "undead"
-"alignment": "Lawful Evil"
-"ac": !!int "13"
-"ac_class": "[chain shirt](3.Mechanics/items/chain-shirt-xphb.md)"
-"hp": !!int "26"
-"hit_dice": "4d8 + 8"
-"modifier": !!int "0"
-"stats":
-  - !!int "16"
-  - !!int "10"
-  - !!int "15"
-  - !!int "6"
-  - !!int "8"
-  - !!int "5"
-"speed": "25 ft."
-"damage_vulnerabilities": "bludgeoning"
-"damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"gear":
-  - "[battleaxe](3.Mechanics/items/battleaxe-xphb.md)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
-"languages": "understands Dwarvish but can't speak"
-"cr": "1/2"
-"traits":
-  - "desc": "The skeleton has advantage on Strength and Dexterity saving throws made\
-      \ against effects that make it have the [prone](3.Mechanics/rules/conditions.md#Prone)\
-      \ condition."
-    "name": "Sure-Footed"
-"actions":
-  - "desc": "*Melee Weapon Attack:* dice:1d20+5|noform|noparens|text(+5) to hit,\
-      \ reach 5 ft., one target. *Hit:* dice:1d8+3|noform|noparens|avg|text(7) (1d8\
-      \ + 3) slashing damage, or dice:1d10+3|noform|noparens|avg|text(8) (1d10\
-      \ + 3) slashing damage if used with two hands."
-    "name": "Battleaxe"
-"source":
-  - "PaBTSO"
-"image": "file://bestiary/tokens/PaBTSO/Dwarf%20Skeleton.webp"
+- **Armor Class** 13 ([chain shirt](3.Mechanics/items/chain-shirt-xphb.md))
+- **Hit Points** 26 (4d8 + 8) 
+- **Speed** 25 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16 | +3 | +3 |
+|Int| 6 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 10 | +0 | +0 |
+|Wis| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 15 | +2 | +2 |
+|Cha| 5 | -3 | -3 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Damage Vulnerabilities** Bludgeoning
+- **Damage Immunities** Poison
+- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Gear** [battleaxe](3.Mechanics/items/battleaxe-xphb.md)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 9
+- **Languages** Understands Dwarvish but can't speak
+- **Challenge** 1/2
+
+## Traits
+
+***Sure-Footed.*** The skeleton has advantage on Strength and Dexterity saving throws made against effects that make it have the [prone](3.Mechanics/rules/conditions.md#Prone) condition.
+
+## Actions
+
+***Battleaxe.*** *Melee Weapon Attack:* `dice:1d20+5|noform|noparens|text(+5)` to hit, reach 5 ft., one target. *Hit:* `dice:1d8+3|noform|noparens|avg|text(7)` (`1d8 + 3`) slashing damage, or `dice:1d10+3|noform|noparens|avg|text(8)` (`1d10 + 3`) slashing damage if used with two hands.
 ```
 ^statblock

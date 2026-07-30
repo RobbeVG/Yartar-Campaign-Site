@@ -9,13 +9,16 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/elemental
-statblock: inline
-statblock-link: "#^statblock"
+title: "Smoke Mephit"
 aliases:
 - "Smoke Mephit"
+conditionImmunities:
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Smoke Mephit](3.Mechanics/bestiary/elemental/smoke-mephit-xmm.md)
+# Smoke Mephit
 *Source: Monster Manual (2024) p. 208*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Smoke%20and%20Steam%20Mephits.webp#right)
 
 Smoke mephits are elusive beings formed of fiery cinders and hot air. They love misleading creatures and then mocking them for their gullibility.
 
@@ -35,52 +38,47 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 > I am Seamusxanthuszenus, Slayer of Fiends, Merchant Most Excellent, Purveyor of Death!
 
 
-```statblock
-"name": "Smoke Mephit (XMM)"
-"size": "Small"
-"type": "elemental"
-"alignment": "Neutral Evil"
-"ac": !!int "12"
-"hp": !!int "13"
-"hit_dice": "3d6 + 3"
-"modifier": !!int "2"
-"stats":
-  - !!int "6"
-  - !!int "14"
-  - !!int "12"
-  - !!int "10"
-  - !!int "10"
-  - !!int "11"
-"speed": "30 ft., fly 30 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+2"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+4"
-"damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
-"languages": "Primordial (Auran, Ignan)"
-"cr": "1/4"
-"traits":
-  - "desc": "The mephit explodes when it dies. *Constitution Saving Throw:* DC 11,\
-      \ each creature in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the mephit. *Failure:* The target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition until the end of its next turn."
-    "name": "Death Burst"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d4+2|noform|noparens|avg|text(4) (1d4 + 2) Slashing damage."
-    "name": "Claw"
-  - "desc": "*Dexterity Saving Throw:* DC 11, one creature the mephit can see within\
-      \ 15 feet. *Failure:* The target has the [Blinded](3.Mechanics/rules/conditions.md#Blinded)\
-      \ condition until the end of the mephit's next turn."
-    "name": "Cinder Breath (Recharge 6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Smoke%20Mephit.webp"
+```ad-statblock
+title: Smoke Mephit
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Smoke%20Mephit.webp#token)
+*Small Elemental, Neutral Evil*
+
+- **Armor Class** 12 
+- **Hit Points** 13 (3d6 + 3) 
+- **Speed** 30 ft., fly 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 6 | -2 | -2 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 11 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +2, [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
+- **Damage Immunities** Fire, Poison
+- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 12
+- **Languages** Primordial (Auran, Ignan)
+- **Challenge** 1/4
+
+## Traits
+
+***Death Burst.*** The mephit explodes when it dies. *Constitution Saving Throw:* DC 11, each creature in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the mephit. *Failure:* The target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition until the end of its next turn.
+
+## Actions
+
+***Claw.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) Slashing damage.
+
+***Cinder Breath (Recharge 6).*** *Dexterity Saving Throw:* DC 11, one creature the mephit can see within 15 feet. *Failure:* The target has the [Blinded](3.Mechanics/rules/conditions.md#Blinded) condition until the end of the mephit's next turn.
 ```
 ^statblock
 

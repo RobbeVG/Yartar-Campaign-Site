@@ -15,6 +15,7 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
+title: "Barkskin"
 aliases:
 - "Barkskin"
 ---

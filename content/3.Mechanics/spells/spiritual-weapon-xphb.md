@@ -15,12 +15,13 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Cleric (War Domain)
+title: "Spiritual Weapon"
 aliases:
 - "Spiritual Weapon"
 ---
 # Spiritual Weapon
 *2nd-level, Evocation*  
-![](file://spells/XPHB/Spiritual%20Weapon.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Spiritual%20Weapon.webp#right)
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 60 feet

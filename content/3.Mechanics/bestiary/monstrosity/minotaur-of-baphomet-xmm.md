@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Minotaur of Baphomet"
 aliases:
 - "Minotaur of Baphomet"
 ---
-# [Minotaur of Baphomet](3.Mechanics/bestiary/monstrosity/minotaur-of-baphomet-xmm.md)
+# Minotaur of Baphomet
 *Source: Monster Manual (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Minotaur%20of%20Baphomet.webp#right)
 
 ## Minotaur of Baphomet
 
@@ -38,48 +38,41 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
 | 3 | A poisonous swamp with labyrinthine paths. |
 | 4 | The ruins of a buried palace or temple. |
 ^minotaur-mazes
+```ad-statblock
+title: Minotaur of Baphomet
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Minotaur%20of%20Baphomet.webp#token)
+*Large Monstrosity, Chaotic Evil*
 
-```statblock
-"name": "Minotaur of Baphomet (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Chaotic Evil"
-"ac": !!int "14"
-"hp": !!int "85"
-"hit_dice": "10d10 + 30"
-"modifier": !!int "0"
-"stats":
-  - !!int "18"
-  - !!int "11"
-  - !!int "16"
-  - !!int "6"
-  - !!int "16"
-  - !!int "9"
-"speed": "40 ft."
-"skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+7"
-  - "name": "[Survival](3.Mechanics/rules/skills.md#Survival)"
-    "desc": "+7"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 17"
-"languages": "Abyssal"
-"cr": "3"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 10\
-      \ ft. *Hit:* dice:1d12+4|noform|noparens|avg|text(10) (1d12 + 4) Slashing\
-      \ damage plus dice:3d6|noform|noparens|avg|text(10) (3d6) Necrotic damage."
-    "name": "Abyssal Glaive"
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:4d6+4|noform|noparens|avg|text(18) (4d6 + 4) Piercing\
-      \ damage. If the target is a Large or smaller creature and the minotaur moved\
-      \ 10+ feet straight toward it immediately before the hit, the target takes an\
-      \ extra dice:3d6|noform|noparens|avg|text(10) (3d6) Piercing damage and\
-      \ has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition."
-    "name": "Gore (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Minotaur%20of%20Baphomet.webp"
+- **Armor Class** 14 
+- **Hit Points** 85 (10d10 + 30) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 18 | +4 | +4 |
+|Int| 6 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 11 | +0 | +0 |
+|Wis| 16 | +3 | +3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 9 | -1 | -1 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Survival](3.Mechanics/rules/skills.md#Survival) +7
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 17
+- **Languages** Abyssal
+- **Challenge** 3
+
+## Actions
+
+***Abyssal Glaive.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 10 ft. *Hit:* `dice:1d12+4|noform|noparens|avg|text(10)` (`1d12 + 4`) Slashing damage plus `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) Necrotic damage.
+
+***Gore (Recharge 5-6).*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:4d6+4|noform|noparens|avg|text(18)` (`4d6 + 4`) Piercing damage. If the target is a Large or smaller creature and the minotaur moved 10+ feet straight toward it immediately before the hit, the target takes an extra `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) Piercing damage and has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition.
 ```
 ^statblock
 

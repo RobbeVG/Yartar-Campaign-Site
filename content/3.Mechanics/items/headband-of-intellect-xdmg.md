@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Headband of Intellect"
 aliases:
 - "Headband of Intellect"
 ---
 # Headband of Intellect
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Headband%20of%20Intellect.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Headband%20of%20Intellect.webp#right)
 
 
 Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is 19 or higher without it.

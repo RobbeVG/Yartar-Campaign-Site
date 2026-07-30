@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/legendary
+title: "Cubic Gate"
 aliases:
 - "Cubic Gate"
 ---
 # Cubic Gate
 *Wondrous item, legendary*  
-![](file://items/XDMG/Cubic%20Gate.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Cubic%20Gate.webp#right)
 
 
 This cube is 3 inches across and radiates palpable magical energy. The six sides of the cube are each keyed to a different plane of existence, one of which is the Material Plane. The other sides are linked to planes determined by the DM.

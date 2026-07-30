@@ -25,6 +25,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Abjurer)
+title: "Stoneskin"
 aliases:
 - "Stoneskin"
 ---

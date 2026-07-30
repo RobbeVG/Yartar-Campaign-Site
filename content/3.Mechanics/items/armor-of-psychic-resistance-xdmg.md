@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Armor of Psychic Resistance"
 aliases:
 - "Armor of Psychic Resistance"
 - "Breastplate of Psychic Resistance"

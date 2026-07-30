@@ -25,6 +25,7 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
+title: "Tongues"
 aliases:
 - "Tongues"
 ---

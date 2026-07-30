@@ -19,6 +19,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Illusionist)
+title: "Nystul's Magic Aura"
 aliases:
 - "Nystul's Magic Aura"
 ---

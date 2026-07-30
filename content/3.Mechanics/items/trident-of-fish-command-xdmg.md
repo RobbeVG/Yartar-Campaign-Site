@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Trident of Fish Command"
 aliases:
 - "Trident of Fish Command"
 ---
 # Trident of Fish Command
 *Weapon ([trident](3.Mechanics/items/trident-xphb.md)), uncommon (requires attunement)*  
-![](file://items/XDMG/Trident%20of%20Fish%20Command.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Trident%20of%20Fish%20Command.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 piercing

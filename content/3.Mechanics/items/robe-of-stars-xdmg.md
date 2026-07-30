@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+title: "Robe of Stars"
 aliases:
 - "Robe of Stars"
 ---
 # Robe of Stars
 *Wondrous item, very rare (requires attunement)*  
-![](file://items/XDMG/Robe%20of%20Stars.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Robe%20of%20Stars.webp#right)
 
 
 This black or dark-blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.

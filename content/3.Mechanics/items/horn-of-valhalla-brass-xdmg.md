@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/instrument
 - ttrpg-cli/item/rarity/rare
+title: "Horn of Valhalla, Brass"
 aliases:
 - "Horn of Valhalla, Brass"
 ---
 # Horn of Valhalla, Brass
 *Wondrous item, instrument ([horn](3.Mechanics/items/horn-xphb.md)), rare*  
-![](file://items/XDMG/Horn%20of%20Valhalla.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Horn%20of%20Valhalla.webp#right)
 
 
 You can take a [Magic](3.Mechanics/rules/actions.md#Magic) action to blow this horn. In response, warrior spirits from the plane of Ysgard appear in unoccupied spaces within 60 feet of you. Each spirit uses the [Berserker](3.Mechanics/bestiary/humanoid/berserker-xmm.md) stat block and returns to Ysgard after 1 hour or when it drops to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md). The spirits look like living, breathing warriors, and they have [Immunity](3.Mechanics/rules/variant-rules/immunity-xphb.md) to the [Charmed](3.Mechanics/rules/conditions.md#Charmed) and [Frightened](3.Mechanics/rules/conditions.md#Frightened) conditions. Once you use the horn, it can't be used again until 7 days have passed.

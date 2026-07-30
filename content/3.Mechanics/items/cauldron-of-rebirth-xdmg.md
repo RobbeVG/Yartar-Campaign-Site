@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+title: "Cauldron of Rebirth"
 aliases:
 - "Cauldron of Rebirth"
 ---
 # Cauldron of Rebirth
 *Wondrous item, very rare (requires attunement by a druid or warlock)*  
-![](file://items/XDMG/Cauldron%20of%20Rebirth.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Cauldron%20of%20Rebirth.webp#right)
 
 
 This Tiny pot bears relief scenes of heroes on its cast-iron sides.

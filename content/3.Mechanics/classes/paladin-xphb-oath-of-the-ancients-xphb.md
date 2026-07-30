@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/paladin/ancients
+title: "Oath of the Ancients"
 aliases:
 - "Oath of the Ancients"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Ancients%20Paladin.webp#right)
 
 *Preserve Life and Light in the World*
 

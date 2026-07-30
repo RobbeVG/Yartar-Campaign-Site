@@ -21,6 +21,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Gaseous Form"
 aliases:
 - "Gaseous Form"
 ---

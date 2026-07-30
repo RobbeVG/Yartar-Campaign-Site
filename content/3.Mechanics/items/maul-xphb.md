@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Maul"
 aliases:
 - "Maul"
 ---
 # Maul
 *Weapon*  
-![](file://items/XPHB/Maul.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Maul.webp#right)
 
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [Heavy](3.Mechanics/rules/item-properties.md#Heavy), [Two-Handed](3.Mechanics/rules/item-properties.md#Two-Handed)

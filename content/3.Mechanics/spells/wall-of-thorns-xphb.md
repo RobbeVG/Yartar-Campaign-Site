@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Druid
+title: "Wall of Thorns"
 aliases:
 - "Wall of Thorns"
 ---

@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+title: "Eyes of Charming"
 aliases:
 - "Eyes of Charming"
 ---
 # Eyes of Charming
 *Wondrous item, uncommon (requires attunement)*  
-![](file://items/XDMG/Eyes%20of%20Charming.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Eyes%20of%20Charming.webp#right)
 
 
 These crystal lenses fit over the eyes. They have 3 charges. While wearing them, you can expend 1 or more charges to cast [Charm Person](3.Mechanics/spells/charm-person-xphb.md) (save DC 13). For 1 charge, you cast the level 1 version of the spell. You increase the spell's level by one for each additional charge you expend. The lenses regain all expended charges daily at dawn.

@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Helm of Comprehending Languages"
 aliases:
 - "Helm of Comprehending Languages"
 ---
 # Helm of Comprehending Languages
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Helm%20of%20Comprehending%20Languages.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Helm%20of%20Comprehending%20Languages.webp#right)
 
 
 While wearing this helm, you can cast [Comprehend Languages](3.Mechanics/spells/comprehend-languages-xphb.md) from it.

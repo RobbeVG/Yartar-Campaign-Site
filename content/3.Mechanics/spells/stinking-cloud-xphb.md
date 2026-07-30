@@ -23,6 +23,7 @@ classes:
 - Sorcerer
 - Warlock (Fiend Patron)
 - Wizard
+title: "Stinking Cloud"
 aliases:
 - "Stinking Cloud"
 ---

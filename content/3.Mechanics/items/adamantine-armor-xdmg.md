@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Adamantine Armor"
 aliases:
 - "Adamantine Armor"
 - "Adamantine Breastplate"

@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Gloves of Thievery"
 aliases:
 - "Gloves of Thievery"
 ---
 # Gloves of Thievery
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Gloves%20of%20Thievery.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Gloves%20of%20Thievery.webp#right)
 
 
 These gloves are imperceptible while worn. While wearing them, you gain a +5 bonus to Dexterity ([Sleight of Hand](3.Mechanics/rules/skills.md#Sleight%20of%20Hand)) checks.

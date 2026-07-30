@@ -9,13 +9,15 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend/demon
-statblock: inline
-statblock-link: "#^statblock"
+title: "Hezrou"
 aliases:
 - "Hezrou"
+conditionImmunities:
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Hezrou](3.Mechanics/bestiary/fiend/hezrou-xmm.md)
+# Hezrou
 *Source: Monster Manual (2024) p. 167. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Hezrou.webp#right)
 
 ## Hezrou
 
@@ -43,62 +45,56 @@ When on the Material Plane or otherwise left to their own devices, hezrous reckl
 | 5 | Hunt down a foe, destroying everything barring the demon's path. |
 | 6 | Intimidate someone into following orders. |
 ^demonic-undertakings
+```ad-statblock
+title: Hezrou
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hezrou.webp#token)
+*Large Fiend (demon), Chaotic Evil*
 
-```statblock
-"name": "Hezrou (XMM)"
-"size": "Large"
-"type": "fiend"
-"subtype": "demon"
-"alignment": "Chaotic Evil"
-"ac": !!int "18"
-"hp": !!int "157"
-"hit_dice": "15d10 + 75"
-"modifier": !!int "6"
-"stats":
-  - !!int "19"
-  - !!int "17"
-  - !!int "20"
-  - !!int "5"
-  - !!int "12"
-  - !!int "13"
-"speed": "30 ft."
-"saves":
-  - "strength": !!int "7"
-  - "constitution": !!int "8"
-  - "wisdom": !!int "4"
-"damage_resistances": "cold, fire, lightning"
-"damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
-"languages": "Abyssal; telepathy 120 ft."
-"cr": "8"
-"traits":
-  - "desc": "If the hezrou dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ somewhere in the Abyss."
-    "name": "Demonic Restoration"
-  - "desc": "The hezrou has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on saving throws against spells and other magical effects."
-    "name": "Magic Resistance"
-  - "desc": "*Constitution Saving Throw:* DC 16, any creature that starts its turn\
-      \ in a 10-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the hezrou. *Failure:* The target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition until the start of its next turn."
-    "name": "Stench"
-"actions":
-  - "desc": "The hezrou makes three Rend attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+7|noform|noparens|text(+7), reach 5\
-      \ ft. *Hit:* dice:1d4+4|noform|noparens|avg|text(6) (1d4 + 4) Slashing damage\
-      \ plus dice:2d8|noform|noparens|avg|text(9) (2d8) Poison damage."
-    "name": "Rend"
-"bonus_actions":
-  - "desc": "The hezrou jumps up to 30 feet by spending 10 feet of movement."
-    "name": "Leap"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Hezrou.webp"
+- **Armor Class** 18 
+- **Hit Points** 157 (15d10 + 75) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 19 | +4 | **+7** |
+|Int| 5 | -3 | -3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 17 | +3 | +3 |
+|Wis| 12 | +1 | **+4** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 20 | +5 | **+8** |
+|Cha| 13 | +1 | +1 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Strength +7, Constitution +8, Wisdom +4
+- **Skills** ⏤
+- **Damage Resistances** Cold, Fire, Lightning
+- **Damage Immunities** Poison
+- **Condition Immunities** [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., Passive Perception 11
+- **Languages** Abyssal; Telepathy 120 ft.
+- **Challenge** 8
+
+## Traits
+
+***Demonic Restoration.*** If the hezrou dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) somewhere in the Abyss.
+
+***Magic Resistance.*** The hezrou has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+***Stench.*** *Constitution Saving Throw:* DC 16, any creature that starts its turn in a 10-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the hezrou. *Failure:* The target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition until the start of its next turn.
+
+## Actions
+
+***Multiattack.*** The hezrou makes three Rend attacks.
+
+***Rend.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. *Hit:* `dice:1d4+4|noform|noparens|avg|text(6)` (`1d4 + 4`) Slashing damage plus `dice:2d8|noform|noparens|avg|text(9)` (`2d8`) Poison damage.
+
+## Bonus Actions
+
+***Leap.*** The hezrou jumps up to 30 feet by spending 10 feet of movement.
 ```
 ^statblock
 

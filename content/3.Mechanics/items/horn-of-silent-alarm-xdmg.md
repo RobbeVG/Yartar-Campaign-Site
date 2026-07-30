@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/instrument
 - ttrpg-cli/item/rarity/common
+title: "Horn of Silent Alarm"
 aliases:
 - "Horn of Silent Alarm"
 ---

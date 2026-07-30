@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Warrior Veteran"
 aliases:
 - "Warrior Veteran"
 ---
-# [Warrior Veteran](3.Mechanics/bestiary/humanoid/warrior-veteran-xmm.md)
+# Warrior Veteran
 *Source: Monster Manual (2024) p. 320. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![An aasimar commander leads warriors charging into battle](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Warriors.webp#right)
 
 Warrior veterans have participated in numerous battles and can hold their own against lesser rivals and monsters.
 
@@ -52,54 +52,48 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 > Make way, evil! I'm armed to the teeth and packing a hamster!
 
 
-```statblock
-"name": "Warrior Veteran (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral"
-"ac": !!int "17"
-"hp": !!int "65"
-"hit_dice": "10d8 + 20"
-"modifier": !!int "3"
-"stats":
-  - !!int "16"
-  - !!int "13"
-  - !!int "14"
-  - !!int "10"
-  - !!int "11"
-  - !!int "10"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
-    "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+2"
-"gear":
-  - "[greatsword](3.Mechanics/items/greatsword-xphb.md)"
-  - "[heavy crossbow](3.Mechanics/items/heavy-crossbow-xphb.md)"
-  - "[splint armor](3.Mechanics/items/splint-armor-xphb.md)"
-"senses": "passive Perception 12"
-"languages": "Common plus one other language"
-"cr": "3"
-"actions":
-  - "desc": "The warrior makes two Greatsword or Heavy Crossbow attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+5|noform|noparens|text(+5), reach 5\
-      \ ft. *Hit:* dice:2d6+3|noform|noparens|avg|text(10) (2d6 + 3) Slashing\
-      \ damage."
-    "name": "Greatsword"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+3|noform|noparens|text(+3), range 100/400\
-      \ ft. *Hit:* dice:2d10+1|noform|noparens|avg|text(12) (2d10 + 1) Piercing\
-      \ damage."
-    "name": "Heavy Crossbow"
-"reactions":
-  - "desc": "Trigger: The warrior is hit by a melee attack roll while holding a weapon.\
-      \ _Response:_ The warrior adds 2 to its AC against that attack, possibly causing\
-      \ it to miss."
-    "name": "Parry"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Warrior%20Veteran.webp"
+```ad-statblock
+title: Warrior Veteran
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Warrior%20Veteran.webp#token)
+*Small or Medium Humanoid, Neutral*
+
+- **Armor Class** 17 
+- **Hit Points** 65 (10d8 + 20) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 16 | +3 | +3 |
+|Int| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 13 | +1 | +1 |
+|Wis| 11 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 14 | +2 | +2 |
+|Cha| 10 | +0 | +0 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Athletics](3.Mechanics/rules/skills.md#Athletics) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +2
+- **Gear** [greatsword](3.Mechanics/items/greatsword-xphb.md), [heavy crossbow](3.Mechanics/items/heavy-crossbow-xphb.md), [splint armor](3.Mechanics/items/splint-armor-xphb.md)
+- **Senses** Passive Perception 12
+- **Languages** Common plus one other language
+- **Challenge** 3
+
+## Actions
+
+***Multiattack.*** The warrior makes two Greatsword or Heavy Crossbow attacks.
+
+***Greatsword.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:2d6+3|noform|noparens|avg|text(10)` (`2d6 + 3`) Slashing damage.
+
+***Heavy Crossbow.*** *Ranged Attack Roll:* `dice:1d20+3|noform|noparens|text(+3)`, range 100/400 ft. *Hit:* `dice:2d10+1|noform|noparens|avg|text(12)` (`2d10 + 1`) Piercing damage.
+
+## Reactions
+
+***Parry.*** Trigger: The warrior is hit by a melee attack roll while holding a weapon. _Response:_ The warrior adds 2 to its AC against that attack, possibly causing it to miss.
 ```
 ^statblock
 

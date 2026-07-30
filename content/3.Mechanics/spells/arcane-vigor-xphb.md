@@ -21,6 +21,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Abjurer)
+title: "Arcane Vigor"
 aliases:
 - "Arcane Vigor"
 ---

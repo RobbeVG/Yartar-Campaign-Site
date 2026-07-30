@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/potion
+title: "Potion of Invisibility"
 aliases:
 - "Potion of Invisibility"
 ---
 # Potion of Invisibility
 *Potion, rare*  
-![](file://items/XDMG/Potion%20of%20Invisibility.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Potion%20of%20Invisibility.webp#right)
 
 - **Weight**: 0.5 lbs.
 

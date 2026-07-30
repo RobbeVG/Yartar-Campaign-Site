@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Longsword"
 aliases:
 - "Longsword"
 ---
 # Longsword
 *Weapon*  
-![](file://items/XPHB/Longsword.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Longsword.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing

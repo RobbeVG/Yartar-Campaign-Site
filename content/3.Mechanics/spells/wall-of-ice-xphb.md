@@ -13,6 +13,7 @@ classes:
 - Bard
 - Wizard
 - Wizard (Evoker)
+title: "Wall of Ice"
 aliases:
 - "Wall of Ice"
 ---

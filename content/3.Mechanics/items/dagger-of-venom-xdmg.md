@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Dagger of Venom"
 aliases:
 - "Dagger of Venom"
 ---
 # Dagger of Venom
 *Weapon ([dagger](3.Mechanics/items/dagger-xphb.md)), rare*  
-![](file://items/XDMG/Dagger%20of%20Venom.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Dagger%20of%20Venom.webp#right)
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

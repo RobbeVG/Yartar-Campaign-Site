@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Quarterstaff"
 aliases:
 - "Quarterstaff"
 ---
 # Quarterstaff
 *Weapon*  
-![](file://items/XPHB/Quarterstaff.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Quarterstaff.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

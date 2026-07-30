@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
-statblock: inline
-statblock-link: "#^statblock"
+title: "Aberrant Cultist"
 aliases:
 - "Aberrant Cultist"
 ---
-# [Aberrant Cultist](3.Mechanics/bestiary/humanoid/aberrant-cultist-xmm.md)
+# Aberrant Cultist
 *Source: Monster Manual (2024) p. 86*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Aberrant%20Cultist.webp#right)
 
 Aberrant cultists pursue mind-bending powers from alien forces. Aberrant cultists align with monsters such as aboleths and mind flayers or forces such as Cthulhu, Hadar, Ityak-Ortheel the Elf Eater, Nyarlathotep, malicious solar bodies, or entities from the Far Realm.
 
@@ -76,66 +76,56 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
 
-```statblock
-"name": "Aberrant Cultist (XMM)"
-"size": "Small or Medium"
-"type": "humanoid"
-"alignment": "Neutral Evil"
-"ac": !!int "14"
-"hp": !!int "137"
-"hit_dice": "25d8 + 25"
-"modifier": !!int "7"
-"stats":
-  - !!int "10"
-  - !!int "19"
-  - !!int "12"
-  - !!int "16"
-  - !!int "18"
-  - !!int "15"
-"speed": "30 ft."
-"saves":
-  - "intelligence": !!int "6"
-  - "wisdom": !!int "7"
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+6"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+7"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
-    "desc": "+6"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 ft., passive Perception\
-  \ 17"
-"languages": "Common, Deep Speech; telepathy 30 ft."
-"cr": "8"
-"actions":
-  - "desc": "The cultist makes two Tentacle Lash attacks. It can replace any attack\
-      \ with a use of Mind Rot."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+7|noform|noparens|text(+7), reach 10\
-      \ ft. *Hit:* dice:1d6+4|noform|noparens|avg|text(7) (1d6 + 4) Slashing damage\
-      \ plus dice:4d6|noform|noparens|avg|text(14) (4d6) Psychic damage. If the\
-      \ target is a Large or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
-      \ condition (escape DC 14) from one of two tentacles, and it has the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition until the grapple ends."
-    "name": "Tentacle Lash"
-  - "desc": "*Wisdom Saving Throw:* DC 15, one creature the cultist can see within\
-      \ 90 feet. *Failure:* dice:6d8|noform|noparens|avg|text(27) (6d8) Psychic\
-      \ damage, and the target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition until the start of the cultist's next turn. *Success:* Half damage\
-      \ only."
-    "name": "Mind Rot"
-  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 15):\n\n**At will:** [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md),\
-      \ [Minor Illusion](3.Mechanics/spells/minor-illusion-xphb.md)"
-    "name": "Spellcasting"
-"reactions":
-  - "desc": "The cultist casts [Counterspell](3.Mechanics/spells/counterspell-xphb.md)\
-      \ in response to that spell's trigger, using the same spellcasting ability as\
-      \ Spellcasting.\n"
-    "name": "Counterspell (2/Day)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Aberrant%20Cultist.webp"
+> [!gallery]
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Aberrant%20Cultist%20and%20Elemental%20Cultist.webp)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Cultists.webp)
+
+```ad-statblock
+title: Aberrant Cultist
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Aberrant%20Cultist.webp#token)
+*Small or Medium Humanoid, Neutral Evil*
+
+- **Armor Class** 14 
+- **Hit Points** 137 (25d8 + 25) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10 | +0 | +0 |
+|Int| 16 | +3 | **+6** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 19 | +4 | +4 |
+|Wis| 18 | +4 | **+7** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 15 | +2 | +2 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Intelligence +6, Wisdom +7
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +6, [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Religion](3.Mechanics/rules/skills.md#Religion) +6
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 Ft., Passive Perception 17
+- **Languages** Common, Deep Speech; Telepathy 30 ft.
+- **Challenge** 8
+
+## Actions
+
+***Multiattack.*** The cultist makes two Tentacle Lash attacks. It can replace any attack with a use of Mind Rot.
+
+***Tentacle Lash.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 10 ft. *Hit:* `dice:1d6+4|noform|noparens|avg|text(7)` (`1d6 + 4`) Slashing damage plus `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) Psychic damage. If the target is a Large or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 14) from one of two tentacles, and it has the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition until the grapple ends.
+
+***Mind Rot.*** *Wisdom Saving Throw:* DC 15, one creature the cultist can see within 90 feet. *Failure:* `dice:6d8|noform|noparens|avg|text(27)` (`6d8`) Psychic damage, and the target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition until the start of the cultist's next turn. *Success:* Half damage only.
+
+***Spellcasting.*** The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 15):
+
+**At will:** [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [Minor Illusion](3.Mechanics/spells/minor-illusion-xphb.md)
+
+## Reactions
+
+***Counterspell (2/Day).*** The cultist casts [Counterspell](3.Mechanics/spells/counterspell-xphb.md) in response to that spell's trigger, using the same spellcasting ability as Spellcasting.
+
 ```
 ^statblock
 

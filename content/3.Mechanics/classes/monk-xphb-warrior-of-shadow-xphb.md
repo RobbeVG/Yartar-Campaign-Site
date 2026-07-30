@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/monk/shadow
+title: "Warrior of Shadow"
 aliases:
 - "Warrior of Shadow"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Shadow%20Monk.webp#right)
 
 *Harness Shadow Power for Stealth and Subterfuge*
 

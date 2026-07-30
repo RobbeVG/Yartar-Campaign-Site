@@ -19,12 +19,13 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
+title: "Cone of Cold"
 aliases:
 - "Cone of Cold"
 ---
 # Cone of Cold
 *5th-level, Evocation*  
-![](file://spells/XPHB/Cone%20of%20Cold.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Cone%20of%20Cold.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Self (60-foot Cone)

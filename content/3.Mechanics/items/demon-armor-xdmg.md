@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Demon Armor"
 aliases:
 - "Demon Armor"
 - "Demon Breastplate"
@@ -27,7 +28,7 @@ aliases:
 ---
 # Demon Armor
 *Cursed item, very rare (requires attunement)*  
-![Demon Armor (Plate Armor)](file://items/XDMG/Demon%20Armor.webp#right)
+![Demon Armor (Plate Armor)](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Demon%20Armor.webp#right)
 
 - **Properties**: [Cursed](3.Mechanics/rules/item-properties.md#Cursed%20Items)
 

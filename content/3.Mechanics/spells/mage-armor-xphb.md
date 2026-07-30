@@ -23,12 +23,13 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Abjurer)
+title: "Mage Armor"
 aliases:
 - "Mage Armor"
 ---
 # Mage Armor
 *1st-level, Abjuration*  
-![](file://spells/XPHB/Mage%20Armor.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Mage%20Armor.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Touch

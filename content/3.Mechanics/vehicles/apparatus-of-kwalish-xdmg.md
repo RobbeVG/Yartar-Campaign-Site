@@ -7,16 +7,19 @@ tags:
 - ttrpg-cli/vehicle/size/large
 - ttrpg-cli/vehicle/terrain/sea
 - ttrpg-cli/vehicle/type/object
+title: "Apparatus of Kwalish"
 aliases:
 - "Apparatus of Kwalish"
 ---
 # Apparatus of Kwalish
-%%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Apparatus of the Crab")*  
+
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Apparatus%20of%20Kwalish.webp#center)
+
 
 ```ad-statblock
 title: Apparatus of Kwalish
-![](file://vehicles/tokens/XDMG/Apparatus%20of%20Kwalish.webp#token)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/vehicles/tokens/XDMG/Apparatus%20of%20Kwalish.webp#token)
 *Large vehicle; sea*
 
 - **Creature Capacity** 1 crew, 1 passenger

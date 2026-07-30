@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/generic-variant
+title: "Armor of Gleaming"
 aliases:
 - "Armor of Gleaming"
 - "Breastplate of Gleaming"

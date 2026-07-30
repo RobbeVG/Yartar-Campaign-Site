@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/shield/
+title: "Shield of Missile Attraction"
 aliases:
 - "Shield of Missile Attraction"
 ---
 # Shield of Missile Attraction
 *Armor ([shield](3.Mechanics/items/shield-xphb.md)), cursed item, rare (requires attunement)*  
-![](file://items/XDMG/Shield%20of%20Missile%20Attraction.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Shield%20of%20Missile%20Attraction.webp#right)
 
 - **Armor Class**: 2
 - **Properties**: [Cursed](3.Mechanics/rules/item-properties.md#Cursed%20Items)

@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/legendary
+title: "Deck of Many Things"
 aliases:
 - "Deck of Many Things"
 ---
 # Deck of Many Things
 *Wondrous item, legendary*  
-![](file://items/XDMG/Deck%20of%20Many%20Things.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Deck%20of%20Many%20Things.webp#right)
 
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have thirteen cards, but some have twenty-two. Use the appropriate column of the Deck of Many Things table when randomly determining cards drawn from the deck.

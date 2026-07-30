@@ -8,12 +8,13 @@ tags:
 - ttrpg-cli/item/rarity/artifact
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "Blackrazor"
 aliases:
 - "Blackrazor"
 ---
 # Blackrazor
 *Weapon ([greatsword](3.Mechanics/items/greatsword-xphb.md)), artifact (requires attunement)*  
-![](file://items/XDMG/Blackrazor.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Blackrazor.webp#right)
 
 - **Damage**: 2d6 slashing
 - **Properties**: [Heavy](3.Mechanics/rules/item-properties.md#Heavy), [Two-Handed](3.Mechanics/rules/item-properties.md#Two-Handed)

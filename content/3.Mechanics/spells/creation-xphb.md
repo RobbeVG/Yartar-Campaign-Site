@@ -15,6 +15,7 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Illusionist)
+title: "Creation"
 aliases:
 - "Creation"
 ---

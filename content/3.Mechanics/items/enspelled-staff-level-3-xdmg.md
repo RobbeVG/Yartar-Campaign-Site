@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+title: "Enspelled Staff (Level 3)"
 aliases:
 - "Enspelled Staff (Level 3)"
 ---

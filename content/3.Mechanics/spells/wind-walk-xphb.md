@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Druid
+title: "Wind Walk"
 aliases:
 - "Wind Walk"
 ---

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+title: "Cape of Enlargement"
 aliases:
 - "Cape of Enlargement"
 ---

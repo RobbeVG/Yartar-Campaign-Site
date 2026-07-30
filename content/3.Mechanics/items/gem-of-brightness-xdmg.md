@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+title: "Gem of Brightness"
 aliases:
 - "Gem of Brightness"
 ---
 # Gem of Brightness
 *Wondrous item, uncommon*  
-![](file://items/XDMG/Gem%20of%20Brightness.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Gem%20of%20Brightness.webp#right)
 
 
 This prism has 50 charges. While you are holding it, you can take a [Magic](3.Mechanics/rules/actions.md#Magic) action and use one of three command words to cause one of the following effects:

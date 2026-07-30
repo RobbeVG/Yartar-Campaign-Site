@@ -27,6 +27,7 @@ classes:
 - Sorcerer (Clockwork Sorcery)
 - Wizard
 - Wizard (Abjurer)
+title: "Alarm"
 aliases:
 - "Alarm"
 ---

@@ -9,13 +9,13 @@ tags:
 - ttrpg-cli/monster/environment/underwater
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/giant
-statblock: inline
-statblock-link: "#^statblock"
+title: "Storm Giant"
 aliases:
 - "Storm Giant"
 ---
-# [Storm Giant](3.Mechanics/bestiary/giant/storm-giant-xmm.md)
+# Storm Giant
 *Source: Monster Manual (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Storm%20Giant.webp#right)
 
 ## Storm Giant
 
@@ -25,74 +25,57 @@ aliases:
 - **Treasure.** [Armaments](3.Mechanics/tables/random-magic-items-armaments.md)  
 
 Among the tallest giants, storm giants live amid extreme forces of nature. In palaces at the bottom of the sea and castles floating amid the clouds, they revel in the power of mighty storms. When angered, they can shape the weather and call down devastating lightning. More often, though, these giants watch the rise and fall of nations and interpret supernatural omens, interfering in the world only when they're needed most.
+```ad-statblock
+title: Storm Giant
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Storm%20Giant.webp#token)
+*Huge Giant, Chaotic Good*
 
-```statblock
-"name": "Storm Giant (XMM)"
-"size": "Huge"
-"type": "giant"
-"alignment": "Chaotic Good"
-"ac": !!int "16"
-"hp": !!int "230"
-"hit_dice": "20d12 + 100"
-"modifier": !!int "7"
-"stats":
-  - !!int "29"
-  - !!int "14"
-  - !!int "20"
-  - !!int "16"
-  - !!int "20"
-  - !!int "18"
-"speed": "50 ft., fly 25 ft. (hover), swim 50 ft."
-"saves":
-  - "strength": !!int "14"
-  - "constitution": !!int "10"
-  - "wisdom": !!int "10"
-  - "charisma": !!int "9"
-"skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
-    "desc": "+8"
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
-    "desc": "+14"
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
-    "desc": "+8"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+10"
-"damage_resistances": "cold"
-"damage_immunities": "lightning, thunder"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., [Truesight](3.Mechanics/rules/senses.md#Truesight)\
-  \ 30 ft., passive Perception 20"
-"languages": "Common, Giant"
-"cr": "13"
-"traits":
-  - "desc": "The giant can breathe air and water."
-    "name": "Amphibious"
-"actions":
-  - "desc": "The giant makes two attacks, using Storm Sword or Thunderbolt in any\
-      \ combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+14|noform|noparens|text(+14), reach\
-      \ 10 ft. *Hit:* dice:4d6+9|noform|noparens|avg|text(23) (4d6 + 9) Slashing\
-      \ damage plus dice:3d8|noform|noparens|avg|text(13) (3d8) Lightning damage."
-    "name": "Storm Sword"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+14|noform|noparens|text(+14), range\
-      \ 500 ft. *Hit:* dice:2d12+9|noform|noparens|avg|text(22) (2d12 + 9) Lightning\
-      \ damage, and the target has the [Blinded](3.Mechanics/rules/conditions.md#Blinded)\
-      \ and [Deafened](3.Mechanics/rules/conditions.md#Deafened) conditions until\
-      \ the start of the giant's next turn."
-    "name": "Thunderbolt"
-  - "desc": "*Dexterity Saving Throw:* DC 18, each creature in a 10-foot-radius, 40-foot-high\
-      \ [Cylinder](3.Mechanics/rules/variant-rules/cylinder-area-of-effect-xphb.md)\
-      \ originating from a point the giant can see within 500 feet. *Failure:* dice:10d10|noform|noparens|avg|text(55)\
-      \ (10d10) Lightning damage. *Success:* Half damage."
-    "name": "Lightning Storm (Recharge 5-6)"
-  - "desc": "The giant casts one of the following spells, requiring no Material components\
-      \ and using Wisdom as the spellcasting ability (spell save DC 18):\n\n**At will:**\
-      \ [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md), [Light](3.Mechanics/spells/light-xphb.md)\n\
-      \n**1/day:** [Control Weather](3.Mechanics/spells/control-weather-xphb.md)"
-    "name": "Spellcasting"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Storm%20Giant.webp"
+- **Armor Class** 16 
+- **Hit Points** 230 (20d12 + 100) 
+- **Speed** 50 ft., fly 25 ft. (hover), swim 50 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 29 | +9 | **+14** |
+|Int| 16 | +3 | +3 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 14 | +2 | +2 |
+|Wis| 20 | +5 | **+10** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 20 | +5 | **+10** |
+|Cha| 18 | +4 | **+9** |
+
+
+- **Proficiency Bonus** +5
+- **Saving Throws** Strength +14, Constitution +10, Wisdom +10, Charisma +9
+- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +8, [Athletics](3.Mechanics/rules/skills.md#Athletics) +14, [History](3.Mechanics/rules/skills.md#History) +8, [Perception](3.Mechanics/rules/skills.md#Perception) +10
+- **Damage Resistances** Cold
+- **Damage Immunities** Lightning, Thunder
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 Ft., [Truesight](3.Mechanics/rules/senses.md#Truesight) 30 Ft., Passive Perception 20
+- **Languages** Common, Giant
+- **Challenge** 13
+
+## Traits
+
+***Amphibious.*** The giant can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The giant makes two attacks, using Storm Sword or Thunderbolt in any combination.
+
+***Storm Sword.*** *Melee Attack Roll:* `dice:1d20+14|noform|noparens|text(+14)`, reach 10 ft. *Hit:* `dice:4d6+9|noform|noparens|avg|text(23)` (`4d6 + 9`) Slashing damage plus `dice:3d8|noform|noparens|avg|text(13)` (`3d8`) Lightning damage.
+
+***Thunderbolt.*** *Ranged Attack Roll:* `dice:1d20+14|noform|noparens|text(+14)`, range 500 ft. *Hit:* `dice:2d12+9|noform|noparens|avg|text(22)` (`2d12 + 9`) Lightning damage, and the target has the [Blinded](3.Mechanics/rules/conditions.md#Blinded) and [Deafened](3.Mechanics/rules/conditions.md#Deafened) conditions until the start of the giant's next turn.
+
+***Lightning Storm (Recharge 5-6).*** *Dexterity Saving Throw:* DC 18, each creature in a 10-foot-radius, 40-foot-high [Cylinder](3.Mechanics/rules/variant-rules/cylinder-area-of-effect-xphb.md) originating from a point the giant can see within 500 feet. *Failure:* `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) Lightning damage. *Success:* Half damage.
+
+***Spellcasting.*** The giant casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 18):
+
+**At will:** [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md), [Light](3.Mechanics/spells/light-xphb.md)
+
+**1/day:** [Control Weather](3.Mechanics/spells/control-weather-xphb.md)
 ```
 ^statblock
 

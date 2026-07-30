@@ -15,12 +15,13 @@ classes:
 - Cleric
 - Paladin
 - Warlock (Celestial Patron)
+title: "Summon Celestial"
 aliases:
 - "Summon Celestial"
 ---
 # Summon Celestial
 *5th-level, Conjuration*  
-![](file://spells/XPHB/Summon%20Celestial.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Summon%20Celestial.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

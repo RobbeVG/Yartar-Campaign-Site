@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Warlock
+title: "Glibness"
 aliases:
 - "Glibness"
 ---

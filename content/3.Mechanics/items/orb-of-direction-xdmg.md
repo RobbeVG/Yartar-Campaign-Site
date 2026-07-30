@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
+title: "Orb of Direction"
 aliases:
 - "Orb of Direction"
 ---
 # Orb of Direction
 *Wondrous item, common*  
-![](file://items/XDMG/Orb%20of%20Direction.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Orb%20of%20Direction.webp#right)
 
 - **Weight**: 3.0 lbs.
 

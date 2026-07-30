@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Cleric
+title: "Word of Recall"
 aliases:
 - "Word of Recall"
 ---

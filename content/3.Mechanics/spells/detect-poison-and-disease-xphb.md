@@ -24,6 +24,7 @@ classes:
 - Druid
 - Paladin
 - Ranger
+title: "Detect Poison and Disease"
 aliases:
 - "Detect Poison and Disease"
 ---

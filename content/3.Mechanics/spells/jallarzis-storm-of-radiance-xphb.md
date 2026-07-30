@@ -15,12 +15,13 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
+title: "Jallarzi's Storm of Radiance"
 aliases:
 - "Jallarzi's Storm of Radiance"
 ---
 # Jallarzi's Storm of Radiance
 *5th-level, Evocation*  
-![](file://spells/XPHB/Jallarzi%27s%20Storm%20of%20Radiance.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Jallarzi%27s%20Storm%20of%20Radiance.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet

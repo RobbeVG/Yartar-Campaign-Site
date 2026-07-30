@@ -6,12 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+title: "Mantle of Spell Resistance"
 aliases:
 - "Mantle of Spell Resistance"
 ---
 # Mantle of Spell Resistance
 *Wondrous item, rare (requires attunement)*  
-![](file://items/XDMG/Mantle%20of%20Spell%20Resistance.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Mantle%20of%20Spell%20Resistance.webp#right)
 
 
 You have [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells while you wear this cloak.

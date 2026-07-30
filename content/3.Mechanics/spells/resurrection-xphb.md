@@ -11,6 +11,7 @@ tags:
 classes:
 - Bard
 - Cleric
+title: "Resurrection"
 aliases:
 - "Resurrection"
 ---

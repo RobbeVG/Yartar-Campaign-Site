@@ -15,6 +15,7 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
+title: "Demiplane"
 aliases:
 - "Demiplane"
 ---

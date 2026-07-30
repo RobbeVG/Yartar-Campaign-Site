@@ -11,13 +11,16 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
-statblock: inline
-statblock-link: "#^statblock"
+title: "Zombie"
 aliases:
 - "Zombie"
+conditionImmunities:
+- [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)
+- [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
 ---
-# [Zombie](3.Mechanics/bestiary/undead/zombie-xmm.md)
+# Zombie
 *Source: Monster Manual (2024) p. 346, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Zombies.webp#right)
 
 Humanoid zombies usually serve as guardians, servants, or soldiers for evil magic-users. In rare cases, foul magic might result in widespread reanimation of the dead, unleashing hordes of zombies to terrorize the living.
 
@@ -37,48 +40,45 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 > Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, "The dead come for Marais d'Tarascon! An army of the walking dead!"
 
 
-```statblock
-"name": "Zombie (XMM)"
-"size": "Medium"
-"type": "undead"
-"alignment": "Neutral Evil"
-"ac": !!int "8"
-"hp": !!int "15"
-"hit_dice": "2d8 + 6"
-"modifier": !!int "-2"
-"stats":
-  - !!int "13"
-  - !!int "6"
-  - !!int "16"
-  - !!int "3"
-  - !!int "6"
-  - !!int "5"
-"speed": "20 ft."
-"saves":
-  - "wisdom": !!int "0"
-"damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
-"languages": "understands Common plus one other language but can't speak"
-"cr": "1/4"
-"traits":
-  - "desc": "If damage reduces the zombie to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md),\
-      \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
-      \ damage is Radiant or from a [Critical Hit](3.Mechanics/rules/variant-rules/critical-hit-xphb.md).\
-      \ On a successful save, the zombie drops to 1 [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
-      \ instead."
-    "name": "Undead Fortitude"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+3|noform|noparens|text(+3), reach 5\
-      \ ft. *Hit:* dice:1d8+1|noform|noparens|avg|text(5) (1d8 + 1) Bludgeoning\
-      \ damage."
-    "name": "Slam"
-"source":
-  - "XMM"
-  - "XPHB"
-"image": "file://bestiary/tokens/XMM/Zombie.webp"
+```ad-statblock
+title: Zombie
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Zombie.webp#token)
+*Medium Undead, Neutral Evil*
+
+- **Armor Class** 8 
+- **Hit Points** 15 (2d8 + 6) 
+- **Speed** 20 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 13 | +1 | +1 |
+|Int| 3 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 6 | -2 | -2 |
+|Wis| 6 | -2 | **+0** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 5 | -3 | -3 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Wisdom +0
+- **Skills** ⏤
+- **Damage Immunities** Poison
+- **Condition Immunities** [Exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 Ft., Passive Perception 8
+- **Languages** Understands Common plus one other language but can't speak
+- **Challenge** 1/4
+
+## Traits
+
+***Undead Fortitude.*** If damage reduces the zombie to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md), it makes a Constitution saving throw (DC 5 plus the damage taken) unless the damage is Radiant or from a [Critical Hit](3.Mechanics/rules/variant-rules/critical-hit-xphb.md). On a successful save, the zombie drops to 1 [Hit Point](3.Mechanics/rules/variant-rules/hit-points-xphb.md) instead.
+
+## Actions
+
+***Slam.*** *Melee Attack Roll:* `dice:1d20+3|noform|noparens|text(+3)`, reach 5 ft. *Hit:* `dice:1d8+1|noform|noparens|avg|text(5)` (`1d8 + 1`) Bludgeoning damage.
 ```
 ^statblock
 

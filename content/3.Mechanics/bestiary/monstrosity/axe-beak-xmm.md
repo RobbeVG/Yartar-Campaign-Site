@@ -10,13 +10,13 @@ tags:
 - ttrpg-cli/monster/environment/hill
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Axe Beak"
 aliases:
 - "Axe Beak"
 ---
-# [Axe Beak](3.Mechanics/bestiary/monstrosity/axe-beak-xmm.md)
+# Axe Beak
 *Source: Monster Manual (2024) p. 24. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Axe%20Beak.webp#right)
 
 Alone or in small groups, axe beaks stalk prey to feed their flocks. When working together, axe beaks use rudimentary tactics, with some distracting threats while others strike vulnerable targets or rush young axe beaks to safety.
 
@@ -36,33 +36,39 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 > The thing's got an axe for a face and a giant, angry rooster for everything else—of course I want to ride it!
 
 
-```statblock
-"name": "Axe Beak (XMM)"
-"size": "Large"
-"type": "monstrosity"
-"alignment": "Unaligned"
-"ac": !!int "11"
-"hp": !!int "19"
-"hit_dice": "3d10 + 3"
-"modifier": !!int "1"
-"stats":
-  - !!int "14"
-  - !!int "12"
-  - !!int "12"
-  - !!int "2"
-  - !!int "10"
-  - !!int "5"
-"speed": "50 ft."
-"senses": "passive Perception 10"
-"languages": ""
-"cr": "1/4"
-"actions":
-  - "desc": "*Melee Attack Roll:* dice:1d20+4|noform|noparens|text(+4), reach 5\
-      \ ft. *Hit:* dice:1d6+2|noform|noparens|avg|text(5) (1d6 + 2) Slashing damage."
-    "name": "Beak"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Axe%20Beak.webp"
+```ad-statblock
+title: Axe Beak
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Axe%20Beak.webp#token)
+*Large Monstrosity, Unaligned*
+
+- **Armor Class** 11 
+- **Hit Points** 19 (3d10 + 3) 
+- **Speed** 50 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 14 | +2 | +2 |
+|Int| 2 | -4 | -4 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 12 | +1 | +1 |
+|Wis| 10 | +0 | +0 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 12 | +1 | +1 |
+|Cha| 5 | -3 | -3 |
+
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** Passive Perception 10
+- **Languages** —
+- **Challenge** 1/4
+
+## Actions
+
+***Beak.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Slashing damage.
 ```
 ^statblock
 

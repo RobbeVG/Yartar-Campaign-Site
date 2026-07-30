@@ -15,6 +15,7 @@ classes:
 - Druid
 - Sorcerer
 - Wizard
+title: "Incendiary Cloud"
 aliases:
 - "Incendiary Cloud"
 ---

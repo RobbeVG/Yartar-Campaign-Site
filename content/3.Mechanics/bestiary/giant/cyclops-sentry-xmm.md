@@ -13,13 +13,13 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/giant
-statblock: inline
-statblock-link: "#^statblock"
+title: "Cyclops Sentry"
 aliases:
 - "Cyclops Sentry"
 ---
-# [Cyclops Sentry](3.Mechanics/bestiary/giant/cyclops-sentry-xmm.md)
+# Cyclops Sentry
 *Source: Monster Manual (2024) p. 88*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Cyclopes.webp#right)
 
 Most cyclops sentries serve their divine progenitors and oppose those who would tamper with fate.
 
@@ -32,47 +32,47 @@ Most cyclops sentries serve their divine progenitors and oppose those who would 
 
 Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vision, cyclopes can witness how future events are likely to occur.
 
-```statblock
-"name": "Cyclops Sentry (XMM)"
-"size": "Huge"
-"type": "giant"
-"alignment": "Chaotic Neutral"
-"ac": !!int "14"
-"hp": !!int "138"
-"hit_dice": "12d12 + 60"
-"modifier": !!int "0"
-"stats":
-  - !!int "22"
-  - !!int "11"
-  - !!int "20"
-  - !!int "8"
-  - !!int "6"
-  - !!int "10"
-"speed": "40 ft."
-"senses": "passive Perception 8"
-"languages": "Giant"
-"cr": "6"
-"actions":
-  - "desc": "The cyclops makes two attacks, using Stone Club or Rock in any combination."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+9|noform|noparens|text(+9), reach 10\
-      \ ft. *Hit:* dice:3d6+6|noform|noparens|avg|text(16) (3d6 + 6) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone)\
-      \ condition."
-    "name": "Stone Club"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+9|noform|noparens|text(+9), range 30/120\
-      \ ft. *Hit:* dice:3d10+6|noform|noparens|avg|text(22) (3d10 + 6) Bludgeoning\
-      \ damage."
-    "name": "Rock"
-"reactions":
-  - "desc": "Trigger: A creature the cyclops can see makes an attack roll against\
-      \ it. _Response:_ The cyclops imposes [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
-      \ on the roll, and the cyclops gains [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
-      \ on attack rolls against the target until the end of the cyclops's next turn."
-    "name": "Limited Foresight (Recharge 6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Cyclops%20Sentry.webp"
+```ad-statblock
+title: Cyclops Sentry
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cyclops%20Sentry.webp#token)
+*Huge Giant, Chaotic Neutral*
+
+- **Armor Class** 14 
+- **Hit Points** 138 (12d12 + 60) 
+- **Speed** 40 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 22 | +6 | +6 |
+|Int| 8 | -1 | -1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 11 | +0 | +0 |
+|Wis| 6 | -2 | -2 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 20 | +5 | +5 |
+|Cha| 10 | +0 | +0 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** Passive Perception 8
+- **Languages** Giant
+- **Challenge** 6
+
+## Actions
+
+***Multiattack.*** The cyclops makes two attacks, using Stone Club or Rock in any combination.
+
+***Stone Club.*** *Melee Attack Roll:* `dice:1d20+9|noform|noparens|text(+9)`, reach 10 ft. *Hit:* `dice:3d6+6|noform|noparens|avg|text(16)` (`3d6 + 6`) Bludgeoning damage. If the target is a Huge or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition.
+
+***Rock.*** *Ranged Attack Roll:* `dice:1d20+9|noform|noparens|text(+9)`, range 30/120 ft. *Hit:* `dice:3d10+6|noform|noparens|avg|text(22)` (`3d10 + 6`) Bludgeoning damage.
+
+## Reactions
+
+***Limited Foresight (Recharge 6).*** Trigger: A creature the cyclops can see makes an attack roll against it. _Response:_ The cyclops imposes [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on the roll, and the cyclops gains [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on attack rolls against the target until the end of the cyclops's next turn.
 ```
 ^statblock
 

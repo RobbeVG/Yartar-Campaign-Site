@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/fighter/psi-warrior
+title: "Psi Warrior"
 aliases:
 - "Psi Warrior"
 ---
@@ -43,6 +44,7 @@ aliases:
 
 ^class-progression
 
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/classes/XPHB/Psi%20Warrior%20Fighter.webp#right)
 
 *Augment Physical Might with Psionic Power*
 

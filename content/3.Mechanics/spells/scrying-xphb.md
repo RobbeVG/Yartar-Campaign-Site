@@ -23,12 +23,13 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
+title: "Scrying"
 aliases:
 - "Scrying"
 ---
 # Scrying
 *5th-level, Divination*  
-![](file://spells/XPHB/Scrying.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Scrying.webp#right)
 
 - **Casting time:** 10 minutes
 - **Range:** Self

@@ -15,12 +15,13 @@ classes:
 - Cleric
 - Paladin (Oath of Devotion)
 - Warlock (Celestial Patron)
+title: "Guardian of Faith"
 aliases:
 - "Guardian of Faith"
 ---
 # Guardian of Faith
 *4th-level, Conjuration*  
-![](file://spells/XPHB/Guardian%20of%20Faith.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/spells/XPHB/Guardian%20of%20Faith.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet

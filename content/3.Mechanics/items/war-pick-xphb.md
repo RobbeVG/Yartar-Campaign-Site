@@ -7,12 +7,13 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+title: "War Pick"
 aliases:
 - "War Pick"
 ---
 # War Pick
 *Weapon*  
-![](file://items/XPHB/War%20Pick.webp#right)
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/War%20Pick.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 piercing

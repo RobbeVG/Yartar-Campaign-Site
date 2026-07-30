@@ -13,6 +13,7 @@ classes:
 - Bard
 - Sorcerer
 - Wizard
+title: "Time Stop"
 aliases:
 - "Time Stop"
 ---

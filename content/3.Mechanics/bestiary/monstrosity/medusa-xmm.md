@@ -8,13 +8,13 @@ tags:
 - ttrpg-cli/monster/environment/desert
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
-statblock: inline
-statblock-link: "#^statblock"
+title: "Medusa"
 aliases:
 - "Medusa"
 ---
-# [Medusa](3.Mechanics/bestiary/monstrosity/medusa-xmm.md)
+# Medusa
 *Source: Monster Manual (2024) p. 205. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Medusa.webp#right)
 
 ## Medusa
 
@@ -40,65 +40,49 @@ Medusas are born or created through preternatural circumstances. Roll on or choo
 | 5 | A vain noble whose magical attempt to gain eternal beauty backfired. |
 | 6 | The victim of a bite from a magical serpent or reptilian god in disguise. |
 ^medusa-fates
+```ad-statblock
+title: Medusa
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Medusa.webp#token)
+*Medium Monstrosity, Lawful Evil*
 
-```statblock
-"name": "Medusa (XMM)"
-"size": "Medium"
-"type": "monstrosity"
-"alignment": "Lawful Evil"
-"ac": !!int "15"
-"hp": !!int "127"
-"hit_dice": "17d8 + 51"
-"modifier": !!int "6"
-"stats":
-  - !!int "10"
-  - !!int "17"
-  - !!int "16"
-  - !!int "12"
-  - !!int "13"
-  - !!int "15"
-"speed": "30 ft."
-"saves":
-  - "wisdom": !!int "4"
-"skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
-    "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
-    "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
-    "desc": "+6"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 150 ft., passive Perception\
-  \ 14"
-"languages": "Common plus one other language"
-"cr": "6"
-"actions":
-  - "desc": "The medusa makes two Claw attacks and one Snake Hair attack, or it makes\
-      \ three Poison Ray attacks."
-    "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:2d6+3|noform|noparens|avg|text(10) (2d6 + 3) Slashing\
-      \ damage."
-    "name": "Claw"
-  - "desc": "*Melee Attack Roll:* dice:1d20+6|noform|noparens|text(+6), reach 5\
-      \ ft. *Hit:* dice:1d4+3|noform|noparens|avg|text(5) (1d4 + 3) Piercing damage\
-      \ plus dice:4d6|noform|noparens|avg|text(14) (4d6) Poison damage."
-    "name": "Snake Hair"
-  - "desc": "*Ranged Attack Roll:* dice:1d20+5|noform|noparens|text(+5), range 150\
-      \ ft. *Hit:* dice:2d8+2|noform|noparens|avg|text(11) (2d8 + 2) Poison damage."
-    "name": "Poison Ray"
-"bonus_actions":
-  - "desc": "*Constitution Saving Throw:* DC 13, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ If the medusa sees its reflection in the [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md),\
-      \ the medusa must make this save. *1St Failure:* The target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition and repeats the save at the end of its next turn if it is still\
-      \ [Restrained](3.Mechanics/rules/conditions.md#Restrained), ending the effect\
-      \ on itself on a success. *2Nd Failure:* The target has the [Petrified](3.Mechanics/rules/conditions.md#Petrified)\
-      \ condition instead of the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
-      \ condition."
-    "name": "Petrifying Gaze (Recharge 5-6)"
-"source":
-  - "XMM"
-"image": "file://bestiary/tokens/XMM/Medusa.webp"
+- **Armor Class** 15 
+- **Hit Points** 127 (17d8 + 51) 
+- **Speed** 30 ft.
+
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Str| 10 | +0 | +0 |
+|Int| 12 | +1 | +1 |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Dex| 17 | +3 | +3 |
+|Wis| 13 | +1 | **+4** |
+|   |   |  MOD | SAVE |
+|:--|:-:|:----:|:----:|
+|Con| 16 | +3 | +3 |
+|Cha| 15 | +2 | +2 |
+
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Wisdom +4
+- **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +5, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
+- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 150 Ft., Passive Perception 14
+- **Languages** Common plus one other language
+- **Challenge** 6
+
+## Actions
+
+***Multiattack.*** The medusa makes two Claw attacks and one Snake Hair attack, or it makes three Poison Ray attacks.
+
+***Claw.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:2d6+3|noform|noparens|avg|text(10)` (`2d6 + 3`) Slashing damage.
+
+***Snake Hair.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 ft. *Hit:* `dice:1d4+3|noform|noparens|avg|text(5)` (`1d4 + 3`) Piercing damage plus `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) Poison damage.
+
+***Poison Ray.*** *Ranged Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, range 150 ft. *Hit:* `dice:2d8+2|noform|noparens|avg|text(11)` (`2d8 + 2`) Poison damage.
+
+## Bonus Actions
+
+***Petrifying Gaze (Recharge 5-6).*** *Constitution Saving Throw:* DC 13, each creature in a 30-foot [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md). If the medusa sees its reflection in the [Cone](3.Mechanics/rules/variant-rules/cone-area-of-effect-xphb.md), the medusa must make this save. *1St Failure:* The target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition and repeats the save at the end of its next turn if it is still [Restrained](3.Mechanics/rules/conditions.md#Restrained), ending the effect on itself on a success. *2Nd Failure:* The target has the [Petrified](3.Mechanics/rules/conditions.md#Petrified) condition instead of the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition.
 ```
 ^statblock
 

@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
+draft: true
 title: "Orb of Direction"
 aliases:
 - "Orb of Direction"

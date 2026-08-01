@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/varies
 - ttrpg-cli/item/wondrous/rod
+draft: true
 title: "Rod of the Pact Keeper"
 aliases:
 - "Rod of the Pact Keeper"

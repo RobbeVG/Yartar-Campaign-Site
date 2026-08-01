@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
+draft: true
 title: "Tome of Leadership and Influence"
 aliases:
 - "Tome of Leadership and Influence"

@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
+draft: true
 title: "Bag of Devouring"
 aliases:
 - "Bag of Devouring"

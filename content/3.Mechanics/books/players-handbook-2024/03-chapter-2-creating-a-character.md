@@ -117,7 +117,7 @@ Record your chosen equipment on your character sheet. Equipment is described in 
 
 #### Choose a Species
 
-Choose a species for your character. The following species options are detailed in "chapter 4": [Aasimar](3.Mechanics/races/aasimar-xphb.md), [Dragonborn](3.Mechanics/races/dragonborn-xphb.md), [Dwarf](3.Mechanics/races/dwarf-xphb.md), [Elf](3.Mechanics/races/elf-xphb.md), [Gnome](3.Mechanics/races/gnome-xphb.md), [Goliath](3.Mechanics/races/goliath-xphb.md), [Halfling](3.Mechanics/races/halfling-xphb.md), [Human](3.Mechanics/races/human-xphb.md), [Orc](3.Mechanics/races/orc-xphb.md), and [Tiefling](3.Mechanics/races/tiefling-xphb.md). Once you've chosen a species, write it on your character sheet. Then record your species' traits.
+Choose a species for your character. The following species options are detailed in "chapter 4": [Aasimar](3.Mechanics/species/aasimar-xphb.md), [Dragonborn](3.Mechanics/species/dragonborn-xphb.md), [Dwarf](3.Mechanics/species/dwarf-xphb.md), [Elf](3.Mechanics/species/elf-xphb.md), [Gnome](3.Mechanics/species/gnome-xphb.md), [Goliath](3.Mechanics/species/goliath-xphb.md), [Halfling](3.Mechanics/species/halfling-xphb.md), [Human](3.Mechanics/species/human-xphb.md), [Orc](3.Mechanics/species/orc-xphb.md), and [Tiefling](3.Mechanics/species/tiefling-xphb.md). Once you've chosen a species, write it on your character sheet. Then record your species' traits.
 
 Your character's [size](3.Mechanics/rules/variant-rules/size-xphb.md) and [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) are determined by the character's species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size).
 

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+draft: true
 title: "Gauntlets of Ogre Power"
 aliases:
 - "Gauntlets of Ogre Power"

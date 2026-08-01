@@ -4,7 +4,7 @@ cssclasses:
 - json5e-race
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/elf
+- ttrpg-cli/species/elf
 title: "Elf"
 aliases:
 - "Elf"

@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+draft: true
 title: "Spider Staff"
 aliases:
 - "Spider Staff"

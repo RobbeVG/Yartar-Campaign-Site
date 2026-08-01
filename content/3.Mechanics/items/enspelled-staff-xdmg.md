@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/varies
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+draft: true
 title: "Enspelled Staff"
 aliases:
 - "Enspelled Staff"

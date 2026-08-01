@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/shield/
+draft: true
 title: "Spellguard Shield"
 aliases:
 - "Spellguard Shield"

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/potion
+draft: true
 title: "Potion of Growth"
 aliases:
 - "Potion of Growth"

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/potion
+draft: true
 title: "Potion of Gaseous Form"
 aliases:
 - "Potion of Gaseous Form"

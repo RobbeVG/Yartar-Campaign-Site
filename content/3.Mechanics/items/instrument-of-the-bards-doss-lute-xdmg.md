@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/gear/instrument
 - ttrpg-cli/item/rarity/uncommon
+draft: true
 title: "Instrument of the Bards, Doss Lute"
 aliases:
 - "Instrument of the Bards, Doss Lute"

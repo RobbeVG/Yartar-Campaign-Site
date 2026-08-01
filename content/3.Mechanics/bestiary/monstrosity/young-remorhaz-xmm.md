@@ -8,12 +8,27 @@ tags:
 - ttrpg-cli/monster/environment/arctic
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Young Remorhaz"
 aliases:
 - "Young Remorhaz"
 ---
-# Young Remorhaz
+# [Young Remorhaz](3.Mechanics/bestiary/monstrosity/young-remorhaz-xmm.md)
 *Source: Monster Manual (2024) p. 258*  
+
+Young remorhazes scorch and consume any creatures they can chase down and overwhelm.
+
+## Remorhazes
+
+*Super-Heated Arctic Arthropods*
+
+- **Habitat.** Arctic  
+- **Treasure.** None  
+
+Remorhazes are centipede-like terrors that burrow through snow and ice to ambush smaller creatures that trespass in their frozen territories.
+
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Remorhazes.webp#right)
 
 Young remorhazes scorch and consume any creatures they can chase down and overwhelm.
@@ -27,36 +42,40 @@ Young remorhazes scorch and consume any creatures they can chase down and overwh
 
 Remorhazes are centipede-like terrors that burrow through snow and ice to ambush smaller creatures that trespass in their frozen territories.
 
-## Statblock
-
-```ad-statblock
-title: Young Remorhaz
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Young%20Remorhaz.webp#token)
-*Large monstrosity, Unaligned*
-
-- **Armor Class** 14 
-- **Hit Points** 93 (`11d10 + 33`) 
-- **Speed** 30 ft., burrow 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|13 (+1)|17 (+3)| 3 (-4)|10 (+0)| 4 (-3)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., Tremorsense 60 ft., passive Perception 10
-- **Damage Immunities** cold, fire
-- **Languages** —
-- **Challenge** 5
-
-## Traits
-
-***Heat Aura.*** At the end of each of the remorhaz's turns, each creature in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the remorhaz takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) Fire damage.
-
-## Actions
-
-***Bite.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. *Hit:* `dice:2d10+4|noform|noparens|avg|text(15)` (`2d10 + 4`) Piercing damage plus `dice:3d8|noform|noparens|avg|text(13)` (`3d8`) Fire damage.
+```statblock
+"name": "Young Remorhaz (XMM)"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "14"
+"hp": !!int "93"
+"hit_dice": "11d10 + 33"
+"modifier": !!int "1"
+"stats":
+  - !!int "18"
+  - !!int "13"
+  - !!int "17"
+  - !!int "3"
+  - !!int "10"
+  - !!int "4"
+"speed": "30 ft., burrow 20 ft."
+"damage_immunities": "cold, fire"
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., Tremorsense\
+  \ 60 ft., passive Perception 10"
+"languages": ""
+"cr": "5"
+"traits":
+  - "desc": "At the end of each of the remorhaz's turns, each creature in a 5-foot\
+      \ [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the remorhaz takes 11 (2d10) Fire damage."
+    "name": "Heat Aura"
+"actions":
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 15 (2d10 + 4) Piercing damage\
+      \ plus 13 (3d8) Fire damage."
+    "name": "Bite"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Young%20Remorhaz.webp"
 ```
 ^statblock
 

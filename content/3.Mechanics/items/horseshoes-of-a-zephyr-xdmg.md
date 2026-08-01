@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
+draft: true
 title: "Horseshoes of a Zephyr"
 aliases:
 - "Horseshoes of a Zephyr"

@@ -9,13 +9,15 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/fiend/demon
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Goristro"
 aliases:
 - "Goristro"
 ---
-# Goristro
+# [Goristro](3.Mechanics/bestiary/fiend/goristro-xmm.md)
 *Source: Monster Manual (2024) p. 150*  
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Goristro.webp#right)
 
 ## Goristro
 
@@ -33,48 +35,86 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 > Plot and strategize, bait and scheme, but hubris is no armor against ruin incarnate, and greater beings than you have fallen under the onslaught of the Abyss.
 
 
-```ad-statblock
-title: Goristro
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Goristro.webp#token)
-*Huge fiend (demon), Chaotic Evil*
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Goristro.webp#right)
 
-- **Armor Class** 19 
-- **Hit Points** 310 (`23d12 + 161`) 
-- **Speed** 50 ft.
+## Goristro
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|25 (+7)|11 (+0)|25 (+7)| 6 (-2)|13 (+1)|14 (+2)|
+*Demon of Disaster*
 
-- **Proficiency Bonus** +6
-- **Saving Throws** Strength +13, Dexterity +6, Constitution +13, Wisdom +7
-- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +7, [Survival](3.Mechanics/rules/skills.md#Survival) +7
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 17
-- **Damage Resistances** cold, fire, lightning
-- **Damage Immunities** poison
-- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Languages** Abyssal
-- **Challenge** 17
+- **Habitat.** Planar (Abyss)  
+- **Treasure.** [Armaments](3.Mechanics/tables/random-magic-items-armaments.md)  
 
-## Traits
+Terrifying in scale and overwhelming power, goristros are giant demons capable of bringing cities to ruin. These demons embody senseless anarchy and nihilistic destruction, and they take special offense at creatures or structures that rival them in size. Castles, towers, giants, and beasts of war are all common victims of these monsters' wrath.
 
-***Demonic Restoration.*** If the goristro dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) somewhere in the Abyss.
+Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars or wounds from mighty war machines. Their appearance reflects that of their creator, Baphomet, the demon lord worshiped by many evil minotaurs. Goristros stalk Baphomet's Abyssal realm, known as the Endless Maze, and pulp any non-demons they encounter in that massive, magical labyrinth.
 
-***Magic Resistance.*** The goristro has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+> [!quote] A quote from Mellagorus the Pit Fiend  
+> 
+> Plot and strategize, bait and scheme, but hubris is no armor against ruin incarnate, and greater beings than you have fallen under the onslaught of the Abyss.
 
-***Siege Monster.*** The goristro deals double damage to objects and structures.
-
-## Actions
-
-***Multiattack.*** The goristro makes one Brutal Gore attack and two Slam attacks.
-
-***Brutal Gore.*** *Melee Attack Roll:* `dice:1d20+13|noform|noparens|text(+13)`, reach 10 ft. *Hit:* `dice:6d10+7|noform|noparens|avg|text(40)` (`6d10 + 7`) Piercing damage. If the target is a Huge or smaller creature, it is pushed up to 20 feet straight away from the goristro and has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition.
-
-***Slam.*** *Melee Attack Roll:* `dice:1d20+13|noform|noparens|text(+13)`, reach 10 ft. *Hit:* `dice:4d10+7|noform|noparens|avg|text(29)` (`4d10 + 7`) Bludgeoning damage.
-
-## Bonus Actions
-
-***Charge.*** The goristro moves up to half its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md) straight toward an enemy it can see.
+```statblock
+"name": "Goristro (XMM)"
+"size": "Huge"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "19"
+"hp": !!int "310"
+"hit_dice": "23d12 + 161"
+"modifier": !!int "6"
+"stats":
+  - !!int "25"
+  - !!int "11"
+  - !!int "25"
+  - !!int "6"
+  - !!int "13"
+  - !!int "14"
+"speed": "50 ft."
+"saves":
+  - "strength": !!int "13"
+  - "dexterity": !!int "6"
+  - "constitution": !!int "13"
+  - "wisdom": !!int "7"
+"skillsaves":
+  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Survival](3.Mechanics/rules/skills.md#Survival)"
+    "desc": "+7"
+"damage_resistances": "cold, fire, lightning"
+"damage_immunities": "poison"
+"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 17"
+"languages": "Abyssal"
+"cr": "17"
+"traits":
+  - "desc": "If the goristro dies outside the Abyss, its body dissolves into ichor,\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
+      \ somewhere in the Abyss."
+    "name": "Demonic Restoration"
+  - "desc": "The goristro has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The goristro deals double damage to objects and structures."
+    "name": "Siege Monster"
+"actions":
+  - "desc": "The goristro makes one Brutal Gore attack and two Slam attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +13, reach 10 ft. *Hit:* 40 (6d10 + 7) Piercing\
+      \ damage. If the target is a Huge or smaller creature, it is pushed up to 20\
+      \ feet straight away from the goristro and has the [Prone](3.Mechanics/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Brutal Gore"
+  - "desc": "*Melee Attack Roll:* +13, reach 10 ft. *Hit:* 29 (4d10 + 7) Bludgeoning\
+      \ damage."
+    "name": "Slam"
+"bonus_actions":
+  - "desc": "The goristro moves up to half its [Speed](3.Mechanics/rules/variant-rules/speed-xphb.md)\
+      \ straight toward an enemy it can see."
+    "name": "Charge"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Goristro.webp"
 ```
 ^statblock
 

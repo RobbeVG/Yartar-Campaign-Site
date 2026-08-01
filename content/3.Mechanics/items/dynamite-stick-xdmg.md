@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/age/modern
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/explosive
+draft: true
 title: "Dynamite Stick"
 aliases:
 - "Dynamite Stick"

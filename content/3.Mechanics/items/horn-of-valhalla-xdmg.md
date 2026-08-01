@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/varies
+draft: true
 title: "Horn of Valhalla"
 aliases:
 - "Horn of Valhalla"

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+draft: true
 title: "Boots of Striding and Springing"
 aliases:
 - "Boots of Striding and Springing"

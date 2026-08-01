@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/varies
 - ttrpg-cli/item/wondrous/generic-variant
+draft: true
 title: "Enspelled Armor"
 aliases:
 - "Enspelled Armor"

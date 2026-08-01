@@ -4,7 +4,7 @@ cssclasses:
 - json5e-race
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/gnome
+- ttrpg-cli/species/gnome
 title: "Gnome"
 aliases:
 - "Gnome"

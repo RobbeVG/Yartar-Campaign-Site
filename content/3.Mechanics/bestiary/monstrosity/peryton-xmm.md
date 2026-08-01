@@ -9,13 +9,15 @@ tags:
 - ttrpg-cli/monster/environment/mountain
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Peryton"
 aliases:
 - "Peryton"
 ---
-# Peryton
+# [Peryton](3.Mechanics/bestiary/monstrosity/peryton-xmm.md)
 *Source: Monster Manual (2024) p. 238*  
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Peryton.webp#right)
 
 ## Peryton
 
@@ -40,37 +42,73 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
 | 4 | A portal opens to the Lower Planes. |
 ^peryton-superstitions
 
-```ad-statblock
-title: Peryton
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Peryton.webp#token)
-*Medium monstrosity, Chaotic Evil*
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Peryton.webp#right)
 
-- **Armor Class** 13 
-- **Hit Points** 33 (`6d8 + 6`) 
-- **Speed** 20 ft., fly 60 ft.
+## Peryton
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|12 (+1)|13 (+1)| 9 (-1)|12 (+1)|10 (+0)|
+*Winged Heart Hunter*
 
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
-- **Senses** passive Perception 15
-- **Languages** understands Common and Elvish but can't speak
-- **Challenge** 2
+- **Habitat.** Hill, Mountain  
+- **Treasure.** [Armaments](3.Mechanics/tables/random-magic-items-armaments.md)  
 
-## Traits
+Perytons are monstrous predators that hunt people—particularly humans and elves—in favor of all other prey. With the bodies of mighty avian scavengers and fanged, stag-like heads, perytons use ambush tactics to dive-bomb travelers. Strangely, the shadows they cast resemble humanoid silhouettes. This supernatural oddity lends credence to stories that perytons are cursed humans or elves, or that they arise from carrion birds that feed on the corpses of villains.
 
-***Flyby.*** The peryton doesn't provoke an [Opportunity Attack](3.Mechanics/rules/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
+Perytons tear out the hearts of those they slay, carrying the organs back to grisly lairs. This gives rise to numerous superstitions surrounding perytons. Roll on or choose a result from the Peryton Superstitions table to inspire why a peryton steals hearts.
 
-## Actions
+**Peryton Superstitions**
 
-***Multiattack.*** The peryton makes one Gore attack and one Talons attack.
+`dice: [](peryton-xmm.md#^peryton-superstitions)`
 
-***Gore.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d8+3|noform|noparens|avg|text(7)` (`1d8 + 3`) Piercing damage. If the peryton moved 30+ feet straight toward the target immediately before the hit, the target takes an extra `dice:2d8|noform|noparens|avg|text(9)` (`2d8`) Piercing damage.
-
-***Talons.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:2d4+3|noform|noparens|avg|text(8)` (`2d4 + 3`) Piercing damage. If the attack reduces a Humanoid target to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md), the peryton kills the target by removing its heart.
+| dice: 1d4 | If a Peryton Collects Enough Hearts... |
+|-----------|----------------------------------------|
+| 1 | The hearts grant an evil wish. |
+| 2 | It reverts to its original form. |
+| 3 | A new peryton hatches from each heart. |
+| 4 | A portal opens to the Lower Planes. |
+^peryton-superstitions
+```statblock
+"name": "Peryton (XMM)"
+"size": "Medium"
+"type": "monstrosity"
+"alignment": "Chaotic Evil"
+"ac": !!int "13"
+"hp": !!int "33"
+"hit_dice": "6d8 + 6"
+"modifier": !!int "3"
+"stats":
+  - !!int "16"
+  - !!int "12"
+  - !!int "13"
+  - !!int "9"
+  - !!int "12"
+  - !!int "10"
+"speed": "20 ft., fly 60 ft."
+"skillsaves":
+  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+    "desc": "+3"
+"senses": "passive Perception 15"
+"languages": "understands Common and Elvish but can't speak"
+"cr": "2"
+"traits":
+  - "desc": "The peryton doesn't provoke an [Opportunity Attack](3.Mechanics/rules/actions.md#Opportunity%20Attack)\
+      \ when it flies out of an enemy's reach."
+    "name": "Flyby"
+"actions":
+  - "desc": "The peryton makes one Gore attack and one Talons attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage.\
+      \ If the peryton moved 30+ feet straight toward the target immediately before\
+      \ the hit, the target takes an extra 9 (2d8) Piercing damage."
+    "name": "Gore"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (2d4 + 3) Piercing damage.\
+      \ If the attack reduces a Humanoid target to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md),\
+      \ the peryton kills the target by removing its heart."
+    "name": "Talons"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Peryton.webp"
 ```
 ^statblock
 

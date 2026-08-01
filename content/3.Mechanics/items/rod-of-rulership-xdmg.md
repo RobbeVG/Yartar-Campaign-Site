@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/rod
+draft: true
 title: "Rod of Rulership"
 aliases:
 - "Rod of Rulership"

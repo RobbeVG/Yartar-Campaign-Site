@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/potion
+draft: true
 title: "Potion of Storm Giant Strength"
 aliases:
 - "Potion of Storm Giant Strength"

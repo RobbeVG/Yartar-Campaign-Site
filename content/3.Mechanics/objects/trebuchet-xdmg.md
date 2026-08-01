@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/huge
 - ttrpg-cli/object/type/siege-weapon
+draft: true
 title: "Trebuchet"
 aliases:
 - "Trebuchet"
@@ -30,6 +31,6 @@ title: Trebuchet
 
 ## Actions
 
-***Trebuchet Stone (Requires Load and Aim).*** *Ranged Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, range 300/1,200 ft. (can't hit targets within 60 feet of itself). *Hit:* `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) Bludgeoning damage.
+***Trebuchet Stone (Requires Load and Aim).*** *Ranged Attack Roll:* +5, range 300/1,200 ft. (can't hit targets within 60 feet of itself). *Hit:* 44 (8d10) Bludgeoning damage.
 ```
 ^statblock

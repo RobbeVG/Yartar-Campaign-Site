@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+draft: true
 title: "Bracers of Celerity"
 aliases:
 - "Bracers of Celerity"

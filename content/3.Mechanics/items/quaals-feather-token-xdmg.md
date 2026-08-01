@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/varies
+draft: true
 title: "Quaal's Feather Token"
 aliases:
 - "Quaal's Feather Token"

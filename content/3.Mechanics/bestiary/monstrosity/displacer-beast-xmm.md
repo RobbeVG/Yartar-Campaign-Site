@@ -8,13 +8,15 @@ tags:
 - ttrpg-cli/monster/environment/forest
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Displacer Beast"
 aliases:
 - "Displacer Beast"
 ---
-# Displacer Beast
+# [Displacer Beast](3.Mechanics/bestiary/monstrosity/displacer-beast-xmm.md)
 *Source: Monster Manual (2024) p. 98*  
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Displacer%20Beast.webp#right)
 
 ## Displacer Beast
 
@@ -34,39 +36,71 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
 > The murderous fury of a displacer beast is fit only for nightmares, of which I've been haunted since narrowly escaping one's ambush. I'm certain that beast stalks me still.
 
 
-```ad-statblock
-title: Displacer Beast
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Displacer%20Beast.webp#token)
-*Large monstrosity, Lawful Evil*
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Displacer%20Beast.webp#right)
 
-- **Armor Class** 13 
-- **Hit Points** 76 (`9d10 + 27`) 
-- **Speed** 40 ft.
+## Displacer Beast
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|15 (+2)|16 (+3)| 6 (-2)|12 (+1)| 8 (-1)|
+*Deceptive Feline Stalker*
 
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 11
-- **Languages** understands Sylvan but can't speak
-- **Challenge** 3
+- **Habitat.** Forest  
+- **Treasure.** None  
 
-## Traits
+A displacer beast resembles a gaunt, six-legged panther with a barbed tentacle sprouting from each of its shoulders. This predator uses innate magic to displace light so it appears to be several feet away from its actual location.
 
-***Avoidance.*** If the displacer beast is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the save and half damage if it fails. It can't use this trait if it has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition.
+Displacer beasts hunt not just to feed but because they enjoy killing. Once displacer beasts begin stalking prey, they can't be deterred until either they or their quarry is slain. While displacer beasts commonly inhabit dense forests, they might pursue travelers across great distances and even into cities or dungeons. More cunning than mere animals, these predators might set ambushes or lie hidden for days to bring down their prey.
 
-***Displacement.*** Attack rolls against the displacer beast have [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md), since it projects an illusion that makes it appear to be near its actual location. This trait is suppressed while the displacer beast has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition.
+Displacer beasts sometimes pursue prey through portals to other planes of existence. As a result, these predators can be found across the multiverse, particularly on the worlds of the Material Plane, in the Shadowfell, and in the Feywild. These restless hunters can destroy a land's natural balance and drive other creatures to extinction. As a result, many druid circles and Fey view displacer beasts as deadly threats.
 
-## Actions
+> [!quote] A quote from Jen-Ahb, Naturalist and Displacer Beast Survivor  
+> 
+> The murderous fury of a displacer beast is fit only for nightmares, of which I've been haunted since narrowly escaping one's ambush. I'm certain that beast stalks me still.
 
-***Multiattack.*** The displacer beast makes one Rend attack and one Tentacle attack.
-
-***Rend.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 5 feet. *Hit:* `dice:1d10+4|noform|noparens|avg|text(9)` (`1d10 + 4`) Slashing damage. If target is a Large or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition.
-
-***Tentacle.*** *Melee Attack Roll:* `dice:1d20+6|noform|noparens|text(+6)`, reach 10 feet. *Hit:* `dice:2d6+4|noform|noparens|avg|text(11)` (`2d6 + 4`) Piercing damage.
+```statblock
+"name": "Displacer Beast (XMM)"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Lawful Evil"
+"ac": !!int "13"
+"hp": !!int "76"
+"hit_dice": "9d10 + 27"
+"modifier": !!int "4"
+"stats":
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "6"
+  - !!int "12"
+  - !!int "8"
+"speed": "40 ft."
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 11"
+"languages": "understands Sylvan but can't speak"
+"cr": "3"
+"traits":
+  - "desc": "If the displacer beast is subjected to an effect that allows it to make\
+      \ a saving throw to take only half damage, it instead takes no damage if it\
+      \ succeeds on the save and half damage if it fails. It can't use this trait\
+      \ if it has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Avoidance"
+  - "desc": "Attack rolls against the displacer beast have [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md),\
+      \ since it projects an illusion that makes it appear to be near its actual location.\
+      \ This trait is suppressed while the displacer beast has the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Displacement"
+"actions":
+  - "desc": "The displacer beast makes one Rend attack and one Tentacle attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 feet. *Hit:* 9 (1d10 + 4) Slashing damage.\
+      \ If target is a Large or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Rend"
+  - "desc": "*Melee Attack Roll:* +6, reach 10 feet. *Hit:* 11 (2d6 + 4) Piercing\
+      \ damage."
+    "name": "Tentacle"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Displacer%20Beast.webp"
 ```
 ^statblock
 

@@ -12,6 +12,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+draft: true
 title: "+3 Weapon"
 aliases:
 - "+3 Weapon"

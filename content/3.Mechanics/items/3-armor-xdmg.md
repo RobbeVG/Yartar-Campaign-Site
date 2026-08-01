@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/generic-variant
+draft: true
 title: "+3 Armor"
 aliases:
 - "+3 Armor"

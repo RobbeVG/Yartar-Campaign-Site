@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/common
+draft: true
 title: "Hat of Wizardry"
 aliases:
 - "Hat of Wizardry"

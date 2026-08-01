@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/ring
+draft: true
 title: "Ring of Water Walking"
 aliases:
 - "Ring of Water Walking"

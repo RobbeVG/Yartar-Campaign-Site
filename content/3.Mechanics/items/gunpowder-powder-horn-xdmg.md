@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/explosive
+draft: true
 title: "Gunpowder (powder horn)"
 aliases:
 - "Gunpowder (powder horn)"

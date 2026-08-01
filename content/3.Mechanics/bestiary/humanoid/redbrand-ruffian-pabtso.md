@@ -7,39 +7,53 @@ tags:
 - ttrpg-cli/monster/cr/1-2
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Redbrand Ruffian"
 aliases:
 - "Redbrand Ruffian"
 ---
-# Redbrand Ruffian
+# [Redbrand Ruffian](3.Mechanics/bestiary/humanoid/redbrand-ruffian-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 216*  
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Redbrand%20Ruffian.webp#right)
 
 Redbrand ruffians are ruthless enforcers skilled at intimidation and violence. They work for money and have no scruples.
 
-```ad-statblock
-title: Redbrand Ruffian
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Redbrand%20Ruffian.webp#token)
-*Medium humanoid, typically  Neutral Evil*
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Redbrand%20Ruffian.webp#right)
 
-- **Armor Class** 11 ([leather armor](3.Mechanics/items/leather-armor-xphb.md))
-- **Hit Points** 16 (`3d8 + 3`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|10 (+0)|12 (+1)| 9 (-1)| 9 (-1)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Intimidation](3.Mechanics/rules/skills.md#Intimidation) +2
-- **Senses** passive Perception 9
-- **Gear** [shortsword](3.Mechanics/items/shortsword-xphb.md)
-- **Languages** Common
-- **Challenge** 1/2
-
-## Actions
-
-***Shortsword.*** *Melee Weapon Attack:* `dice:1d20+4|noform|noparens|text(+4)` to hit, reach 5 ft., one target. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) piercing damage.
+Redbrand ruffians are ruthless enforcers skilled at intimidation and violence. They work for money and have no scruples.
+```statblock
+"name": "Redbrand Ruffian (PaBTSO)"
+"size": "Medium"
+"type": "humanoid"
+"alignment": "typically  Neutral Evil"
+"ac": !!int "11"
+"ac_class": "[leather armor](3.Mechanics/items/leather-armor-xphb.md)"
+"hp": !!int "16"
+"hit_dice": "3d8 + 3"
+"modifier": !!int "0"
+"stats":
+  - !!int "14"
+  - !!int "10"
+  - !!int "12"
+  - !!int "9"
+  - !!int "9"
+  - !!int "11"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Intimidation](3.Mechanics/rules/skills.md#Intimidation)"
+    "desc": "+2"
+"gear":
+  - "[shortsword](3.Mechanics/items/shortsword-xphb.md)"
+"senses": "passive Perception 9"
+"languages": "Common"
+"cr": "1/2"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
+      \ + 2) piercing damage."
+    "name": "Shortsword"
+"source":
+  - "PaBTSO"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Redbrand%20Ruffian.webp"
 ```
 ^statblock

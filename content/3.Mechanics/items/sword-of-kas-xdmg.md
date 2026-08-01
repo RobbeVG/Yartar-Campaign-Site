@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/artifact
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+draft: true
 title: "Sword of Kas"
 aliases:
 - "Sword of Kas"

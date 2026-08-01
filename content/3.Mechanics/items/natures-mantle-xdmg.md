@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/uncommon
+draft: true
 title: "Nature's Mantle"
 aliases:
 - "Nature's Mantle"

@@ -7,41 +7,52 @@ tags:
 - ttrpg-cli/monster/cr/2
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid/any-race
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Infected Townsperson"
 aliases:
 - "Infected Townsperson"
 ---
-# Infected Townsperson
+# [Infected Townsperson](3.Mechanics/bestiary/humanoid/infected-townsperson-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 139*  
+
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Infected%20Townsperson.webp#center)
-
-```ad-statblock
-title: Infected Townsperson
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Infected%20Townsperson.webp#token)
-*Medium humanoid (any race), Any Chaotic alignment*
-
-- **Armor Class** 13 ([hide armor](3.Mechanics/items/hide-armor-xphb.md))
-- **Hit Points** 67 (`9d8 + 27`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|12 (+1)|17 (+3)| 9 (-1)|11 (+0)| 9 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** passive Perception 10
-- **Gear** [greataxe](3.Mechanics/items/greataxe-xphb.md)
-- **Languages** any one language (usually Common)
-- **Challenge** 2
-
-## Traits
-
-***Reckless.*** At the start of its turn, the townsperson can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
-
-## Actions
-
-***Psychic Slam.*** *Melee Weapon Attack:* `dice:1d20+5|noform|noparens|text(+5)` to hit, reach 5 ft., one target. *Hit:* `dice:1d6+3|noform|noparens|avg|text(6)` (`1d6 + 3`) bludgeoning damage plus `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) psychic damage.
+```statblock
+"name": "Infected Townsperson (PaBTSO)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "any race"
+"alignment": "Any Chaotic alignment"
+"ac": !!int "13"
+"ac_class": "[hide armor](3.Mechanics/items/hide-armor-xphb.md)"
+"hp": !!int "67"
+"hit_dice": "9d8 + 27"
+"modifier": !!int "1"
+"stats":
+  - !!int "16"
+  - !!int "12"
+  - !!int "17"
+  - !!int "9"
+  - !!int "11"
+  - !!int "9"
+"speed": "30 ft."
+"gear":
+  - "[greataxe](3.Mechanics/items/greataxe-xphb.md)"
+"senses": "passive Perception 10"
+"languages": "any one language (usually Common)"
+"cr": "2"
+"traits":
+  - "desc": "At the start of its turn, the townsperson can gain advantage on all melee\
+      \ weapon attack rolls during that turn, but attack rolls against it have advantage\
+      \ until the start of its next turn."
+    "name": "Reckless"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
+      \ + 3) bludgeoning damage plus 3 (1d6) psychic damage."
+    "name": "Psychic Slam"
+"source":
+  - "PaBTSO"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Infected%20Townsperson.webp"
 ```
 ^statblock

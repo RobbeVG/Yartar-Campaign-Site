@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/vehicle/size/large
 - ttrpg-cli/vehicle/terrain/sea
 - ttrpg-cli/vehicle/type/object
+draft: true
 title: "Apparatus of Kwalish"
 aliases:
 - "Apparatus of Kwalish"

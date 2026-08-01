@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+draft: true
 title: "Amulet of Proof against Detection and Location"
 aliases:
 - "Amulet of Proof against Detection and Location"

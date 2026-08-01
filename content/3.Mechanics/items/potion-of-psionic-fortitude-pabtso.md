@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/potion
+draft: true
 title: "Potion of Psionic Fortitude"
 aliases:
 - "Potion of Psionic Fortitude"

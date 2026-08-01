@@ -9,13 +9,15 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/monstrosity/lycanthrope
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Wererat"
 aliases:
 - "Wererat"
 ---
-# Wererat
+# [Wererat](3.Mechanics/bestiary/monstrosity/wererat-xmm.md)
 *Source: Monster Manual (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-![A werebear chases a wereboar and wererat out of its territory](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Werebear%2C%20Wereboar%2C%20and%20Wererat.webp#right)
 
 ## Wererat
 
@@ -26,40 +28,70 @@ aliases:
 
 Wererats can shape-shift from their humanoid forms into giant rats or humanoid-rat hybrids. These creatures can transform voluntarily, but some are magically compelled to shape-shift when exposed to complete darkness or during nights of a new moon. Often, wererats' nature results from a divine curse—punishment for their deceitful natures or the crimes of their treacherous families. Wererats frequently work in groups, forming bandit gangs or thieves' guilds.
 
-```ad-statblock
-title: Wererat
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Wererat.webp#token)
-*Small or Medium monstrosity (lycanthrope), Lawful Evil*
+![A werebear chases a wereboar and wererat out of its territory](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Werebear%2C%20Wereboar%2C%20and%20Wererat.webp#right)
 
-- **Armor Class** 13 
-- **Hit Points** 60 (`11d8 + 11`) 
-- **Speed** 30 ft., climb 30 ft.
+## Wererat
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|16 (+3)|12 (+1)|11 (+0)|10 (+0)| 8 (-1)|
+*Changed by the Deviousness of the Rat*
 
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Gear** [hand crossbow](3.Mechanics/items/hand-crossbow-xphb.md)
-- **Languages** Common (can't speak in rat form)
-- **Challenge** 2
+- **Habitat.** Forest, Urban  
+- **Treasure.** Individual  
 
-## Actions
-
-***Multiattack.*** The wererat makes two attacks, using Scratch or Hand Crossbow in any combination. It can replace one attack with a Bite attack.
-
-***Bite (Rat or Hybrid Form Only).*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:2d4+3|noform|noparens|avg|text(8)` (`2d4 + 3`) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw:* DC 11. *Failure:* The target is cursed. If the cursed target drops to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md), it instead becomes a Wererat under the DM's control and has 10 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md). *Success:* The target is immune to this wererat's curse for 24 hours.
-
-***Scratch.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d6+3|noform|noparens|avg|text(6)` (`1d6 + 3`) Slashing damage.
-
-***Hand Crossbow (Humanoid or Hybrid Form Only).*** *Ranged Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, range 30/120 ft. *Hit:* `dice:1d6+3|noform|noparens|avg|text(6)` (`1d6 + 3`) Piercing damage.
-
-## Bonus Actions
-
-***Shape-Shift.*** The wererat shape-shifts into a Medium rat-humanoid hybrid or a Small rat, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+Wererats can shape-shift from their humanoid forms into giant rats or humanoid-rat hybrids. These creatures can transform voluntarily, but some are magically compelled to shape-shift when exposed to complete darkness or during nights of a new moon. Often, wererats' nature results from a divine curse—punishment for their deceitful natures or the crimes of their treacherous families. Wererats frequently work in groups, forming bandit gangs or thieves' guilds.
+```statblock
+"name": "Wererat (XMM)"
+"size": "Small or Medium"
+"type": "monstrosity"
+"subtype": "lycanthrope"
+"alignment": "Lawful Evil"
+"ac": !!int "13"
+"hp": !!int "60"
+"hit_dice": "11d8 + 11"
+"modifier": !!int "3"
+"stats":
+  - !!int "10"
+  - !!int "16"
+  - !!int "12"
+  - !!int "11"
+  - !!int "10"
+  - !!int "8"
+"speed": "30 ft., climb 30 ft."
+"skillsaves":
+  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+    "desc": "+5"
+"gear":
+  - "[hand crossbow](3.Mechanics/items/hand-crossbow-xphb.md)"
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 14"
+"languages": "Common (can't speak in rat form)"
+"cr": "2"
+"actions":
+  - "desc": "The wererat makes two attacks, using Scratch or Hand Crossbow in any\
+      \ combination. It can replace one attack with a Bite attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (2d4 + 3) Piercing damage.\
+      \ If the target is a Humanoid, it is subjected to the following effect. *Constitution\
+      \ Saving Throw:* DC 11. *Failure:* The target is cursed. If the cursed target\
+      \ drops to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md),\
+      \ it instead becomes a Wererat under the DM's control and has 10 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md).\
+      \ *Success:* The target is immune to this wererat's curse for 24 hours."
+    "name": "Bite (Rat or Hybrid Form Only)"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing damage."
+    "name": "Scratch"
+  - "desc": "*Ranged Attack Roll:* +5, range 30/120 ft. *Hit:* 6 (1d6 + 3) Piercing\
+      \ damage."
+    "name": "Hand Crossbow (Humanoid or Hybrid Form Only)"
+"bonus_actions":
+  - "desc": "The wererat shape-shifts into a Medium rat-humanoid hybrid or a Small\
+      \ rat, or it returns to its true humanoid form. Its game statistics, other than\
+      \ its size, are the same in each form. Any equipment it is wearing or carrying\
+      \ isn't transformed."
+    "name": "Shape-Shift"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Wererat.webp"
 ```
 ^statblock
 

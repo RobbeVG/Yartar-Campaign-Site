@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/mv-b
+title: "Disarming Attack"
 aliases:
 - "Disarming Attack"
 ---

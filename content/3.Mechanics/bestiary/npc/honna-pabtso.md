@@ -7,51 +7,85 @@ tags:
 - ttrpg-cli/monster/cr/6
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Honna"
 aliases:
 - "Honna"
 ---
-# Honna
+# [Honna](3.Mechanics/bestiary/npc/honna-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 110*  
+
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Honna.webp#center)
-
-```ad-statblock
-title: Honna
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Honna.webp#token)
-*Medium monstrosity, Lawful Evil*
-
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 127 (`17d8 + 51`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|15 (+2)|16 (+3)|12 (+1)|13 (+1)|15 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** [Deception](3.Mechanics/rules/skills.md#Deception) +5, [Insight](3.Mechanics/rules/skills.md#Insight) +4, [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Gear** [longbow](3.Mechanics/items/longbow-xphb.md), [shortsword](3.Mechanics/items/shortsword-xphb.md)
-- **Languages** Common
-- **Challenge** 6
-
-## Traits
-
-***Petrifying Gaze.*** When a creature that can see Honna's eyes starts its turn within 30 feet of Honna, Honna can force it to make a DC 14 Constitution saving throw if Honna isn't [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) and can see the creature. If the saving throw fails by 5 or more, the creature is instantly [petrified](3.Mechanics/rules/conditions.md#Petrified). Otherwise, a creature that fails the save begins to turn to stone and is [restrained](3.Mechanics/rules/conditions.md#Restrained). The [restrained](3.Mechanics/rules/conditions.md#Restrained) creature must repeat the saving throw at the end of its next turn, becoming [petrified](3.Mechanics/rules/conditions.md#Petrified) on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the [greater restoration](3.Mechanics/spells/greater-restoration-xphb.md) spell or other magic.
-
-Unless [surprised](3.Mechanics/rules/conditions.md#Surprised), a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see Honna until the start of its next turn, when it can avert its eyes again. If the creature looks at Honna in the meantime, it must immediately make the save.
-
-If Honna sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, Honna is, due to its curse, affected by its own gaze.
-
-## Actions
-
-***Multiattack.*** Honna makes either three melee attacks—one with its snake hair and two with its shortsword—or two ranged attacks with its longbow.
-
-***Snake Hair.*** *Melee Weapon Attack:* `dice:1d20+5|noform|noparens|text(+5)` to hit, reach 5 ft., one creature. *Hit:* `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) piercing damage plus `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) poison damage.
-
-***Shortsword.*** *Melee Weapon Attack:* `dice:1d20+5|noform|noparens|text(+5)` to hit, reach 5 ft., one target. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) piercing damage.
-
-***Longbow.*** *Ranged Weapon Attack:* `dice:1d20+5|noform|noparens|text(+5)` to hit, range 150/600 ft., one target. *Hit:* `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) piercing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) poison damage.
+```statblock
+"name": "Honna (PaBTSO)"
+"size": "Medium"
+"type": "monstrosity"
+"alignment": "Lawful Evil"
+"ac": !!int "15"
+"ac_class": "natural armor"
+"hp": !!int "127"
+"hit_dice": "17d8 + 51"
+"modifier": !!int "2"
+"stats":
+  - !!int "10"
+  - !!int "15"
+  - !!int "16"
+  - !!int "12"
+  - !!int "13"
+  - !!int "15"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+    "desc": "+5"
+  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+    "desc": "+4"
+  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+    "desc": "+5"
+"gear":
+  - "[longbow](3.Mechanics/items/longbow-xphb.md)"
+  - "[shortsword](3.Mechanics/items/shortsword-xphb.md)"
+"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 14"
+"languages": "Common"
+"cr": "6"
+"traits":
+  - "desc": "When a creature that can see Honna's eyes starts its turn within 30 feet\
+      \ of Honna, Honna can force it to make a DC 14 Constitution saving throw if\
+      \ Honna isn't [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
+      \ and can see the creature. If the saving throw fails by 5 or more, the creature\
+      \ is instantly [petrified](3.Mechanics/rules/conditions.md#Petrified). Otherwise,\
+      \ a creature that fails the save begins to turn to stone and is [restrained](3.Mechanics/rules/conditions.md#Restrained).\
+      \ The [restrained](3.Mechanics/rules/conditions.md#Restrained) creature must\
+      \ repeat the saving throw at the end of its next turn, becoming [petrified](3.Mechanics/rules/conditions.md#Petrified)\
+      \ on a failure or ending the effect on a success. The petrification lasts until\
+      \ the creature is freed by the [greater restoration](3.Mechanics/spells/greater-restoration-xphb.md)\
+      \ spell or other magic.\n\nUnless [surprised](3.Mechanics/rules/conditions.md#Surprised),\
+      \ a creature can avert its eyes to avoid the saving throw at the start of its\
+      \ turn. If the creature does so, it can't see Honna until the start of its next\
+      \ turn, when it can avert its eyes again. If the creature looks at Honna in\
+      \ the meantime, it must immediately make the save.\n\nIf Honna sees itself reflected\
+      \ on a polished surface within 30 feet of it and in an area of bright light,\
+      \ Honna is, due to its curse, affected by its own gaze."
+    "name": "Petrifying Gaze"
+"actions":
+  - "desc": "Honna makes either three melee attacks—one with its snake hair and two\
+      \ with its shortsword—or two ranged attacks with its longbow."
+    "name": "Multiattack"
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 4\
+      \ (1d4 + 2) piercing damage plus 14 (4d6) poison damage."
+    "name": "Snake Hair"
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
+      \ + 2) piercing damage."
+    "name": "Shortsword"
+  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:*\
+      \ 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage."
+    "name": "Longbow"
+"source":
+  - "PaBTSO"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Honna.webp"
 ```
 ^statblock

@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/generic-variant
+draft: true
 title: "Enspelled Armor (Level 8)"
 aliases:
 - "Enspelled Armor (Level 8)"

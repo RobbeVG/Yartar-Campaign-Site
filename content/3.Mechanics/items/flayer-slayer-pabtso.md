@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+draft: true
 title: "Flayer Slayer"
 aliases:
 - "Flayer Slayer"

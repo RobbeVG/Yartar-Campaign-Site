@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/trade-good
 - ttrpg-cli/item/rarity/none
+draft: true
 title: "Cotton Cloth (1 sq. yd.)"
 aliases:
 - "Cotton Cloth (1 sq. yd.)"

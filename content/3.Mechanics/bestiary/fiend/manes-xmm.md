@@ -9,12 +9,27 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/fiend/demon
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Manes"
 aliases:
 - "Manes"
 ---
-# Manes
+# [Manes](3.Mechanics/bestiary/fiend/manes-xmm.md)
 *Source: Monster Manual (2024) p. 201*  
+
+Manes lash out at creatures that appear weaker than themselves—or that react to them with fear—and strive to avoid more powerful demons. When manes escape from the Abyss, they go on reckless rampages and inflict as much harm as possible.
+
+## Manes
+
+*Demons of Panic and Frenzy*
+
+- **Habitat.** Planar (Abyss)  
+- **Treasure.** None  
+
+The lowest form of demons, manes appear when truly loathsome souls are condemned to the Abyss. These misshapen demons have distorted features and bodies that crawl with Abyssal parasites. Overwhelmed by demonic urges and constant terror, manes know only shock and frenzied outbursts.
+
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Manes.webp#right)
 
 Manes lash out at creatures that appear weaker than themselves—or that react to them with fear—and strive to avoid more powerful demons. When manes escape from the Abyss, they go on reckless rampages and inflict as much harm as possible.
@@ -28,34 +43,38 @@ Manes lash out at creatures that appear weaker than themselves—or that react t
 
 The lowest form of demons, manes appear when truly loathsome souls are condemned to the Abyss. These misshapen demons have distorted features and bodies that crawl with Abyssal parasites. Overwhelmed by demonic urges and constant terror, manes know only shock and frenzied outbursts.
 
-## Statblock
-
-```ad-statblock
-title: Manes
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Manes.webp#token)
-*Small fiend (demon), Chaotic Evil*
-
-- **Armor Class** 9 
-- **Hit Points** 9 (`2d6 + 2`) 
-- **Speed** 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)| 9 (-1)|13 (+1)| 3 (-4)| 8 (-1)| 4 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 9
-- **Damage Resistances** cold, fire, lightning
-- **Damage Immunities** poison
-- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Languages** understands Abyssal but can't speak
-- **Challenge** 1/8
-
-## Actions
-
-***Claw.*** *Melee Attack Roll:* `dice:1d20+2|noform|noparens|text(+2)`, reach 5 ft. *Hit:* `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) Slashing damage.
+```statblock
+"name": "Manes (XMM)"
+"size": "Small"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "9"
+"hp": !!int "9"
+"hit_dice": "2d6 + 2"
+"modifier": !!int "-1"
+"stats":
+  - !!int "10"
+  - !!int "9"
+  - !!int "13"
+  - !!int "3"
+  - !!int "8"
+  - !!int "4"
+"speed": "20 ft."
+"damage_resistances": "cold, fire, lightning"
+"damage_immunities": "poison"
+"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
+  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 9"
+"languages": "understands Abyssal but can't speak"
+"cr": "1/8"
+"actions":
+  - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 5 (2d4) Slashing damage."
+    "name": "Claw"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Manes.webp"
 ```
 ^statblock
 

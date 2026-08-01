@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+draft: true
 title: "Heward's Handy Haversack"
 aliases:
 - "Heward's Handy Haversack"

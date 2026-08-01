@@ -5,6 +5,8 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/blessing
+draft: true
+title: "Blessing of Protection"
 aliases:
 - "Blessing of Protection"
 ---

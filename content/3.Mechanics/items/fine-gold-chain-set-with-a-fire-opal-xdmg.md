@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
+draft: true
 title: "Fine gold chain set with a fire opal"
 aliases:
 - "Fine gold chain set with a fire opal"

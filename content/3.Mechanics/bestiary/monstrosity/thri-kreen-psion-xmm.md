@@ -9,12 +9,32 @@ tags:
 - ttrpg-cli/monster/environment/grassland
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Thri-kreen Psion"
 aliases:
 - "Thri-kreen Psion"
 ---
-# Thri-kreen Psion
+# [Thri-kreen Psion](3.Mechanics/bestiary/monstrosity/thri-kreen-psion-xmm.md)
 *Source: Monster Manual (2024) p. 306*  
+
+Thri-kreen psions harness their psychic powers to avoid danger and manipulate objects from afar.
+
+## Thri-kreen
+
+*Mantid Psychics and Scavengers*
+
+- **Habitat.** Desert, Grassland  
+- **Treasure.** [Armaments](3.Mechanics/tables/random-magic-items-armaments.md)  
+
+Thri-kreen are mantis-like wanderers who harness their innate camouflage and psychic abilities to survive. Different groups of thri-kreen have distinct carapaces, from the rocky shades of desert dwellers to the vibrant hues of those living in verdant lands. While their language has a distinctly insectile quality, thri-kreen often use telepathy to communicate, and groups can rapidly share a wealth of detailed information without making a sound.
+
+> [!quote] A quote from Ka'Cha, Thri-kreen Knowledge Hunter  
+> 
+> I would tell you now the tale of the first Ka'Cha, the first thri-kreen who knew and taught the truth: that the clutch is all.
+
+
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Thri-kreen.webp#right)
 
 Thri-kreen psions harness their psychic powers to avoid danger and manipulate objects from afar.
@@ -33,40 +53,54 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
 > I would tell you now the tale of the first Ka'Cha, the first thri-kreen who knew and taught the truth: that the clutch is all.
 
 
-## Statblock
-
-```ad-statblock
-title: Thri-kreen Psion
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Thri-kreen%20Psion.webp#token)
-*Medium monstrosity, Neutral*
-
-- **Armor Class** 16 
-- **Hit Points** 149 (`23d8 + 46`) 
-- **Speed** 40 ft., fly 20 ft. (hover)
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|15 (+2)|14 (+2)|19 (+4)|12 (+1)|11 (+0)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Strength +7, Dexterity +5, Constitution +5, Intelligence +7
-- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4, [Stealth](3.Mechanics/rules/skills.md#Stealth) +8
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Damage Resistances** psychic
-- **Languages** Thri-kreen; telepathy 120 ft.
-- **Challenge** 8
-
-## Actions
-
-***Multiattack.*** The thri-kreen makes three Psionic Lance attacks.
-
-***Psionic Lance.*** *Melee  or Ranged Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 10 ft. or range 120 ft. *Hit:* `dice:4d6+4|noform|noparens|avg|text(18)` (`4d6 + 4`) Psychic damage.
-
-***Spellcasting.*** The thri-kreen casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
-
-**At will:** [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md) (the hand is [Invisible](3.Mechanics/rules/conditions.md#Invisible))
-
-**1/day each:** [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [Sending](3.Mechanics/spells/sending-xphb.md), [Synaptic Static](3.Mechanics/spells/synaptic-static-xphb.md)
+```statblock
+"name": "Thri-kreen Psion (XMM)"
+"size": "Medium"
+"type": "monstrosity"
+"alignment": "Neutral"
+"ac": !!int "16"
+"hp": !!int "149"
+"hit_dice": "23d8 + 46"
+"modifier": !!int "5"
+"stats":
+  - !!int "18"
+  - !!int "15"
+  - !!int "14"
+  - !!int "19"
+  - !!int "12"
+  - !!int "11"
+"speed": "40 ft., fly 20 ft. (hover)"
+"saves":
+  - "strength": !!int "7"
+  - "dexterity": !!int "5"
+  - "constitution": !!int "5"
+  - "intelligence": !!int "7"
+"skillsaves":
+  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+    "desc": "+8"
+"damage_resistances": "psychic"
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 14"
+"languages": "Thri-kreen; telepathy 120 ft."
+"cr": "8"
+"actions":
+  - "desc": "The thri-kreen makes three Psionic Lance attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +7, reach 10 ft. or range 120 ft. *Hit:*\
+      \ 18 (4d6 + 4) Psychic damage."
+    "name": "Psionic Lance"
+  - "desc": "The thri-kreen casts one of the following spells, requiring no spell\
+      \ components and using Intelligence as the spellcasting ability (spell save\
+      \ DC 15):\n\n**At will:** [Mage Hand](3.Mechanics/spells/mage-hand-xphb.md)\
+      \ (the hand is [Invisible](3.Mechanics/rules/conditions.md#Invisible))\n\n**1/day\
+      \ each:** [Detect Thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [Sending](3.Mechanics/spells/sending-xphb.md),\
+      \ [Synaptic Static](3.Mechanics/spells/synaptic-static-xphb.md)"
+    "name": "Spellcasting"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Thri-kreen%20Psion.webp"
 ```
 ^statblock
 

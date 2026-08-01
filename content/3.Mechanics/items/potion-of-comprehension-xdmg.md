@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/potion
+draft: true
 title: "Potion of Comprehension"
 aliases:
 - "Potion of Comprehension"

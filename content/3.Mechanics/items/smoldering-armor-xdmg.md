@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/generic-variant
+draft: true
 title: "Smoldering Armor"
 aliases:
 - "Smoldering Armor"

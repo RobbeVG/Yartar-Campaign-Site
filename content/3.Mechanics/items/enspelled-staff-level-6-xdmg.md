@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+draft: true
 title: "Enspelled Staff (Level 6)"
 aliases:
 - "Enspelled Staff (Level 6)"

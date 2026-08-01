@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+draft: true
 title: "Figurine of Wondrous Power, Silver Raven"
 aliases:
 - "Figurine of Wondrous Power, Silver Raven"

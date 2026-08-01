@@ -11,13 +11,15 @@ tags:
 - ttrpg-cli/monster/environment/upper
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/celestial
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Guardian Naga"
 aliases:
 - "Guardian Naga"
 ---
-# Guardian Naga
+# [Guardian Naga](3.Mechanics/bestiary/celestial/guardian-naga-xmm.md)
 *Source: Monster Manual (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Guardian%20Naga.webp#right)
 
 ## Guardian Naga
 
@@ -46,45 +48,99 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
 | 8 | The vulnerabilities of a legendary monster. |
 ^guardian-naga-lore
 
-```ad-statblock
-title: Guardian Naga
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Guardian%20Naga.webp#token)
-*Large celestial, Lawful Good*
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Guardian%20Naga.webp#right)
 
-- **Armor Class** 18 
-- **Hit Points** 136 (`16d10 + 48`) 
-- **Speed** 40 ft., climb 40 ft., swim 40 ft.
+## Guardian Naga
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|19 (+4)|18 (+4)|16 (+3)|16 (+3)|19 (+4)|18 (+4)|
+*Enduring Serpentine Lore Keeper*
 
-- **Proficiency Bonus** +4
-- **Saving Throws** Dexterity +8, Constitution +7, Intelligence +7, Wisdom +8, Charisma +8
-- **Skills** [Arcana](3.Mechanics/rules/skills.md#Arcana) +11, [History](3.Mechanics/rules/skills.md#History) +11, [Religion](3.Mechanics/rules/skills.md#Religion) +11
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Damage Immunities** poison
-- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [restrained](3.Mechanics/rules/conditions.md#Restrained)
-- **Languages** Celestial, Common
-- **Challenge** 10
+- **Habitat.** Desert, Forest, Planar (Upper Planes)  
+- **Treasure.** [Relics](3.Mechanics/tables/random-magic-items-relics.md)  
 
-## Traits
+Guardian nagas are immortal, serpentine scholars that possess perfect memories. They collect the histories and lore of those they live among, guarding cultures' stories and passing them on to new generations with infallible accuracy. Guardian nagas that outlive their host civilizations might linger in whatever ruins remain, preserving the civilizations' stories so their lost people might live on.
 
-***Celestial Restoration.*** If the naga dies, it returns to life in `dice:1d6|noform|noparens|avg` (`1d6`) days and regains all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) unless [Dispel Evil and Good](3.Mechanics/spells/dispel-evil-and-good-xphb.md) is cast on its remains.
+Roll on or choose a result from the Guardian Naga Lore table to inspire what a naga knows.
 
-## Actions
+**Guardian Naga Lore**
 
-***Multiattack.*** The naga makes two Bite attacks. It can replace any attack with a use of Poisonous Spittle.
+`dice: [](guardian-naga-xmm.md#^guardian-naga-lore)`
 
-***Bite.*** *Melee Attack Roll:* `dice:1d20+8|noform|noparens|text(+8)`, reach 10 ft. *Hit:* `dice:2d12+4|noform|noparens|avg|text(17)` (`2d12 + 4`) Piercing damage plus `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) Poison damage.
-
-***Poisonous Spittle.*** *Constitution Saving Throw:* DC 16, one creature the naga can see within 60 feet. *Failure:* `dice:7d8|noform|noparens|avg|text(31)` (`7d8`) Poison damage, and the target has the [Blinded](3.Mechanics/rules/conditions.md#Blinded) condition until the start of the naga's next turn. *Success:* Half damage only.
-
-***Spellcasting.*** The naga casts one of the following spells, requiring no Somatic or Material components and using Wisdom as the spellcasting ability (spell save DC 16):
-
-**At will:** [Thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md)
-
-**1/day each:** [Clairvoyance](3.Mechanics/spells/clairvoyance-xphb.md), [Cure Wounds](3.Mechanics/spells/cure-wounds-xphb.md) (level 6 version), [Flame Strike](3.Mechanics/spells/flame-strike-xphb.md) (level 6 version), [Geas](3.Mechanics/spells/geas-xphb.md), [True Seeing](3.Mechanics/spells/true-seeing-xphb.md)
+| dice: 1d8 | The Guardian Naga Recalls... |
+|-----------|------------------------------|
+| 1 | The last words of an ancient sage or leader. |
+| 2 | The location of a hidden city or continent. |
+| 3 | A magic word, password, or riddle's answer. |
+| 4 | The names of all who have told it stories. |
+| 5 | An otherwise forgotten ritual or spell. |
+| 6 | Recipes using regional ingredients. |
+| 7 | Stories of forgotten gods and local spirits. |
+| 8 | The vulnerabilities of a legendary monster. |
+^guardian-naga-lore
+```statblock
+"name": "Guardian Naga (XMM)"
+"size": "Large"
+"type": "celestial"
+"alignment": "Lawful Good"
+"ac": !!int "18"
+"hp": !!int "136"
+"hit_dice": "16d10 + 48"
+"modifier": !!int "4"
+"stats":
+  - !!int "19"
+  - !!int "18"
+  - !!int "16"
+  - !!int "16"
+  - !!int "19"
+  - !!int "18"
+"speed": "40 ft., climb 40 ft., swim 40 ft."
+"saves":
+  - "dexterity": !!int "8"
+  - "constitution": !!int "7"
+  - "intelligence": !!int "7"
+  - "wisdom": !!int "8"
+  - "charisma": !!int "8"
+"skillsaves":
+  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+    "desc": "+11"
+  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+    "desc": "+11"
+  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+    "desc": "+11"
+"damage_immunities": "poison"
+"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [restrained](3.Mechanics/rules/conditions.md#Restrained)"
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 14"
+"languages": "Celestial, Common"
+"cr": "10"
+"traits":
+  - "desc": "If the naga dies, it returns to life in 1d6 days and regains all its\
+      \ [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) unless [Dispel\
+      \ Evil and Good](3.Mechanics/spells/dispel-evil-and-good-xphb.md) is cast on\
+      \ its remains."
+    "name": "Celestial Restoration"
+"actions":
+  - "desc": "The naga makes two Bite attacks. It can replace any attack with a use\
+      \ of Poisonous Spittle."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 17 (2d12 + 4) Piercing damage\
+      \ plus 22 (4d10) Poison damage."
+    "name": "Bite"
+  - "desc": "*Constitution Saving Throw:* DC 16, one creature the naga can see within\
+      \ 60 feet. *Failure:* 31 (7d8) Poison damage, and the target has the [Blinded](3.Mechanics/rules/conditions.md#Blinded)\
+      \ condition until the start of the naga's next turn. *Success:* Half damage\
+      \ only."
+    "name": "Poisonous Spittle"
+  - "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 16):\n\
+      \n**At will:** [Thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md)\n\n**1/day\
+      \ each:** [Clairvoyance](3.Mechanics/spells/clairvoyance-xphb.md), [Cure Wounds](3.Mechanics/spells/cure-wounds-xphb.md)\
+      \ (level 6 version), [Flame Strike](3.Mechanics/spells/flame-strike-xphb.md)\
+      \ (level 6 version), [Geas](3.Mechanics/spells/geas-xphb.md), [True Seeing](3.Mechanics/spells/true-seeing-xphb.md)"
+    "name": "Spellcasting"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Guardian%20Naga.webp"
 ```
 ^statblock
 

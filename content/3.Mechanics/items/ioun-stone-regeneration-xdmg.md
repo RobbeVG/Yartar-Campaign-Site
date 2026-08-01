@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
+draft: true
 title: "Ioun Stone, Regeneration"
 aliases:
 - "Ioun Stone, Regeneration"

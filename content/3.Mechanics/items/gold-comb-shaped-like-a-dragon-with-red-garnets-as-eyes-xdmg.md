@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
+draft: true
 title: "Gold comb shaped like a dragon with red garnets as eyes"
 aliases:
 - "Gold comb shaped like a dragon with red garnets as eyes"

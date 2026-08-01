@@ -4,6 +4,8 @@ cssclasses:
 - json5e-deck
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Deck of Illusions"
 aliases:
 - "Deck of Illusions"
 ---

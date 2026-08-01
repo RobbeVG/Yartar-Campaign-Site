@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+draft: true
 title: "Staff of Fire"
 aliases:
 - "Staff of Fire"

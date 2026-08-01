@@ -7,41 +7,49 @@ tags:
 - ttrpg-cli/monster/cr/
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 title: "Bestial Spirit (Land)"
 aliases:
 - "Bestial Spirit (Land)"
 ---
-# Bestial Spirit (Land)
+# [Bestial Spirit (Land)](3.Mechanics/bestiary/beast/bestial-spirit-land-xphb.md)
 *Source: Player's Handbook (2024) p. 323*  
 
-```ad-statblock
-title: Bestial Spirit (Land)
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Bestial%20Spirit%20%28Land%29.webp#token)
-*Small beast, Neutral*
-
-- **Armor Class** (11 + the spell's level)
-- **Hit Points** 30 + 5 for each spell level above 2  (30 + 5 for each spell level above 2)
-- **Speed** 30 ft., climb 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|11 (+0)|16 (+3)| 4 (-3)|14 (+2)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
-- **Languages** understands the languages you know
-- **Challenge** 
-
-## Traits
-
-***Pack Tactics.*** The spirit has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on an attack roll against a creature if at least one of the spirit's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition.
-
-## Actions
-
-***Multiattack.*** The spirit makes a number of Rend attacks equal to half this spell's level (round down).
-
-***Rend.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8 + 4` + the spell's level Piercing damage.
+```statblock
+"name": "Bestial Spirit (Land) (XPHB)"
+"size": "Small"
+"type": "beast"
+"alignment": "Neutral"
+"ac_class": "11 + the spell's level"
+"hp": "30 + 5 for each spell level above 2"
+"modifier": !!int "0"
+"stats":
+  - !!int "18"
+  - !!int "11"
+  - !!int "16"
+  - !!int "4"
+  - !!int "14"
+  - !!int "5"
+"speed": "30 ft., climb 30 ft."
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 12"
+"languages": "understands the languages you know"
+"traits":
+  - "desc": "The spirit has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
+      \ on an attack roll against a creature if at least one of the spirit's allies\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Pack Tactics"
+"actions":
+  - "desc": "The spirit makes a number of Rend attacks equal to half this spell's\
+      \ level (round down)."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
+      \ ft. *Hit:* 1d8 + 4 + the spell's level Piercing damage."
+    "name": "Rend"
+"source":
+  - "XPHB"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Bestial%20Spirit%20%28Land%29.webp"
 ```
 ^statblock

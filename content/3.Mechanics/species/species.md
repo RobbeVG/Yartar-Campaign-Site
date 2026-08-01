@@ -4,7 +4,7 @@ cssclasses:
 - json5e-note
 - json5e-index
 ---
-# Index of Races
+# Index of Species
 
 - [Aasimar](./aasimar-xphb.md)
 - [Dragonborn](./dragonborn-xphb.md)

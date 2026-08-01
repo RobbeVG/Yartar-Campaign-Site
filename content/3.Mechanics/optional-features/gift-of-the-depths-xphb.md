@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/ei
+title: "Gift of the Depths"
 aliases:
 - "Gift of the Depths"
 ---

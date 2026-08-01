@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
+draft: true
 title: "Cloak of Many Fashions"
 aliases:
 - "Cloak of Many Fashions"

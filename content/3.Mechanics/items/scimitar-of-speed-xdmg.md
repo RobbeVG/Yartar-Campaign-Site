@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+draft: true
 title: "Scimitar of Speed"
 aliases:
 - "Scimitar of Speed"

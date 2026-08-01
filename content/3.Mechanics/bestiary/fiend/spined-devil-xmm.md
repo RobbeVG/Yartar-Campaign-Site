@@ -9,13 +9,15 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/fiend/devil
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Spined Devil"
 aliases:
 - "Spined Devil"
 ---
-# Spined Devil
+# [Spined Devil](3.Mechanics/bestiary/fiend/spined-devil-xmm.md)
 *Source: Monster Manual (2024) p. 296*  
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Spined%20Devil.webp#right)
 
 ## Spined Devil
 
@@ -40,42 +42,76 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 | 6 | Prophecies or secrets hidden by gods. |
 ^spined-devil-intelligence
 
-```ad-statblock
-title: Spined Devil
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Spined%20Devil.webp#token)
-*Small fiend (devil), Lawful Evil*
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Spined%20Devil.webp#right)
 
-- **Armor Class** 13 
-- **Hit Points** 45 (`10d6 + 10`) 
-- **Speed** 20 ft., fly 40 ft.
+## Spined Devil
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|15 (+2)|12 (+1)|11 (+0)|14 (+2)| 8 (-1)|
+*Devil of Intrusion and Suspicion*
 
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive Perception 12
-- **Damage Resistances** cold
-- **Damage Immunities** fire, poison
-- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Languages** Infernal; telepathy 120 ft.
-- **Challenge** 2
+- **Habitat.** Planar (Nine Hells)  
+- **Treasure.** None  
 
-## Traits
+Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes, seeking secrets for their infernal lords. They prefer to attack from the air, flinging wicked barbs while staying out of reach of foes. Spined devils collect information to gain leverage over mortals or to entice powerful devils. Roll on or choose a result from the Spined Devil Intelligence table to inspire what information a spined devil seeks or already possesses.
 
-***Flyby.*** The devil doesn't provoke an [Opportunity Attack](3.Mechanics/rules/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
+**Spined Devil Intelligence**
 
-***Magic Resistance.*** The devil has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+`dice: [](spined-devil-xmm.md#^spined-devil-intelligence)`
 
-## Actions
-
-***Multiattack.*** The devil makes two attacks, using Infernal Fork and Tail Spine in any combination.
-
-***Infernal Fork.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Piercing damage plus `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) Fire damage.
-
-***Tail Spine.*** *Ranged Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, range 20/80 ft. *Hit:* `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) Piercing damage plus `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) Fire damage.
+| dice: 1d6 | The Spined Devil Covets Information About... |
+|-----------|----------------------------------------------|
+| 1 | Artifacts, their locations, and their owners. |
+| 2 | Betrayals by infernal allies or other devils. |
+| 3 | Crimes or deceptions by influential leaders. |
+| 4 | The identities of incognito individuals. |
+| 5 | The movements of extraplanar armies. |
+| 6 | Prophecies or secrets hidden by gods. |
+^spined-devil-intelligence
+```statblock
+"name": "Spined Devil (XMM)"
+"size": "Small"
+"type": "fiend"
+"subtype": "devil"
+"alignment": "Lawful Evil"
+"ac": !!int "13"
+"hp": !!int "45"
+"hit_dice": "10d6 + 10"
+"modifier": !!int "2"
+"stats":
+  - !!int "10"
+  - !!int "15"
+  - !!int "12"
+  - !!int "11"
+  - !!int "14"
+  - !!int "8"
+"speed": "20 ft., fly 40 ft."
+"damage_resistances": "cold"
+"damage_immunities": "fire, poison"
+"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded\
+  \ by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive\
+  \ Perception 12"
+"languages": "Infernal; telepathy 120 ft."
+"cr": "2"
+"traits":
+  - "desc": "The devil doesn't provoke an [Opportunity Attack](3.Mechanics/rules/actions.md#Opportunity%20Attack)\
+      \ when it flies out of an enemy's reach."
+    "name": "Flyby"
+  - "desc": "The devil has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+"actions":
+  - "desc": "The devil makes two attacks, using Infernal Fork and Tail Spine in any\
+      \ combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage\
+      \ plus 3 (1d6) Fire damage."
+    "name": "Infernal Fork"
+  - "desc": "*Ranged Attack Roll:* +4, range 20/80 ft. *Hit:* 4 (1d4 + 2) Piercing\
+      \ damage plus 3 (1d6) Fire damage."
+    "name": "Tail Spine"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Spined%20Devil.webp"
 ```
 ^statblock
 

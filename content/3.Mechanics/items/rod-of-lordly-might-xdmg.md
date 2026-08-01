@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/rod
+draft: true
 title: "Rod of Lordly Might"
 aliases:
 - "Rod of Lordly Might"

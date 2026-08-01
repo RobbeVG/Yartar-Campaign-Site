@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+draft: true
 title: "Javelin of Lightning"
 aliases:
 - "Javelin of Lightning"

@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
+draft: true
 title: "Sword of Life Stealing"
 aliases:
 - "Sword of Life Stealing"

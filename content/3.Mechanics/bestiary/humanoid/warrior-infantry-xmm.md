@@ -8,12 +8,52 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Warrior Infantry"
 aliases:
 - "Warrior Infantry"
 ---
-# Warrior Infantry
+# [Warrior Infantry](3.Mechanics/bestiary/humanoid/warrior-infantry-xmm.md)
 *Source: Monster Manual (2024) p. 320. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+Warrior infantry might be trainees or rank-and-file troops. They are skilled at contending with commonplace, nonmagical threats.
+
+## Warriors
+
+*Soldiers and Scrappers*
+
+- **Habitat.** Any  
+- **Treasure.** [Armaments](3.Mechanics/tables/random-magic-items-armaments.md)  
+
+Warriors are professionals who make a living through their prowess in battle. They might be skilled in using a variety of tactics or trained to take advantage of unusual battlefields. Warriors often work together, whether in armies or in teams with deliberate goals.
+
+Roll on or choose a result from the Warrior Roles table to inspire the creation of different sorts of warriors.
+
+**Warrior Roles**
+
+`dice: [](warrior-infantry-xmm.md#^warrior-roles)`
+
+| dice: 1d10 | The Warrior Is... |
+|------------|-------------------|
+| 1 | A bodyguard who protects a noble. |
+| 2 | A cavalry officer with an unusual steed. |
+| 3 | A crusader who fights for a divine cause. |
+| 4 | A duelist who claims to be unbeatable. |
+| 5 | A gate guard who asks nonsensical questions. |
+| 6 | A grizzled veteran who trains new recruits. |
+| 7 | A hunter skilled at slaying specific monsters. |
+| 8 | A retired general who is weary of battle. |
+| 9 | A volunteer with a homemade weapon. |
+| 10 | A young mercenary trying to prove their skill. |
+^warrior-roles
+
+> [!quote] A quote from Minsc, Hero of Baldur's Gate  
+> 
+> Make way, evil! I'm armed to the teeth and packing a hamster!
+
+
 ![An aasimar commander leads warriors charging into battle](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Warriors.webp#right)
 
 Warrior infantry might be trainees or rank-and-file troops. They are skilled at contending with commonplace, nonmagical threats.
@@ -52,36 +92,42 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 > Make way, evil! I'm armed to the teeth and packing a hamster!
 
 
-## Statblock
-
-```ad-statblock
-title: Warrior Infantry
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Warrior%20Infantry.webp#token)
-*Small or Medium humanoid, Neutral*
-
-- **Armor Class** 13 
-- **Hit Points** 9 (`2d8`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|13 (+1)|11 (+0)|11 (+0)| 8 (-1)|11 (+0)| 8 (-1)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** passive Perception 10
-- **Gear** [chain shirt](3.Mechanics/items/chain-shirt-xphb.md), [spear](3.Mechanics/items/spear-xphb.md)
-- **Languages** Common
-- **Challenge** 1/8
-
-## Traits
-
-***Pack Tactics.*** The warrior has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md) on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated) condition.
-
-## Actions
-
-***Spear.*** *Melee  or Ranged Attack Roll:* `dice:1d20+3|noform|noparens|text(+3)`, reach 5 ft. or range 20/60 ft. *Hit:* `dice:1d6+1|noform|noparens|avg|text(4)` (`1d6 + 1`) Piercing damage.
+```statblock
+"name": "Warrior Infantry (XMM)"
+"size": "Small or Medium"
+"type": "humanoid"
+"alignment": "Neutral"
+"ac": !!int "13"
+"hp": !!int "9"
+"hit_dice": "2d8"
+"modifier": !!int "0"
+"stats":
+  - !!int "13"
+  - !!int "11"
+  - !!int "11"
+  - !!int "8"
+  - !!int "11"
+  - !!int "8"
+"speed": "30 ft."
+"gear":
+  - "[chain shirt](3.Mechanics/items/chain-shirt-xphb.md)"
+  - "[spear](3.Mechanics/items/spear-xphb.md)"
+"senses": "passive Perception 10"
+"languages": "Common"
+"cr": "1/8"
+"traits":
+  - "desc": "The warrior has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
+      \ on an attack roll against a creature if at least one of the warrior's allies\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Pack Tactics"
+"actions":
+  - "desc": "*Melee  or Ranged Attack Roll:* +3, reach 5 ft. or range 20/60 ft. *Hit:*\
+      \ 4 (1d6 + 1) Piercing damage."
+    "name": "Spear"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Warrior%20Infantry.webp"
 ```
 ^statblock
 

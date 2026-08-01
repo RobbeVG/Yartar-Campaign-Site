@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+draft: true
 title: "Staff of Swarming Insects"
 aliases:
 - "Staff of Swarming Insects"

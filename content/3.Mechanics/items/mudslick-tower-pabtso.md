@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/rarity/very-rare
+draft: true
 title: "Mudslick Tower"
 aliases:
 - "Mudslick Tower"

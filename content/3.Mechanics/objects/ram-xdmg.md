@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/large
 - ttrpg-cli/object/type/siege-weapon
+draft: true
 title: "Ram"
 aliases:
 - "Ram"
@@ -32,6 +33,6 @@ title: Ram
 
 ## Actions
 
-***Ram (Requires Position).*** *Melee Attack Roll:* `dice:1d20+8|noform|noparens|text(+8)`, reach 5 ft. *Hit:* `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) Bludgeoning damage.
+***Ram (Requires Position).*** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 16 (3d10) Bludgeoning damage.
 ```
 ^statblock

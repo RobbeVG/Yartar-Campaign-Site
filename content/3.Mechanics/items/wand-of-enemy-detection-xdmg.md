@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/wand
+draft: true
 title: "Wand of Enemy Detection"
 aliases:
 - "Wand of Enemy Detection"

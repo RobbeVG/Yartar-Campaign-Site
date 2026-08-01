@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/ei
+title: "Lessons of the First Ones"
 aliases:
 - "Lessons of the First Ones"
 ---

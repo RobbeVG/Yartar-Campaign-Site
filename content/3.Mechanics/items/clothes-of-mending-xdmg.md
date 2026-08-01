@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
+draft: true
 title: "Clothes of Mending"
 aliases:
 - "Clothes of Mending"

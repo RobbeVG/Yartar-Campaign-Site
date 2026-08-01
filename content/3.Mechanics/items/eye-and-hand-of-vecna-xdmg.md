@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/artifact
+draft: true
 title: "Eye and Hand of Vecna"
 aliases:
 - "Eye and Hand of Vecna"

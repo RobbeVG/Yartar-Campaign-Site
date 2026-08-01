@@ -5,6 +5,8 @@ cssclasses:
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Dining Room"
 aliases:
 - "Dining Room"
 ---

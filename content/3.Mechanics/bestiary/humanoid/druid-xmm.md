@@ -8,13 +8,15 @@ tags:
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Druid"
 aliases:
 - "Druid"
 ---
-# Druid
+# [Druid](3.Mechanics/bestiary/humanoid/druid-xmm.md)
 *Source: Monster Manual (2024) p. 106. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Druid.webp#right)
 
 ## Druid
 
@@ -39,42 +41,78 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
 | 6 | A warden who minds the underpinnings of reality and protects against extraplanar threats. |
 ^druid-traditions
 
-```ad-statblock
-title: Druid
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Druid.webp#token)
-*Small or Medium humanoid, Neutral*
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Druid.webp#right)
 
-- **Armor Class** 13 
-- **Hit Points** 44 (`8d8 + 8`) 
-- **Speed** 30 ft.
+## Druid
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|12 (+1)|13 (+1)|12 (+1)|16 (+3)|11 (+0)|
+*Steward and Sage of Nature*
 
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Medicine](3.Mechanics/rules/skills.md#Medicine) +5, [Nature](3.Mechanics/rules/skills.md#Nature) +3, [Perception](3.Mechanics/rules/skills.md#Perception) +5
-- **Senses** passive Perception 15
-- **Gear** [studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)
-- **Languages** Common, Druidic, Sylvan
-- **Challenge** 2
+- **Habitat.** Any  
+- **Treasure.** Individual, [Relics](3.Mechanics/tables/random-magic-items-relics.md)  
 
-## Actions
+Druids use primal magic, traditional teachings, and bonds with animals and eldritch beings to guard the natural world and heal its ills. These magic-users might be recluses devoted to a particular land, or they might be part of a mystic organization. Roll on or choose a result from the Druidic Traditions table to inspire a druid's magical practices.
 
-***Multiattack.*** The druid makes two attacks, using Vine Staff or Verdant Wisp in any combination.
+**Druid Traditions**
 
-***Vine Staff.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d8+3|noform|noparens|avg|text(7)` (`1d8 + 3`) Bludgeoning damage plus `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) Poison damage.
+`dice: [](druid-xmm.md#^druid-traditions)`
 
-***Verdant Wisp.*** *Ranged Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, range 90 ft. *Hit:* `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) Radiant damage.
-
-***Spellcasting.*** The druid casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 13):
-
-**At will:** [Druidcraft](3.Mechanics/spells/druidcraft-xphb.md), [Speak with Animals](3.Mechanics/spells/speak-with-animals-xphb.md)
-
-**2/day each:** [Entangle](3.Mechanics/spells/entangle-xphb.md), [Thunderwave](3.Mechanics/spells/thunderwave-xphb.md)
-
-**1/day each:** [Animal Messenger](3.Mechanics/spells/animal-messenger-xphb.md), [Longstrider](3.Mechanics/spells/longstrider-xphb.md), [Moonbeam](3.Mechanics/spells/moonbeam-xphb.md)
+| dice: 1d6 | The Druid Is... |
+|-----------|-----------------|
+| 1 | An avenger who strikes against destructive civilizations and those who abuse nature. |
+| 2 | A guide who aids travelers in navigating the realms of Beasts, Fey, or Plants. |
+| 3 | A hermit who works alone to protect the lands, seas, or skies they call home. |
+| 4 | A mender who travels the world healing natural, magical, or manufactured disasters. |
+| 5 | Part of a loose organization that adheres to timeless rituals and guards natural secrets. |
+| 6 | A warden who minds the underpinnings of reality and protects against extraplanar threats. |
+^druid-traditions
+```statblock
+"name": "Druid (XMM)"
+"size": "Small or Medium"
+"type": "humanoid"
+"alignment": "Neutral"
+"ac": !!int "13"
+"hp": !!int "44"
+"hit_dice": "8d8 + 8"
+"modifier": !!int "1"
+"stats":
+  - !!int "10"
+  - !!int "12"
+  - !!int "13"
+  - !!int "12"
+  - !!int "16"
+  - !!int "11"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Medicine](3.Mechanics/rules/skills.md#Medicine)"
+    "desc": "+5"
+  - "name": "[Nature](3.Mechanics/rules/skills.md#Nature)"
+    "desc": "+3"
+  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+    "desc": "+5"
+"gear":
+  - "[studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)"
+"senses": "passive Perception 15"
+"languages": "Common, Druidic, Sylvan"
+"cr": "2"
+"actions":
+  - "desc": "The druid makes two attacks, using Vine Staff or Verdant Wisp in any\
+      \ combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning damage\
+      \ plus 2 (1d4) Poison damage."
+    "name": "Vine Staff"
+  - "desc": "*Ranged Attack Roll:* +5, range 90 ft. *Hit:* 10 (3d6) Radiant damage."
+    "name": "Verdant Wisp"
+  - "desc": "The druid casts one of the following spells, using Wisdom as the spellcasting\
+      \ ability (spell save DC 13):\n\n**At will:** [Druidcraft](3.Mechanics/spells/druidcraft-xphb.md),\
+      \ [Speak with Animals](3.Mechanics/spells/speak-with-animals-xphb.md)\n\n**2/day\
+      \ each:** [Entangle](3.Mechanics/spells/entangle-xphb.md), [Thunderwave](3.Mechanics/spells/thunderwave-xphb.md)\n\
+      \n**1/day each:** [Animal Messenger](3.Mechanics/spells/animal-messenger-xphb.md),\
+      \ [Longstrider](3.Mechanics/spells/longstrider-xphb.md), [Moonbeam](3.Mechanics/spells/moonbeam-xphb.md)"
+    "name": "Spellcasting"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Druid.webp"
 ```
 ^statblock
 

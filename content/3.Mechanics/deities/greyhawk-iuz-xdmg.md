@@ -5,6 +5,8 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/deity/greyhawk
+draft: true
+title: "Iuz"
 aliases:
 - "Iuz"
 ---

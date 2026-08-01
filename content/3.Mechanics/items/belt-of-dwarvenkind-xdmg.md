@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+draft: true
 title: "Belt of Dwarvenkind"
 aliases:
 - "Belt of Dwarvenkind"

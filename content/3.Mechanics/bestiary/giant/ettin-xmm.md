@@ -10,13 +10,15 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/giant
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Ettin"
 aliases:
 - "Ettin"
 ---
-# Ettin
+# [Ettin](3.Mechanics/bestiary/giant/ettin-xmm.md)
 *Source: Monster Manual (2024) p. 116. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Ettin.webp#right)
 
 ## Ettin
 
@@ -54,35 +56,87 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 > Twice the malice, aggressiveness, and appetite—the ettin demonstrates that two heads aren't necessarily better than one.
 
 
-```ad-statblock
-title: Ettin
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ettin.webp#token)
-*Large giant, Chaotic Evil*
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Ettin.webp#right)
 
-- **Armor Class** 12 
-- **Hit Points** 85 (`10d10 + 30`) 
-- **Speed** 40 ft.
+## Ettin
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|21 (+5)| 8 (-1)|17 (+3)| 6 (-2)|10 (+0)| 8 (-1)|
+*Quarrelsome Two-Headed Giant*
 
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +4
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Condition Immunities** [blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened), [frightened](3.Mechanics/rules/conditions.md#Frightened), [stunned](3.Mechanics/rules/conditions.md#Stunned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
-- **Gear** [battleaxe](3.Mechanics/items/battleaxe-xphb.md), [morningstar](3.Mechanics/items/morningstar-xphb.md)
-- **Languages** Giant
-- **Challenge** 4
+- **Habitat.** Hill, Mountain, Underdark  
+- **Treasure.** Individual  
 
-## Actions
+Ettins are physically powerful Giants with two heads. While many ettins have features similar to hill giants, others have more bestial or unusual traits, such as tusks, short horns, or a single eye on each head.
 
-***Multiattack.*** The ettin makes one Battleaxe attack and one Morningstar attack.
+Ettins frequently ally with other Giants or groups that value their strength, such as hill giants, bandits, or ogres. Some ettins possess mystical ties to the lands they inhabit, and they might know or guard secrets valued by druids or Fey.
 
-***Battleaxe.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. *Hit:* `dice:2d8+5|noform|noparens|avg|text(14)` (`2d8 + 5`) Slashing damage. If the target is a Large or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition.
+Each ettin head has a distinct personality. While this makes some ettins quarrelsome with themselves and others, many function as a team. An ettin head might have its own name, or both heads might refer to themselves as a single being—either with one name or a portmanteau of two.
 
-***Morningstar.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. *Hit:* `dice:2d8+5|noform|noparens|avg|text(14)` (`2d8 + 5`) Piercing damage, and the target has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on the next attack roll it makes before the end of its next turn.
+Roll on or choose a result from the Ettin Interactions table to inspire how an ettin's heads are interacting when the creature is encountered.
+
+**Ettin Interactions**
+
+`dice: [](ettin-xmm.md#^ettin-interactions)`
+
+| dice: 1d8 | The Ettin's Heads Are... |
+|-----------|--------------------------|
+| 1 | Amping up one another in preparation for a conflict or challenge. |
+| 2 | Arguing over plans for battle, dinner, or how to spend the day. |
+| 3 | Criticizing one another as they perform separate tasks. |
+| 4 | Engaged in a staring contest. |
+| 5 | Making polite small talk as if they were meeting for the first time. |
+| 6 | Performatively ignoring one another. |
+| 7 | Talking over an increasingly convoluted plot. |
+| 8 | Trying to keep one another awake. |
+^ettin-interactions
+
+> [!quote] A quote from Bertrand, Inquisitor of the Mind Fire  
+> 
+> Twice the malice, aggressiveness, and appetite—the ettin demonstrates that two heads aren't necessarily better than one.
+
+```statblock
+"name": "Ettin (XMM)"
+"size": "Large"
+"type": "giant"
+"alignment": "Chaotic Evil"
+"ac": !!int "12"
+"hp": !!int "85"
+"hit_dice": "10d10 + 30"
+"modifier": !!int "-1"
+"stats":
+  - !!int "21"
+  - !!int "8"
+  - !!int "17"
+  - !!int "6"
+  - !!int "10"
+  - !!int "8"
+"speed": "40 ft."
+"skillsaves":
+  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+    "desc": "+4"
+"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
+  \ [deafened](3.Mechanics/rules/conditions.md#Deafened), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
+  \ [stunned](3.Mechanics/rules/conditions.md#Stunned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
+"gear":
+  - "[battleaxe](3.Mechanics/items/battleaxe-xphb.md)"
+  - "[morningstar](3.Mechanics/items/morningstar-xphb.md)"
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 14"
+"languages": "Giant"
+"cr": "4"
+"actions":
+  - "desc": "The ettin makes one Battleaxe attack and one Morningstar attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (2d8 + 5) Slashing damage.\
+      \ If the target is a Large or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Battleaxe"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (2d8 + 5) Piercing damage,\
+      \ and the target has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
+      \ on the next attack roll it makes before the end of its next turn."
+    "name": "Morningstar"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ettin.webp"
 ```
 ^statblock
 

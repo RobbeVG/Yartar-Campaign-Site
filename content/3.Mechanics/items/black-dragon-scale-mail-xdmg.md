@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+draft: true
 title: "Black Dragon Scale Mail"
 aliases:
 - "Black Dragon Scale Mail"

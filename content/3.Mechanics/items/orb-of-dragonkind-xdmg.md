@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/artifact
+draft: true
 title: "Orb of Dragonkind"
 aliases:
 - "Orb of Dragonkind"

@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+draft: true
 title: "Staff of Thunder and Lightning"
 aliases:
 - "Staff of Thunder and Lightning"

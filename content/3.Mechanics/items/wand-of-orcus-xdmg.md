@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/wand
+draft: true
 title: "Wand of Orcus"
 aliases:
 - "Wand of Orcus"

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/wand
+draft: true
 title: "Wand of Magic Detection"
 aliases:
 - "Wand of Magic Detection"

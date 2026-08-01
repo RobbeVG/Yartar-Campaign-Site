@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/ring
+draft: true
 title: "Ring of the Orator"
 aliases:
 - "Ring of the Orator"

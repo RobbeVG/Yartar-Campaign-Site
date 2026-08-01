@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/instrument
 - ttrpg-cli/item/rarity/legendary
+draft: true
 title: "Horn of Valhalla, Iron"
 aliases:
 - "Horn of Valhalla, Iron"

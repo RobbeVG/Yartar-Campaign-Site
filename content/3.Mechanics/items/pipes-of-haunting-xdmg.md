@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
+draft: true
 title: "Pipes of Haunting"
 aliases:
 - "Pipes of Haunting"

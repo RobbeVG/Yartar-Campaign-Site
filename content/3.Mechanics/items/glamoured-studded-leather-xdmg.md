@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/armor/light
 - ttrpg-cli/item/rarity/rare
+draft: true
 title: "Glamoured Studded Leather"
 aliases:
 - "Glamoured Studded Leather"

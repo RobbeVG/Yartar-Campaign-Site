@@ -7,43 +7,54 @@ tags:
 - ttrpg-cli/monster/cr/
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Avatar of Death"
 aliases:
 - "Avatar of Death"
 ---
-# Avatar of Death
+# [Avatar of Death](3.Mechanics/bestiary/undead/avatar-of-death-xdmg.md)
 *Source: Dungeon Master's Guide (2024) p. 252*  
 
-```ad-statblock
-title: Avatar of Death
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XDMG/Avatar%20of%20Death.webp#token)
-*Medium undead, Neutral Evil*
-
-- **Armor Class** 20 
-- **Hit Points** Half the HP maximum of its summoner  (Half the HP maximum of its summoner)
-- **Speed** 60 ft., fly 60 ft. (hover)
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|16 (+3)|16 (+3)|16 (+3)|16 (+3)|16 (+3)|16 (+3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Truesight](3.Mechanics/rules/senses.md#Truesight) 60 ft., passive Perception 13
-- **Damage Immunities** necrotic, poison
-- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
-- **Languages** all languages known to its summoner
-- **Challenge** 
-
-## Traits
-
-***Incorporeal Movement.*** The avatar can move through other creatures and objects as if they were [Difficult Terrain](3.Mechanics/rules/variant-rules/difficult-terrain-xphb.md). It takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) Force damage if it ends its turn inside an object.
-
-## Actions
-
-***Multiattack.*** The avatar makes a number of Reaping Scythe attacks equal to half the summoner's Proficiency Bonus (rounded up).
-
-***Reaping Scythe.*** *Melee Attack Roll:* Automatic hit, reach 5 ft. *Hit:* `dice:1d8+3|noform|noparens|avg|text(7)` (`1d8 + 3`) Slashing damage plus `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) Necrotic damage.
+```statblock
+"name": "Avatar of Death (XDMG)"
+"size": "Medium"
+"type": "undead"
+"alignment": "Neutral Evil"
+"ac": !!int "20"
+"hp": "Half the HP maximum of its summoner"
+"modifier": !!int "3"
+"stats":
+  - !!int "16"
+  - !!int "16"
+  - !!int "16"
+  - !!int "16"
+  - !!int "16"
+  - !!int "16"
+"speed": "60 ft., fly 60 ft. (hover)"
+"damage_immunities": "necrotic, poison"
+"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
+  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
+  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
+  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
+"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 60 ft., passive Perception\
+  \ 13"
+"languages": "all languages known to its summoner"
+"traits":
+  - "desc": "The avatar can move through other creatures and objects as if they were\
+      \ [Difficult Terrain](3.Mechanics/rules/variant-rules/difficult-terrain-xphb.md).\
+      \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
+    "name": "Incorporeal Movement"
+"actions":
+  - "desc": "The avatar makes a number of Reaping Scythe attacks equal to half the\
+      \ summoner's Proficiency Bonus (rounded up)."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* Automatic hit, reach 5 ft. *Hit:* 7 (1d8 + 3) Slashing\
+      \ damage plus 4 (1d8) Necrotic damage."
+    "name": "Reaping Scythe"
+"source":
+  - "XDMG"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XDMG/Avatar%20of%20Death.webp"
 ```
 ^statblock

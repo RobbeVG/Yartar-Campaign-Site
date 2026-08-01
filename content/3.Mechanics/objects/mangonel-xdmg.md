@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/large
 - ttrpg-cli/object/type/siege-weapon
+draft: true
 title: "Mangonel"
 aliases:
 - "Mangonel"
@@ -32,6 +33,6 @@ title: Mangonel
 
 ## Actions
 
-***Mangonel Stone (Requires Load and Aim).*** *Ranged Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, range 200/800 ft. (can't hit targets within 60 feet of itself). *Hit:* `dice:5d10|noform|noparens|avg|text(27)` (`5d10`) Bludgeoning damage.
+***Mangonel Stone (Requires Load and Aim).*** *Ranged Attack Roll:* +5, range 200/800 ft. (can't hit targets within 60 feet of itself). *Hit:* 27 (5d10) Bludgeoning damage.
 ```
 ^statblock

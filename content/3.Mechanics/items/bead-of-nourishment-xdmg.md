@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
+draft: true
 title: "Bead of Nourishment"
 aliases:
 - "Bead of Nourishment"

@@ -5,6 +5,8 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/charm
+draft: true
+title: "Charm of Animal Conjuring"
 aliases:
 - "Charm of Animal Conjuring"
 ---

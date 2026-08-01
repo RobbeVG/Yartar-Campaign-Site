@@ -5,6 +5,8 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/blessing
+draft: true
+title: "Blessing of Magic Resistance"
 aliases:
 - "Blessing of Magic Resistance"
 ---

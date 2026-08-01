@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/rarity/rare
+draft: true
 title: "Mind Crystal (Heightened)"
 aliases:
 - "Mind Crystal (Heightened)"

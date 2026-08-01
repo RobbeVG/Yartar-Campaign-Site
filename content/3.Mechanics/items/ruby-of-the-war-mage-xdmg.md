@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/common
+draft: true
 title: "Ruby of the War Mage"
 aliases:
 - "Ruby of the War Mage"

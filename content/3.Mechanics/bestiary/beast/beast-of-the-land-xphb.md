@@ -7,40 +7,50 @@ tags:
 - ttrpg-cli/monster/cr/
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 title: "Beast of the Land"
 aliases:
 - "Beast of the Land"
 ---
-# Beast of the Land
+# [Beast of the Land](3.Mechanics/bestiary/beast/beast-of-the-land-xphb.md)
 *Source: Player's Handbook (2024) p. 123*  
+
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Beast%20of%20the%20Land.webp#center)
-
-```ad-statblock
-title: Beast of the Land
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Beast%20of%20the%20Land.webp#token)
-*Medium beast, Neutral*
-
-- **Armor Class** (13 plus your Wisdom modifier)
-- **Hit Points** 5 plus five times your Ranger level (the beast has a number of Hit Dice [d8s] equal to your Ranger level)  (5 plus five times your Ranger level (the beast has a number of Hit Dice [d8s] equal to your Ranger level))
-- **Speed** 40 ft., climb 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|14 (+2)|15 (+2)| 8 (-1)|14 (+2)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
-- **Languages** understands the languages you know
-- **Challenge** 
-
-## Traits
-
-***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
-
-## Actions
-
-***Beast's Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) plus your Wisdom modifier Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast). If the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage of the same type, and the target has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition if it is a Large or smaller creature.
+```statblock
+"name": "Beast of the Land (XPHB)"
+"size": "Medium"
+"type": "beast"
+"alignment": "Neutral"
+"ac_class": "13 plus your Wisdom modifier"
+"hp": "5 plus five times your Ranger level (the beast has a number of Hit Dice [d8s]\
+  \ equal to your Ranger level)"
+"modifier": !!int "2"
+"stats":
+  - !!int "14"
+  - !!int "14"
+  - !!int "15"
+  - !!int "8"
+  - !!int "14"
+  - !!int "11"
+"speed": "40 ft., climb 40 ft."
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 12"
+"languages": "understands the languages you know"
+"traits":
+  - "desc": "Add your Proficiency Bonus to any ability check or saving throw the beast\
+      \ makes."
+    "name": "Primal Bond"
+"actions":
+  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
+      \ ft. *Hit:* 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing\
+      \ damage (your choice when you summon the beast). If the beast moved at least\
+      \ 20 feet straight toward the target before the hit, the target takes an extra\
+      \ 1d6 damage of the same type, and the target has the [Prone](3.Mechanics/rules/conditions.md#Prone)\
+      \ condition if it is a Large or smaller creature."
+    "name": "Beast's Strike"
+"source":
+  - "XPHB"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Beast%20of%20the%20Land.webp"
 ```
 ^statblock

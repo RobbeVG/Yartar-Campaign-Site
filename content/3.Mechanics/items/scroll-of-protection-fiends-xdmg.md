@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/scroll
+draft: true
 title: "Scroll of Protection (Fiends)"
 aliases:
 - "Scroll of Protection (Fiends)"

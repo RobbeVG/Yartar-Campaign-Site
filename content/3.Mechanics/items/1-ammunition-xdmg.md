@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/gear/ammunition-firearm
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/generic-variant
+draft: true
 title: "+1 Ammunition"
 aliases:
 - "+1 Ammunition"

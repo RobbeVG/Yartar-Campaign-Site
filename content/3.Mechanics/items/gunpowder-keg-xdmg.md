@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/explosive
+draft: true
 title: "Gunpowder (keg)"
 aliases:
 - "Gunpowder (keg)"

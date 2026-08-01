@@ -7,49 +7,64 @@ tags:
 - ttrpg-cli/monster/cr/4
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Ontharyx"
 aliases:
 - "Ontharyx"
 ---
-# Ontharyx
+# [Ontharyx](3.Mechanics/bestiary/npc/ontharyx-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 115*  
 
-```ad-statblock
-title: Ontharyx
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Ontharyx.webp#token)
-*Medium aberration, Any alignment*
-
-- **Armor Class** 14 
-- **Hit Points** 65 (`10d8 + 20`) 
-- **Speed** 30 ft., fly 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|12 (+1)|18 (+4)|14 (+2)|11 (+0)|13 (+1)|15 (+2)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +3, [Stealth](3.Mechanics/rules/skills.md#Stealth) +6
-- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 13
-- **Damage Resistances** psychic
-- **Condition Immunities** [charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)
-- **Languages** Common, telepathy 60 ft.
-- **Challenge** 4
-
-## Traits
-
-***Sunlight Sensitivity.*** While in sunlight, Ontharyx has disadvantage on attack rolls.
-
-## Actions
-
-***Multiattack.*** Ontharyx makes two Unarmed Strike or Nightmare Blast attacks.
-
-***Unarmed Strike.*** *Melee Weapon Attack:* `dice:1d20+6|noform|noparens|text(+6)` to hit, reach 5 ft., one target. *Hit:* `dice:1d6+4|noform|noparens|avg|text(7)` (`1d6 + 4`) bludgeoning damage plus `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) psychic damage.
-
-***Nightmare Blast.*** *Ranged Weapon Attack:* `dice:1d20+6|noform|noparens|text(+6)` to hit, range 60 ft., one creature. *Hit:* `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) psychic damage, and the target must succeed on a DC 12 Wisdom saving throw or have the [frightened](3.Mechanics/rules/conditions.md#Frightened) condition until the start of Ontharyx's next turn.
-
-## Reactions
-
-***Defensive Flight.*** Immediately after taking damage, Ontharyx flies up to its speed. This movement doesn't provoke opportunity attacks.
+```statblock
+"name": "Ontharyx (PaBTSO)"
+"size": "Medium"
+"type": "aberration"
+"alignment": "Any alignment"
+"ac": !!int "14"
+"hp": !!int "65"
+"hit_dice": "10d8 + 20"
+"modifier": !!int "4"
+"stats":
+  - !!int "12"
+  - !!int "18"
+  - !!int "14"
+  - !!int "11"
+  - !!int "13"
+  - !!int "15"
+"speed": "30 ft., fly 30 ft."
+"skillsaves":
+  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+    "desc": "+6"
+"damage_resistances": "psychic"
+"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)"
+"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 13"
+"languages": "Common, telepathy 60 ft."
+"cr": "4"
+"traits":
+  - "desc": "While in sunlight, Ontharyx has disadvantage on attack rolls."
+    "name": "Sunlight Sensitivity"
+"actions":
+  - "desc": "Ontharyx makes two Unarmed Strike or Nightmare Blast attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
+      \ + 4) bludgeoning damage plus 10 (3d6) psychic damage."
+    "name": "Unarmed Strike"
+  - "desc": "*Ranged Weapon Attack:* +6 to hit, range 60 ft., one creature. *Hit:*\
+      \ 7 (2d6) psychic damage, and the target must succeed on a DC 12 Wisdom saving\
+      \ throw or have the [frightened](3.Mechanics/rules/conditions.md#Frightened)\
+      \ condition until the start of Ontharyx's next turn."
+    "name": "Nightmare Blast"
+"reactions":
+  - "desc": "Immediately after taking damage, Ontharyx flies up to its speed. This\
+      \ movement doesn't provoke opportunity attacks."
+    "name": "Defensive Flight"
+"source":
+  - "PaBTSO"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Ontharyx.webp"
 ```
 ^statblock

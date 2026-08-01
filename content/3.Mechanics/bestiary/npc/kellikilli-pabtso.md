@@ -7,45 +7,60 @@ tags:
 - ttrpg-cli/monster/cr/3
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/elemental
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Kellikilli"
 aliases:
 - "Kellikilli"
 ---
-# Kellikilli
+# [Kellikilli](3.Mechanics/bestiary/npc/kellikilli-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 121*  
+
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/GrandlejawandKellikilli.webp#center)
-
-```ad-statblock
-title: Kellikilli
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Kellikilli.webp#token)
-*Large elemental, Neutral*
-
-- **Armor Class** 13 
-- **Hit Points** 58 (`9d10 + 9`) 
-- **Speed** 0 ft., swim 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|17 (+3)|16 (+3)|13 (+1)|11 (+0)|10 (+0)|10 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception 10
-- **Damage Resistances** fire; bludgeoning, piercing, slashing from nonmagical attacks
-- **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [restrained](3.Mechanics/rules/conditions.md#Restrained), [prone](3.Mechanics/rules/conditions.md#Prone), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)
-- **Languages** understands Aquan but doesn't speak
-- **Challenge** 3
-
-## Traits
-
-***Invisible in Water.*** Kellikilli is [invisible](3.Mechanics/rules/conditions.md#Invisible) while fully immersed in water.
-
-***Water Bound.*** Kellikilli dies if it leaves the water to which it is bound or if that water is destroyed.
-
-## Actions
-
-***Constrict.*** *Melee Weapon Attack:* `dice:1d20+5|noform|noparens|text(+5)` to hit, reach 10 ft., one creature. *Hit:* `dice:3d6+3|noform|noparens|avg|text(13)` (`3d6 + 3`) bludgeoning damage. If the target is Medium or smaller, it is [grappled](3.Mechanics/rules/conditions.md#Grappled) (escape DC 13) and pulled 5 feet toward Kellikilli. Until this grapple ends, the target is [restrained](3.Mechanics/rules/conditions.md#Restrained), Kellikilli tries to drown it, and Kellikilli can't constrict another target.
+```statblock
+"name": "Kellikilli (PaBTSO)"
+"size": "Large"
+"type": "elemental"
+"alignment": "Neutral"
+"ac": !!int "13"
+"hp": !!int "58"
+"hit_dice": "9d10 + 9"
+"modifier": !!int "3"
+"stats":
+  - !!int "17"
+  - !!int "16"
+  - !!int "13"
+  - !!int "11"
+  - !!int "10"
+  - !!int "10"
+"speed": "0 ft., swim 60 ft."
+"damage_resistances": "fire; bludgeoning, piercing, slashing from nonmagical attacks"
+"damage_immunities": "poison"
+"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
+  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
+  \ [prone](3.Mechanics/rules/conditions.md#Prone), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
+"senses": "[blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception\
+  \ 10"
+"languages": "understands Aquan but doesn't speak"
+"cr": "3"
+"traits":
+  - "desc": "Kellikilli is [invisible](3.Mechanics/rules/conditions.md#Invisible)\
+      \ while fully immersed in water."
+    "name": "Invisible in Water"
+  - "desc": "Kellikilli dies if it leaves the water to which it is bound or if that\
+      \ water is destroyed."
+    "name": "Water Bound"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one creature. *Hit:*\
+      \ 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is\
+      \ [grappled](3.Mechanics/rules/conditions.md#Grappled) (escape DC 13) and pulled\
+      \ 5 feet toward Kellikilli. Until this grapple ends, the target is [restrained](3.Mechanics/rules/conditions.md#Restrained),\
+      \ Kellikilli tries to drown it, and Kellikilli can't constrict another target."
+    "name": "Constrict"
+"source":
+  - "PaBTSO"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Kellikilli.webp"
 ```
 ^statblock

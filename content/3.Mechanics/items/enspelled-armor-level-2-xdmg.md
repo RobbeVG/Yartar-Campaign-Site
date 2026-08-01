@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
+draft: true
 title: "Enspelled Armor (Level 2)"
 aliases:
 - "Enspelled Armor (Level 2)"

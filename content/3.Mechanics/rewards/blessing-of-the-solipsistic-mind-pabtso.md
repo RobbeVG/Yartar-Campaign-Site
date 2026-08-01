@@ -5,6 +5,8 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/reward/blessing
+draft: true
+title: "Blessing of the Solipsistic Mind"
 aliases:
 - "Blessing of the Solipsistic Mind"
 ---

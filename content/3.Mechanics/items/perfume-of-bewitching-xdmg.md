@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
+draft: true
 title: "Perfume of Bewitching"
 aliases:
 - "Perfume of Bewitching"

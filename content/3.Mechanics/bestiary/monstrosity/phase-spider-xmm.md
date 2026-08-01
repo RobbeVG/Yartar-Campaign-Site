@@ -15,13 +15,15 @@ tags:
 - ttrpg-cli/monster/environment/urban
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Phase Spider"
 aliases:
 - "Phase Spider"
 ---
-# Phase Spider
+# [Phase Spider](3.Mechanics/bestiary/monstrosity/phase-spider-xmm.md)
 *Source: Monster Manual (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Phase%20Spider.webp#right)
 
 ## Phase Spider
 
@@ -39,43 +41,75 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
 > Some sages say you unknowingly occupy the same ethereally coterminous point as a phase spider an average of four times each year.
 
 
-```ad-statblock
-title: Phase Spider
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Phase%20Spider.webp#token)
-*Large monstrosity, Unaligned*
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Phase%20Spider.webp#right)
 
-- **Armor Class** 14 
-- **Hit Points** 45 (`7d10 + 7`) 
-- **Speed** 30 ft., climb 30 ft.
+## Phase Spider
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|15 (+2)|16 (+3)|12 (+1)| 6 (-2)|10 (+0)| 6 (-2)|
+*Plane-Shifting Arachnid Ambusher*
 
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +7
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Languages** —
-- **Challenge** 3
+- **Habitat.** Desert, Forest, Grassland, Hill, Planar (Ethereal Plane), Underdark, Urban  
+- **Treasure.** Any  
 
-## Traits
+Phase spiders appear out of nowhere to attack, then vanish just as swiftly. These horse-size, magical arachnids are endemic to the Ethereal Plane. From vaporous lairs, they peer through the Border Ethereal into the Material Plane. When they detect prey, phase spiders draw close and then shift or "phase" to the Material Plane to attack. They shift between planes of existence and attack from unexpected directions until they overcome their prey or are forced to retreat.
 
-***Ethereal Sight.*** The spider can see 60 feet into the Ethereal Plane while on the Material Plane and vice versa.
+Phase spiders are more intelligent than mundane spiders, but most are cowards. They usually flee if they're outnumbered by creatures capable of seeing them on the Ethereal Plane or pursuing them there. They make exceptions for ghosts and similar spirits, which phase spiders gain sustenance from and pursue as favored prey.
 
-***Spider Climb.*** The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+> [!quote] A quote from Marcus Wands, Doubtful Authority  
+> 
+> Some sages say you unknowingly occupy the same ethereally coterminous point as a phase spider an average of four times each year.
 
-***Web Walker.*** The spider ignores movement restrictions caused by webs, and the spider knows the location of any other creature in contact with the same web.
-
-## Actions
-
-***Multiattack.*** The spider makes two Bite attacks.
-
-***Bite.*** *Melee Attack Roll:* `dice:1d20+5|noform|noparens|text(+5)`, reach 5 ft. *Hit:* `dice:1d10+3|noform|noparens|avg|text(8)` (`1d10 + 3`) Piercing damage plus `dice:2d8|noform|noparens|avg|text(9)` (`2d8`) Poison damage. If this damage reduces the target to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md), the target becomes [Stable](3.Mechanics/rules/variant-rules/stable-xphb.md), and it has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition for 1 hour. While [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), the target also has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed) condition.
-
-## Bonus Actions
-
-***Ethereal Jaunt.*** The spider teleports from the Material Plane to the Ethereal Plane or vice versa.
+```statblock
+"name": "Phase Spider (XMM)"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "14"
+"hp": !!int "45"
+"hit_dice": "7d10 + 7"
+"modifier": !!int "3"
+"stats":
+  - !!int "15"
+  - !!int "16"
+  - !!int "12"
+  - !!int "6"
+  - !!int "10"
+  - !!int "6"
+"speed": "30 ft., climb 30 ft."
+"skillsaves":
+  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+    "desc": "+7"
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": ""
+"cr": "3"
+"traits":
+  - "desc": "The spider can see 60 feet into the Ethereal Plane while on the Material\
+      \ Plane and vice versa."
+    "name": "Ethereal Sight"
+  - "desc": "The spider can climb difficult surfaces, including along ceilings, without\
+      \ needing to make an ability check."
+    "name": "Spider Climb"
+  - "desc": "The spider ignores movement restrictions caused by webs, and the spider\
+      \ knows the location of any other creature in contact with the same web."
+    "name": "Web Walker"
+"actions":
+  - "desc": "The spider makes two Bite attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (1d10 + 3) Piercing damage\
+      \ plus 9 (2d8) Poison damage. If this damage reduces the target to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md),\
+      \ the target becomes [Stable](3.Mechanics/rules/variant-rules/stable-xphb.md),\
+      \ and it has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition\
+      \ for 1 hour. While [Poisoned](3.Mechanics/rules/conditions.md#Poisoned), the\
+      \ target also has the [Paralyzed](3.Mechanics/rules/conditions.md#Paralyzed)\
+      \ condition."
+    "name": "Bite"
+"bonus_actions":
+  - "desc": "The spider teleports from the Material Plane to the Ethereal Plane or\
+      \ vice versa."
+    "name": "Ethereal Jaunt"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Phase%20Spider.webp"
 ```
 ^statblock
 

@@ -9,12 +9,19 @@ tags:
 - ttrpg-cli/monster/environment/underwater
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 title: "Crab"
 aliases:
 - "Crab"
 ---
-# Crab
+# [Crab](3.Mechanics/bestiary/beast/crab-xmm.md)
 *Source: Monster Manual (2024) p. 351, Player's Handbook (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+## Animals
+
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3.Mechanics/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3.Mechanics/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Crab.webp#right)
 
 ## Animals
@@ -25,34 +32,40 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![A druid calls on animals of the hills and mountains to aid her cause](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Hills%20and%20Mountains.webp)
 ![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
-
-```ad-statblock
-title: Crab
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Crab.webp#token)
-*Tiny beast, Unaligned*
-
-- **Armor Class** 11 
-- **Hit Points** 3 (`1d4 + 1`) 
-- **Speed** 20 ft., swim 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 6 (-2)|11 (+0)|12 (+1)| 1 (-5)| 8 (-1)| 2 (-4)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +2
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception 9
-- **Languages** —
-- **Challenge** 0
-
-## Traits
-
-***Amphibious.*** The crab can breathe air and water.
-
-## Actions
-
-***Claw.*** *Melee Attack Roll:* `dice:1d20+2|noform|noparens|text(+2)`, reach 5 ft. *Hit:* 1 Bludgeoning damage.
+```statblock
+"name": "Crab (XMM)"
+"size": "Tiny"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "11"
+"hp": !!int "3"
+"hit_dice": "1d4 + 1"
+"modifier": !!int "0"
+"stats":
+  - !!int "6"
+  - !!int "11"
+  - !!int "12"
+  - !!int "1"
+  - !!int "8"
+  - !!int "2"
+"speed": "20 ft., swim 20 ft."
+"skillsaves":
+  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+    "desc": "+2"
+"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception\
+  \ 9"
+"languages": ""
+"cr": "0"
+"traits":
+  - "desc": "The crab can breathe air and water."
+    "name": "Amphibious"
+"actions":
+  - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 Bludgeoning damage."
+    "name": "Claw"
+"source":
+  - "XMM"
+  - "XPHB"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Crab.webp"
 ```
 ^statblock
 

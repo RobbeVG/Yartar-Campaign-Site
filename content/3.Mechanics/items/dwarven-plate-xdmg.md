@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/generic-variant
+draft: true
 title: "Dwarven Plate"
 aliases:
 - "Dwarven Plate"

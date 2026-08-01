@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/wand
+draft: true
 title: "Wand of Polymorph"
 aliases:
 - "Wand of Polymorph"

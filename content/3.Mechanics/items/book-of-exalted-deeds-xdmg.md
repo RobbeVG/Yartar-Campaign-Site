@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/artifact
+draft: true
 title: "Book of Exalted Deeds"
 aliases:
 - "Book of Exalted Deeds"

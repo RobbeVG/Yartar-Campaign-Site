@@ -30,16 +30,16 @@ You touch a dead Humanoid or a piece of one. If the creature has been dead no lo
 
 | dice: 1d10 | Species |
 |------------|---------|
-| 1 | [Aasimar](3.Mechanics/races/aasimar-xphb.md) |
-| 2 | [Dragonborn](3.Mechanics/races/dragonborn-xphb.md) |
-| 3 | [Dwarf](3.Mechanics/races/dwarf-xphb.md) |
-| 4 | [Elf](3.Mechanics/races/elf-xphb.md) |
-| 5 | [Gnome](3.Mechanics/races/gnome-xphb.md) |
-| 6 | [Goliath](3.Mechanics/races/goliath-xphb.md) |
-| 7 | [Halfling](3.Mechanics/races/halfling-xphb.md) |
-| 8 | [Human](3.Mechanics/races/human-xphb.md) |
-| 9 | [Orc](3.Mechanics/races/orc-xphb.md) |
-| 10 | [Tiefling](3.Mechanics/races/tiefling-xphb.md) |
+| 1 | [Aasimar](3.Mechanics/species/aasimar-xphb.md) |
+| 2 | [Dragonborn](3.Mechanics/species/dragonborn-xphb.md) |
+| 3 | [Dwarf](3.Mechanics/species/dwarf-xphb.md) |
+| 4 | [Elf](3.Mechanics/species/elf-xphb.md) |
+| 5 | [Gnome](3.Mechanics/species/gnome-xphb.md) |
+| 6 | [Goliath](3.Mechanics/species/goliath-xphb.md) |
+| 7 | [Halfling](3.Mechanics/species/halfling-xphb.md) |
+| 8 | [Human](3.Mechanics/species/human-xphb.md) |
+| 9 | [Orc](3.Mechanics/species/orc-xphb.md) |
+| 10 | [Tiefling](3.Mechanics/species/tiefling-xphb.md) |
 ^1-species
 
 The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.

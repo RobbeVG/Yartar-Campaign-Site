@@ -7,31 +7,39 @@ tags:
 - ttrpg-cli/monster/cr/0
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Giant Fly"
 aliases:
 - "Giant Fly"
 ---
-# Giant Fly
+# [Giant Fly](3.Mechanics/bestiary/beast/giant-fly-xdmg.md)
 *Source: Dungeon Master's Guide (2024) p. 261*  
 
-```ad-statblock
-title: Giant Fly
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XDMG/Giant%20Fly.webp#token)
-*Large beast, Unaligned*
-
-- **Armor Class** 11 
-- **Hit Points** 19 (`3d10 + 3`) 
-- **Speed** 30 ft., fly 60 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|13 (+1)|13 (+1)| 2 (-4)|10 (+0)| 3 (-4)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Languages** —
-- **Challenge** 0
+```statblock
+"name": "Giant Fly (XDMG)"
+"size": "Large"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "11"
+"hp": !!int "19"
+"hit_dice": "3d10 + 3"
+"modifier": !!int "1"
+"stats":
+  - !!int "14"
+  - !!int "13"
+  - !!int "13"
+  - !!int "2"
+  - !!int "10"
+  - !!int "3"
+"speed": "30 ft., fly 60 ft."
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": ""
+"cr": "0"
+"source":
+  - "XDMG"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XDMG/Giant%20Fly.webp"
 ```
 ^statblock

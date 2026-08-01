@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/large
 - ttrpg-cli/object/type/siege-weapon
+draft: true
 title: "Flamethrower Coach"
 aliases:
 - "Flamethrower Coach"
@@ -34,6 +35,6 @@ title: Flamethrower Coach
 
 ## Actions
 
-***Flamethrower.*** *Dexterity Saving Throw:* DC 15, each creature in a 60-foot-long, 5-foot-wide [Line](3.Mechanics/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:* `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) Fire damage, and the creature starts burning. *Success:* Half damage only.
+***Flamethrower.*** *Dexterity Saving Throw:* DC 15, each creature in a 60-foot-long, 5-foot-wide [Line](3.Mechanics/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:* 14 (4d6) Fire damage, and the creature starts burning. *Success:* Half damage only.
 ```
 ^statblock

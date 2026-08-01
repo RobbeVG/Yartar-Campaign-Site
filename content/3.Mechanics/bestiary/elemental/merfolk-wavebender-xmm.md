@@ -9,12 +9,27 @@ tags:
 - ttrpg-cli/monster/environment/underwater
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/elemental
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Merfolk Wavebender"
 aliases:
 - "Merfolk Wavebender"
 ---
-# Merfolk Wavebender
+# [Merfolk Wavebender](3.Mechanics/bestiary/elemental/merfolk-wavebender-xmm.md)
 *Source: Monster Manual (2024) p. 209*  
+
+These merfolk mages use magic to manipulate water, storms, and sea creatures to aid them.
+
+## Merfolk
+
+*Protectors and Explorers of the Seas*
+
+- **Habitat.** Coastal, Underwater  
+- **Treasure.** Individual  
+
+Beneath the waves dwell merfolk, mysterious creatures that merge the features of humans and sea creatures. Some are curious about land dwellers, while others view them with suspicion.
+
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Merfolk.webp#right)
 
 These merfolk mages use magic to manipulate water, storms, and sea creatures to aid them.
@@ -28,48 +43,60 @@ These merfolk mages use magic to manipulate water, storms, and sea creatures to 
 
 Beneath the waves dwell merfolk, mysterious creatures that merge the features of humans and sea creatures. Some are curious about land dwellers, while others view them with suspicion.
 
-## Statblock
-
-```ad-statblock
-title: Merfolk Wavebender
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Merfolk%20Wavebender.webp#token)
-*Medium elemental, Neutral*
-
-- **Armor Class** 14 
-- **Hit Points** 97 (`15d8 + 30`) 
-- **Speed** 10 ft., swim 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|18 (+4)|14 (+2)|13 (+1)|19 (+4)|15 (+2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +7, Constitution +5, Wisdom +7, Charisma +5
-- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +7
-- **Senses** passive Perception 17
-- **Damage Resistances** cold
-- **Languages** Common, Primordial (Aquan)
-- **Challenge** 6
-
-## Traits
-
-***Amphibious.*** The merfolk can breathe air and water.
-
-## Actions
-
-***Multiattack.*** The merfolk makes two Aquatic Burst attacks.
-
-***Aquatic Burst.*** *Melee  or Ranged Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. or range 60 ft. *Hit:* `dice:3d10+4|noform|noparens|avg|text(20)` (`3d10 + 4`) Cold damage. If the target is a Large or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition.
-
-***Spellcasting.*** The merfolk casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 15):
-
-**At will:** [Elementalism](3.Mechanics/spells/elementalism-xphb.md), [Light](3.Mechanics/spells/light-xphb.md)
-
-**1/day each:** [Control Water](3.Mechanics/spells/control-water-xphb.md), [Create or Destroy Water](3.Mechanics/spells/create-or-destroy-water-xphb.md)
-
-## Reactions
-
-***Watery Rebuke.*** Trigger: An enemy the merfolk can see enters a space within 5 feet of the merfolk. _Response—_*Strength Saving Throw:* DC 15, the triggering enemy. *Failure:* `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) Cold damage. If the target is Large or smaller, it is pushed up to 30 feet straight away from the merfolk by conjured water.
+```statblock
+"name": "Merfolk Wavebender (XMM)"
+"size": "Medium"
+"type": "elemental"
+"alignment": "Neutral"
+"ac": !!int "14"
+"hp": !!int "97"
+"hit_dice": "15d8 + 30"
+"modifier": !!int "4"
+"stats":
+  - !!int "10"
+  - !!int "18"
+  - !!int "14"
+  - !!int "13"
+  - !!int "19"
+  - !!int "15"
+"speed": "10 ft., swim 40 ft."
+"saves":
+  - "dexterity": !!int "7"
+  - "constitution": !!int "5"
+  - "wisdom": !!int "7"
+  - "charisma": !!int "5"
+"skillsaves":
+  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+    "desc": "+7"
+"damage_resistances": "cold"
+"senses": "passive Perception 17"
+"languages": "Common, Primordial (Aquan)"
+"cr": "6"
+"traits":
+  - "desc": "The merfolk can breathe air and water."
+    "name": "Amphibious"
+"actions":
+  - "desc": "The merfolk makes two Aquatic Burst attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +7, reach 5 ft. or range 60 ft. *Hit:*\
+      \ 20 (3d10 + 4) Cold damage. If the target is a Large or smaller creature, it\
+      \ has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition."
+    "name": "Aquatic Burst"
+  - "desc": "The merfolk casts one of the following spells, requiring no Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 15):\n\
+      \n**At will:** [Elementalism](3.Mechanics/spells/elementalism-xphb.md), [Light](3.Mechanics/spells/light-xphb.md)\n\
+      \n**1/day each:** [Control Water](3.Mechanics/spells/control-water-xphb.md),\
+      \ [Create or Destroy Water](3.Mechanics/spells/create-or-destroy-water-xphb.md)"
+    "name": "Spellcasting"
+"reactions":
+  - "desc": "Trigger: An enemy the merfolk can see enters a space within 5 feet of\
+      \ the merfolk. _Response—_*Strength Saving Throw:* DC 15, the triggering enemy.\
+      \ *Failure:* 14 (4d6) Cold damage. If the target is Large or smaller, it is\
+      \ pushed up to 30 feet straight away from the merfolk by conjured water."
+    "name": "Watery Rebuke"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Merfolk%20Wavebender.webp"
 ```
 ^statblock
 

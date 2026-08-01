@@ -4,7 +4,7 @@ cssclasses:
 - json5e-race
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/orc
+- ttrpg-cli/species/orc
 title: "Orc"
 aliases:
 - "Orc"

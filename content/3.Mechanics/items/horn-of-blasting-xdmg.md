@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/instrument
 - ttrpg-cli/item/rarity/rare
+draft: true
 title: "Horn of Blasting"
 aliases:
 - "Horn of Blasting"

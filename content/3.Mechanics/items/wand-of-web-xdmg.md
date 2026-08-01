@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/wand
+draft: true
 title: "Wand of Web"
 aliases:
 - "Wand of Web"

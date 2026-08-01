@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/potion
+draft: true
 title: "Potion of Greater Invisibility"
 aliases:
 - "Potion of Greater Invisibility"

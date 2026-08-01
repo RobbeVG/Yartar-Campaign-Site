@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+draft: true
 title: "Quaal's Feather Token, Swan Boat"
 aliases:
 - "Quaal's Feather Token, Swan Boat"

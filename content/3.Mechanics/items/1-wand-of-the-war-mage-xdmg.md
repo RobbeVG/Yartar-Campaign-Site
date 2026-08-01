@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/wand
+draft: true
 title: "+1 Wand of the War Mage"
 aliases:
 - "+1 Wand of the War Mage"

@@ -5,6 +5,8 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/trp
+draft: true
+title: "Falling Net"
 aliases:
 - "Falling Net"
 ---

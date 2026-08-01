@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/scroll
+draft: true
 title: "Spell Scroll (Level 3)"
 aliases:
 - "Spell Scroll (Level 3)"

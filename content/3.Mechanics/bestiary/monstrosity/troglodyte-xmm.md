@@ -8,13 +8,15 @@ tags:
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Troglodyte"
 aliases:
 - "Troglodyte"
 ---
-# Troglodyte
+# [Troglodyte](3.Mechanics/bestiary/monstrosity/troglodyte-xmm.md)
 *Source: Monster Manual (2024) p. 309*  
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Troglodyte.webp#right)
 
 ## Troglodyte
 
@@ -32,35 +34,63 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
 > Smells fine to me.
 
 
-```ad-statblock
-title: Troglodyte
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Troglodyte.webp#token)
-*Medium monstrosity, Chaotic Evil*
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Troglodyte.webp#right)
 
-- **Armor Class** 11 
-- **Hit Points** 13 (`2d8 + 4`) 
-- **Speed** 30 ft., climb 30 ft.
+## Troglodyte
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|10 (+0)|14 (+2)| 6 (-2)|10 (+0)| 6 (-2)|
+*Reeking Subterranean Hunter*
 
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +4
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Languages** Troglodyte
-- **Challenge** 1/4
+- **Habitat.** Underdark  
+- **Treasure.** [Armaments](3.Mechanics/tables/random-magic-items-armaments.md)  
 
-## Traits
+With features similar to those of pale cave lizards, troglodytes stalk the Underdark in an endless hunt for food. Troglodytes consume almost anything, including bones, giant insects, and other subterranean dwellers. They prey on subterranean communities and those near entrances to the Underdark, stealing livestock and kidnapping residents.
 
-***Stench.*** *Constitution Saving Throw:* DC 12, any creature (other than a troglodyte) that starts its turn in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the troglodyte. *Failure:* The target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition until the start of its next turn. *Success:* The target is immune to the Stench of all troglodytes for 1 hour.
+Troglodytes prefer to ambush prey and can change their scale color to blend in with their surroundings. They often climb along cavern walls or emerge from deep fissures to take their prey by surprise. Despite their stealthiness, these stalkers exude a distinctly repulsive stench. Descriptions of what troglodytes smell like span a spectrum as complex as it is vile. This reek nauseates many who smell it, but it can also warn of the presence of troglodytes before they strike.
 
-***Sunlight Sensitivity.*** While in sunlight, the troglodyte has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls.
+> [!quote] A quote from Caarey Gelthik, Ghast  
+> 
+> Smells fine to me.
 
-## Actions
-
-***Rend.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Slashing damage.
+```statblock
+"name": "Troglodyte (XMM)"
+"size": "Medium"
+"type": "monstrosity"
+"alignment": "Chaotic Evil"
+"ac": !!int "11"
+"hp": !!int "13"
+"hit_dice": "2d8 + 4"
+"modifier": !!int "0"
+"stats":
+  - !!int "14"
+  - !!int "10"
+  - !!int "14"
+  - !!int "6"
+  - !!int "10"
+  - !!int "6"
+"speed": "30 ft., climb 30 ft."
+"skillsaves":
+  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+    "desc": "+4"
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": "Troglodyte"
+"cr": "1/4"
+"traits":
+  - "desc": "*Constitution Saving Throw:* DC 12, any creature (other than a troglodyte)\
+      \ that starts its turn in a 5-foot [Emanation](3.Mechanics/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the troglodyte. *Failure:* The target has the [Poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
+      \ condition until the start of its next turn. *Success:* The target is immune\
+      \ to the Stench of all troglodytes for 1 hour."
+    "name": "Stench"
+  - "desc": "While in sunlight, the troglodyte has [Disadvantage](3.Mechanics/rules/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Slashing damage."
+    "name": "Rend"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Troglodyte.webp"
 ```
 ^statblock
 

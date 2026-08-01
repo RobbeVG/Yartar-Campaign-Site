@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/shield/
+draft: true
 title: "Sentinel Shield"
 aliases:
 - "Sentinel Shield"

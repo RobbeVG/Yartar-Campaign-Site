@@ -7,48 +7,63 @@ tags:
 - ttrpg-cli/monster/cr/1-4
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid/any-race
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Gwyn Oresong"
 aliases:
 - "Gwyn Oresong"
 ---
-# Gwyn Oresong
+# [Gwyn Oresong](3.Mechanics/bestiary/npc/gwyn-oresong-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 8*  
+
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Gwyn%20Oresong.webp#center)
-
-```ad-statblock
-title: Gwyn Oresong
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Gwyn%20Oresong.webp#token)
-*Medium humanoid (any race), Neutral Good*
-
-- **Armor Class** 10 
-- **Hit Points** 9 (`2d8`) 
-- **Speed** 30 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|10 (+0)|10 (+0)|10 (+0)|14 (+2)|11 (+0)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Medicine](3.Mechanics/rules/skills.md#Medicine) +4, [Religion](3.Mechanics/rules/skills.md#Religion) +2
-- **Senses** [darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 12
-- **Damage Resistances** poison
-- **Gear** [club](3.Mechanics/items/club-xphb.md)
-- **Languages** any one language (usually Common), Dwarvish
-- **Challenge** 1/4
-
-## Traits
-
-***Spellcasting.*** Gwyn is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, `dice:1d20+4|noform|noparens|text(+4)` to hit with spell attacks). Gwyn has the following cleric spells prepared:
-
-**Cantrips (at will):** [light](3.Mechanics/spells/light-xphb.md), [sacred flame](3.Mechanics/spells/sacred-flame-xphb.md), [thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md)
-
-**1st level (3 slots):** [bless](3.Mechanics/spells/bless-xphb.md), [cure wounds](3.Mechanics/spells/cure-wounds-xphb.md), [sanctuary](3.Mechanics/spells/sanctuary-xphb.md)
-
-***Dwarven Resilience.*** Gwyn
-
-## Actions
-
-***Club.*** *Melee Weapon Attack:* `dice:1d20+2|noform|noparens|text(+2)` to hit, reach 5 ft., one target. *Hit:* `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) bludgeoning damage.
+```statblock
+"name": "Gwyn Oresong (PaBTSO)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "any race"
+"alignment": "Neutral Good"
+"ac": !!int "10"
+"hp": !!int "9"
+"hit_dice": "2d8"
+"modifier": !!int "0"
+"stats":
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "14"
+  - !!int "11"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Medicine](3.Mechanics/rules/skills.md#Medicine)"
+    "desc": "+4"
+  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+    "desc": "+2"
+"damage_resistances": "poison"
+"gear":
+  - "[club](3.Mechanics/items/club-xphb.md)"
+"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 12"
+"languages": "any one language (usually Common), Dwarvish"
+"cr": "1/4"
+"traits":
+  - "desc": "Gwyn is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell\
+      \ save DC 12, +4 to hit with spell attacks). Gwyn has the following cleric spells\
+      \ prepared:\n\n**Cantrips (at will):** [light](3.Mechanics/spells/light-xphb.md),\
+      \ [sacred flame](3.Mechanics/spells/sacred-flame-xphb.md), [thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md)\n\
+      \n**1st level (3 slots):** [bless](3.Mechanics/spells/bless-xphb.md), [cure\
+      \ wounds](3.Mechanics/spells/cure-wounds-xphb.md), [sanctuary](3.Mechanics/spells/sanctuary-xphb.md)"
+    "name": "Spellcasting"
+  - "desc": "Gwyn"
+    "name": "Dwarven Resilience"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
+      \ bludgeoning damage."
+    "name": "Club"
+"source":
+  - "PaBTSO"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Gwyn%20Oresong.webp"
 ```
 ^statblock

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
+draft: true
 title: "Assassin's Blood"
 aliases:
 - "Assassin's Blood"

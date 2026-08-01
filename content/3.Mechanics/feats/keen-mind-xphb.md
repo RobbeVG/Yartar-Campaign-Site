@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
+title: "Keen Mind"
 aliases:
 - "Keen Mind"
 ---

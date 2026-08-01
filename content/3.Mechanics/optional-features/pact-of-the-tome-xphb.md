@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/ei
+title: "Pact of the Tome"
 aliases:
 - "Pact of the Tome"
 ---

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/rod
+draft: true
 title: "Rod of Security"
 aliases:
 - "Rod of Security"

@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+draft: true
 title: "Staff of the Magi"
 aliases:
 - "Staff of the Magi"

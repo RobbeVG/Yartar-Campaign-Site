@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+draft: true
 title: "Figurine of Wondrous Power, Onyx Dog"
 aliases:
 - "Figurine of Wondrous Power, Onyx Dog"

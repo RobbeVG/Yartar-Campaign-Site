@@ -4,7 +4,7 @@ cssclasses:
 - json5e-race
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/goliath
+- ttrpg-cli/species/goliath
 title: "Goliath"
 aliases:
 - "Goliath"

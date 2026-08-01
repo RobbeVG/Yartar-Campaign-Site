@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/instrument
 - ttrpg-cli/item/rarity/very-rare
+draft: true
 title: "Horn of Valhalla, Bronze"
 aliases:
 - "Horn of Valhalla, Bronze"

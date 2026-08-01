@@ -5,6 +5,8 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/trp
+draft: true
+title: "Poisoned Needle"
 aliases:
 - "Poisoned Needle"
 ---

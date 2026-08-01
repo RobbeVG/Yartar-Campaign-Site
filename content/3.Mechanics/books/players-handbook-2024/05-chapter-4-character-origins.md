@@ -103,6 +103,6 @@ Sixteen backgrounds are presented in this section in alphabetical order:
 
 ## Species Descriptions
 
-Ten species are presented in this section in alphabetical order: [Aasimar](3.Mechanics/races/aasimar-xphb.md), [Dragonborn](3.Mechanics/races/dragonborn-xphb.md), [Dwarf](3.Mechanics/races/dwarf-xphb.md), [Elf](3.Mechanics/races/elf-xphb.md), [Gnome](3.Mechanics/races/gnome-xphb.md), [Goliath](3.Mechanics/races/goliath-xphb.md), [Halfling](3.Mechanics/races/halfling-xphb.md), [Human](3.Mechanics/races/human-xphb.md), [Orc](3.Mechanics/races/orc-xphb.md), and [Tiefling](3.Mechanics/races/tiefling-xphb.md).
+Ten species are presented in this section in alphabetical order: [Aasimar](3.Mechanics/species/aasimar-xphb.md), [Dragonborn](3.Mechanics/species/dragonborn-xphb.md), [Dwarf](3.Mechanics/species/dwarf-xphb.md), [Elf](3.Mechanics/species/elf-xphb.md), [Gnome](3.Mechanics/species/gnome-xphb.md), [Goliath](3.Mechanics/species/goliath-xphb.md), [Halfling](3.Mechanics/species/halfling-xphb.md), [Human](3.Mechanics/species/human-xphb.md), [Orc](3.Mechanics/species/orc-xphb.md), and [Tiefling](3.Mechanics/species/tiefling-xphb.md).
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/book/XPHB/153-05-027.map-decoration.webp#center)

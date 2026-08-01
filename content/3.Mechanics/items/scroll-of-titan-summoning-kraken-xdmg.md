@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/scroll
+draft: true
 title: "Scroll of Titan Summoning (Kraken)"
 aliases:
 - "Scroll of Titan Summoning (Kraken)"

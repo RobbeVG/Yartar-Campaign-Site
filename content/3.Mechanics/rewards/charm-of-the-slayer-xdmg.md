@@ -5,6 +5,8 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/charm
+draft: true
+title: "Charm of the Slayer"
 aliases:
 - "Charm of the Slayer"
 ---

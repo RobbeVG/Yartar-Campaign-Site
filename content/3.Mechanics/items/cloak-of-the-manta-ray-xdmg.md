@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+draft: true
 title: "Cloak of the Manta Ray"
 aliases:
 - "Cloak of the Manta Ray"

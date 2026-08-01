@@ -7,40 +7,48 @@ tags:
 - ttrpg-cli/monster/cr/
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/elemental
+statblock: inline
+statblock-link: "#^statblock"
 title: "Elemental Spirit (Earth)"
 aliases:
 - "Elemental Spirit (Earth)"
 ---
-# Elemental Spirit (Earth)
+# [Elemental Spirit (Earth)](3.Mechanics/bestiary/elemental/elemental-spirit-earth-xphb.md)
 *Source: Player's Handbook (2024) p. 325*  
 
-```ad-statblock
-title: Elemental Spirit (Earth)
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Elemental%20Spirit%20%28Earth%29.webp#token)
-*Medium elemental, Neutral*
-
-- **Armor Class** (11 + the spell's level)
-- **Hit Points** 50 + 10 for each spell level above 4  (50 + 10 for each spell level above 4)
-- **Speed** 40 ft., burrow 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|15 (+2)|17 (+3)| 4 (-3)|10 (+0)|16 (+3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Damage Resistances** piercing, slashing
-- **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Languages** Primordial, understands the languages you know
-- **Challenge** 
-
-## Actions
-
-***Multiattack.*** The spirit makes a number of Slam attacks equal to half this spell's level (round down).
-
-***Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft.. *Hit:* `1d10 + 4` + the spell's level Bludgeoning damage.
+```statblock
+"name": "Elemental Spirit (Earth) (XPHB)"
+"size": "Medium"
+"type": "elemental"
+"alignment": "Neutral"
+"ac_class": "11 + the spell's level"
+"hp": "50 + 10 for each spell level above 4"
+"modifier": !!int "2"
+"stats":
+  - !!int "18"
+  - !!int "15"
+  - !!int "17"
+  - !!int "4"
+  - !!int "10"
+  - !!int "16"
+"speed": "40 ft., burrow 40 ft."
+"damage_resistances": "piercing, slashing"
+"damage_immunities": "poison"
+"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
+  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
+  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
+"languages": "Primordial, understands the languages you know"
+"actions":
+  - "desc": "The spirit makes a number of Slam attacks equal to half this spell's\
+      \ level (round down)."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
+      \ ft.. *Hit:* 1d10 + 4 + the spell's level Bludgeoning damage."
+    "name": "Slam"
+"source":
+  - "XPHB"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Elemental%20Spirit%20%28Earth%29.webp"
 ```
 ^statblock

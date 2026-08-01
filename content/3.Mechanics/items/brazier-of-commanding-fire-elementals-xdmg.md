@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+draft: true
 title: "Brazier of Commanding Fire Elementals"
 aliases:
 - "Brazier of Commanding Fire Elementals"

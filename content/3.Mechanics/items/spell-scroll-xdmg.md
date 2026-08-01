@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/varies
 - ttrpg-cli/item/wondrous/scroll
+draft: true
 title: "Spell Scroll"
 aliases:
 - "Spell Scroll"

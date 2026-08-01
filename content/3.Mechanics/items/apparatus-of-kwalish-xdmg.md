@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/legendary
+draft: true
 title: "Apparatus of Kwalish"
 aliases:
 - "Apparatus of Kwalish"

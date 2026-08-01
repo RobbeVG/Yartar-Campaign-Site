@@ -9,12 +9,20 @@ tags:
 - ttrpg-cli/monster/environment/swamp
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Giant Crocodile"
 aliases:
 - "Giant Crocodile"
 ---
-# Giant Crocodile
+# [Giant Crocodile](3.Mechanics/bestiary/beast/giant-crocodile-xmm.md)
 *Source: Monster Manual (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+## Animals
+
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3.Mechanics/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3.Mechanics/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Crocodile.webp#right)
 
 ## Animals
@@ -25,38 +33,48 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![A druid calls on animals of the hills and mountains to aid her cause](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Hills%20and%20Mountains.webp)
 ![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
-
-```ad-statblock
-title: Giant Crocodile
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Giant%20Crocodile.webp#token)
-*Huge beast, Unaligned*
-
-- **Armor Class** 14 
-- **Hit Points** 85 (`9d12 + 27`) 
-- **Speed** 30 ft., swim 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|21 (+5)| 9 (-1)|17 (+3)| 2 (-4)|10 (+0)| 7 (-2)|
-
-- **Proficiency Bonus** +3
-- **Saving Throws** ⏤
-- **Skills** [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Senses** passive Perception 10
-- **Languages** —
-- **Challenge** 5
-
-## Traits
-
-***Hold Breath.*** The crocodile can hold its breath for 1 hour.
-
-## Actions
-
-***Multiattack.*** The crocodile makes one Bite attack and one Tail attack.
-
-***Bite.*** *Melee Attack Roll:* `dice:1d20+8|noform|noparens|text(+8)`, reach 5 ft. *Hit:* `dice:3d10+5|noform|noparens|avg|text(21)` (`3d10 + 5`) Piercing damage. If the target is a Large or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC 15). While [Grappled](3.Mechanics/rules/conditions.md#Grappled), the target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained) condition and can't be targeted by the crocodile's Tail.
-
-***Tail.*** *Melee Attack Roll:* `dice:1d20+8|noform|noparens|text(+8)`, reach 10 ft. *Hit:* `dice:3d8+5|noform|noparens|avg|text(18)` (`3d8 + 5`) Bludgeoning damage. If the target is a Large or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition.
+```statblock
+"name": "Giant Crocodile (XMM)"
+"size": "Huge"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "14"
+"hp": !!int "85"
+"hit_dice": "9d12 + 27"
+"modifier": !!int "-1"
+"stats":
+  - !!int "21"
+  - !!int "9"
+  - !!int "17"
+  - !!int "2"
+  - !!int "10"
+  - !!int "7"
+"speed": "30 ft., swim 50 ft."
+"skillsaves":
+  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+    "desc": "+5"
+"senses": "passive Perception 10"
+"languages": ""
+"cr": "5"
+"traits":
+  - "desc": "The crocodile can hold its breath for 1 hour."
+    "name": "Hold Breath"
+"actions":
+  - "desc": "The crocodile makes one Bite attack and one Tail attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 21 (3d10 + 5) Piercing damage.\
+      \ If the target is a Large or smaller creature, it has the [Grappled](3.Mechanics/rules/conditions.md#Grappled)\
+      \ condition (escape DC 15). While [Grappled](3.Mechanics/rules/conditions.md#Grappled),\
+      \ the target has the [Restrained](3.Mechanics/rules/conditions.md#Restrained)\
+      \ condition and can't be targeted by the crocodile's Tail."
+    "name": "Bite"
+  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 18 (3d8 + 5) Bludgeoning\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Tail"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Giant%20Crocodile.webp"
 ```
 ^statblock
 

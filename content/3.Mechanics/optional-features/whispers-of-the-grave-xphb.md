@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/ei
+title: "Whispers of the Grave"
 aliases:
 - "Whispers of the Grave"
 ---

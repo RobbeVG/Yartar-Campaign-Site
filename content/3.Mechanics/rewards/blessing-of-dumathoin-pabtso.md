@@ -5,6 +5,8 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/reward/blessing
+draft: true
+title: "Blessing of Dumathoin"
 aliases:
 - "Blessing of Dumathoin"
 ---

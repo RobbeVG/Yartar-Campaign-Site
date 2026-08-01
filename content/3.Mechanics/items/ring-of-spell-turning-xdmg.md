@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/ring
+draft: true
 title: "Ring of Spell Turning"
 aliases:
 - "Ring of Spell Turning"

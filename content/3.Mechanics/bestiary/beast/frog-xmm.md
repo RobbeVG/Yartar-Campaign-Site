@@ -9,12 +9,19 @@ tags:
 - ttrpg-cli/monster/environment/swamp
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
 title: "Frog"
 aliases:
 - "Frog"
 ---
-# Frog
+# [Frog](3.Mechanics/bestiary/beast/frog-xmm.md)
 *Source: Monster Manual (2024) p. 354, Player's Handbook (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+## Animals
+
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3.Mechanics/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3.Mechanics/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Frog.webp#right)
 
 ## Animals
@@ -25,36 +32,46 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![A druid calls on animals of the hills and mountains to aid her cause](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Hills%20and%20Mountains.webp)
 ![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
-
-```ad-statblock
-title: Frog
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Frog.webp#token)
-*Tiny beast, Unaligned*
-
-- **Armor Class** 11 
-- **Hit Points** 1 (`1d4 - 1`) 
-- **Speed** 20 ft., swim 20 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 (-5)|13 (+1)| 8 (-1)| 1 (-5)| 8 (-1)| 3 (-4)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +1, [Stealth](3.Mechanics/rules/skills.md#Stealth) +3
-- **Senses** [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 30 ft., passive Perception 11
-- **Languages** —
-- **Challenge** 0
-
-## Traits
-
-***Amphibious.*** The frog can breathe air and water.
-
-***Standing Leap.*** The frog's [Long Jump](3.Mechanics/rules/variant-rules/long-jump-xphb.md) is up to 10 feet and its [High Jump](3.Mechanics/rules/variant-rules/high-jump-xphb.md) is up to 5 feet with or without a running start.
-
-## Actions
-
-***Bite.*** *Melee Attack Roll:* `dice:1d20+3|noform|noparens|text(+3)`, reach 5 ft. *Hit:* 1 Piercing damage.
+```statblock
+"name": "Frog (XMM)"
+"size": "Tiny"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "11"
+"hp": !!int "1"
+"hit_dice": "1d4 - 1"
+"modifier": !!int "1"
+"stats":
+  - !!int "1"
+  - !!int "13"
+  - !!int "8"
+  - !!int "1"
+  - !!int "8"
+  - !!int "3"
+"speed": "20 ft., swim 20 ft."
+"skillsaves":
+  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+    "desc": "+1"
+  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+    "desc": "+3"
+"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 30 ft., passive Perception\
+  \ 11"
+"languages": ""
+"cr": "0"
+"traits":
+  - "desc": "The frog can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "The frog's [Long Jump](3.Mechanics/rules/variant-rules/long-jump-xphb.md)\
+      \ is up to 10 feet and its [High Jump](3.Mechanics/rules/variant-rules/high-jump-xphb.md)\
+      \ is up to 5 feet with or without a running start."
+    "name": "Standing Leap"
+"actions":
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 1 Piercing damage."
+    "name": "Bite"
+"source":
+  - "XMM"
+  - "XPHB"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Frog.webp"
 ```
 ^statblock
 

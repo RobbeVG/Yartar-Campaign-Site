@@ -14,6 +14,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
+draft: true
 title: "Nine Lives Stealer"
 aliases:
 - "Nine Lives Stealer"

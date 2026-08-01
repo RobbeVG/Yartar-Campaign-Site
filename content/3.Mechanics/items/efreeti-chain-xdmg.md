@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/generic-variant
+draft: true
 title: "Efreeti Chain"
 aliases:
 - "Efreeti Chain"

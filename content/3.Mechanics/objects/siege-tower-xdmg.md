@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/gargantuan
 - ttrpg-cli/object/type/siege-weapon
+draft: true
 title: "Siege Tower"
 aliases:
 - "Siege Tower"

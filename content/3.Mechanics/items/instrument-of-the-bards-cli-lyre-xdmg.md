@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/gear/instrument
 - ttrpg-cli/item/rarity/rare
+draft: true
 title: "Instrument of the Bards, Cli Lyre"
 aliases:
 - "Instrument of the Bards, Cli Lyre"

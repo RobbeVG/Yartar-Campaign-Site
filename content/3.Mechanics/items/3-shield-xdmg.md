@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/shield/
+draft: true
 title: "+3 Shield"
 aliases:
 - "+3 Shield"

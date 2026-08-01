@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/shield/
+draft: true
 title: "Shield of Missile Attraction"
 aliases:
 - "Shield of Missile Attraction"

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/large
 - ttrpg-cli/object/type/siege-weapon
+draft: true
 title: "Suspended Cauldron"
 aliases:
 - "Suspended Cauldron"
@@ -32,6 +33,6 @@ title: Suspended Cauldron
 
 ## Actions
 
-***Spill (Requires a Full Cauldron).*** *Dexterity Saving Throw:* DC 15, each creature in a 10-foot square directly below the cauldron. *Failure:* `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) Fire damage. *Success:* Half damage.
+***Spill (Requires a Full Cauldron).*** *Dexterity Saving Throw:* DC 15, each creature in a 10-foot square directly below the cauldron. *Failure:* 10 (3d6) Fire damage. *Success:* Half damage.
 ```
 ^statblock

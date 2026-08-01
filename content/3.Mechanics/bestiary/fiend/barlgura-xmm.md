@@ -9,13 +9,15 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend/demon
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Barlgura"
 aliases:
 - "Barlgura"
 ---
-# Barlgura
+# [Barlgura](3.Mechanics/bestiary/fiend/barlgura-xmm.md)
 *Source: Monster Manual (2024) p. 31*  
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Barlgura.webp#right)
 
 ## Barlgura
 
@@ -30,50 +32,81 @@ Barlguras cooperate with other demons, particularly other barlguras, so long as 
 
 Barlguras vary in appearance, but all have powerful frames and hands capable of climbing swiftly and delivering crushing blows. If brute force isn't enough to overwhelm their foes, barlguras can use demonic magic to conjure terrifying illusions and grasping vines. Most barlguras resemble nightmarish apes, and some bear exaggerated versions of features of predators common to the lands the barlguras inhabit. Many embed trophies from past hunts in their demonic bodies.
 
-```ad-statblock
-title: Barlgura
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Barlgura.webp#token)
-*Large fiend (demon), Chaotic Evil*
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Barlgura.webp#right)
 
-- **Armor Class** 15 
-- **Hit Points** 85 (`10d10 + 30`) 
-- **Speed** 40 ft., climb 40 ft.
+## Barlgura
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|15 (+2)|16 (+3)| 7 (-2)|14 (+2)| 9 (-1)|
+*Demon of Instinct and Primal Violence*
 
-- **Proficiency Bonus** +3
-- **Saving Throws** Dexterity +5, Constitution +6
-- **Skills** [Perception](3.Mechanics/rules/skills.md#Perception) +5, [Stealth](3.Mechanics/rules/skills.md#Stealth) +5
-- **Senses** [Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception 15
-- **Damage Resistances** cold, fire, lightning
-- **Damage Immunities** poison
-- **Condition Immunities** [poisoned](3.Mechanics/rules/conditions.md#Poisoned)
-- **Languages** Abyssal; telepathy 120 ft.
-- **Challenge** 5
+- **Habitat.** Planar (Abyss)  
+- **Treasure.** Any  
 
-## Traits
+Barlguras are demons that embody brutality and killer instincts. They ruthlessly hunt creatures that enter their territories, whether such places are Abyssal wildernesses or locations where these demons have been conjured by wicked magic-users. Barlguras litter their territories with fiendish icons and terrifying evidence of their kills.
 
-***Demonic Restoration.*** If the barlgura dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md) somewhere in the Abyss.
+Barlguras cooperate with other demons, particularly other barlguras, so long as they have ample prey. Should a region be depleted of creatures to slaughter, these demons turn on one another in frays that can devastate vast expanses.
 
-## Actions
-
-***Multiattack.*** The barlgura makes one Tormenting Bite attack and two Thrash attacks.
-
-***Tormenting Bite.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. *Hit:* `dice:2d6+4|noform|noparens|avg|text(11)` (`2d6 + 4`) Piercing damage plus `dice:2d12|noform|noparens|avg|text(13)` (`2d12`) Psychic damage.
-
-***Thrash.*** *Melee Attack Roll:* `dice:1d20+7|noform|noparens|text(+7)`, reach 5 ft. *Hit:* `dice:1d10+4|noform|noparens|avg|text(9)` (`1d10 + 4`) Bludgeoning damage. If the target is a Large or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone) condition.
-
-***Spellcasting.*** The barlgura casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 13):
-
-**2/day each:** [Disguise Self](3.Mechanics/spells/disguise-self-xphb.md), [Invisibility](3.Mechanics/spells/invisibility-xphb.md) (self only)
-
-**1/day each:** [Entangle](3.Mechanics/spells/entangle-xphb.md), [Phantasmal Killer](3.Mechanics/spells/phantasmal-killer-xphb.md) (level 6 version)
-
-## Bonus Actions
-
-***Leap.*** The barlgura jumps up to 40 feet by spending 10 feet of movement.
+Barlguras vary in appearance, but all have powerful frames and hands capable of climbing swiftly and delivering crushing blows. If brute force isn't enough to overwhelm their foes, barlguras can use demonic magic to conjure terrifying illusions and grasping vines. Most barlguras resemble nightmarish apes, and some bear exaggerated versions of features of predators common to the lands the barlguras inhabit. Many embed trophies from past hunts in their demonic bodies.
+```statblock
+"name": "Barlgura (XMM)"
+"size": "Large"
+"type": "fiend"
+"subtype": "demon"
+"alignment": "Chaotic Evil"
+"ac": !!int "15"
+"hp": !!int "85"
+"hit_dice": "10d10 + 30"
+"modifier": !!int "2"
+"stats":
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "7"
+  - !!int "14"
+  - !!int "9"
+"speed": "40 ft., climb 40 ft."
+"saves":
+  - "dexterity": !!int "5"
+  - "constitution": !!int "6"
+"skillsaves":
+  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+    "desc": "+5"
+"damage_resistances": "cold, fire, lightning"
+"damage_immunities": "poison"
+"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
+"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 15"
+"languages": "Abyssal; telepathy 120 ft."
+"cr": "5"
+"traits":
+  - "desc": "If the barlgura dies outside the Abyss, its body dissolves into ichor,\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
+      \ somewhere in the Abyss."
+    "name": "Demonic Restoration"
+"actions":
+  - "desc": "The barlgura makes one Tormenting Bite attack and two Thrash attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing damage\
+      \ plus 13 (2d12) Psychic damage."
+    "name": "Tormenting Bite"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 9 (1d10 + 4) Bludgeoning\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](3.Mechanics/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Thrash"
+  - "desc": "The barlgura casts one of the following spells, requiring no Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
+      \n**2/day each:** [Disguise Self](3.Mechanics/spells/disguise-self-xphb.md),\
+      \ [Invisibility](3.Mechanics/spells/invisibility-xphb.md) (self only)\n\n**1/day\
+      \ each:** [Entangle](3.Mechanics/spells/entangle-xphb.md), [Phantasmal Killer](3.Mechanics/spells/phantasmal-killer-xphb.md)\
+      \ (level 6 version)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The barlgura jumps up to 40 feet by spending 10 feet of movement."
+    "name": "Leap"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Barlgura.webp"
 ```
 ^statblock
 

@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+draft: true
 title: "Stone of Controlling Earth Elementals"
 aliases:
 - "Stone of Controlling Earth Elementals"

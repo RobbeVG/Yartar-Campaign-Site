@@ -5,6 +5,8 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/env
+draft: true
+title: "Heavy Precipitation"
 aliases:
 - "Heavy Precipitation"
 ---

@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
+title: "Boon of Combat Prowess"
 aliases:
 - "Boon of Combat Prowess"
 ---

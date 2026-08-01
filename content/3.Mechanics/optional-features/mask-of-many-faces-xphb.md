@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/ei
+title: "Mask of Many Faces"
 aliases:
 - "Mask of Many Faces"
 ---

@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+draft: true
 title: "Mace of Smiting"
 aliases:
 - "Mace of Smiting"

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-race
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/dwarf
+- ttrpg-cli/species/dwarf
 title: "Dwarf"
 aliases:
 - "Dwarf"

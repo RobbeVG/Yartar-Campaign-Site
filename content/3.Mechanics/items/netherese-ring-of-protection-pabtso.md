@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/ring
+draft: true
 title: "Netherese Ring of Protection"
 aliases:
 - "Netherese Ring of Protection"

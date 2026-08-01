@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/mm
+title: "Careful Spell"
 aliases:
 - "Careful Spell"
 ---

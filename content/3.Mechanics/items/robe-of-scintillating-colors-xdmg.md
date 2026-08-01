@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+draft: true
 title: "Robe of Scintillating Colors"
 aliases:
 - "Robe of Scintillating Colors"

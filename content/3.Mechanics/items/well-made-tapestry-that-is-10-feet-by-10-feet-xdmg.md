@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
+draft: true
 title: "Well-made tapestry that is 10 feet by 10 feet"
 aliases:
 - "Well-made tapestry that is 10 feet by 10 feet"

@@ -10,12 +10,34 @@ tags:
 - ttrpg-cli/monster/environment/hill
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
+statblock: inline
+statblock-link: "#^statblock"
+draft: true
 title: "Axe Beak"
 aliases:
 - "Axe Beak"
 ---
-# Axe Beak
+# [Axe Beak](3.Mechanics/bestiary/monstrosity/axe-beak-xmm.md)
 *Source: Monster Manual (2024) p. 24. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+Alone or in small groups, axe beaks stalk prey to feed their flocks. When working together, axe beaks use rudimentary tactics, with some distracting threats while others strike vulnerable targets or rush young axe beaks to safety.
+
+## Axe Beaks
+
+*Flightless Avian Predators*
+
+- **Habitat.** Arctic, Grassland, Hill  
+- **Treasure.** None  
+
+Axe beaks are flightless, birdlike creatures with distinctive axe-shaped beaks. Swift predators, they chase down prey and use their beaks to hack through foliage protecting their quarry. Axe beaks live in varied environments. Colorfully plumed axe beaks race across tropical plains, while axe beaks with snowy feathers hunt the tundra.
+
+Axe beaks are difficult to train, but those hatched and raised in captivity can become reliable mounts.
+
+> [!quote] A quote from Batley Summerfoot, Adventurer  
+> 
+> The thing's got an axe for a face and a giant, angry rooster for everything else—of course I want to ride it!
+
+
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Axe%20Beak.webp#right)
 
 Alone or in small groups, axe beaks stalk prey to feed their flocks. When working together, axe beaks use rudimentary tactics, with some distracting threats while others strike vulnerable targets or rush young axe beaks to safety.
@@ -36,31 +58,32 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 > The thing's got an axe for a face and a giant, angry rooster for everything else—of course I want to ride it!
 
 
-## Statblock
-
-```ad-statblock
-title: Axe Beak
-![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Axe%20Beak.webp#token)
-*Large monstrosity, Unaligned*
-
-- **Armor Class** 11 
-- **Hit Points** 19 (`3d10 + 3`) 
-- **Speed** 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14 (+2)|12 (+1)|12 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
-
-- **Proficiency Bonus** +2
-- **Saving Throws** ⏤
-- **Skills** ⏤
-- **Senses** passive Perception 10
-- **Languages** —
-- **Challenge** 1/4
-
-## Actions
-
-***Beak.*** *Melee Attack Roll:* `dice:1d20+4|noform|noparens|text(+4)`, reach 5 ft. *Hit:* `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) Slashing damage.
+```statblock
+"name": "Axe Beak (XMM)"
+"size": "Large"
+"type": "monstrosity"
+"alignment": "Unaligned"
+"ac": !!int "11"
+"hp": !!int "19"
+"hit_dice": "3d10 + 3"
+"modifier": !!int "1"
+"stats":
+  - !!int "14"
+  - !!int "12"
+  - !!int "12"
+  - !!int "2"
+  - !!int "10"
+  - !!int "5"
+"speed": "50 ft."
+"senses": "passive Perception 10"
+"languages": ""
+"cr": "1/4"
+"actions":
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Slashing damage."
+    "name": "Beak"
+"source":
+  - "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Axe%20Beak.webp"
 ```
 ^statblock
 

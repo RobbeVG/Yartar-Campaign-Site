@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+draft: true
 title: "Sword of Answering"
 aliases:
 - "Sword of Answering"

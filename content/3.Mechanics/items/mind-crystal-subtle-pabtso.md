@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/rarity/common
+draft: true
 title: "Mind Crystal (Subtle)"
 aliases:
 - "Mind Crystal (Subtle)"

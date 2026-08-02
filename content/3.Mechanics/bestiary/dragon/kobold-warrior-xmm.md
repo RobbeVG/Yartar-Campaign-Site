@@ -54,6 +54,7 @@ Cowardly cousins to chromatic dragons, kobolds serve draconic overlords as warri
 
 Kobolds' scales resemble those of chromatic dragons that live near their warrens. Rarely, kobolds possess features evocative of metallic dragons or other dragon-like creatures.
 
+%%
 ```statblock
 "name": "Kobold Warrior (XMM)"
 "size": "Small"
@@ -73,8 +74,7 @@ Kobolds' scales resemble those of chromatic dragons that live near their warrens
 "speed": "30 ft."
 "gear":
   - "three [daggers](3.Mechanics/items/dagger-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
+"senses": "Darkvision 60 ft., passive Perception 8"
 "languages": "Common, Draconic"
 "cr": "1/8"
 "traits":
@@ -95,6 +95,8 @@ Kobolds' scales resemble those of chromatic dragons that live near their warrens
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Kobold%20Warrior.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

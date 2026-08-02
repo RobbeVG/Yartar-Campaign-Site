@@ -42,6 +42,7 @@ If exposed to light or otherwise disturbed, mushroom-like shriekers emit a high-
 
 The dank, sunless Underdark is a fertile breeding ground for weird and dangerous fungi.
 
+%%
 ```statblock
 "name": "Shrieker Fungus (XMM)"
 "size": "Medium"
@@ -59,10 +60,8 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
   - !!int "3"
   - !!int "1"
 "speed": "5 ft."
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [deafened](3.Mechanics/rules/conditions.md#Deafened), [frightened](3.Mechanics/rules/conditions.md#Frightened)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 6"
+"condition_immunities": "blinded, charmed, deafened, frightened"
+"senses": "Blindsight 30 ft., passive Perception 6"
 "languages": ""
 "cr": "0"
 "reactions":
@@ -75,6 +74,8 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Shrieker%20Fungus.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

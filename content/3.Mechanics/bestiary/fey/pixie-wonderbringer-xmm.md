@@ -44,6 +44,7 @@ Energetic entertainers, wonderbringers use their magic in defense of the wildern
 
 Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They invisibly observe those who enter their wooded homes, revealing themselves to those with friendly intentions. Those who are unfriendly become the targets of pixies' pranks.
 
+%%
 ```statblock
 "name": "Pixie Wonderbringer (XMM)"
 "size": "Tiny"
@@ -62,11 +63,11 @@ Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They i
   - !!int "18"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+3"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+8"
 "senses": "passive Perception 15"
 "languages": "Common, Elvish, Sylvan"
@@ -101,6 +102,8 @@ Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They i
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Pixie%20Wonderbringer.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

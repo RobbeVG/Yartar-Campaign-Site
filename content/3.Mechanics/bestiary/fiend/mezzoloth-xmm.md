@@ -70,6 +70,8 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
 | 5 | The right to loot holy sites in places it conquers. |
 | 6 | Souls, whether as larvae or captured spirits. |
 ^mezzoloth-payments
+
+%%
 ```statblock
 "name": "Mezzoloth (XMM)"
 "size": "Medium"
@@ -89,13 +91,12 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"condition_immunities": "poisoned"
+"senses": "Blindsight 60 ft., Darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Infernal; telepathy 60 ft."
 "cr": "5"
 "traits":
@@ -135,6 +136,8 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mezzoloth.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

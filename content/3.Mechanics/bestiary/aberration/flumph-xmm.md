@@ -117,6 +117,8 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
 ^flumph-colors-and-emotions
 
 *Rarely seen; potentially no human equivalent
+
+%%
 ```statblock
 "name": "Flumph (XMM)"
 "size": "Small"
@@ -135,15 +137,14 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
   - !!int "11"
 "speed": "5 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+4"
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+  - "name": "History"
     "desc": "+4"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+4"
 "damage_vulnerabilities": "psychic"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "Darkvision 60 ft., passive Perception 12"
 "languages": "understands Undercommon but can't speak; telepathy 60 ft."
 "cr": "1/8"
 "traits":
@@ -176,6 +177,8 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Flumph.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

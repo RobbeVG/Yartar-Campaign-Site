@@ -80,6 +80,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Sphinxes.webp#center)
 
+%%
 ```statblock
 "name": "Sphinx of Secrets (XMM)"
 "size": "Large"
@@ -98,17 +99,16 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
   - !!int "18"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+  - "name": "History"
     "desc": "+7"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+7"
 "damage_resistances": "necrotic, radiant"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 60 ft., passive Perception\
-  \ 17"
+"condition_immunities": "charmed, frightened"
+"senses": "Truesight 60 ft., passive Perception 17"
 "languages": "Celestial, Common"
 "cr": "8"
 "traits":
@@ -147,6 +147,8 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sphinx%20of%20Secrets.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

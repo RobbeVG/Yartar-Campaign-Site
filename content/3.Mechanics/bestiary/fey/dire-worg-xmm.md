@@ -46,6 +46,7 @@ Dire worgs are larger than common worgs and possess a supernaturally terrifying 
 
 Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These sapient predators can speak and often taunt their prey, enjoying the taste of fear in their meals.
 
+%%
 ```statblock
 "name": "Dire Worg (XMM)"
 "size": "Huge"
@@ -67,10 +68,9 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
   - "dexterity": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+11"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 21"
+"senses": "Darkvision 120 ft., passive Perception 21"
 "languages": "Goblin, Sylvan, Worg"
 "cr": "10"
 "traits":
@@ -99,6 +99,8 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Dire%20Worg.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

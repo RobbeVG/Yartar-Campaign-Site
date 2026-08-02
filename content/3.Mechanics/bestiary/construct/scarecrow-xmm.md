@@ -73,6 +73,8 @@ Although scarecrows take their name from rural effigies, they might take varied 
 | 7 | A sackcloth head atop straw-stuffed clothes. |
 | 8 | Wedding clothes that were never worn. |
 ^scarecrow-frames
+
+%%
 ```statblock
 "name": "Scarecrow (XMM)"
 "size": "Medium"
@@ -92,12 +94,9 @@ Although scarecrows take their name from rural effigies, they might take varied 
 "speed": "30 ft."
 "damage_vulnerabilities": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned,\
+  \ unconscious"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Common plus one other language"
 "cr": "1"
 "actions":
@@ -116,6 +115,8 @@ Although scarecrows take their name from rural effigies, they might take varied 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Scarecrow.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

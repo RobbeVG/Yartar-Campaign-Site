@@ -55,6 +55,8 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
 > 
 > You wouldn't believe all the great stuff I've swallowed! Now just climb on in here, and you can keep whatever you find.
 
+
+%%
 ```statblock
 "name": "Behir (XMM)"
 "size": "Huge"
@@ -73,13 +75,12 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
   - !!int "12"
 "speed": "50 ft., climb 50 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_immunities": "lightning"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 ft., passive Perception\
-  \ 16"
+"senses": "Darkvision 90 ft., passive Perception 16"
 "languages": "Draconic"
 "cr": "11"
 "actions":
@@ -118,6 +119,8 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Behir.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

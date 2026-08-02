@@ -176,6 +176,7 @@ Wrestler
 > Welcome, one! Welcome, all! Welcome to the short, and welcome to the tall! Welcome angels, welcome fiends, welcome to all from walks between! Welcome to the Carnival!
 
 
+%%
 ```statblock
 "name": "Performer Legend (XMM)"
 "size": "Small or Medium"
@@ -199,15 +200,15 @@ Wrestler
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Acrobatics](3.Mechanics/rules/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+13"
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Performance](3.Mechanics/rules/skills.md#Performance)"
+  - "name": "Performance"
     "desc": "+13"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+9"
 "senses": "passive Perception 17"
 "languages": "Common plus two other languages"
@@ -242,6 +243,8 @@ Wrestler
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Performer%20Legend.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

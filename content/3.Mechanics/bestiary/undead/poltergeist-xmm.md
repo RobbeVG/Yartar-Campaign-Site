@@ -74,6 +74,8 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
 | 7 | Sticks knives or weapons in the ceiling. |
 | 8 | Uncannily stacks books, furniture, or utensils. |
 ^poltergeist-activities
+
+%%
 ```statblock
 "name": "Poltergeist (XMM)"
 "size": "Small or Medium"
@@ -94,13 +96,9 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
 "damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
   \ thunder"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned,\
+  \ prone, restrained, unconscious"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Common plus one other language"
 "cr": "2"
 "traits":
@@ -127,6 +125,8 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Poltergeist.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

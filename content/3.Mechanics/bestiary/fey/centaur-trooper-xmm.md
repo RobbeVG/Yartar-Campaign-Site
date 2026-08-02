@@ -45,6 +45,7 @@ Centaur troopers are knight-like guardians. Many are suspicious of non-Fey creat
 
 Centaurs are defenders of forests, plains, and sites of primeval power. With upper bodies like humans' and the lower bodies of horses, centaurs charge into battle against those who would harm their allies.
 
+%%
 ```statblock
 "name": "Centaur Trooper (XMM)"
 "size": "Large"
@@ -63,9 +64,9 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
   - !!int "11"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+6"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
 "gear":
   - "[breastplate](3.Mechanics/items/breastplate-xphb.md)"
@@ -95,6 +96,8 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Centaur%20Trooper.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

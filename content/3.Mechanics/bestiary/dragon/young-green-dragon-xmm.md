@@ -54,6 +54,7 @@ Despite their might, most green dragons disdain physical violence, viewing comba
 
 Green dragons lair in ancient forests, often shaping stands of massive trees into compounds of interwoven branches, hollow trunks, and caverns amid mighty roots. They might also dwell amid forested ruins, particularly the former homes of those they've conquered.
 
+%%
 ```statblock
 "name": "Young Green Dragon (XMM)"
 "size": "Large"
@@ -76,16 +77,15 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
   - "dexterity": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 17"
+"condition_immunities": "poisoned"
+"senses": "Blindsight 30 ft., Darkvision 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "8"
 "traits":
@@ -105,6 +105,8 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Young%20Green%20Dragon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

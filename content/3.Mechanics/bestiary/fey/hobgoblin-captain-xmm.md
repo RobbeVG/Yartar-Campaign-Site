@@ -93,6 +93,7 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 | 6 | Help shortsighted merchants undermine a government or despoil the environment. |
 ^hobgoblin-strategies
 
+%%
 ```statblock
 "name": "Hobgoblin Captain (XMM)"
 "size": "Medium"
@@ -115,8 +116,7 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
   - "[greatsword](3.Mechanics/items/greatsword-xphb.md)"
   - "[half plate armor](3.Mechanics/items/half-plate-armor-xphb.md)"
   - "[longbow](3.Mechanics/items/longbow-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
 "cr": "3"
 "traits":
@@ -139,6 +139,8 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hobgoblin%20Captain.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

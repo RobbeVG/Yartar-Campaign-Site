@@ -92,6 +92,7 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 > Have you gazed on the Runes of Chaos, held the Death Moon Orb in your trembling hands, entered the Devouring Portal and walked the Paths of the Doomed, or sat at the left hand of Szass Tam during the Ritual of Twin Burnings? No? Then speak not to me of wizards. Speak not to me of Thay.
 
 
+%%
 ```statblock
 "name": "Mage (XMM)"
 "size": "Small or Medium"
@@ -114,11 +115,11 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+6"
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+  - "name": "History"
     "desc": "+6"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
 "gear":
   - "[wand](3.Mechanics/items/wand-xphb.md)"
@@ -153,6 +154,8 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mage.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

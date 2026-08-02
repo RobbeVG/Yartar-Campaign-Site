@@ -38,6 +38,8 @@ Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid 
 - **Treasure.** Any  
 
 Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid hybrids. Werewolves can shape-shift voluntarily, but many can't resist transforming during the nights of a full moon.
+
+%%
 ```statblock
 "name": "Werewolf (XMM)"
 "size": "Small or Medium"
@@ -57,14 +59,13 @@ Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid 
   - !!int "10"
 "speed": "30 ft., 40 ft. (wolf form only)"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "gear":
   - "[longbow](3.Mechanics/items/longbow-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "Darkvision 60 ft., passive Perception 14"
 "languages": "Common (can't speak in wolf form)"
 "cr": "3"
 "traits":
@@ -100,6 +101,8 @@ Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Werewolf.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

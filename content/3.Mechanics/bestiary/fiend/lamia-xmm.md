@@ -69,6 +69,8 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
 | 5 | Remove a magic item's curse, then return it. |
 | 6 | Slay a monster and retrieve a specific organ. |
 ^lamia-pacts
+
+%%
 ```statblock
 "name": "Lamia (XMM)"
 "size": "Large"
@@ -87,14 +89,13 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
   - !!int "16"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+7"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "Darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common"
 "cr": "4"
 "actions":
@@ -124,6 +125,8 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Lamia.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -44,6 +44,7 @@ Ghasts frequently organize ghouls into packs to despoil crypts and steal the wea
 
 Ghasts are reeking, undying corpses closely related to ghouls. They hunger for the vices they enjoyed in life as much as they do for rotting flesh.
 
+%%
 ```statblock
 "name": "Ghast (XMM)"
 "size": "Medium"
@@ -65,10 +66,8 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
   - "wisdom": !!int "2"
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "2"
 "traits":
@@ -92,6 +91,8 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ghast.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

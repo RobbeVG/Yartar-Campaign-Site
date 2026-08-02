@@ -76,6 +76,8 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
 | 7 | Stories of forgotten gods and local spirits. |
 | 8 | The vulnerabilities of a legendary monster. |
 ^guardian-naga-lore
+
+%%
 ```statblock
 "name": "Guardian Naga (XMM)"
 "size": "Large"
@@ -100,17 +102,15 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
   - "wisdom": !!int "8"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+11"
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+  - "name": "History"
     "desc": "+11"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+11"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [restrained](3.Mechanics/rules/conditions.md#Restrained)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"condition_immunities": "charmed, paralyzed, poisoned, restrained"
+"senses": "Darkvision 60 ft., passive Perception 14"
 "languages": "Celestial, Common"
 "cr": "10"
 "traits":
@@ -143,6 +143,8 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Guardian%20Naga.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

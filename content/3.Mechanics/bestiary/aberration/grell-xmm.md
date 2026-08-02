@@ -83,6 +83,8 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
 > 
 > For meal, my hunger grinds within my teeth. For might, my hunger clenches in my grip. But for what we're told we mustn't know, my hunger snaps a raptor's beak and makes my mind a muscle that knows only how to chew.
 
+
+%%
 ```statblock
 "name": "Grell (XMM)"
 "size": "Medium"
@@ -101,14 +103,13 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
   - !!int "9"
 "speed": "10 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "damage_immunities": "lightning"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [prone](3.Mechanics/rules/conditions.md#Prone)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 14"
+"condition_immunities": "blinded, prone"
+"senses": "Blindsight 60 ft., passive Perception 14"
 "languages": "Deep Speech"
 "cr": "3"
 "traits":
@@ -134,6 +135,8 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Grell.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

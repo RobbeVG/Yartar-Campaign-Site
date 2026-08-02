@@ -70,6 +70,7 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
 | 4 | Passages through the earth or hollow trees. |
 ^owlbear-den-features
 
+%%
 ```statblock
 "name": "Owlbear (XMM)"
 "size": "Large"
@@ -88,10 +89,9 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
   - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "Darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "3"
 "actions":
@@ -104,6 +104,8 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Owlbear.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

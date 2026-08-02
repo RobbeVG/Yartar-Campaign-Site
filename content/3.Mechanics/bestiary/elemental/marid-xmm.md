@@ -44,6 +44,8 @@ Marids hail from the Elemental Plane of Water, where they live in wondrous homes
 Marids surge with the power of the seas, using it to manipulate the waves or create water. These genies typically dwell in or near bodies of water. While gentle marids make homes amid springs, oases, and serene pools, tempestuous marids inhabit sea stacks, whirlpools, and treacherous coasts. Marids vary in appearance, their bodies reflecting the colors of the waves while distinctive fins and scales accent their features. Marids lend their powers and knowledge of the seas to those who defend the marids' watery realms or who offer them pleasing gifts. Marids appreciate rare aquatic treasures, such as colorful pearls, shell instruments, or delicacies from distant seas.
 
 Marids hail from the Elemental Plane of Water, where they live in wondrous homes drifting amid the endless ocean. Among these is the Citadel of Ten Thousand Pearls—a coral sphere studded with dozens of domed theaters and libraries—and the air-filled, cosmopolitan City of Glass.
+
+%%
 ```statblock
 "name": "Marid (XMM)"
 "size": "Large"
@@ -66,8 +68,7 @@ Marids hail from the Elemental Plane of Water, where they live in wondrous homes
   - "dexterity": !!int "5"
   - "charisma": !!int "8"
 "damage_resistances": "acid, cold, lightning"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 13"
+"senses": "Blindsight 30 ft., Darkvision 120 ft., passive Perception 13"
 "languages": "Primordial (Aquan)"
 "cr": "11"
 "traits":
@@ -115,6 +116,8 @@ Marids hail from the Elemental Plane of Water, where they live in wondrous homes
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Marid.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

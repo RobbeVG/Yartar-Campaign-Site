@@ -93,6 +93,8 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 > 
 > Twice the malice, aggressiveness, and appetite—the ettin demonstrates that two heads aren't necessarily better than one.
 
+
+%%
 ```statblock
 "name": "Ettin (XMM)"
 "size": "Large"
@@ -111,16 +113,13 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [deafened](3.Mechanics/rules/conditions.md#Deafened), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [stunned](3.Mechanics/rules/conditions.md#Stunned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
+"condition_immunities": "blinded, charmed, deafened, frightened, stunned, unconscious"
 "gear":
   - "[battleaxe](3.Mechanics/items/battleaxe-xphb.md)"
   - "[morningstar](3.Mechanics/items/morningstar-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "Darkvision 60 ft., passive Perception 14"
 "languages": "Giant"
 "cr": "4"
 "actions":
@@ -139,6 +138,8 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ettin.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

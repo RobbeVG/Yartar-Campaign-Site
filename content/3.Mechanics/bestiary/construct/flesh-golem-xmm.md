@@ -79,6 +79,8 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
 > 
 > The barrier between the mortal and the divine lies shattered—open is the mold for new gods. It was I who invaded the divine. Not with a spear but with a stitch. Not with my heresies but with my heart.
 
+
+%%
 ```statblock
 "name": "Flesh Golem (XMM)"
 "size": "Medium"
@@ -97,11 +99,8 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
   - !!int "5"
 "speed": "30 ft."
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "5"
 "traits":
@@ -139,6 +138,8 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Flesh%20Golem.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

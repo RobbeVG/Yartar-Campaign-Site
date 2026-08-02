@@ -55,6 +55,7 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
 
 
+%%
 ```statblock
 "name": "Gnoll Fang of Yeenoghu (XMM)"
 "size": "Medium"
@@ -76,8 +77,7 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
   - "charisma": !!int "3"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Gnoll"
 "cr": "4"
 "actions":
@@ -99,6 +99,8 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gnoll%20Fang%20of%20Yeenoghu.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

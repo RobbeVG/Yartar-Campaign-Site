@@ -17,6 +17,8 @@ aliases:
 # [Ontharyx](3.Mechanics/bestiary/npc/ontharyx-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 115*  
 
+
+%%
 ```statblock
 "name": "Ontharyx (PaBTSO)"
 "size": "Medium"
@@ -35,14 +37,13 @@ aliases:
   - !!int "15"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "damage_resistances": "psychic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 13"
+"condition_immunities": "charmed, frightened"
+"senses": "darkvision 120 ft., passive Perception 13"
 "languages": "Common, telepathy 60 ft."
 "cr": "4"
 "traits":
@@ -56,8 +57,8 @@ aliases:
     "name": "Unarmed Strike"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 60 ft., one creature. *Hit:*\
       \ 7 (2d6) psychic damage, and the target must succeed on a DC 12 Wisdom saving\
-      \ throw or have the [frightened](3.Mechanics/rules/conditions.md#Frightened)\
-      \ condition until the start of Ontharyx's next turn."
+      \ throw or have the frightened condition until the start of Ontharyx's next\
+      \ turn."
     "name": "Nightmare Blast"
 "reactions":
   - "desc": "Immediately after taking damage, Ontharyx flies up to its speed. This\
@@ -68,3 +69,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Ontharyx.webp"
 ```
 ^statblock
+%%

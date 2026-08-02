@@ -39,6 +39,8 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
 - **Treasure.** [Relics](3.Mechanics/tables/random-magic-items-relics.md)  
 
 When threatened or compelled by magic, werebears shape-shift from their humanoid forms into mighty bears or hybrids of those two forms. They scare off or sabotage those who threaten the wilds, and they frequently aid Fey, druids, or spirits of the wilderness, as many owe their magical nature to such forces. Werebears take the shape of bears common to the regions in which they dwell, with brown and polar bear forms being common.
+
+%%
 ```statblock
 "name": "Werebear (XMM)"
 "size": "Small or Medium"
@@ -58,12 +60,11 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
   - !!int "12"
 "speed": "30 ft., 40 ft. (bear form only), climb 30 ft. (bear form only)"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
 "gear":
   - "four [handaxes](3.Mechanics/items/handaxe-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 17"
+"senses": "Darkvision 60 ft., passive Perception 17"
 "languages": "Common (can't speak in bear form)"
 "cr": "5"
 "actions":
@@ -93,6 +94,8 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Werebear.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

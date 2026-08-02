@@ -93,6 +93,8 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 | 9 | The skull of a death god. |
 | 10 | A tarrasque that just died. |
 ^blob-of-annihilation-contents
+
+%%
 ```statblock
 "name": "Blob of Annihilation (XMM)"
 "size": "Gargantuan"
@@ -116,14 +118,9 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
   - "constitution": !!int "16"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "acid, necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone),\
-  \ [restrained](3.Mechanics/rules/conditions.md#Restrained), [stunned](3.Mechanics/rules/conditions.md#Stunned),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 ft., passive Perception\
-  \ 13"
+"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
+  \ poisoned, prone, restrained, stunned, unconscious"
+"senses": "Blindsight 120 ft., passive Perception 13"
 "languages": ""
 "cr": "23"
 "traits":
@@ -183,6 +180,8 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Blob%20of%20Annihilation.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

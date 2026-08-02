@@ -59,6 +59,7 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Sahuagin.webp#center)
 
+%%
 ```statblock
 "name": "Sahuagin Warrior (XMM)"
 "size": "Medium"
@@ -77,11 +78,10 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
   - !!int "9"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
 "damage_resistances": "acid, cold"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 15"
+"senses": "Darkvision 120 ft., passive Perception 15"
 "languages": "Sahuagin"
 "cr": "1/2"
 "traits":
@@ -108,6 +108,8 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sahuagin%20Warrior.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -38,6 +38,8 @@ Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and sl
 - **Treasure.** [Armaments](3.Mechanics/tables/random-magic-items-armaments.md)  
 
 Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and slaughter. Their filthy feathers carry magical toxins from the Lower Planes, creating a noxious cloud capable of killing those who escape the vrocks' vicious beaks and claws. To further terrorize their foes, vrocks unleash an otherworldly screech so terrible it can halt creatures in their tracks.
+
+%%
 ```statblock
 "name": "Vrock (XMM)"
 "size": "Large"
@@ -62,9 +64,8 @@ Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and sl
   - "charisma": !!int "2"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "6"
 "traits":
@@ -99,6 +100,8 @@ Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and sl
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Vrock.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

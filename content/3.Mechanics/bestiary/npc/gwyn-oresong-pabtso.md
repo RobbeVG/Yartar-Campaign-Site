@@ -18,6 +18,8 @@ aliases:
 *Source: Phandelver and Below: The Shattered Obelisk p. 8*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Gwyn%20Oresong.webp#center)
+
+%%
 ```statblock
 "name": "Gwyn Oresong (PaBTSO)"
 "size": "Medium"
@@ -37,24 +39,21 @@ aliases:
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Medicine](3.Mechanics/rules/skills.md#Medicine)"
+  - "name": "Medicine"
     "desc": "+4"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+2"
 "damage_resistances": "poison"
 "gear":
-  - "[club](3.Mechanics/items/club-xphb.md)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+  - "club"
+"senses": "darkvision 60 ft., passive Perception 12"
 "languages": "any one language (usually Common), Dwarvish"
 "cr": "1/4"
 "traits":
   - "desc": "Gwyn is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell\
       \ save DC 12, +4 to hit with spell attacks). Gwyn has the following cleric spells\
-      \ prepared:\n\n**Cantrips (at will):** [light](3.Mechanics/spells/light-xphb.md),\
-      \ [sacred flame](3.Mechanics/spells/sacred-flame-xphb.md), [thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md)\n\
-      \n**1st level (3 slots):** [bless](3.Mechanics/spells/bless-xphb.md), [cure\
-      \ wounds](3.Mechanics/spells/cure-wounds-xphb.md), [sanctuary](3.Mechanics/spells/sanctuary-xphb.md)"
+      \ prepared:\n\n**Cantrips (at will):** light, sacred flame, thaumaturgy\n\n\
+      **1st level (3 slots):** bless, cure wounds, sanctuary"
     "name": "Spellcasting"
   - "desc": "Gwyn"
     "name": "Dwarven Resilience"
@@ -67,3 +66,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Gwyn%20Oresong.webp"
 ```
 ^statblock
+%%

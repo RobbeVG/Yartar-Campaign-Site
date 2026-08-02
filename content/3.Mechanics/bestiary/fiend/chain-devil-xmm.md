@@ -66,6 +66,8 @@ Along with psychological threats and physical harm, a chain devil uses its unner
 | 3 | A harsh instructor or superior. |
 | 4 | The viewer at their lowest point in life. |
 ^chain-devil-masks
+
+%%
 ```statblock
 "name": "Chain Devil (XMM)"
 "size": "Medium"
@@ -89,10 +91,9 @@ Along with psychological threats and physical harm, a chain devil uses its unner
   - "wisdom": !!int "4"
 "damage_resistances": "bludgeoning, cold, piercing, slashing"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive\
-  \ Perception 11"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 120 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 11"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "8"
 "traits":
@@ -130,6 +131,8 @@ Along with psychological threats and physical harm, a chain devil uses its unner
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Chain%20Devil.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

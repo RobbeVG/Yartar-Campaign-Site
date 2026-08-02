@@ -18,6 +18,8 @@ aliases:
 *Source: Phandelver and Below: The Shattered Obelisk p. 10*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Gundren%20Rockseeker.webp#center)
+
+%%
 ```statblock
 "name": "Gundren Rockseeker (PaBTSO)"
 "size": "Medium"
@@ -38,9 +40,8 @@ aliases:
 "speed": "30 ft."
 "damage_resistances": "poison"
 "gear":
-  - "[club](3.Mechanics/items/club-xphb.md)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+  - "club"
+"senses": "darkvision 60 ft., passive Perception 10"
 "languages": "any one language (usually Common), Dwarvish"
 "cr": "0"
 "traits":
@@ -55,3 +56,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Gundren%20Rockseeker.webp"
 ```
 ^statblock
+%%

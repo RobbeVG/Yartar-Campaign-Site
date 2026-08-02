@@ -22,6 +22,8 @@ A nothic is a monstrous creature with terrible talons and a single great eye. Wh
 
 
 A nothic is a monstrous creature with terrible talons and a single great eye. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
+
+%%
 ```statblock
 "name": "Mind Flayer Nothic (PaBTSO)"
 "size": "Medium"
@@ -41,21 +43,19 @@ A nothic is a monstrous creature with terrible talons and a single great eye. Wh
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+3"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+4"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
-"senses": "[truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 12"
+"senses": "truesight 120 ft., passive Perception 12"
 "languages": "Undercommon"
 "cr": "2"
 "traits":
-  - "desc": "The nothic has advantage on Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception))\
-      \ checks that rely on sight."
+  - "desc": "The nothic has advantage on Wisdom (Perception) checks that rely on sight."
     "name": "Keen Sight"
 "actions":
   - "desc": "The nothic makes two claw attacks."
@@ -65,17 +65,17 @@ A nothic is a monstrous creature with terrible talons and a single great eye. Wh
     "name": "Claw"
   - "desc": "The nothic magically emits psychic energy in a 30-foot cone. Each creature\
       \ in that area must succeed on a DC 12 Intelligence saving throw or take 10\
-      \ (2d8 + 1) psychic damage and have the [stunned](3.Mechanics/rules/conditions.md#Stunned)\
-      \ condition until the end of its next turn."
+      \ (2d8 + 1) psychic damage and have the stunned condition until the end of its\
+      \ next turn."
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The nothic targets one creature it can see within 30 feet of it. The\
-      \ target must contest its Charisma ([Deception](3.Mechanics/rules/skills.md#Deception))\
-      \ check against the nothic's Wisdom ([Insight](3.Mechanics/rules/skills.md#Insight))\
-      \ check. If the nothic wins, it magically learns one fact or secret about the\
-      \ target. The target automatically wins if it is immune to being [charmed](3.Mechanics/rules/conditions.md#Charmed)."
+      \ target must contest its Charisma (Deception) check against the nothic's Wisdom\
+      \ (Insight) check. If the nothic wins, it magically learns one fact or secret\
+      \ about the target. The target automatically wins if it is immune to being charmed."
     "name": "Weird Insight"
 "source":
   - "PaBTSO"
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Mind%20Flayer%20Nothic.webp"
 ```
 ^statblock
+%%

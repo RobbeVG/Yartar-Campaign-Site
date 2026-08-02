@@ -58,6 +58,7 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 > The thing's got an axe for a face and a giant, angry rooster for everything else—of course I want to ride it!
 
 
+%%
 ```statblock
 "name": "Axe Beak (XMM)"
 "size": "Large"
@@ -86,6 +87,8 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Axe%20Beak.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

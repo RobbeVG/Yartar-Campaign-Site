@@ -84,6 +84,7 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Bandits.webp#center)
 
+%%
 ```statblock
 "name": "Bandit Crime Lord (XMM)"
 "size": "Small or Medium"
@@ -105,11 +106,11 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
   - "dexterity": !!int "9"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "[Acrobatics](3.Mechanics/rules/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+9"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+10"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+13"
 "gear":
   - "two [pistols](3.Mechanics/items/pistol-xphb.md)"
@@ -144,6 +145,8 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bandit%20Crime%20Lord.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

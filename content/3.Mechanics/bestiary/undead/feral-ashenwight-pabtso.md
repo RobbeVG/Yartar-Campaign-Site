@@ -33,6 +33,7 @@ When a Humanoid consumed by cruelty and rage dies in an area corrupted by the Fa
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Ashenwights.webp#center)
 
+%%
 ```statblock
 "name": "Feral Ashenwight (PaBTSO)"
 "size": "Medium"
@@ -55,11 +56,8 @@ When a Humanoid consumed by cruelty and rage dies in an area corrupted by the Fa
   - "strength": !!int "7"
   - "constitution": !!int "5"
 "damage_resistances": "necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, unconscious"
+"senses": "darkvision 120 ft., passive Perception 12"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "5"
 "actions":
@@ -75,3 +73,4 @@ When a Humanoid consumed by cruelty and rage dies in an area corrupted by the Fa
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Feral%20Ashenwight.webp"
 ```
 ^statblock
+%%

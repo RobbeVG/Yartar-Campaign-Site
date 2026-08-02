@@ -46,6 +46,8 @@ Infernal collectors, barbed devils fanatically protect troves of treasure and sc
 Barbed devils often serve as guards and accountants for ice devil generals, pit fiend warlords, archdevils, and similarly powerful villains. In return, barbed devils gain protection for their own collections. Many barbed devils also maintain networks of imps that search the planes for treasures of interest or usefully greedy mortals.
 
 Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they pride themselves on having the multiverse's greatest collection of one kind of thing—typically items of rare pedigree or emblems of power. Barbed devils refuse to steal what they covet; instead they strike bargains to claim both treasure and mortal souls.
+
+%%
 ```statblock
 "name": "Barbed Devil (XMM)"
 "size": "Medium"
@@ -70,18 +72,17 @@ Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they
   - "wisdom": !!int "5"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+5"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive\
-  \ Perception 18"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 120 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 18"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "5"
 "traits":
@@ -114,6 +115,8 @@ Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Barbed%20Devil.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

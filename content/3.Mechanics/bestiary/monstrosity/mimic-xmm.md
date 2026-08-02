@@ -186,6 +186,8 @@ Throne
 Topiary
 
 Weapon rack
+
+%%
 ```statblock
 "name": "Mimic (XMM)"
 "size": "Medium"
@@ -204,12 +206,11 @@ Weapon rack
   - !!int "8"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_immunities": "acid"
-"condition_immunities": "[prone](3.Mechanics/rules/conditions.md#Prone)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "prone"
+"senses": "Darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "2"
 "traits":
@@ -240,6 +241,8 @@ Weapon rack
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mimic.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

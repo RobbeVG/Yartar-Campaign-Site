@@ -71,6 +71,8 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 | 5 | A rival is spying on it. |
 | 6 | Someone's treasure rightfully belongs to it. |
 ^spirit-naga-grievances
+
+%%
 ```statblock
 "name": "Spirit Naga (XMM)"
 "size": "Large"
@@ -94,9 +96,8 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "charmed, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common"
 "cr": "8"
 "traits":
@@ -127,6 +128,8 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Spirit%20Naga.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -46,6 +46,7 @@ Beastly hunters endemic to subterranean depths, quaggoths scrape harsh existence
 
 Quaggoths frequently collect in small bands led by the most fearsome group member. These bands are proud and quick to hold grudges. Anyone who harms a quaggoth—or who is suspected of doing so—earns the enmity of that quaggoth's band regardless of reason or fault. These grudges sometimes extend to whole communities rather than individuals. Generations of quaggoths might seek revenge against a settlement's inhabitants for decades-old slights. Only the leader of a quaggoth band can demand that a grudge ends.
 
+%%
 ```statblock
 "name": "Quaggoth (XMM)"
 "size": "Medium"
@@ -64,12 +65,11 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
   - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+5"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 120 ft., passive Perception 11"
 "languages": "Undercommon"
 "cr": "2"
 "traits":
@@ -88,6 +88,8 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Quaggoth.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

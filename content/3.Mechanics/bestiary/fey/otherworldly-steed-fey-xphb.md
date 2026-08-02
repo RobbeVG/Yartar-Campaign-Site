@@ -16,6 +16,8 @@ aliases:
 # [Otherworldly Steed (Fey)](3.Mechanics/bestiary/fey/otherworldly-steed-fey-xphb.md)
 *Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
+
+%%
 ```statblock
 "name": "Otherworldly Steed (Fey) (XPHB)"
 "size": "Large"
@@ -52,3 +54,4 @@ aliases:
   - "XPHB"
 ```
 ^statblock
+%%

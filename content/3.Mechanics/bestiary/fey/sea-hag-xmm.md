@@ -70,6 +70,8 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
 | 5 | Ship captain and delivers passengers to the hag's pet sea monster. |
 | 6 | Wounded sailor and claims their ship was destroyed by merfolk or other peaceful people. |
 ^sea-hag-disguises
+
+%%
 ```statblock
 "name": "Sea Hag (XMM)"
 "size": "Medium"
@@ -87,8 +89,7 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
   - !!int "12"
   - !!int "13"
 "speed": "30 ft., swim 40 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "Darkvision 60 ft., passive Perception 11"
 "languages": "Common, Giant, Primordial (Aquan)"
 "cr": "2"
 "traits":
@@ -127,6 +128,8 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sea%20Hag.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

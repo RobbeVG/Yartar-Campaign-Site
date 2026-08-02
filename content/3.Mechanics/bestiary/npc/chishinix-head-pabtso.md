@@ -17,6 +17,8 @@ aliases:
 # [Chishinix' Head](3.Mechanics/bestiary/npc/chishinix-head-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  
 
+
+%%
 ```statblock
 "name": "Chishinix' Head (PaBTSO)"
 "size": "Tiny"
@@ -35,9 +37,8 @@ aliases:
   - !!int "7"
 "speed": "10 ft."
 "damage_resistances": "psychic"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded)"
-"senses": "[blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft. (can't see\
-  \ beyond this radius), passive Perception 11"
+"condition_immunities": "blinded"
+"senses": "blindsight 30 ft. (can't see beyond this radius), passive Perception 11"
 "languages": ""
 "cr": "3"
 "traits":
@@ -63,3 +64,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Chishinix%27%20Head.webp"
 ```
 ^statblock
+%%

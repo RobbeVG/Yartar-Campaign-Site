@@ -51,6 +51,8 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
 > 
 > What blessing demands more yet inspires greater works than the blood of Tiamat?
 
+
+%%
 ```statblock
 "name": "Half-Dragon (XMM)"
 "size": "Medium"
@@ -72,15 +74,14 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
   - "dexterity": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+7"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_resistances": "Damage type chosen for the Draconic Origin trait below"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"senses": "Blindsight 10 ft., Darkvision 60 ft., passive Perception 15"
 "languages": "Common, Draconic"
 "cr": "5"
 "traits":
@@ -106,6 +107,8 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Half-Dragon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

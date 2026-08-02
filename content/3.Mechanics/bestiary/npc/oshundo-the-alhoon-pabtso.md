@@ -23,6 +23,8 @@ Oshundo lived in Illithinoch at the height of the mind flayer empire many centur
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Oshundo%20the%20Alhoon.webp#right)
 
 Oshundo lived in Illithinoch at the height of the mind flayer empire many centuries ago, but Oshundo was driven out for practicing arcane magic. It's obvious that this rejection still stings Oshundo, who refers to Illithinoch's long-dead leaders as "ignorant fools" who are "closed to the flexibility and power of arcane magic."
+
+%%
 ```statblock
 "name": "Oshundo the Alhoon (PaBTSO)"
 "size": "Medium"
@@ -48,23 +50,20 @@ Oshundo lived in Illithinoch at the height of the mind flayer empire many centur
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+8"
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+  - "name": "History"
     "desc": "+8"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+7"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 17"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"senses": "truesight 120 ft., passive Perception 17"
 "languages": "Common, Deep Speech, telepathy 120 ft., Undercommon"
 "cr": "10"
 "traits":
@@ -82,22 +81,15 @@ Oshundo lived in Illithinoch at the height of the mind flayer empire many centur
     "name": "Arcane Bolt"
   - "desc": "Oshundo emits a wave of domineering energy in a 60-foot cone. Each creature\
       \ in that area must succeed on a DC 16 Intelligence saving throw or take 22\
-      \ (4d8 + 4) thunder damage and have the [stunned](3.Mechanics/rules/conditions.md#Stunned)\
-      \ condition for 1 minute. A [stunned](3.Mechanics/rules/conditions.md#Stunned)\
+      \ (4d8 + 4) thunder damage and have the stunned condition for 1 minute. A stunned\
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Thundering Blast (Recharge 5-6)"
   - "desc": "Oshundo casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      **At will:** [dancing lights](3.Mechanics/spells/dancing-lights-xphb.md), [detect\
-      \ magic](3.Mechanics/spells/detect-magic-xphb.md), [detect thoughts](3.Mechanics/spells/detect-thoughts-xphb.md),\
-      \ [disguise self](3.Mechanics/spells/disguise-self-xphb.md), [mage hand](3.Mechanics/spells/mage-hand-xphb.md),\
-      \ [prestidigitation](3.Mechanics/spells/prestidigitation-xphb.md)\n\n**1/day\
-      \ each:** [dominate monster](3.Mechanics/spells/dominate-monster-xphb.md), [globe\
-      \ of invulnerability](3.Mechanics/spells/globe-of-invulnerability-xphb.md),\
-      \ [invisibility](3.Mechanics/spells/invisibility-xphb.md), [modify memory](3.Mechanics/spells/modify-memory-xphb.md),\
-      \ [plane shift](3.Mechanics/spells/plane-shift-xphb.md) (self only), [wall of\
-      \ force](3.Mechanics/spells/wall-of-force-xphb.md)"
+      **At will:** dancing lights, detect magic, detect thoughts, disguise self, mage\
+      \ hand, prestidigitation\n\n**1/day each:** dominate monster, globe of invulnerability,\
+      \ invisibility, modify memory, plane shift (self only), wall of force"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Oshundo targets one creature it can perceive within 60 feet of itself\
@@ -109,3 +101,4 @@ Oshundo lived in Illithinoch at the height of the mind flayer empire many centur
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Oshundo%20the%20Alhoon.webp"
 ```
 ^statblock
+%%

@@ -17,6 +17,8 @@ aliases:
 *Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Otherworldly%20Steed.webp#center)
+
+%%
 ```statblock
 "name": "Otherworldly Steed (XPHB)"
 "size": "Large"
@@ -61,3 +63,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Otherworldly%20Steed.webp"
 ```
 ^statblock
+%%

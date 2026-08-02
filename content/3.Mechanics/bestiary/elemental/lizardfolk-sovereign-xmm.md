@@ -43,6 +43,7 @@ Lizardfolk sovereigns undergo magical rites that imbue them with fantastic stren
 
 Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfolk are Humanoids with varied skills, some forge powerful bonds with the Elemental Plane of Earth, granting them magical connections to the cycle of growth and rebirth.
 
+%%
 ```statblock
 "name": "Lizardfolk Sovereign (XMM)"
 "size": "Medium"
@@ -64,13 +65,12 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
-"condition_immunities": "[frightened](3.Mechanics/rules/conditions.md#Frightened)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"condition_immunities": "frightened"
+"senses": "Darkvision 60 ft., passive Perception 14"
 "languages": "Draconic, Primordial (Terran)"
 "cr": "4"
 "actions":
@@ -95,6 +95,8 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Lizardfolk%20Sovereign.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

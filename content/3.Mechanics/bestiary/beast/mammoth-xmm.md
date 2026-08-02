@@ -31,6 +31,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!gallery]
 ![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
+
+%%
 ```statblock
 "name": "Mammoth (XMM)"
 "size": "Huge"
@@ -72,6 +74,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mammoth.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

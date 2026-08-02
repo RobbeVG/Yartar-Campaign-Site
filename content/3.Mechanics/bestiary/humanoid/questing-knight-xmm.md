@@ -42,6 +42,7 @@ Questing knights travel in pursuit of a cause, such as slaying a villain, defeat
 
 Knights are skilled warriors trained for war and tested in battle. Many serve the rulers of a realm, a religion, or an order devoted to a cause.
 
+%%
 ```statblock
 "name": "Questing Knight (XMM)"
 "size": "Small or Medium"
@@ -65,13 +66,13 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
   - "wisdom": !!int "5"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+9"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+8"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)"
+"condition_immunities": "charmed, frightened"
 "gear":
   - "[greatsword](3.Mechanics/items/greatsword-xphb.md)"
   - "[longbow](3.Mechanics/items/longbow-xphb.md)"
@@ -104,6 +105,8 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Questing%20Knight.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

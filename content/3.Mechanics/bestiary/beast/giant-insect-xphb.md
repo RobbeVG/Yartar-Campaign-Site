@@ -17,6 +17,8 @@ aliases:
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Giant%20Insect.webp#center)
+
+%%
 ```statblock
 "name": "Giant Insect (XPHB)"
 "size": "Large"
@@ -33,8 +35,7 @@ aliases:
   - !!int "14"
   - !!int "3"
 "speed": "40 ft., climb 40 ft., fly 40 ft. (Wasp only)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "Darkvision 60 ft., passive Perception 12"
 "languages": "understands the languages you know"
 "traits":
   - "desc": "The insect can climb difficult surfaces, including along ceilings, without\
@@ -62,3 +63,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Giant%20Insect.webp"
 ```
 ^statblock
+%%

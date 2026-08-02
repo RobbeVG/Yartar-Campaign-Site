@@ -51,6 +51,8 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
 > 
 > Rule 8: Never trust a stalactite
 
+
+%%
 ```statblock
 "name": "Piercer (XMM)"
 "size": "Medium"
@@ -69,10 +71,9 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
   - !!int "3"
 "speed": "5 ft., climb 15 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 8"
+"senses": "Blindsight 30 ft., Darkvision 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -91,6 +92,8 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Piercer.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

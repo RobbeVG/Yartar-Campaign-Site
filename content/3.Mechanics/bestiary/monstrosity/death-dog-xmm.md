@@ -77,6 +77,8 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 | 5 | The victim to itch, as if they had fleas or sand beneath their skin. |
 | 6 | Wicked symbols to gradually appear on and spread across the victim's body. |
 ^death-dog-malady-symptoms
+
+%%
 ```statblock
 "name": "Death Dog (XMM)"
 "size": "Medium"
@@ -95,15 +97,12 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [deafened](3.Mechanics/rules/conditions.md#Deafened), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [stunned](3.Mechanics/rules/conditions.md#Stunned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 15"
+"condition_immunities": "blinded, charmed, deafened, frightened, stunned, unconscious"
+"senses": "Darkvision 120 ft., passive Perception 15"
 "languages": ""
 "cr": "1"
 "actions":
@@ -125,6 +124,8 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Death%20Dog.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

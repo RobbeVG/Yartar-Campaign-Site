@@ -60,6 +60,8 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
 > 
 > There are three rules to endings. First, good always wins. Second, evil always returns. Third, the first rule isn't always true.
 
+
+%%
 ```statblock
 "name": "Shadow Demon (XMM)"
 "size": "Medium"
@@ -82,18 +84,15 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
   - "dexterity": !!int "5"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
   \ thunder"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
+"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
+  \ restrained"
+"senses": "Darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "4"
 "traits":
@@ -122,6 +121,8 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Shadow%20Demon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

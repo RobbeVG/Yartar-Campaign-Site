@@ -59,6 +59,7 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 > Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, "The dead come for Marais d'Tarascon! An army of the walking dead!"
 
 
+%%
 ```statblock
 "name": "Ogre Zombie (XMM)"
 "size": "Large"
@@ -79,10 +80,8 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 "saves":
   - "wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
+"condition_immunities": "exhaustion, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 8"
 "languages": "understands Common and Giant but can't speak"
 "cr": "2"
 "traits":
@@ -101,6 +100,8 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ogre%20Zombie.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

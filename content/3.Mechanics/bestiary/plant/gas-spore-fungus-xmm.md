@@ -42,6 +42,7 @@ Gas spores are floating, orbicular fungi with rhizome growths and protuberances 
 
 The dank, sunless Underdark is a fertile breeding ground for weird and dangerous fungi.
 
+%%
 ```statblock
 "name": "Gas Spore Fungus (XMM)"
 "size": "Large"
@@ -60,12 +61,9 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
   - !!int "1"
 "speed": "5 ft., fly 10 ft. (hover)"
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [deafened](3.Mechanics/rules/conditions.md#Deafened), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 5"
+"condition_immunities": "blinded, charmed, deafened, frightened, paralyzed, poisoned,\
+  \ prone"
+"senses": "Blindsight 30 ft., passive Perception 5"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -88,6 +86,8 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gas%20Spore%20Fungus.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

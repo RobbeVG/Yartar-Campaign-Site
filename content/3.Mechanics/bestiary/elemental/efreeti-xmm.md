@@ -53,6 +53,8 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
 > 
 > Imagine seas of platinum and liquid flame, the Crimson Pillar with fires hot enough to sear the gods, and the infinite delights of the City of Brass. Now imagine what my master offers...
 
+
+%%
 ```statblock
 "name": "Efreeti (XMM)"
 "size": "Large"
@@ -75,8 +77,7 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "damage_immunities": "fire"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"senses": "Darkvision 120 ft., passive Perception 12"
 "languages": "Primordial (Ignan)"
 "cr": "11"
 "traits":
@@ -117,6 +118,8 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Efreeti.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -52,6 +52,8 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
 > 
 > The Blood War—that ageless clash between devils and demons—helps ensure the balance of the multiverse. At times it makes unlikely allies, but never delude yourself into believing there's a lesser of two evil. I won't be thanking a demon for every day I'm spared a devil's lash.
 
+
+%%
 ```statblock
 "name": "Nalfeshnee (XMM)"
 "size": "Large"
@@ -77,10 +79,8 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
   - "charisma": !!int "7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 11"
+"condition_immunities": "frightened, poisoned"
+"senses": "Truesight 120 ft., passive Perception 11"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "13"
 "traits":
@@ -118,6 +118,8 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Nalfeshnee.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

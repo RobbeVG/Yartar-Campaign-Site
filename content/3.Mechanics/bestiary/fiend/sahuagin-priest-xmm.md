@@ -57,6 +57,7 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 > When a sahuagin comes at you, it doesn't seem to be living until it bites you. Then the thing's black eyes turn red as hellfire and the waves foam crimson. Then comes the screaming.
 
 
+%%
 ```statblock
 "name": "Sahuagin Priest (XMM)"
 "size": "Medium"
@@ -75,13 +76,12 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
   - !!int "13"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+3"
 "damage_resistances": "acid, cold"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"senses": "Darkvision 120 ft., passive Perception 16"
 "languages": "Sahuagin"
 "cr": "2"
 "traits":
@@ -115,6 +115,8 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sahuagin%20Priest.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

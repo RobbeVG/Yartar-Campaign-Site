@@ -70,6 +70,8 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
 | 3 | Destroy a city harboring enemy cultists. |
 | 4 | Liberate an imprisoned fiendish ally. |
 ^yugoloth-incursions
+
+%%
 ```statblock
 "name": "Nycaloth (XMM)"
 "size": "Large"
@@ -89,15 +91,14 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
   - !!int "15"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 14"
+"condition_immunities": "poisoned"
+"senses": "Blindsight 60 ft., passive Perception 14"
 "languages": "Abyssal, Infernal; telepathy 60 ft."
 "cr": "9"
 "traits":
@@ -125,6 +126,8 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Nycaloth.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

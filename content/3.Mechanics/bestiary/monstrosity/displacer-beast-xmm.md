@@ -55,6 +55,8 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
 > 
 > The murderous fury of a displacer beast is fit only for nightmares, of which I've been haunted since narrowly escaping one's ambush. I'm certain that beast stalks me still.
 
+
+%%
 ```statblock
 "name": "Displacer Beast (XMM)"
 "size": "Large"
@@ -72,8 +74,7 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
   - !!int "12"
   - !!int "8"
 "speed": "40 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "Darkvision 60 ft., passive Perception 11"
 "languages": "understands Sylvan but can't speak"
 "cr": "3"
 "traits":
@@ -103,6 +104,8 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Displacer%20Beast.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

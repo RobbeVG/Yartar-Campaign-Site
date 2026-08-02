@@ -44,6 +44,7 @@ Pixies spend their days frolicking and exploring and avoid direct conflict when 
 
 Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They invisibly observe those who enter their wooded homes, revealing themselves to those with friendly intentions. Those who are unfriendly become the targets of pixies' pranks.
 
+%%
 ```statblock
 "name": "Pixie (XMM)"
 "size": "Tiny"
@@ -62,9 +63,9 @@ Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They i
   - !!int "15"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "senses": "passive Perception 14"
 "languages": "Sylvan"
@@ -91,6 +92,8 @@ Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They i
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Pixie.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

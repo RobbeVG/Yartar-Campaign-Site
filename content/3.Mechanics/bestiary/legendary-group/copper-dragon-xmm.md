@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
 - ttrpg-cli/monster/legendary-group
+title: "Copper Dragon"
 aliases:
 - "Copper Dragon"
 ---

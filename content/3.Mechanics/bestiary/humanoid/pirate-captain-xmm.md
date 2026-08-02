@@ -86,6 +86,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 | 8 | Whale | A treasure chest |
 ^pirate-flags
 
+%%
 ```statblock
 "name": "Pirate Captain (XMM)"
 "size": "Small or Medium"
@@ -109,9 +110,9 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Acrobatics](3.Mechanics/rules/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+7"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
 "gear":
   - "[pistol](3.Mechanics/items/pistol-xphb.md)"
@@ -145,6 +146,8 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Pirate%20Captain.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

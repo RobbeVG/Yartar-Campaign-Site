@@ -17,13 +17,15 @@ aliases:
 # [Aberrant Zealot (Tentacled)](3.Mechanics/bestiary/aberration/aberrant-zealot-tentacled-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 181*  
 
+
+%%
 ```statblock
 "name": "Aberrant Zealot (Tentacled) (PaBTSO)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "typically  Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)"
+"ac_class": "studded leather armor"
 "hp": !!int "93"
 "hit_dice": "17d8 + 17"
 "modifier": !!int "4"
@@ -39,16 +41,13 @@ aliases:
   - "dexterity": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
 "damage_resistances": "psychic"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled),\
-  \ [restrained](3.Mechanics/rules/conditions.md#Restrained)"
+"condition_immunities": "blinded, charmed, frightened, grappled, restrained"
 "gear":
-  - "[shortsword](3.Mechanics/items/shortsword-xphb.md)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., [truesight](3.Mechanics/rules/senses.md#Truesight)\
-  \ 10 ft., passive Perception 15"
+  - "shortsword"
+"senses": "darkvision 60 ft., truesight 10 ft., passive Perception 15"
 "languages": "Common, Deep Speech"
 "cr": "8"
 "traits":
@@ -65,24 +64,22 @@ aliases:
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Spell Attack:* +7 to hit, reach 15 ft. or range 120\
       \ ft., one target. *Hit:* 14 (3d6 + 4) psychic damage, and the target must succeed\
-      \ on a DC 15 Wisdom saving throw or have the [stunned](3.Mechanics/rules/conditions.md#Stunned)\
-      \ condition until the start of the zealot's next turn."
+      \ on a DC 15 Wisdom saving throw or have the stunned condition until the start\
+      \ of the zealot's next turn."
     "name": "Psychic Rend"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 15 ft., one target. *Hit:* 7\
       \ (1d6 + 4) piercing damage plus 7 (2d6) psychic damage."
     "name": "Shortsword"
   - "desc": "The zealot magically emits psychic energy in a 60-foot cone. Each creature\
       \ in that area must succeed on a DC 15 Intelligence saving throw or take 22\
-      \ (4d8 + 4) psychic damage and have the [stunned](3.Mechanics/rules/conditions.md#Stunned)\
-      \ condition for 1 minute. A target can repeat the saving throw at the end of\
-      \ each of its turns, ending the [stunned](3.Mechanics/rules/conditions.md#Stunned)\
+      \ (4d8 + 4) psychic damage and have the stunned condition for 1 minute. A target\
+      \ can repeat the saving throw at the end of each of its turns, ending the stunned\
       \ condition on itself on a success."
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The zealot casts one of the following spells, requiring no components\
       \ and using Charisma as the spellcasting ability (spell save DC 15):\n\n**At\
-      \ will:** [detect thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [minor\
-      \ illusion](3.Mechanics/spells/minor-illusion-xphb.md)\n\n**1/day each:** [arcane\
-      \ gate](3.Mechanics/spells/arcane-gate-xphb.md), [hunger of Hadar](3.Mechanics/spells/hunger-of-hadar-xphb.md)"
+      \ will:** detect thoughts, minor illusion\n\n**1/day each:** arcane gate, hunger\
+      \ of Hadar"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The zealot teleports, along with any equipment it is wearing or carrying,\
@@ -98,3 +95,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Aberrant%20Zealot%20%28Tentacled%29.webp"
 ```
 ^statblock
+%%

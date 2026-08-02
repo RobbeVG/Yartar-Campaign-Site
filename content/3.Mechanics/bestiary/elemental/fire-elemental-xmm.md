@@ -85,6 +85,8 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 > 
 > All the elements bow to fire. The strongest earth melts. Water boils. Even air ignites. We are all souls of flame, and we know what it is to burn.
 
+
+%%
 ```statblock
 "name": "Fire Elemental (XMM)"
 "size": "Large"
@@ -104,13 +106,9 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 "speed": "50 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
+  \ restrained, unconscious"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Ignan)"
 "cr": "5"
 "traits":
@@ -143,6 +141,8 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Fire%20Elemental.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

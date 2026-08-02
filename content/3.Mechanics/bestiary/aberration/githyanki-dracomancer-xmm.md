@@ -59,6 +59,7 @@ The victory of the gith was short-lived. As Gith was forging her own burgeoning 
 
 When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaakith's line has continued to the githyanki's current ruler, Vlaakith the Lich-Queen. This undead tyrant compels her people to wage endless wars against mind flayers, githzerai, and any others that threaten githyanki supremacy.
 
+%%
 ```statblock
 "name": "Githyanki Dracomancer (XMM)"
 "size": "Medium"
@@ -83,12 +84,11 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
   - "intelligence": !!int "10"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+10"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 18"
+"senses": "Blindsight 30 ft., passive Perception 18"
 "languages": "Common, Draconic, Gith"
 "cr": "16"
 "actions":
@@ -119,6 +119,8 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Githyanki%20Dracomancer.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

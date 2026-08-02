@@ -71,6 +71,8 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
 | 5 | A gift given freely by a yugoloth. |
 | 6 | A vial filled with a ruler's tears. |
 ^green-hag-bargains
+
+%%
 ```statblock
 "name": "Green Hag (XMM)"
 "size": "Medium"
@@ -89,16 +91,15 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
   - !!int "14"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+5"
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+4"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+3"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "Darkvision 60 ft., passive Perception 14"
 "languages": "Common, Elvish, Sylvan"
 "cr": "3"
 "traits":
@@ -137,6 +138,8 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Green%20Hag.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

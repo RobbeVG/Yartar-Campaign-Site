@@ -31,6 +31,7 @@ An encephalon cluster pays no heed to an elder brain or its mind flayer progenit
 
 When an illithid colony lays its eggs dangerously close to a Far Realm rift, an egg sac has a chance to mutate into what is known as an encephalon cluster—a ravenous, slimy, psionic, brain-shaped mass that spawns horrors called encephalon gemmules.
 
+%%
 ```statblock
 "name": "Encephalon Cluster (PaBTSO)"
 "size": "Large"
@@ -50,9 +51,8 @@ When an illithid colony lays its eggs dangerously close to a Far Realm rift, an 
   - !!int "7"
 "speed": "20 ft."
 "damage_resistances": "psychic"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded)"
-"senses": "[blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft. (can't see\
-  \ beyond this radius), passive Perception 13"
+"condition_immunities": "blinded"
+"senses": "blindsight 60 ft. (can't see beyond this radius), passive Perception 13"
 "languages": ""
 "cr": "10"
 "traits":
@@ -68,9 +68,8 @@ When an illithid colony lays its eggs dangerously close to a Far Realm rift, an 
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 17\
       \ (2d10 + 6) bludgeoning damage plus 10 (3d6) psychic damage, and if the target\
       \ is a creature, the target must succeed on a DC 18 Strength saving throw or\
-      \ have the [prone](3.Mechanics/rules/conditions.md#Prone) condition. If this\
-      \ attack reduces the target to 0 hit points, the target immediately dies and\
-      \ is consumed by the cluster."
+      \ have the prone condition. If this attack reduces the target to 0 hit points,\
+      \ the target immediately dies and is consumed by the cluster."
     "name": "Slam"
   - "desc": "The cluster bulges and spews 1d4 mature eggs. Each egg lands in an unoccupied\
       \ space of the cluster's choice within 30 feet of itself and immediately transforms\
@@ -89,3 +88,4 @@ When an illithid colony lays its eggs dangerously close to a Far Realm rift, an 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Encephalon%20Cluster.webp"
 ```
 ^statblock
+%%

@@ -48,6 +48,7 @@ The places haunting revenants lurk swiftly gain infamous reputations.
 
 Wrathful spirits bent on revenge, revenants possess corpses and other materials, using them to seek justice or vent their rage on those who wronged them. Revenants refuse to rest until those they seek to punish are no more. If their bodies are destroyed, revenants claim new forms and continue their ruthless quests.
 
+%%
 ```statblock
 "name": "Haunting Revenant (XMM)"
 "size": "Gargantuan"
@@ -70,13 +71,9 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
   - "wisdom": !!int "8"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone),\
-  \ [restrained](3.Mechanics/rules/conditions.md#Restrained), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 60 ft., passive Perception\
-  \ 14"
+"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
+  \ poisoned, prone, restrained, unconscious"
+"senses": "Truesight 60 ft., passive Perception 14"
 "languages": "Common plus two other languages"
 "cr": "10"
 "traits":
@@ -110,6 +107,8 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Haunting%20Revenant.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

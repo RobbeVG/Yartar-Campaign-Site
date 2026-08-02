@@ -73,6 +73,8 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
 | 5 | A skull with gold teeth worth `dice:1d4\|noform\|noparens\|avg` (`1d4`) GP. |
 | 6 | A spotless suit of metal armor. |
 ^ochre-jelly-leftovers
+
+%%
 ```statblock
 "name": "Ochre Jelly (XMM)"
 "size": "Large"
@@ -92,12 +94,9 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
 "speed": "20 ft., climb 20 ft."
 "damage_resistances": "acid"
 "damage_immunities": "lightning, slashing"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened),\
-  \ [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [prone](3.Mechanics/rules/conditions.md#Prone),\
-  \ [restrained](3.Mechanics/rules/conditions.md#Restrained)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 8"
+"condition_immunities": "charmed, deafened, exhaustion, frightened, grappled, prone,\
+  \ restrained"
+"senses": "Blindsight 60 ft., passive Perception 8"
 "languages": ""
 "cr": "2"
 "traits":
@@ -124,6 +123,8 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ochre%20Jelly.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -45,6 +45,8 @@ Spiderlike hunters, ettercaps lurk in forested depths and seek prey to drag into
 Ettercaps frequently overhunt their environment. Left unchecked, ettercaps might fill whole woodlands with their webs and the cocooned remains of past meals, which puts ettercaps in conflict with Fey. Spiteful ettercaps go out of their way to torment and feed on Fey; they prefer to menace those smaller than themselves, like pixies and sprites. They rarely devour other sapient creatures swiftly, preferring to cocoon their captives and terrorize them for days.
 
 Ettercaps avoid fire, which can quickly burn through their webs and the dead trees where they make their homes.
+
+%%
 ```statblock
 "name": "Ettercap (XMM)"
 "size": "Medium"
@@ -63,14 +65,13 @@ Ettercaps avoid fire, which can quickly burn through their webs and the dead tre
   - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
-  - "name": "[Survival](3.Mechanics/rules/skills.md#Survival)"
+  - "name": "Survival"
     "desc": "+3"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"senses": "Darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "2"
 "traits":
@@ -104,6 +105,8 @@ Ettercaps avoid fire, which can quickly burn through their webs and the dead tre
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ettercap.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

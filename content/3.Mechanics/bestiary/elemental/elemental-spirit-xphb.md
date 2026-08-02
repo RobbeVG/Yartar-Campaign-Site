@@ -17,6 +17,8 @@ aliases:
 *Source: Player's Handbook (2024) p. 325*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Elemental%20Spirit.webp#center)
+
+%%
 ```statblock
 "name": "Elemental Spirit (XPHB)"
 "size": "Medium"
@@ -36,11 +38,8 @@ aliases:
   \ ft. (Water only)"
 "damage_resistances": "lightning, thunder (Air only)"
 "damage_immunities": "poison; fire (Fire only)"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "exhaustion, paralyzed, petrified, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Primordial, understands the languages you know"
 "traits":
   - "desc": "The spirit can move through a space as narrow as 1 inch wide without\
@@ -59,3 +58,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Elemental%20Spirit.webp"
 ```
 ^statblock
+%%

@@ -79,6 +79,8 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
 > 
 > I never cared for warmth. I never needed a body. My will is enough, and my work will be the legacy that makes my every sacrifice worthwhile!
 
+
+%%
 ```statblock
 "name": "Flameskull (XMM)"
 "size": "Tiny"
@@ -97,16 +99,13 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
   - !!int "11"
 "speed": "5 ft., fly 40 ft. (hover)"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
 "damage_immunities": "fire, necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, prone"
+"senses": "Darkvision 60 ft., passive Perception 12"
 "languages": "Common plus two other languages"
 "cr": "4"
 "traits":
@@ -139,6 +138,8 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Flameskull.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

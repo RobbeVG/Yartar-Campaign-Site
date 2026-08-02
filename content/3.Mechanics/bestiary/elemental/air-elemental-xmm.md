@@ -80,6 +80,8 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 | 5 | Sinister features obscured in a misty mass. |
 | 6 | Swirling storm clouds. |
 ^air-elemental-compositions
+
+%%
 ```statblock
 "name": "Air Elemental (XMM)"
 "size": "Large"
@@ -99,13 +101,9 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 "speed": "10 ft., fly 90 ft. (hover)"
 "damage_resistances": "bludgeoning, lightning, piercing, slashing"
 "damage_immunities": "poison, thunder"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
+  \ restrained, unconscious"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Auran)"
 "cr": "5"
 "traits":
@@ -128,6 +126,8 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Air%20Elemental.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

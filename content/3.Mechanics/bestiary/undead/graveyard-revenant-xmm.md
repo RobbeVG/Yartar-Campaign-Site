@@ -44,6 +44,7 @@ Graveyard revenants possess dozens of bodies that combine to form grotesque mass
 
 Wrathful spirits bent on revenge, revenants possess corpses and other materials, using them to seek justice or vent their rage on those who wronged them. Revenants refuse to rest until those they seek to punish are no more. If their bodies are destroyed, revenants claim new forms and continue their ruthless quests.
 
+%%
 ```statblock
 "name": "Graveyard Revenant (XMM)"
 "size": "Huge"
@@ -68,12 +69,9 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
   - "charisma": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [stunned](3.Mechanics/rules/conditions.md#Stunned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 13"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned,\
+  \ stunned, unconscious"
+"senses": "Darkvision 120 ft., passive Perception 13"
 "languages": "Common plus two other languages"
 "cr": "7"
 "traits":
@@ -103,6 +101,8 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Graveyard%20Revenant.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

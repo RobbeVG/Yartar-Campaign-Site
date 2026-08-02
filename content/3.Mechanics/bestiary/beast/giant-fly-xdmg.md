@@ -17,6 +17,8 @@ aliases:
 # [Giant Fly](3.Mechanics/bestiary/beast/giant-fly-xdmg.md)
 *Source: Dungeon Master's Guide (2024) p. 261*  
 
+
+%%
 ```statblock
 "name": "Giant Fly (XDMG)"
 "size": "Large"
@@ -34,8 +36,7 @@ aliases:
   - !!int "10"
   - !!int "3"
 "speed": "30 ft., fly 60 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "0"
 "source":
@@ -43,3 +44,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XDMG/Giant%20Fly.webp"
 ```
 ^statblock
+%%

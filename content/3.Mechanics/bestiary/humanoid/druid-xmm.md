@@ -65,6 +65,8 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
 | 5 | Part of a loose organization that adheres to timeless rituals and guards natural secrets. |
 | 6 | A warden who minds the underpinnings of reality and protects against extraplanar threats. |
 ^druid-traditions
+
+%%
 ```statblock
 "name": "Druid (XMM)"
 "size": "Small or Medium"
@@ -83,11 +85,11 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Medicine](3.Mechanics/rules/skills.md#Medicine)"
+  - "name": "Medicine"
     "desc": "+5"
-  - "name": "[Nature](3.Mechanics/rules/skills.md#Nature)"
+  - "name": "Nature"
     "desc": "+3"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
 "gear":
   - "[studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)"
@@ -115,6 +117,8 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Druid.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

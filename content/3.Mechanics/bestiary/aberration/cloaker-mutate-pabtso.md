@@ -49,6 +49,7 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Mutates.webp#center)
 
+%%
 ```statblock
 "name": "Cloaker Mutate (PaBTSO)"
 "size": "Large"
@@ -68,13 +69,11 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
   - !!int "11"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "damage_resistances": "necrotic, poison, psychic"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "exhaustion, poisoned"
+"senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Deep Speech, telepathy 60 ft., Undercommon"
 "cr": "10"
 "traits":
@@ -90,9 +89,8 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 20\
       \ (3d10 + 4) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 16 Constitution saving throw or have the [poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ condition for 1 minute. While [poisoned](3.Mechanics/rules/conditions.md#Poisoned)\
-      \ in this way, a creature can't regain hit points."
+      \ on a DC 16 Constitution saving throw or have the poisoned condition for 1\
+      \ minute. While poisoned in this way, a creature can't regain hit points."
     "name": "Corpse Swipe"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 13\
       \ (2d8 + 4) slashing damage."
@@ -105,7 +103,7 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
     "name": "Phantasmal Duplicates"
   - "desc": "The mutate lets out a moan charged with psychic energy. Each creature\
       \ within 60 feet of the mutate that isn't an Aberration must succeed on a DC\
-      \ 16 Wisdom saving throw or take 17 (5d6) psychic damage and have the [frightened](3.Mechanics/rules/conditions.md#Frightened)\
+      \ 16 Wisdom saving throw or take 17 (5d6) psychic damage and have the frightened\
       \ condition until the end of the mutate's next turn."
     "name": "Psychic Moan (Recharge 6)"
 "source":
@@ -113,3 +111,4 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Cloaker%20Mutate.webp"
 ```
 ^statblock
+%%

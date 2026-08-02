@@ -46,6 +46,7 @@ Bugbear warriors serve those who offer them treasure, food, or the chance to hun
 
 Bugbears embody fear of the wilds and the menace of natural places. They're notoriously stealthy, and foes that venture into their territories often vanish without a trace.
 
+%%
 ```statblock
 "name": "Bugbear Warrior (XMM)"
 "size": "Medium"
@@ -65,15 +66,14 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
-  - "name": "[Survival](3.Mechanics/rules/skills.md#Survival)"
+  - "name": "Survival"
     "desc": "+2"
 "gear":
   - "[hide armor](3.Mechanics/items/hide-armor-xphb.md)"
   - "three [light hammers](3.Mechanics/items/light-hammer-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
 "cr": "1"
 "traits":
@@ -93,6 +93,8 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bugbear%20Warrior.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

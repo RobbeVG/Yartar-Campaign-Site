@@ -17,6 +17,8 @@ aliases:
 *Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Animated%20Object.webp#center)
+
+%%
 ```statblock
 "name": "Animated Object (XPHB)"
 "size": "Unknown"
@@ -33,8 +35,7 @@ aliases:
   - !!int "3"
   - !!int "1"
 "speed": "30 ft."
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 6"
+"senses": "Blindsight 30 ft., passive Perception 6"
 "languages": "understands the languages you know"
 "actions":
   - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
@@ -46,3 +47,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Animated%20Object.webp"
 ```
 ^statblock
+%%

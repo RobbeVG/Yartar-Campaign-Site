@@ -16,6 +16,8 @@ aliases:
 # [Otherworldly Steed (Fiend)](3.Mechanics/bestiary/fiend/otherworldly-steed-fiend-xphb.md)
 *Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
+
+%%
 ```statblock
 "name": "Otherworldly Steed (Fiend) (XPHB)"
 "size": "Large"
@@ -53,3 +55,4 @@ aliases:
   - "XPHB"
 ```
 ^statblock
+%%

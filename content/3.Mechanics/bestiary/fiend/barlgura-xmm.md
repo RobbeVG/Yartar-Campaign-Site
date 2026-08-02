@@ -46,6 +46,8 @@ Barlguras are demons that embody brutality and killer instincts. They ruthlessly
 Barlguras cooperate with other demons, particularly other barlguras, so long as they have ample prey. Should a region be depleted of creatures to slaughter, these demons turn on one another in frays that can devastate vast expanses.
 
 Barlguras vary in appearance, but all have powerful frames and hands capable of climbing swiftly and delivering crushing blows. If brute force isn't enough to overwhelm their foes, barlguras can use demonic magic to conjure terrifying illusions and grasping vines. Most barlguras resemble nightmarish apes, and some bear exaggerated versions of features of predators common to the lands the barlguras inhabit. Many embed trophies from past hunts in their demonic bodies.
+
+%%
 ```statblock
 "name": "Barlgura (XMM)"
 "size": "Large"
@@ -68,15 +70,14 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
   - "dexterity": !!int "5"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 15"
+"condition_immunities": "poisoned"
+"senses": "Blindsight 30 ft., Darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "5"
 "traits":
@@ -109,6 +110,8 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Barlgura.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

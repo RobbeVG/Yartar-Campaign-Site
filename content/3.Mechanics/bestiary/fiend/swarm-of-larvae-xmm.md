@@ -47,6 +47,7 @@ Souls condemned to the Lower Planes often become larvae—repulsive, maggot-like
 
 Larvae that survive on the Lower Planes long enough can eventually transform into other sorts of lesser Fiends.
 
+%%
 ```statblock
 "name": "Swarm of Larvae (XMM)"
 "size": "Large"
@@ -65,12 +66,9 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
   - !!int "2"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [prone](3.Mechanics/rules/conditions.md#Prone),\
-  \ [restrained](3.Mechanics/rules/conditions.md#Restrained), [stunned](3.Mechanics/rules/conditions.md#Stunned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, prone,\
+  \ restrained, stunned"
+"senses": "Darkvision 60 ft., passive Perception 11"
 "languages": "understands all but can't speak"
 "cr": "1"
 "traits":
@@ -88,6 +86,8 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Swarm%20of%20Larvae.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -54,6 +54,7 @@ White dragons create lairs to defend themselves from other deadly arctic creatur
 
 White dragons brood in bitterly cold lairs clawed from stone and ice.
 
+%%
 ```statblock
 "name": "Young White Dragon (XMM)"
 "size": "Large"
@@ -76,13 +77,12 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "dexterity": !!int "3"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+3"
 "damage_immunities": "cold"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 16"
+"senses": "Blindsight 30 ft., Darkvision 120 ft., passive Perception 16"
 "languages": "Common, Draconic"
 "cr": "6"
 "traits":
@@ -104,6 +104,8 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Young%20White%20Dragon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

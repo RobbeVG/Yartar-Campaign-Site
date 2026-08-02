@@ -46,6 +46,7 @@ Bugbear stalkers frequently take their victims hostage, relishing opportunities 
 
 Bugbears embody fear of the wilds and the menace of natural places. They're notoriously stealthy, and foes that venture into their territories often vanish without a trace.
 
+%%
 ```statblock
 "name": "Bugbear Stalker (XMM)"
 "size": "Medium"
@@ -68,16 +69,15 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
   - "constitution": !!int "4"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
-  - "name": "[Survival](3.Mechanics/rules/skills.md#Survival)"
+  - "name": "Survival"
     "desc": "+3"
 "gear":
   - "[chain shirt](3.Mechanics/items/chain-shirt-xphb.md)"
   - "six [javelins](3.Mechanics/items/javelin-xphb.md)"
   - "[morningstar](3.Mechanics/items/morningstar-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "Darkvision 60 ft., passive Perception 11"
 "languages": "Common, Goblin"
 "cr": "3"
 "traits":
@@ -103,6 +103,8 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bugbear%20Stalker.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

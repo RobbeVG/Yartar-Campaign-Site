@@ -45,6 +45,7 @@ Centaur wardens often lead groups of centaur troopers and act as intermediaries 
 
 Centaurs are defenders of forests, plains, and sites of primeval power. With upper bodies like humans' and the lower bodies of horses, centaurs charge into battle against those who would harm their allies.
 
+%%
 ```statblock
 "name": "Centaur Warden (XMM)"
 "size": "Large"
@@ -66,11 +67,11 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
   - "constitution": !!int "5"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+7"
-  - "name": "[Nature](3.Mechanics/rules/skills.md#Nature)"
+  - "name": "Nature"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
 "senses": "passive Perception 17"
 "languages": "Druidic, Elvish, Sylvan"
@@ -102,6 +103,8 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Centaur%20Warden.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

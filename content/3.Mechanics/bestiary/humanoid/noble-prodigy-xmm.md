@@ -42,6 +42,7 @@ Noble prodigies trace their lineage to a legendary hero, a demigod, a dragon, or
 
 Nobles encompass a variety of people with social influence. They might be rulers, wealthy merchants, callous bureaucrats, or the idle elite.
 
+%%
 ```statblock
 "name": "Noble Prodigy (XMM)"
 "size": "Small or Medium"
@@ -65,9 +66,9 @@ Nobles encompass a variety of people with social influence. They might be rulers
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+8"
 "senses": "passive Perception 16"
 "languages": "Common plus two other languages"
@@ -97,6 +98,8 @@ Nobles encompass a variety of people with social influence. They might be rulers
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Noble%20Prodigy.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

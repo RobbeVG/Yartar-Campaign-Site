@@ -52,6 +52,8 @@ Frost giants often travel far to find food and goods. This leads many to become 
 > 
 > The small folk have barely anything worth looting, so they shouldn't much mind when we take it from them.
 
+
+%%
 ```statblock
 "name": "Frost Giant (XMM)"
 "size": "Huge"
@@ -74,9 +76,9 @@ Frost giants often travel far to find food and goods. This leads many to become 
   - "wisdom": !!int "3"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+9"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
 "damage_immunities": "cold"
 "senses": "passive Perception 13"
@@ -103,6 +105,8 @@ Frost giants often travel far to find food and goods. This leads many to become 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Frost%20Giant.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

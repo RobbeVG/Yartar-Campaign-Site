@@ -97,6 +97,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > Darling, you are simply delicious...
 
 
+%%
 ```statblock
 "name": "Vampire Familiar (XMM)"
 "size": "Small or Medium"
@@ -118,19 +119,17 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   - "dexterity": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_resistances": "necrotic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed) (except\
-  \ from its vampire master)"
+"condition_immunities": "charmed (except from its vampire master)"
 "gear":
   - "ten [daggers](3.Mechanics/items/dagger-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "Darkvision 60 ft., passive Perception 14"
 "languages": "Common plus one other language"
 "cr": "3"
 "traits":
@@ -159,6 +158,8 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Vampire%20Familiar.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

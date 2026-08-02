@@ -79,6 +79,8 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
 > 
 > Alas, the Elder Elves made a fatal mistake. When the Dragon's Tear comet next returned, the Vast Gate—still keyed to the Far Realm of alien entities—linked to the comet and opened again. And what emerged, ululating profanities, sang unnameable hungers into an unguarded world.
 
+
+%%
 ```statblock
 "name": "Gibbering Mouther (XMM)"
 "size": "Medium"
@@ -96,9 +98,8 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
   - !!int "10"
   - !!int "6"
 "speed": "20 ft., swim 20 ft."
-"condition_immunities": "[prone](3.Mechanics/rules/conditions.md#Prone)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "prone"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "2"
 "traits":
@@ -132,6 +133,8 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gibbering%20Mouther.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

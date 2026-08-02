@@ -65,6 +65,8 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 | 5 | A plant with magic fruit or remarkable seeds. |
 | 6 | A shambling mound or treant that the dryad lives in or around as a Fey symbiote. |
 ^dryad-sanctuaries
+
+%%
 ```statblock
 "name": "Dryad (XMM)"
 "size": "Medium"
@@ -83,12 +85,11 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "Darkvision 60 ft., passive Perception 14"
 "languages": "Elvish, Sylvan"
 "cr": "1"
 "traits":
@@ -124,6 +125,8 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Dryad.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

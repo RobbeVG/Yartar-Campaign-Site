@@ -37,6 +37,8 @@ Rust monsters roam the Underdark searching for ferrous metal. When they find thi
 - **Treasure.** None  
 
 Rust monsters roam the Underdark searching for ferrous metal. When they find this material—whether natural veins, subterranean structures, or creatures' equipment—these beetle-like scavengers rush to feed. Using their feathery antennae, rust monsters dissolve metals such as iron and steel into rusted scrap. They easily gnaw through this corroded metal using their mandibles. Rust monsters usually ignore creatures without metal equipment, but they defend themselves if attacked.
+
+%%
 ```statblock
 "name": "Rust Monster (XMM)"
 "size": "Medium"
@@ -54,8 +56,7 @@ Rust monsters roam the Underdark searching for ferrous metal. When they find thi
   - !!int "13"
   - !!int "6"
 "speed": "40 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "Darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -88,6 +89,8 @@ Rust monsters roam the Underdark searching for ferrous metal. When they find thi
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Rust%20Monster.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

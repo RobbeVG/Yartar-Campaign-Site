@@ -42,6 +42,7 @@ Gray oozes appear in areas affected by unpredictable magic. Magic-users who fail
 
 Gray oozes are predatory, corrosive slimes that blend in with stony surroundings.
 
+%%
 ```statblock
 "name": "Gray Ooze (XMM)"
 "size": "Medium"
@@ -60,15 +61,12 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
   - !!int "2"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+2"
 "damage_resistances": "acid, cold, fire"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [deafened](3.Mechanics/rules/conditions.md#Deafened), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 8"
+"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, grappled,\
+  \ prone, restrained"
+"senses": "Blindsight 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -95,6 +93,8 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gray%20Ooze.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

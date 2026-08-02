@@ -38,6 +38,8 @@ Wererats can shape-shift from their humanoid forms into giant rats or humanoid-r
 - **Treasure.** Individual  
 
 Wererats can shape-shift from their humanoid forms into giant rats or humanoid-rat hybrids. These creatures can transform voluntarily, but some are magically compelled to shape-shift when exposed to complete darkness or during nights of a new moon. Often, wererats' nature results from a divine curse—punishment for their deceitful natures or the crimes of their treacherous families. Wererats frequently work in groups, forming bandit gangs or thieves' guilds.
+
+%%
 ```statblock
 "name": "Wererat (XMM)"
 "size": "Small or Medium"
@@ -57,14 +59,13 @@ Wererats can shape-shift from their humanoid forms into giant rats or humanoid-r
   - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "gear":
   - "[hand crossbow](3.Mechanics/items/hand-crossbow-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "Darkvision 60 ft., passive Perception 14"
 "languages": "Common (can't speak in rat form)"
 "cr": "2"
 "actions":
@@ -94,6 +95,8 @@ Wererats can shape-shift from their humanoid forms into giant rats or humanoid-r
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Wererat.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -42,6 +42,7 @@ Cockatrices often try to claim eye-catching structures—such as ruins and seclu
 
 Cockatrices combine the features of irate roosters and starving reptiles. They petrify those they bite, their slightest peck turning their prey to stone.
 
+%%
 ```statblock
 "name": "Cockatrice (XMM)"
 "size": "Small"
@@ -59,9 +60,8 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
   - !!int "13"
   - !!int "5"
 "speed": "20 ft., fly 40 ft."
-"condition_immunities": "[petrified](3.Mechanics/rules/conditions.md#Petrified)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "petrified"
+"senses": "Darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "1/2"
 "actions":
@@ -79,6 +79,8 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cockatrice.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

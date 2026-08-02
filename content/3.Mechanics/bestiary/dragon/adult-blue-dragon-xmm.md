@@ -59,6 +59,7 @@ Regalia of rulership and artistic masterpieces fill blue dragons' hoards. These 
 
 Blue dragons dwell in arid lands. Their lairs might be death traps meant to entomb invaders or ostentatious fortresses where they plot domination.
 
+%%
 ```statblock
 "name": "Adult Blue Dragon (XMM)"
 "size": "Huge"
@@ -81,13 +82,12 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
   - "dexterity": !!int "5"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+12"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_immunities": "lightning"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 22"
+"senses": "Blindsight 60 ft., Darkvision 120 ft., passive Perception 22"
 "languages": "Common, Draconic"
 "cr": "16"
 "traits":
@@ -139,6 +139,8 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Adult%20Blue%20Dragon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

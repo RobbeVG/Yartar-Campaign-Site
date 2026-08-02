@@ -79,6 +79,8 @@ Stone golems are typically created to protect places of significance to a group,
 > 
 > Exercise discernment when deciding the golem's appearance, as your creation is likely to long outlive its model.
 
+
+%%
 ```statblock
 "name": "Stone Golem (XMM)"
 "size": "Large"
@@ -97,11 +99,8 @@ Stone golems are typically created to protect places of significance to a group,
   - !!int "1"
 "speed": "30 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"senses": "Darkvision 120 ft., passive Perception 10"
 "languages": "understands Common plus two other languages but can't speak"
 "cr": "10"
 "traits":
@@ -128,6 +127,8 @@ Stone golems are typically created to protect places of significance to a group,
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Stone%20Golem.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

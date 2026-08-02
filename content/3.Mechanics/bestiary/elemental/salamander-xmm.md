@@ -60,6 +60,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 
 ![A salamander inferno master drives its salamander and fire snake minions to burn all they encounter](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Salamanders.webp#center)
 
+%%
 ```statblock
 "name": "Salamander (XMM)"
 "size": "Large"
@@ -79,8 +80,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "speed": "30 ft., climb 30 ft."
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Ignan)"
 "cr": "5"
 "traits":
@@ -108,6 +108,8 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Salamander.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

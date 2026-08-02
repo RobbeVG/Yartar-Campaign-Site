@@ -41,6 +41,8 @@ Umber hulks typically lurk in tunnels they've burrowed alongside other passages.
 Lumbering, carapace-armored bipeds, umber hulks burrow through the Underdark, feeding on anything they can crush in their mighty mandibles. These tenacious hunters sense movement through the surrounding earth, then burst through cavern walls to surprise their prey. Those ambushed by umber hulks risk meeting the gaze of the monsters' eerie, multifaceted eyes, which can cause others to act irrationally and even lash out at their allies.
 
 Umber hulks typically lurk in tunnels they've burrowed alongside other passages. When they detect creatures moving, they burst through the rock walls between the passages to attack. While these monsters can communicate with one other, they usually hunt alone and avoid each other's territories. Umber hulks focus on finding food and crushing intruders. They have little interest in allying with other creatures, but manipulative inhabitants of the Underdark, such as beholders and mind flayers, sometimes compel umber hulks to serve them.
+
+%%
 ```statblock
 "name": "Umber Hulk (XMM)"
 "size": "Large"
@@ -58,8 +60,7 @@ Umber hulks typically lurk in tunnels they've burrowed alongside other passages.
   - !!int "10"
   - !!int "10"
 "speed": "30 ft., burrow 20 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., Tremorsense\
-  \ 60 ft., passive Perception 10"
+"senses": "Darkvision 120 ft., Tremorsense 60 ft., passive Perception 10"
 "languages": "Umber Hulk"
 "cr": "5"
 "traits":
@@ -86,6 +87,8 @@ Umber hulks typically lurk in tunnels they've burrowed alongside other passages.
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Umber%20Hulk.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -53,6 +53,7 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 > Ah, the infinite wonders of the Abyss. If there's anything you don't like, you'll find it here.
 
 
+%%
 ```statblock
 "name": "Dretch (XMM)"
 "size": "Small"
@@ -73,9 +74,8 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 60 ft., passive Perception 9"
 "languages": "Abyssal; telepathy 60 ft. (works only with creatures that understand\
   \ Abyssal)"
 "cr": "1/4"
@@ -93,6 +93,8 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Dretch.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

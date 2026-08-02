@@ -45,6 +45,8 @@ A demilich is a skull harboring the remnants of a lich's wicked essence. If the 
 ### Demilich Lairs
 
 Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of these is the Tomb of Horrors, lair of the infamous Acererak.
+
+%%
 ```statblock
 "name": "Demilich (XMM)"
 "size": "Tiny"
@@ -69,13 +71,9 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
   - "wisdom": !!int "9"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "necrotic, poison, psychic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened),\
-  \ [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone),\
-  \ [stunned](3.Mechanics/rules/conditions.md#Stunned)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 13"
+"condition_immunities": "charmed, deafened, exhaustion, frightened, paralyzed, petrified,\
+  \ poisoned, prone, stunned"
+"senses": "Truesight 120 ft., passive Perception 13"
 "languages": ""
 "cr": "18"
 "traits":
@@ -131,6 +129,8 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Demilich.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

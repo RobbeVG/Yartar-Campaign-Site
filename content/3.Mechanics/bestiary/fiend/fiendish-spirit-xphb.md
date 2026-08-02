@@ -17,6 +17,8 @@ aliases:
 *Source: Player's Handbook (2024) p. 327*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Fiendish%20Spirit.webp#center)
+
+%%
 ```statblock
 "name": "Fiendish Spirit (XPHB)"
 "size": "Large"
@@ -36,9 +38,8 @@ aliases:
 "speed": "40 ft., climb 40 ft. (Demon only), fly 60 ft. (Devil only)"
 "damage_resistances": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Infernal, Telepathy 60 ft."
 "traits":
   - "desc": "When the spirit drops to 0 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
@@ -73,3 +74,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Fiendish%20Spirit.webp"
 ```
 ^statblock
+%%

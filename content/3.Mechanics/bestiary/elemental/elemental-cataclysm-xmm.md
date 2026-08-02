@@ -78,6 +78,8 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
 | 7 | River where previously there was none. |
 | 8 | Series of dramatic rock formations. |
 ^elemental-alterations
+
+%%
 ```statblock
 "name": "Elemental Cataclysm (XMM)"
 "size": "Gargantuan"
@@ -102,15 +104,9 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
   - "wisdom": !!int "9"
   - "charisma": !!int "6"
 "damage_immunities": "acid, cold, fire, lightning, poison, thunder"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [deafened](3.Mechanics/rules/conditions.md#Deafened), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone),\
-  \ [restrained](3.Mechanics/rules/conditions.md#Restrained), [stunned](3.Mechanics/rules/conditions.md#Stunned),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 150 ft., passive Perception\
-  \ 12"
+"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, grappled,\
+  \ paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious"
+"senses": "Truesight 150 ft., passive Perception 12"
 "languages": "Primordial"
 "cr": "22"
 "traits":
@@ -183,6 +179,8 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Elemental%20Cataclysm.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

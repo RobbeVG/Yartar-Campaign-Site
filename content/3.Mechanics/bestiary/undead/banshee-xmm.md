@@ -69,6 +69,8 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
 | 5 | Seek the return of a stolen treasure. |
 | 6 | Slay those more beautiful than it was in life. |
 ^banshee-sorrows
+
+%%
 ```statblock
 "name": "Banshee (XMM)"
 "size": "Medium"
@@ -90,13 +92,9 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
   - "wisdom": !!int "2"
 "damage_resistances": "acid, bludgeoning, fire, lightning, piercing, slashing, thunder"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone),\
-  \ [restrained](3.Mechanics/rules/conditions.md#Restrained)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
+  \ poisoned, prone, restrained"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Common, Elvish"
 "cr": "4"
 "traits":
@@ -128,6 +126,8 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Banshee.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

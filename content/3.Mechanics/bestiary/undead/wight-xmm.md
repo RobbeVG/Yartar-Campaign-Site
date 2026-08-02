@@ -82,6 +82,8 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
 | 7 | Prove it was the greatest warrior to ever live. |
 | 8 | Seek its stolen heart or other treasure. |
 ^wight-motives
+
+%%
 ```statblock
 "name": "Wight (XMM)"
 "size": "Medium"
@@ -100,18 +102,16 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
+"condition_immunities": "exhaustion, poisoned"
 "gear":
   - "[studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"senses": "Darkvision 60 ft., passive Perception 13"
 "languages": "Common plus one other language"
 "cr": "3"
 "traits":
@@ -141,6 +141,8 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Wight.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

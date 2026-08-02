@@ -52,6 +52,7 @@ Guards protect people, places, and things, either for pay or from a sense of dut
 > To distinguish between Waterdeep's different groups of guardians, keep this handy mnemonic in mind: the Guard guards the walls while the Watch watches all.
 
 
+%%
 ```statblock
 "name": "Guard (XMM)"
 "size": "Small or Medium"
@@ -70,7 +71,7 @@ Guards protect people, places, and things, either for pay or from a sense of dut
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
 "gear":
   - "[chain shirt](3.Mechanics/items/chain-shirt-xphb.md)"
@@ -88,6 +89,8 @@ Guards protect people, places, and things, either for pay or from a sense of dut
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Guard.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -63,6 +63,8 @@ Death tyrants often lurk deep in the Underdark, in the tunnel-mazes they occupie
 > 
 > A cluster of tiny lights descended from a dark crevice in the ceiling. These motes cast an eerie glow on the great, alien skull that hung beneath them.
 
+
+%%
 ```statblock
 "name": "Death Tyrant (XMM)"
 "size": "Large"
@@ -85,14 +87,11 @@ Death tyrants often lurk deep in the Underdark, in the tunnel-mazes they occupie
   - "constitution": !!int "7"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+12"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 22"
+"condition_immunities": "charmed, exhaustion, paralyzed, petrified, poisoned, prone"
+"senses": "Darkvision 120 ft., passive Perception 22"
 "languages": "Deep Speech, Undercommon"
 "cr": "14"
 "traits":
@@ -188,6 +187,8 @@ Death tyrants often lurk deep in the Underdark, in the tunnel-mazes they occupie
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Death%20Tyrant.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

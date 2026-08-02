@@ -46,6 +46,8 @@ Bearded devils, also known as barbazus, fill the legions of the Nine Hells. Thes
 Left to their own devices, bearded devils encourage mortals to act callously and abuse their power, inflating their egos and inspiring petty tyrannies. Villains aligned with the Nine Hells call on bearded devils to serve as guardians, enforce their will, or fight in wicked armies.
 
 Bearded devils' eponymous beards consist of grotesque, tentacle-like growths. These squirming, barb-riddled beards carry poison capable of preventing magical healing. Bearded devils are also known for their distinctive glaives, through which they channel hellish energy. Those struck by these unnatural weapons suffer infernal wounds that grow worse until stanched or magically healed.
+
+%%
 ```statblock
 "name": "Bearded Devil (XMM)"
 "size": "Medium"
@@ -70,11 +72,9 @@ Bearded devils' eponymous beards consist of grotesque, tentacle-like growths. Th
   - "charisma": !!int "4"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive\
-  \ Perception 10"
+"condition_immunities": "frightened, poisoned"
+"senses": "Darkvision 120 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 10"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "3"
 "traits":
@@ -105,6 +105,8 @@ Bearded devils' eponymous beards consist of grotesque, tentacle-like growths. Th
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bearded%20Devil.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

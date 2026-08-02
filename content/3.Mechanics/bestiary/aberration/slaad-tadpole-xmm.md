@@ -72,6 +72,7 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Red%20and%20Blue%20Slaad.webp#center)
 
+%%
 ```statblock
 "name": "Slaad Tadpole (XMM)"
 "size": "Tiny"
@@ -90,11 +91,10 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
   - !!int "3"
 "speed": "30 ft., burrow 10 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 7"
+"senses": "Darkvision 60 ft., passive Perception 7"
 "languages": "understands Slaad but can't speak"
 "cr": "1/8"
 "traits":
@@ -110,6 +110,8 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Slaad%20Tadpole.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

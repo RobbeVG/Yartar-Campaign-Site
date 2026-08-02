@@ -50,6 +50,8 @@ Carrion crawlers have segmented bodies like gigantic cutworms. From beneath thei
 Carrion crawlers scour sewers, battlefields, necropolises, and fetid wildernesses for corpses, clinging to ceilings to ambush smaller prey and to avoid competing hunters. They're drawn to light and the scent of blood, recognizing them as signs of food.
 
 These scavengers avoid ingesting inorganic material. Crypts with funeral armors sucked clean of their corpses and eerily pristine catacombs are signs of infestation by carrion crawlers.
+
+%%
 ```statblock
 "name": "Carrion Crawler (XMM)"
 "size": "Large"
@@ -68,10 +70,9 @@ These scavengers avoid ingesting inorganic material. Crypts with funeral armors 
   - !!int "5"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "Darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "2"
 "traits":
@@ -96,6 +97,8 @@ These scavengers avoid ingesting inorganic material. Crypts with funeral armors 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Carrion%20Crawler.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

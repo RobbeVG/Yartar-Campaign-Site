@@ -16,6 +16,8 @@ aliases:
 # [Aberrant Spirit (Slaad)](3.Mechanics/bestiary/aberration/aberrant-spirit-slaad-xphb.md)
 *Source: Player's Handbook (2024) p. 322*  
 
+
+%%
 ```statblock
 "name": "Aberrant Spirit (Slaad) (XPHB)"
 "size": "Medium"
@@ -33,8 +35,7 @@ aliases:
   - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "psychic"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Deep Speech, understands the languages you know"
 "traits":
   - "desc": "The spirit regains 5 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
@@ -54,3 +55,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Aberrant%20Spirit%20%28Slaad%29.webp"
 ```
 ^statblock
+%%

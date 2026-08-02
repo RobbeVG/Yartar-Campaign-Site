@@ -17,6 +17,8 @@ aliases:
 *Source: Player's Handbook (2024) p. 323*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Celestial%20Spirit.webp#center)
+
+%%
 ```statblock
 "name": "Celestial Spirit (XPHB)"
 "size": "Large"
@@ -34,9 +36,8 @@ aliases:
   - !!int "16"
 "speed": "30 ft., fly 40 ft."
 "damage_resistances": "radiant"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "charmed, frightened"
+"senses": "Darkvision 60 ft., passive Perception 12"
 "languages": "Celestial, understands the languages you know"
 "actions":
   - "desc": "The spirit makes a number of attacks equal to half this spell's level\
@@ -58,3 +59,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Celestial%20Spirit.webp"
 ```
 ^statblock
+%%

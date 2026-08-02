@@ -46,6 +46,8 @@ Masterminds of the Nine Hells and generals of infernal legions, pit fiends seek 
 Pit fiends are the nobility of the Nine Hells, and many rule Lower Planar fiefdoms, doomed mortal worlds, and other infernal redoubts. Most serve archdevils of the Nine Hells as they pursue their own ambitions. Ranks of lesser devils obey pit fiends, but these cunning tyrants remain on guard against betrayal from their servants.
 
 Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures with their mere presence. Despite their size and incredible physical and magical might, pit fiends are as likely to try to corrupt foes as they are to destroy them outright. Pit fiends' arrogance can lead them to underestimate mortal foes—a failing that can lead to their downfall.
+
+%%
 ```statblock
 "name": "Pit Fiend (XMM)"
 "size": "Large"
@@ -68,15 +70,14 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
   - "dexterity": !!int "8"
   - "wisdom": !!int "10"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+10"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+19"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 20"
+"condition_immunities": "poisoned"
+"senses": "Truesight 120 ft., passive Perception 20"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "20"
 "traits":
@@ -126,6 +127,8 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Pit%20Fiend.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -53,6 +53,7 @@ Ogres are selfish raiders and hulking gluttons spawned of hateful supernatural f
 
 Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Vaprak. They magically emerge from the earth of lands corrupted by evil gods, sinister magic, or ancient curses. Some bear evidence of the places that spawned them, sporting rocky calluses, mossy growths, or frozen scars.
 
+%%
 ```statblock
 "name": "Ogre (XMM)"
 "size": "Large"
@@ -73,8 +74,7 @@ Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Va
 "gear":
   - "[greatclub](3.Mechanics/items/greatclub-xphb.md)"
   - "three [javelins](3.Mechanics/items/javelin-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
+"senses": "Darkvision 60 ft., passive Perception 8"
 "languages": "Common, Giant"
 "cr": "2"
 "actions":
@@ -89,6 +89,8 @@ Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Va
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ogre.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

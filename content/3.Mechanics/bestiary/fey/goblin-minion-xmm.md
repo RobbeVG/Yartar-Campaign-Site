@@ -66,6 +66,7 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 > Bree-yark!
 
 
+%%
 ```statblock
 "name": "Goblin Minion (XMM)"
 "size": "Small"
@@ -85,12 +86,11 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "gear":
   - "three [daggers](3.Mechanics/items/dagger-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"senses": "Darkvision 60 ft., passive Perception 9"
 "languages": "Common, Goblin"
 "cr": "1/8"
 "actions":
@@ -106,6 +106,8 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Goblin%20Minion.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -94,6 +94,7 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Priests.webp#center)
 
+%%
 ```statblock
 "name": "Priest Acolyte (XMM)"
 "size": "Small or Medium"
@@ -113,9 +114,9 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Medicine](3.Mechanics/rules/skills.md#Medicine)"
+  - "name": "Medicine"
     "desc": "+4"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+2"
 "gear":
   - "[chain shirt](3.Mechanics/items/chain-shirt-xphb.md)"
@@ -143,6 +144,8 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Priest%20Acolyte.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

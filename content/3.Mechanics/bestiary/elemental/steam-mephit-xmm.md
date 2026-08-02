@@ -57,6 +57,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 > I am Seamusxanthuszenus, Slayer of Fiends, Merchant Most Excellent, Purveyor of Death!
 
 
+%%
 ```statblock
 "name": "Steam Mephit (XMM)"
 "size": "Small"
@@ -75,13 +76,11 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - !!int "12"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+2"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "exhaustion, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Aquan, Ignan)"
 "cr": "1/4"
 "traits":
@@ -109,6 +108,8 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Steam%20Mephit.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

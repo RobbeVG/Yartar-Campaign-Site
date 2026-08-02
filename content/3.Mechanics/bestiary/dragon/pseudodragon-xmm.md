@@ -99,6 +99,8 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
 > 
 > If you want to keep a pseudodragon happy, get used to thinking of yourself as its familiar.
 
+
+%%
 ```statblock
 "name": "Pseudodragon (XMM)"
 "size": "Tiny"
@@ -117,12 +119,11 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
   - !!int "10"
 "speed": "15 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"senses": "Blindsight 10 ft., Darkvision 60 ft., passive Perception 15"
 "languages": "understands Common and Draconic but can't speak"
 "cr": "1/4"
 "traits":
@@ -148,6 +149,8 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Pseudodragon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

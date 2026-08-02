@@ -38,6 +38,8 @@ Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these d
 - **Treasure.** [Armaments](3.Mechanics/tables/random-magic-items-armaments.md)  
 
 Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these demonic warlords seethe with wrath, their rage erupting in waves of fire and as a pair of vicious weapons: a sword of crackling lightning and a whip of lashing flames. A balor's fury persists until the moment of its demise, at which point it explodes—a last act of vengeance against those who slew it. Demon lords and evil gods harness balors' rage by making balors commanders of armies or guardians of grave secrets.
+
+%%
 ```statblock
 "name": "Balor (XMM)"
 "size": "Huge"
@@ -60,14 +62,12 @@ Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these d
   - "constitution": !!int "12"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+9"
 "damage_resistances": "cold, lightning"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 19"
+"condition_immunities": "charmed, frightened, poisoned"
+"senses": "Truesight 120 ft., passive Perception 19"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "19"
 "traits":
@@ -108,6 +108,8 @@ Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these d
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Balor.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

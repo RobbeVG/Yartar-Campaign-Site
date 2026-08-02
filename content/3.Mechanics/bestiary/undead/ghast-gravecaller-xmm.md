@@ -44,6 +44,7 @@ Ghast gravecallers wield fell magic and converse with corpses. They might pose a
 
 Ghasts are reeking, undying corpses closely related to ghouls. They hunger for the vices they enjoyed in life as much as they do for rotting flesh.
 
+%%
 ```statblock
 "name": "Ghast Gravecaller (XMM)"
 "size": "Medium"
@@ -65,10 +66,8 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
   - "constitution": !!int "5"
   - "wisdom": !!int "5"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"condition_immunities": "charmed, exhaustion, poisoned"
+"senses": "Darkvision 120 ft., passive Perception 12"
 "languages": "Abyssal, Common"
 "cr": "6"
 "traits":
@@ -99,6 +98,8 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ghast%20Gravecaller.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -66,6 +66,8 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
 | 3 | Luring other monsters to the settlement. |
 | 4 | Playing drums that keep everyone awake. |
 ^oni-troubles
+
+%%
 ```statblock
 "name": "Oni (XMM)"
 "size": "Large"
@@ -89,15 +91,14 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
   - "wisdom": !!int "4"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+5"
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+8"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
 "damage_resistances": "cold"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "Darkvision 60 ft., passive Perception 14"
 "languages": "Common, Giant"
 "cr": "7"
 "traits":
@@ -135,6 +136,8 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Oni.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

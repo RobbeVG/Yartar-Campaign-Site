@@ -71,6 +71,8 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
 | 5 | Posing as a flattering underling. |
 | 6 | Taking the form of one in need of protection. |
 ^succubus-temptations
+
+%%
 ```statblock
 "name": "Succubus (XMM)"
 "size": "Medium"
@@ -89,19 +91,18 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
   - !!int "20"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+9"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+9"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_resistances": "cold, fire, poison, psychic"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "Darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Infernal; telepathy 60 ft."
 "cr": "4"
 "traits":
@@ -135,6 +136,8 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Succubus.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -70,6 +70,8 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
 | 5 | Steal an invention and slay all who know of it. |
 | 6 | Unleash fiendish hordes on a foe's homeland. |
 ^ultroloth-conspiracies
+
+%%
 ```statblock
 "name": "Ultroloth (XMM)"
 "size": "Medium"
@@ -89,18 +91,16 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
   - !!int "18"
 "speed": "30 ft., fly 60 ft. (hover)"
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+9"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+8"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 17"
+"condition_immunities": "charmed, frightened, poisoned"
+"senses": "Truesight 120 ft., passive Perception 17"
 "languages": "Abyssal, Infernal; telepathy 120 ft."
 "cr": "13"
 "traits":
@@ -143,6 +143,8 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ultroloth.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

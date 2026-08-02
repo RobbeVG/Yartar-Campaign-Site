@@ -16,6 +16,8 @@ aliases:
 # [Bestial Spirit (Air)](3.Mechanics/bestiary/beast/bestial-spirit-air-xphb.md)
 *Source: Player's Handbook (2024) p. 323*  
 
+
+%%
 ```statblock
 "name": "Bestial Spirit (Air) (XPHB)"
 "size": "Small"
@@ -32,8 +34,7 @@ aliases:
   - !!int "14"
   - !!int "5"
 "speed": "30 ft., fly 60 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "Darkvision 60 ft., passive Perception 12"
 "languages": "understands the languages you know"
 "traits":
   - "desc": "The spirit doesn't provoke [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack)\
@@ -51,3 +52,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Bestial%20Spirit%20%28Air%29.webp"
 ```
 ^statblock
+%%

@@ -42,6 +42,7 @@ Scouts are keen archers and acutely aware of their surroundings. They often know
 
 Scouts are warriors of the wilderness, trained in hunting and tracking. They might be explorers or trappers, or they could perform more martial roles as archers, bounty hunters, or outriders.
 
+%%
 ```statblock
 "name": "Scout (XMM)"
 "size": "Small or Medium"
@@ -60,13 +61,13 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Nature](3.Mechanics/rules/skills.md#Nature)"
+  - "name": "Nature"
     "desc": "+4"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
-  - "name": "[Survival](3.Mechanics/rules/skills.md#Survival)"
+  - "name": "Survival"
     "desc": "+5"
 "gear":
   - "[leather armor](3.Mechanics/items/leather-armor-xphb.md)"
@@ -88,6 +89,8 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Scout.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

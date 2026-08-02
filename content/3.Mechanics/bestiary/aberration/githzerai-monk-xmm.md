@@ -97,6 +97,7 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 > We githzerai crave a challenge, so that when Zerthimon returns, he shall find us ready. Thus we traveled to howling Limbo to make our new home.
 
 
+%%
 ```statblock
 "name": "Githzerai Monk (XMM)"
 "size": "Medium"
@@ -121,9 +122,9 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
   - "intelligence": !!int "3"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+4"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": "Common, Gith"
@@ -154,6 +155,8 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Githzerai%20Monk.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

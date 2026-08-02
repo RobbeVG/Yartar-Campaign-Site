@@ -26,6 +26,8 @@ Fueled by the fervent aggression of the evil spirit within, fiendish augers can 
 A fiendish auger is created when a wicked spirit enters an excavation drill, causing the hulking corkscrew bore to glow brightly with hellfire.
 
 Fueled by the fervent aggression of the evil spirit within, fiendish augers can rapidly churn through solid rock. However, those who employ a fiendish auger must keep a keen eye on the machine. Without careful instruction, a fiendish auger indiscriminately bores through creature and earth alike.
+
+%%
 ```statblock
 "name": "Fiendish Auger (PaBTSO)"
 "size": "Huge"
@@ -45,12 +47,9 @@ Fueled by the fervent aggression of the evil spirit within, fiendish augers can 
   - !!int "5"
 "speed": "40 ft., burrow 30 ft."
 "damage_immunities": "fire, poison"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft. (can't see\
-  \ beyond this radius), passive Perception 11"
+"condition_immunities": "blinded, charmed, exhaustion, frightened, paralyzed, petrified,\
+  \ poisoned, unconscious"
+"senses": "blindsight 60 ft. (can't see beyond this radius), passive Perception 11"
 "languages": ""
 "cr": "5"
 "traits":
@@ -65,7 +64,7 @@ Fueled by the fervent aggression of the evil spirit within, fiendish augers can 
       \ least 20 feet in a straight line toward the target immediately before the\
       \ hit, the target takes an additional 11 (2d10) piercing damage, and if the\
       \ target is a creature, it must succeed on a DC 17 Strength saving throw or\
-      \ have the [prone](3.Mechanics/rules/conditions.md#Prone) condition."
+      \ have the prone condition."
     "name": "Flaming Drill"
 "bonus_actions":
   - "desc": "The auger releases an intense burst of heat in a 30-foot-radius sphere\
@@ -78,3 +77,4 @@ Fueled by the fervent aggression of the evil spirit within, fiendish augers can 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Fiendish%20Auger.webp"
 ```
 ^statblock
+%%

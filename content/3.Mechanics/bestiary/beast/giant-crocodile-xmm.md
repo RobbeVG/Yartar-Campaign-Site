@@ -33,6 +33,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![A druid calls on animals of the hills and mountains to aid her cause](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Hills%20and%20Mountains.webp)
 ![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
+
+%%
 ```statblock
 "name": "Giant Crocodile (XMM)"
 "size": "Huge"
@@ -51,7 +53,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "7"
 "speed": "30 ft., swim 50 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "senses": "passive Perception 10"
 "languages": ""
@@ -77,6 +79,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Giant%20Crocodile.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

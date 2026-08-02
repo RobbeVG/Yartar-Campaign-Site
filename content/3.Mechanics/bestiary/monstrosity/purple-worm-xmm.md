@@ -48,6 +48,8 @@ Titanic purple worms burrow through the earth and sand. Ever ravenous, they devo
 > 
 > Purple worms alone are bad enough, but the blasted monsters have a knack for unearthing things that are even worse!
 
+
+%%
 ```statblock
 "name": "Purple Worm (XMM)"
 "size": "Gargantuan"
@@ -68,8 +70,7 @@ Titanic purple worms burrow through the earth and sand. Ever ravenous, they devo
 "saves":
   - "constitution": !!int "11"
   - "wisdom": !!int "4"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., Tremorsense\
-  \ 60 ft., passive Perception 9"
+"senses": "Blindsight 30 ft., Tremorsense 60 ft., passive Perception 9"
 "languages": ""
 "cr": "15"
 "traits":
@@ -109,6 +110,8 @@ Titanic purple worms burrow through the earth and sand. Ever ravenous, they devo
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Purple%20Worm.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

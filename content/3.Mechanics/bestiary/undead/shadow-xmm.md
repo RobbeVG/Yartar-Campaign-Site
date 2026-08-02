@@ -76,6 +76,8 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
 | 5 | Its target, acting in eerie pantomime. |
 | 6 | An ominous priest that haunts a defiled site. |
 ^shadow-shapes
+
+%%
 ```statblock
 "name": "Shadow (XMM)"
 "size": "Medium"
@@ -94,18 +96,14 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone),\
-  \ [restrained](3.Mechanics/rules/conditions.md#Restrained), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "exhaustion, frightened, grappled, paralyzed, petrified, poisoned,\
+  \ prone, restrained, unconscious"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -131,6 +129,8 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Shadow.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

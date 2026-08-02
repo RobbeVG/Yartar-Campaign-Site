@@ -71,6 +71,8 @@ Hippogriff migrations might take months or years, and sages frequently predict t
 | 5 | Nest full of hippogriff eggs atop a spire. |
 | 6 | Portal to the Feywild or an Upper Plane. |
 ^hippogriff-destination
+
+%%
 ```statblock
 "name": "Hippogriff (XMM)"
 "size": "Large"
@@ -89,7 +91,7 @@ Hippogriff migrations might take months or years, and sages frequently predict t
   - !!int "8"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": ""
@@ -108,6 +110,8 @@ Hippogriff migrations might take months or years, and sages frequently predict t
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hippogriff.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

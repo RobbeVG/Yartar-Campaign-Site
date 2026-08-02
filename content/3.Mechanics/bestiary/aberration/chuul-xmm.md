@@ -47,6 +47,8 @@ Chuuls originated in forgotten ages when aboleths and stranger beings ruled alie
 Many chuuls serve aboleth overlords, carrying out their whims amid lightless seas and primeval swamps. Other chuuls obey new aberrant masters, such as beholders, grells, or mind flayers. Some chuuls follow their own drives, endlessly collecting ancient magic treasures or interpreting age-old orders to bizarre ends. Regardless of their agendas, chuuls snare creatures in their massive pincers before rendering foes helpless with their paralytic tentacles.
 
 Chuuls don't age and can lie dormant in hidden places for millennia before threats, ancient orders, or strange compulsions awaken them.
+
+%%
 ```statblock
 "name": "Chuul (XMM)"
 "size": "Large"
@@ -65,12 +67,11 @@ Chuuls don't age and can lie dormant in hidden places for millennia before threa
   - !!int "5"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 60 ft., passive Perception 14"
 "languages": "understands Deep Speech but can't speak"
 "cr": "4"
 "traits":
@@ -99,6 +100,8 @@ Chuuls don't age and can lie dormant in hidden places for millennia before threa
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Chuul.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

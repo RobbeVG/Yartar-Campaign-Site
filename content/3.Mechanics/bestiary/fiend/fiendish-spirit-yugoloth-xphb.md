@@ -16,6 +16,8 @@ aliases:
 # [Fiendish Spirit (Yugoloth)](3.Mechanics/bestiary/fiend/fiendish-spirit-yugoloth-xphb.md)
 *Source: Player's Handbook (2024) p. 327*  
 
+
+%%
 ```statblock
 "name": "Fiendish Spirit (Yugoloth) (XPHB)"
 "size": "Large"
@@ -34,9 +36,8 @@ aliases:
 "speed": "40 ft."
 "damage_resistances": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Infernal, Telepathy 60 ft."
 "traits":
   - "desc": "The spirit has [Advantage](3.Mechanics/rules/variant-rules/advantage-xphb.md)\
@@ -56,3 +57,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Fiendish%20Spirit%20%28Yugoloth%29.webp"
 ```
 ^statblock
+%%

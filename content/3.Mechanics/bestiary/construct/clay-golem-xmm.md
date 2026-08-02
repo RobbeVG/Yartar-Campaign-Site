@@ -65,6 +65,8 @@ These golems obey their creators' orders and protect what their makers value mos
 | 3 | Prevent any Fiend from crossing a bridge. |
 | 4 | Remove any who enter its creator's workshop. |
 ^clay-golem-orders
+
+%%
 ```statblock
 "name": "Clay Golem (XMM)"
 "size": "Large"
@@ -84,11 +86,8 @@ These golems obey their creators' orders and protect what their makers value mos
 "speed": "20 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "acid, poison, psychic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 9"
 "languages": "Common plus one other language"
 "cr": "9"
 "traits":
@@ -125,6 +124,8 @@ These golems obey their creators' orders and protect what their makers value mos
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Clay%20Golem.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

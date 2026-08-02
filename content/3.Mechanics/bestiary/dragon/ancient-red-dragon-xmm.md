@@ -59,6 +59,7 @@ Red dragons believe themselves to be the greatest of all dragons and, by extensi
 
 Red dragons make their lairs in smoldering, unapproachable places such as volcanic mountains, burning wastelands, and ruins they've stolen from other creatures.
 
+%%
 ```statblock
 "name": "Ancient Red Dragon (XMM)"
 "size": "Gargantuan"
@@ -81,13 +82,12 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
   - "dexterity": !!int "7"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+16"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_immunities": "fire"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 26"
+"senses": "Blindsight 60 ft., Darkvision 120 ft., passive Perception 26"
 "languages": "Common, Draconic"
 "cr": "24"
 "traits":
@@ -145,6 +145,8 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ancient%20Red%20Dragon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

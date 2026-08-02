@@ -176,6 +176,7 @@ Wrestler
 > Welcome, one! Welcome, all! Welcome to the short, and welcome to the tall! Welcome angels, welcome fiends, welcome to all from walks between! Welcome to the Carnival!
 
 
+%%
 ```statblock
 "name": "Performer (XMM)"
 "size": "Small or Medium"
@@ -197,11 +198,11 @@ Wrestler
   - "dexterity": !!int "5"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Acrobatics](3.Mechanics/rules/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+5"
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+3"
-  - "name": "[Performance](3.Mechanics/rules/skills.md#Performance)"
+  - "name": "Performance"
     "desc": "+7"
 "gear":
   - "[shortsword](3.Mechanics/items/shortsword-xphb.md)"
@@ -220,6 +221,8 @@ Wrestler
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Performer.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

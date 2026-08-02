@@ -69,6 +69,8 @@ Medusas are born or created through preternatural circumstances. Roll on or choo
 | 5 | A vain noble whose magical attempt to gain eternal beauty backfired. |
 | 6 | The victim of a bite from a magical serpent or reptilian god in disguise. |
 ^medusa-fates
+
+%%
 ```statblock
 "name": "Medusa (XMM)"
 "size": "Medium"
@@ -89,14 +91,13 @@ Medusas are born or created through preternatural circumstances. Roll on or choo
 "saves":
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 150 ft., passive Perception\
-  \ 14"
+"senses": "Darkvision 150 ft., passive Perception 14"
 "languages": "Common plus one other language"
 "cr": "6"
 "actions":
@@ -125,6 +126,8 @@ Medusas are born or created through preternatural circumstances. Roll on or choo
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Medusa.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

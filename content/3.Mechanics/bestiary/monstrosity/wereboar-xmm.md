@@ -39,6 +39,8 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
 - **Treasure.** Individual  
 
 Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-boar hybrids. Many wereboars suffer their shape-shifting nature as a curse, with some involuntarily transforming any time they perform a greedy act or indulge their selfish nature.
+
+%%
 ```statblock
 "name": "Wereboar (XMM)"
 "size": "Small or Medium"
@@ -58,7 +60,7 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
   - !!int "8"
 "speed": "30 ft., 40 ft. (boar form only)"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
 "gear":
   - "six [javelins](3.Mechanics/items/javelin-xphb.md)"
@@ -96,6 +98,8 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Wereboar.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

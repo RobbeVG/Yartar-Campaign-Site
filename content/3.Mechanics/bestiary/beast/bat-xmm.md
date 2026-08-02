@@ -34,6 +34,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![A druid calls on animals of the hills and mountains to aid her cause](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Hills%20and%20Mountains.webp)
 ![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
+
+%%
 ```statblock
 "name": "Bat (XMM)"
 "size": "Tiny"
@@ -51,8 +53,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "12"
   - !!int "4"
 "speed": "5 ft., fly 30 ft."
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 11"
+"senses": "Blindsight 60 ft., passive Perception 11"
 "languages": ""
 "cr": "0"
 "actions":
@@ -64,6 +65,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bat.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -43,6 +43,7 @@ Lemures torment weaker creatures, but in the Nine Hells, few such beings exist. 
 
 The least of all devils, lemures arise from wicked souls, their mortal memories scoured away. Only vague limbs and anguished features jut from these slurries of infernal proto-matter.
 
+%%
 ```statblock
 "name": "Lemure (XMM)"
 "size": "Medium"
@@ -63,11 +64,9 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "speed": "20 ft."
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive\
-  \ Perception 10"
+"condition_immunities": "charmed, frightened, poisoned"
+"senses": "Darkvision 120 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 10"
 "languages": "understands Infernal but can't speak"
 "cr": "0"
 "traits":
@@ -83,6 +82,8 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Lemure.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

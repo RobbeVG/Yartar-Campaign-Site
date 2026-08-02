@@ -58,6 +58,7 @@ Black dragons hoard tarnished symbols of hope and relics of fallen empires. The 
 
 Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by decay.
 
+%%
 ```statblock
 "name": "Young Black Dragon (XMM)"
 "size": "Large"
@@ -80,13 +81,12 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
   - "dexterity": !!int "5"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_immunities": "acid"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 16"
+"senses": "Blindsight 30 ft., Darkvision 120 ft., passive Perception 16"
 "languages": "Common, Draconic"
 "cr": "7"
 "traits":
@@ -107,6 +107,8 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Young%20Black%20Dragon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

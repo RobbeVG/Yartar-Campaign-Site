@@ -17,6 +17,8 @@ aliases:
 *Source: Player's Handbook (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Draconic%20Spirit.webp#center)
+
+%%
 ```statblock
 "name": "Draconic Spirit (XPHB)"
 "size": "Large"
@@ -34,10 +36,8 @@ aliases:
   - !!int "14"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "damage_resistances": "acid, cold, fire, lightning, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"condition_immunities": "charmed, frightened, poisoned"
+"senses": "Blindsight 30 ft., Darkvision 60 ft., passive Perception 12"
 "languages": "Draconic, understands the languages you know"
 "traits":
   - "desc": "When you summon the spirit, choose one of its Resistances. You have [Resistance](3.Mechanics/rules/variant-rules/resistance-xphb.md)\
@@ -60,3 +60,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Draconic%20Spirit.webp"
 ```
 ^statblock
+%%

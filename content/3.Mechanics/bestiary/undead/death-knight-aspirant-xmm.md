@@ -42,6 +42,7 @@ When the leader of a villainous order rises as a death knight, their wicked devo
 
 Champions of evil, death knights are armor-clad, skeletal warlords. Combining devastating martial prowess and blasphemous magic, these undying tyrants lead unholy legions against the living or brood in cursed citadels. Every death knight is haunted by a legacy of tragedy and dishonor that drives it to commit greater evils.
 
+%%
 ```statblock
 "name": "Death Knight Aspirant (XMM)"
 "size": "Small or Medium"
@@ -63,10 +64,8 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
   - "dexterity": !!int "4"
   - "wisdom": !!int "5"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
+"condition_immunities": "exhaustion, frightened, poisoned"
+"senses": "Darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, Common"
 "cr": "11"
 "traits":
@@ -104,6 +103,8 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Death%20Knight%20Aspirant.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

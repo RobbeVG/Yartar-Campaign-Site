@@ -51,6 +51,8 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
 > 
 > Just assume there's no such thing as a stalactite.
 
+
+%%
 ```statblock
 "name": "Darkmantle (XMM)"
 "size": "Small"
@@ -69,10 +71,9 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
   - !!int "5"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+3"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 10"
+"senses": "Blindsight 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1/2"
 "actions":
@@ -101,6 +102,8 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Darkmantle.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

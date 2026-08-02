@@ -65,6 +65,8 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
 > 
 > If ye truly be adventurers of lore, seek the great shadowy wyrm who lairs beneath the Peaks of Thunder and return in triumph bearing aloft her fabled Eye of Shadow.
 
+
+%%
 ```statblock
 "name": "Juvenile Shadow Dragon (XMM)"
 "size": "Medium"
@@ -85,14 +87,13 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
 "saves":
   - "dexterity": !!int "4"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "damage_resistances": "See Living Shadow"
 "damage_immunities": "necrotic"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"senses": "Blindsight 10 ft., Darkvision 60 ft., passive Perception 14"
 "languages": "Common, Draconic"
 "cr": "4"
 "traits":
@@ -128,6 +129,8 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Juvenile%20Shadow%20Dragon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

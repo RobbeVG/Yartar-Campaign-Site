@@ -44,6 +44,7 @@ Aarakocra skirmishers are adept at fighting aerial foes amid the clouds. They of
 
 Aarakocra are birdlike folk who soar the skies of countless worlds and the endless expanses of the Elemental Plane of Air. They often resemble avians common to the lands where they dwell; some resemble hawks or condors, while others appear similar to hummingbirds or archaeopteryxes. In many lands, aarakocra tell of their ancient heroics resisting the wicked Queen of Chaos alongside the mysterious Wind Dukes of Aaqa.
 
+%%
 ```statblock
 "name": "Aarakocra Skirmisher (XMM)"
 "size": "Medium"
@@ -62,7 +63,7 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
   - !!int "11"
 "speed": "20 ft., fly 50 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "Aarakocra, Primordial (Auran)"
@@ -82,6 +83,8 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Aarakocra%20Skirmisher.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

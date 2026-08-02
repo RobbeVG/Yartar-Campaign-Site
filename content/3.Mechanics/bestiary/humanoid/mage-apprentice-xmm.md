@@ -94,6 +94,7 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Mages.webp#center)
 
+%%
 ```statblock
 "name": "Mage Apprentice (XMM)"
 "size": "Small or Medium"
@@ -116,9 +117,9 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
   - "intelligence": !!int "5"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
 "gear":
   - "[component pouch](3.Mechanics/items/component-pouch-xphb.md)"
@@ -141,6 +142,8 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mage%20Apprentice.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

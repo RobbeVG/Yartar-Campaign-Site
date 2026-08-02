@@ -59,6 +59,7 @@ Silver dragons take inspiration from legendary heroes and have grand ambitions. 
 
 Silver dragons typically lair in picturesque mountain retreats or on sculpted cloud "islands."
 
+%%
 ```statblock
 "name": "Silver Dragon Wyrmling (XMM)"
 "size": "Medium"
@@ -81,13 +82,12 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
   - "dexterity": !!int "2"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+2"
 "damage_immunities": "cold"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"senses": "Blindsight 10 ft., Darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
 "actions":
@@ -110,6 +110,8 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Silver%20Dragon%20Wyrmling.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

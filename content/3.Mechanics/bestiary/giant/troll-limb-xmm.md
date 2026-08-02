@@ -48,6 +48,8 @@ Trolls creep forth to prey on smaller creatures and drag captives back to fester
 Trolls typically hunt alone, but small groups occasionally cooperate to ambush prey or raid villages. Creatures such as hags and hill giants might convince trolls to work for them in exchange for disgusting meals.
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Troll.webp#center)
+
+%%
 ```statblock
 "name": "Troll Limb (XMM)"
 "size": "Small"
@@ -65,8 +67,7 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
   - !!int "9"
   - !!int "1"
 "speed": "20 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"senses": "Darkvision 60 ft., passive Perception 9"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -89,6 +90,8 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Troll%20Limb.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

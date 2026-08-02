@@ -66,6 +66,8 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
 | 3 | A new peryton hatches from each heart. |
 | 4 | A portal opens to the Lower Planes. |
 ^peryton-superstitions
+
+%%
 ```statblock
 "name": "Peryton (XMM)"
 "size": "Medium"
@@ -84,9 +86,9 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
   - !!int "10"
 "speed": "20 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+3"
 "senses": "passive Perception 15"
 "languages": "understands Common and Elvish but can't speak"
@@ -111,6 +113,8 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Peryton.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

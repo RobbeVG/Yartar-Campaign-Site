@@ -71,6 +71,8 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
 > 
 > All-Father Annam banished his son, Karontor, for Karontor's part in the fomorian assault on the Feywild. That day, the ordning—the hierarchy of the giants and their gods—changed forever, and the fomorians were part of it no more.
 
+
+%%
 ```statblock
 "name": "Fomorian (XMM)"
 "size": "Huge"
@@ -89,12 +91,11 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+3"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 18"
+"senses": "Darkvision 120 ft., passive Perception 18"
 "languages": "Giant, Undercommon"
 "cr": "8"
 "actions":
@@ -113,6 +114,8 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Fomorian.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

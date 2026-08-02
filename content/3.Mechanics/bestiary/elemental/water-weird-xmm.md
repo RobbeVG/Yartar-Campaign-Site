@@ -52,6 +52,8 @@ Water weirds might protect a site for generations and learn much about their sur
 > 
 > Rule 2: Before you drink from a fountain or pool, toss a copper coin into it. It's a small price to pay for your life!
 
+
+%%
 ```statblock
 "name": "Water Weird (XMM)"
 "size": "Large"
@@ -71,13 +73,9 @@ Water weirds might protect a site for generations and learn much about their sur
 "speed": "5 ft., swim 60 ft."
 "damage_resistances": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 10"
+"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
+  \ restrained, unconscious"
+"senses": "Blindsight 30 ft., passive Perception 10"
 "languages": "understands Primordial but can't speak"
 "cr": "3"
 "traits":
@@ -98,6 +96,8 @@ Water weirds might protect a site for generations and learn much about their sur
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Water%20Weird.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -44,6 +44,7 @@ Azer sentinels defend their communities' smiths and channel their flames through
 
 Azers are living bronze folk who work the primal elements of creation to craft weapons and magical wonders among the multiverse's mightiest infernos.
 
+%%
 ```statblock
 "name": "Azer Sentinel (XMM)"
 "size": "Medium"
@@ -64,7 +65,7 @@ Azers are living bronze folk who work the primal elements of creation to craft w
 "saves":
   - "constitution": !!int "4"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
+"condition_immunities": "poisoned"
 "senses": "passive Perception 11"
 "languages": "Primordial (Ignan)"
 "cr": "2"
@@ -87,6 +88,8 @@ Azers are living bronze folk who work the primal elements of creation to craft w
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Azer%20Sentinel.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

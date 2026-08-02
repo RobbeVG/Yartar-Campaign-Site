@@ -42,6 +42,7 @@ Full-grown remorhazes are single-minded ambush predators. They attempt to bite p
 
 Remorhazes are centipede-like terrors that burrow through snow and ice to ambush smaller creatures that trespass in their frozen territories.
 
+%%
 ```statblock
 "name": "Remorhaz (XMM)"
 "size": "Huge"
@@ -60,8 +61,7 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
   - !!int "5"
 "speed": "40 ft., burrow 30 ft."
 "damage_immunities": "cold, fire"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., Tremorsense\
-  \ 60 ft., passive Perception 10"
+"senses": "Darkvision 60 ft., Tremorsense 60 ft., passive Perception 10"
 "languages": ""
 "cr": "11"
 "traits":
@@ -98,6 +98,8 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Remorhaz.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

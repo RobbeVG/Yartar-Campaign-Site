@@ -79,6 +79,8 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 > 
 > Water: greatest of the elements in might and form. A tsunami's torrent. A blizzard's claws. A parent's tears. What is not moved by water?
 
+
+%%
 ```statblock
 "name": "Water Elemental (XMM)"
 "size": "Large"
@@ -98,13 +100,9 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 "speed": "30 ft., swim 90 ft."
 "damage_resistances": "acid, fire"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
+  \ restrained, unconscious"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Aquan)"
 "cr": "5"
 "traits":
@@ -138,6 +136,8 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Water%20Elemental.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -81,6 +81,8 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
 | 5 | Suffering a god's curse. |
 | 6 | Taking part in fiendish rituals. |
 ^cambion-origins
+
+%%
 ```statblock
 "name": "Cambion (XMM)"
 "size": "Medium"
@@ -104,16 +106,15 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
   - "intelligence": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+6"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_resistances": "cold, fire, lightning, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 14"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 120 ft., passive Perception 14"
 "languages": "Abyssal, Common, Infernal"
 "cr": "5"
 "actions":
@@ -137,6 +138,8 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cambion.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

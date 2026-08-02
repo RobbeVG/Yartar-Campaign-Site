@@ -92,6 +92,7 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 > Make way, evil! I'm armed to the teeth and packing a hamster!
 
 
+%%
 ```statblock
 "name": "Warrior Infantry (XMM)"
 "size": "Small or Medium"
@@ -130,6 +131,8 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Warrior%20Infantry.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

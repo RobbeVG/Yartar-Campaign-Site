@@ -73,6 +73,7 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
 | 4 | The remains of a gigantic, dead creature. |
 ^stirge-roosts
 
+%%
 ```statblock
 "name": "Swarm of Stirges (XMM)"
 "size": "Medium"
@@ -91,12 +92,9 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
   - !!int "6"
 "speed": "10 ft., fly 40 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [prone](3.Mechanics/rules/conditions.md#Prone),\
-  \ [restrained](3.Mechanics/rules/conditions.md#Restrained), [stunned](3.Mechanics/rules/conditions.md#Stunned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, prone,\
+  \ restrained, stunned"
+"senses": "Darkvision 60 ft., passive Perception 9"
 "languages": ""
 "cr": "2"
 "traits":
@@ -118,6 +116,8 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Swarm%20of%20Stirges.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

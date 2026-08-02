@@ -92,6 +92,7 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 > Make way, evil! I'm armed to the teeth and packing a hamster!
 
 
+%%
 ```statblock
 "name": "Warrior Commander (XMM)"
 "size": "Small or Medium"
@@ -115,11 +116,11 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
   - "constitution": !!int "8"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+9"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+7"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
 "gear":
   - "[greatsword](3.Mechanics/items/greatsword-xphb.md)"
@@ -158,6 +159,8 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Warrior%20Commander.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

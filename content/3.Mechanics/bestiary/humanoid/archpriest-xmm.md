@@ -92,6 +92,7 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 > Shining One, light my hours. Enkindle my soul, and inspire my deeds. Chase the shadows from my path, and let me walk in your brilliance.
 
 
+%%
 ```statblock
 "name": "Archpriest (XMM)"
 "size": "Small or Medium"
@@ -116,13 +117,13 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
   - "intelligence": !!int "6"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+9"
-  - "name": "[Medicine](3.Mechanics/rules/skills.md#Medicine)"
+  - "name": "Medicine"
     "desc": "+9"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+9"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+10"
 "gear":
   - "[chain mail](3.Mechanics/items/chain-mail-xphb.md)"
@@ -158,6 +159,8 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Archpriest.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

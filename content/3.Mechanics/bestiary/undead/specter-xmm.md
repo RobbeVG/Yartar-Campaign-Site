@@ -74,6 +74,8 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
 | 7 | A secluded monument binding wicked souls. |
 | 8 | The site of a disaster or mass death. |
 ^specter-haunts
+
+%%
 ```statblock
 "name": "Specter (XMM)"
 "size": "Medium"
@@ -94,13 +96,9 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
 "damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
   \ thunder"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned,\
+  \ prone, restrained, unconscious"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "1"
 "traits":
@@ -121,6 +119,8 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Specter.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

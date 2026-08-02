@@ -53,6 +53,7 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
 > I would tell you now the tale of the first Ka'Cha, the first thri-kreen who knew and taught the truth: that the clutch is all.
 
 
+%%
 ```statblock
 "name": "Thri-kreen Psion (XMM)"
 "size": "Medium"
@@ -76,13 +77,12 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
   - "constitution": !!int "5"
   - "intelligence": !!int "7"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+8"
 "damage_resistances": "psychic"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "Darkvision 60 ft., passive Perception 14"
 "languages": "Thri-kreen; telepathy 120 ft."
 "cr": "8"
 "actions":
@@ -103,6 +103,8 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Thri-kreen%20Psion.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

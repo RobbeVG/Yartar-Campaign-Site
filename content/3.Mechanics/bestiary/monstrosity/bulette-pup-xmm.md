@@ -44,6 +44,7 @@ Juvenile bulettes are known as pups. They travel in small groups, using their nu
 
 Also called "land sharks," bulettes are single-minded predators that burrow under, leap over, and burst through obstacles in pursuit of their quarry. They burrow rapidly just below ground. On sensing movement, they erupt from below, attempting to catch prey in their oversize maws.
 
+%%
 ```statblock
 "name": "Bulette Pup (XMM)"
 "size": "Medium"
@@ -62,10 +63,9 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
   - !!int "4"
 "speed": "30 ft., burrow 20 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 30 ft., Tremorsense\
-  \ 60 ft., passive Perception 14"
+"senses": "Darkvision 30 ft., Tremorsense 60 ft., passive Perception 14"
 "languages": ""
 "cr": "2"
 "actions":
@@ -79,6 +79,8 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bulette%20Pup.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

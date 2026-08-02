@@ -51,6 +51,8 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
 > 
 > Smells fine to me.
 
+
+%%
 ```statblock
 "name": "Troglodyte (XMM)"
 "size": "Medium"
@@ -69,10 +71,9 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
   - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Troglodyte"
 "cr": "1/4"
 "traits":
@@ -93,6 +94,8 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Troglodyte.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

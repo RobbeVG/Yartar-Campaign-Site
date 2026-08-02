@@ -18,6 +18,8 @@ aliases:
 *Source: Phandelver and Below: The Shattered Obelisk p. 121*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/GrandlejawandKellikilli.webp#center)
+
+%%
 ```statblock
 "name": "Grandlejaw (PaBTSO)"
 "size": "Huge"
@@ -37,25 +39,21 @@ aliases:
   - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 16"
+"senses": "darkvision 60 ft., passive Perception 16"
 "languages": ""
 "cr": "8"
 "traits":
   - "desc": "Grandlejaw can hold its breath for 1 hour."
     "name": "Hold Breath"
   - "desc": "Grandlejaw has five heads. While it has more than one head, Grandlejaw\
-      \ has advantage on saving throws against being [blinded](3.Mechanics/rules/conditions.md#Blinded),\
-      \ [charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened),\
-      \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [stunned](3.Mechanics/rules/conditions.md#Stunned),\
-      \ and knocked [unconscious](3.Mechanics/rules/conditions.md#Unconscious).\n\n\
-      Whenever Grandlejaw takes 25 or more damage in a single turn, one of its heads\
-      \ dies. If all its heads die, Grandlejaw dies.\n\nAt the end of its turn, it\
-      \ grows two heads for each of its heads that died since its last turn, unless\
-      \ it has taken fire damage since its last turn. Grandlejaw regains 10 hit points\
-      \ for each head regrown in this way."
+      \ has advantage on saving throws against being blinded, charmed, deafened, frightened,\
+      \ stunned, and knocked unconscious.\n\nWhenever Grandlejaw takes 25 or more\
+      \ damage in a single turn, one of its heads dies. If all its heads die, Grandlejaw\
+      \ dies.\n\nAt the end of its turn, it grows two heads for each of its heads\
+      \ that died since its last turn, unless it has taken fire damage since its last\
+      \ turn. Grandlejaw regains 10 hit points for each head regrown in this way."
     "name": "Multiple Heads"
   - "desc": "For each head Grandlejaw has beyond one, it gets an extra reaction that\
       \ can be used only for opportunity attacks."
@@ -73,3 +71,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Grandlejaw.webp"
 ```
 ^statblock
+%%

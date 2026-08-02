@@ -47,6 +47,7 @@ Gricks are wormlike predators that burst from hiding—flailing and snapping—t
 
 Gricks' origins are unclear, but some suggest these creatures arise from natural worms or similar invertebrates mutated by magical phenomena. Many cite the presence of gricks in a region as evidence of portals to other planes of existence, legendary magic items, or powerful supernatural beings.
 
+%%
 ```statblock
 "name": "Grick (XMM)"
 "size": "Medium"
@@ -65,10 +66,9 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
   - !!int "5"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "Darkvision 60 ft., passive Perception 12"
 "languages": ""
 "cr": "2"
 "actions":
@@ -85,6 +85,8 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Grick.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

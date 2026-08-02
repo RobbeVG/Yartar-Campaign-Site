@@ -79,6 +79,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Sphinxes.webp#center)
 
+%%
 ```statblock
 "name": "Sphinx of Wonder (XMM)"
 "size": "Tiny"
@@ -97,15 +98,14 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
   - !!int "11"
 "speed": "20 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+4"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_resistances": "necrotic, psychic, radiant"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "Darkvision 60 ft., passive Perception 11"
 "languages": "Celestial, Common"
 "cr": "1"
 "traits":
@@ -126,6 +126,8 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sphinx%20of%20Wonder.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -56,6 +56,7 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Ghouls.webp#center)
 
+%%
 ```statblock
 "name": "Lacedon Ghoul (XMM)"
 "size": "Medium"
@@ -75,10 +76,8 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
 "speed": "30 ft., swim 30 ft."
 "damage_resistances": "cold"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "1"
 "actions":
@@ -103,6 +102,8 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Lacedon%20Ghoul.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

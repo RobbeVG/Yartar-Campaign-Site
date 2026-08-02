@@ -120,6 +120,8 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
 > 
 > Where evil passes in the Elemental Plane of Earth, it stains the rock and spoils the soil. Malice vanishes amid other elements, but in the dismal dark, the wicked shape it into nightmares.
 
+
+%%
 ```statblock
 "name": "Gargoyle (XMM)"
 "size": "Medium"
@@ -138,13 +140,11 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
   - !!int "7"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "exhaustion, petrified, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Terran)"
 "cr": "2"
 "traits":
@@ -161,6 +161,8 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gargoyle.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

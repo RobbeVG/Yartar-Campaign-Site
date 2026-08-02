@@ -16,6 +16,8 @@ aliases:
 # [Fey Spirit (Fuming)](3.Mechanics/bestiary/fey/fey-spirit-fuming-xphb.md)
 *Source: Player's Handbook (2024) p. 326*  
 
+
+%%
 ```statblock
 "name": "Fey Spirit (Fuming) (XPHB)"
 "size": "Small"
@@ -32,9 +34,8 @@ aliases:
   - !!int "11"
   - !!int "16"
 "speed": "30 ft., fly 30 ft."
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Sylvan, understands the languages you know"
 "actions":
   - "desc": "The spirit makes a number of Fey Blade attacks equal to half this spell's\
@@ -52,3 +53,4 @@ aliases:
   - "XPHB"
 ```
 ^statblock
+%%

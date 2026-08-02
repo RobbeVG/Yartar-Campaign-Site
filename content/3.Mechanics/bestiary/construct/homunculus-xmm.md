@@ -73,6 +73,8 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
 | 7 | Underdeveloped and fleshy with beady eyes. |
 | 8 | Woven and patchwork, like a well-loved toy. |
 ^homunculus-features
+
+%%
 ```statblock
 "name": "Homunculus (XMM)"
 "size": "Tiny"
@@ -94,9 +96,8 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
   - "wisdom": !!int "2"
   - "charisma": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "0"
 "traits":
@@ -118,6 +119,8 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Homunculus.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

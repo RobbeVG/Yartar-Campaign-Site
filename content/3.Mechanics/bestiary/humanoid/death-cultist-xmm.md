@@ -140,6 +140,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
 
+%%
 ```statblock
 "name": "Death Cultist (XMM)"
 "size": "Small or Medium"
@@ -161,11 +162,11 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   - "constitution": !!int "7"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+6"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+4"
 "gear":
   - "[splint armor](3.Mechanics/items/splint-armor-xphb.md)"
@@ -197,6 +198,8 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Death%20Cultist.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

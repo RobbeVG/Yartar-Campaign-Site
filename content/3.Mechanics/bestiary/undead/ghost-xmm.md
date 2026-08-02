@@ -42,6 +42,8 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
 Ghosts arise when living creatures die in a state of extreme emotion or having left an important task undone. These incorporeal spirits haunt locations that are meaningful to them, lingering until their business is complete or they're put to rest.
 
 Ghosts typically appear as semitransparent versions of the creatures they were in life, though some bear evidence of the wounds that killed them or have nightmarish distortions to their forms. Many have extreme reactions to actions, objects, or individuals that remind them of emotionally charged aspects of their lives. Particularly desperate or vengeful ghosts might possess the living to fulfill their ends.
+
+%%
 ```statblock
 "name": "Ghost (XMM)"
 "size": "Medium"
@@ -62,13 +64,9 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
 "damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
   \ thunder"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [prone](3.Mechanics/rules/conditions.md#Prone),\
-  \ [restrained](3.Mechanics/rules/conditions.md#Restrained)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
+  \ poisoned, prone, restrained"
+"senses": "Darkvision 60 ft., passive Perception 11"
 "languages": "Common plus one other language"
 "cr": "4"
 "traits":
@@ -116,6 +114,8 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ghost.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

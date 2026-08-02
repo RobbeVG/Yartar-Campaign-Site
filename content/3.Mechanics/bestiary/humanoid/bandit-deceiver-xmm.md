@@ -82,6 +82,7 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 | 6 | Takes what they need to survive. |
 ^bandit-motivations
 
+%%
 ```statblock
 "name": "Bandit Deceiver (XMM)"
 "size": "Small or Medium"
@@ -103,11 +104,11 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
   - "dexterity": !!int "6"
   - "intelligence": !!int "6"
 "skillsaves":
-  - "name": "[Acrobatics](3.Mechanics/rules/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+6"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+9"
 "gear":
   - "six [daggers](3.Mechanics/items/dagger-xphb.md)"
@@ -140,6 +141,8 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bandit%20Deceiver.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

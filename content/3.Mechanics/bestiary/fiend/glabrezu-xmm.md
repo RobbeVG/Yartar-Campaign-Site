@@ -52,6 +52,8 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
 > 
 > Your companion's life, or what you've journeyed through infinity in search of! Make your choice.
 
+
+%%
 ```statblock
 "name": "Glabrezu (XMM)"
 "size": "Large"
@@ -76,15 +78,14 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+7"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 17"
+"condition_immunities": "poisoned"
+"senses": "Truesight 120 ft., passive Perception 17"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "9"
 "traits":
@@ -118,6 +119,8 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Glabrezu.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -83,6 +83,8 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
 > 
 > People think we flew high over the city to avoid weather vanes and laundry lines and whatnot. Truth is, if the griffons smelled how much horse meat trotted just below, folks would have worse than joy-flying mages and stirges to worry about!
 
+
+%%
 ```statblock
 "name": "Griffon (XMM)"
 "size": "Large"
@@ -101,10 +103,9 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
   - !!int "8"
 "speed": "30 ft., fly 80 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "Darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "2"
 "actions":
@@ -119,6 +120,8 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Griffon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

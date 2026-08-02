@@ -45,6 +45,8 @@ Colossi are massive Constructs created by the devout to reflect the nature of a 
 Droves of faithful artisans craft a colossus in a shape to honor their deity, then call on that god to infuse the statue with life. This arduous process might take decades and involve hundreds of workers. If the god favors the creation, the mighty crystal at the construct's heart pulses with divine power, and the colossus rises to protect the faithful or enact the god's will.
 
 Most colossi were created in ages past and now lie dormant in secluded wilderness, awakening only when disturbed or called on to serve once more.
+
+%%
 ```statblock
 "name": "Colossus (XMM)"
 "size": "Gargantuan"
@@ -68,12 +70,9 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
   - "wisdom": !!int "8"
 "damage_resistances": "necrotic, radiant"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [stunned](3.Mechanics/rules/conditions.md#Stunned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 300 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned,\
+  \ stunned, unconscious"
+"senses": "Truesight 300 ft., passive Perception 10"
 "languages": "understands Celestial and Common but can't speak"
 "cr": "25"
 "traits":
@@ -119,6 +118,8 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Colossus.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

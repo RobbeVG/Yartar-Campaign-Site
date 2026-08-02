@@ -82,6 +82,8 @@ The remains of [Petrified](3.Mechanics/rules/conditions.md#Petrified) creatures 
 | 7 | Someone caught in a comic pose or making a regrettable face. |
 | 8 | A victim now being used as a nest for insects or other vermin. |
 ^petrified-basilisk-victims
+
+%%
 ```statblock
 "name": "Basilisk (XMM)"
 "size": "Medium"
@@ -99,8 +101,7 @@ The remains of [Petrified](3.Mechanics/rules/conditions.md#Petrified) creatures 
   - !!int "8"
   - !!int "7"
 "speed": "20 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"senses": "Darkvision 60 ft., passive Perception 9"
 "languages": ""
 "cr": "3"
 "actions":
@@ -122,6 +123,8 @@ The remains of [Petrified](3.Mechanics/rules/conditions.md#Petrified) creatures 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Basilisk.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

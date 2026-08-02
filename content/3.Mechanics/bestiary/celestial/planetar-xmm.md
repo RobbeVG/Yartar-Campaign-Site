@@ -70,6 +70,8 @@ These angels act where they can against overwhelming evil, but to avoid the atte
 | 5 | Recover and destroy an evil Artifact. |
 | 6 | Reveal the true name of a devil to banish it. |
 ^planetar-quests
+
+%%
 ```statblock
 "name": "Planetar (XMM)"
 "size": "Large"
@@ -94,13 +96,11 @@ These angels act where they can against overwhelming evil, but to avoid the atte
   - "wisdom": !!int "11"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+11"
 "damage_resistances": "radiant"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 21"
+"condition_immunities": "charmed, exhaustion, frightened"
+"senses": "Truesight 120 ft., passive Perception 21"
 "languages": "all; telepathy 120 ft."
 "cr": "16"
 "traits":
@@ -141,6 +141,8 @@ These angels act where they can against overwhelming evil, but to avoid the atte
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Planetar.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

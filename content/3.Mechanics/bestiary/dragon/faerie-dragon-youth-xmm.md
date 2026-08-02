@@ -42,6 +42,7 @@ Faerie dragon youths are quick to use their euphoria-inducing breath on rude or 
 
 Faerie dragons are cat-size pranksters with draconic features, butterfly-like wings, and scales of warm hues as youths and cool hues as adults.
 
+%%
 ```statblock
 "name": "Faerie Dragon Youth (XMM)"
 "size": "Tiny"
@@ -60,14 +61,13 @@ Faerie dragons are cat-size pranksters with draconic features, butterfly-like wi
   - !!int "14"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+3"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"senses": "Darkvision 60 ft., passive Perception 13"
 "languages": "Draconic, Sylvan; telepathy 60 ft. (faerie dragons only)"
 "cr": "1"
 "traits":
@@ -98,6 +98,8 @@ Faerie dragons are cat-size pranksters with draconic features, butterfly-like wi
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Faerie%20Dragon%20Youth.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

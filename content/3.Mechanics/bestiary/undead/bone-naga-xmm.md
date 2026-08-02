@@ -45,6 +45,8 @@ Nagas are immortal but not invincible, and powerful magic can end their lives. B
 Bone nagas typically obey those who resurrected them, serving their creators as tireless guards and sharing the lore they collected in life. Undeath disrupts the perfect memory bone nagas enjoyed while alive, leaving them with gaps in their memories or details scrambled into puzzle-like jumbles.
 
 In rare cases, bone nagas continue to pursue the goals they had while alive instead of serving other creatures. Most free-willed bone nagas are evil beings raised from spirit naga remains, but in unusual instances, bone nagas created from guardian nagas continue good, albeit confused, existences.
+
+%%
 ```statblock
 "name": "Bone Naga (XMM)"
 "size": "Large"
@@ -63,10 +65,8 @@ In rare cases, bone nagas continue to pursue the goals they had while alive inst
   - !!int "15"
 "speed": "40 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "charmed, exhaustion, paralyzed, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "4"
 "actions":
@@ -91,6 +91,8 @@ In rare cases, bone nagas continue to pursue the goals they had while alive inst
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bone%20Naga.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

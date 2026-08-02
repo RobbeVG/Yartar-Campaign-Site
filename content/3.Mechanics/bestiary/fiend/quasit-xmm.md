@@ -51,6 +51,8 @@ Quasits are usually overlooked and underestimated by other demons. This drives t
 > 
 > A thing doesn't need to be big to be gut-flippingly dreadful. Just think of all the folks who're squeamish around spiders. Now imagine a spider as big as a cat and that wants to steal your tongue.
 
+
+%%
 ```statblock
 "name": "Quasit (XMM)"
 "size": "Tiny"
@@ -70,13 +72,12 @@ Quasits are usually overlooked and underestimated by other demons. This drives t
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 10"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 120 ft., passive Perception 10"
 "languages": "Abyssal, Common"
 "cr": "1"
 "traits":
@@ -109,6 +110,8 @@ Quasits are usually overlooked and underestimated by other demons. This drives t
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Quasit.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -37,6 +37,7 @@ Psionic goblins often struggle to handle the turbulent psychic energy within the
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Psionic%20Goblins.webp#center)
 
+%%
 ```statblock
 "name": "Goblin Psi Brawler (PaBTSO)"
 "size": "Small"
@@ -44,7 +45,7 @@ Psionic goblins often struggle to handle the turbulent psychic energy within the
 "subtype": "goblinoid"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)"
+"ac_class": "studded leather armor"
 "hp": !!int "31"
 "hit_dice": "7d6 + 7"
 "modifier": !!int "3"
@@ -60,11 +61,10 @@ Psionic goblins often struggle to handle the turbulent psychic energy within the
   - "intelligence": !!int "5"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_resistances": "psychic"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common, Goblin, telepathy 30 ft."
 "cr": "2"
 "traits":
@@ -73,8 +73,7 @@ Psionic goblins often struggle to handle the turbulent psychic energy within the
       \ saving throw or take 5 (2d4) psychic damage."
     "name": "Mental Burst"
   - "desc": "The goblin has advantage on saving throws against effects that would\
-      \ make it have the [charmed](3.Mechanics/rules/conditions.md#Charmed) or [frightened](3.Mechanics/rules/conditions.md#Frightened)\
-      \ condition."
+      \ make it have the charmed or frightened condition."
     "name": "Mental Fortitude"
 "actions":
   - "desc": "The goblin makes two Unarmed Strike attacks."
@@ -83,15 +82,15 @@ Psionic goblins often struggle to handle the turbulent psychic energy within the
       \ + 3) bludgeoning damage plus 3 (1d6) psychic damage."
     "name": "Unarmed Strike"
 "bonus_actions":
-  - "desc": "The goblin takes the [Disengage](3.Mechanics/rules/actions.md#Disengage)\
-      \ or [Hide](3.Mechanics/rules/actions.md#Hide) action."
+  - "desc": "The goblin takes the Disengage or Hide action."
     "name": "Nimble Escape"
   - "desc": "The goblin targets one creature it can see within 30 feet of itself with\
       \ a thrust of telekinetic force. The target must succeed on a DC 13 Strength\
-      \ saving throw or have the [prone](3.Mechanics/rules/conditions.md#Prone) condition."
+      \ saving throw or have the prone condition."
     "name": "Telekinetic Shove"
 "source":
   - "PaBTSO"
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Goblin%20Psi%20Brawler.webp"
 ```
 ^statblock
+%%

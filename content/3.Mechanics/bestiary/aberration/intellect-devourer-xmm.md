@@ -47,6 +47,8 @@ Intellect devourers serve their mind flayer creators by consuming other creature
 > 
 > I know Durgan, and that wasn't Durgan. It was like something was wearing Durgan... like some sort of suit... a Durgan suit.
 
+
+%%
 ```statblock
 "name": "Intellect Devourer (XMM)"
 "size": "Tiny"
@@ -65,13 +67,12 @@ Intellect devourers serve their mind flayer creators by consuming other creature
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "damage_resistances": "psychic"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 12"
+"senses": "Blindsight 60 ft., passive Perception 12"
 "languages": "understands Deep Speech but can't speak; telepathy 60 ft."
 "cr": "2"
 "traits":
@@ -112,6 +113,8 @@ Intellect devourers serve their mind flayer creators by consuming other creature
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Intellect%20Devourer.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

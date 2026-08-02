@@ -52,6 +52,7 @@ Bodyguards, belligerents, and laborers, toughs rely on their physical strength t
 > There are two answers to every question: ours, and the wrong one.
 
 
+%%
 ```statblock
 "name": "Tough Boss (XMM)"
 "size": "Small or Medium"
@@ -102,6 +103,8 @@ Bodyguards, belligerents, and laborers, toughs rely on their physical strength t
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Tough%20Boss.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

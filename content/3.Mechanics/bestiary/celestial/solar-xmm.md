@@ -42,6 +42,8 @@ Solars can resurrect the dead and often use that power to enlist mortal aid. The
 Solars stand as the final line of defense between unspeakable evils and the order of the multiverse. They are the servants of just deities and ageless forces of good. Their interests span the planes, but they rarely intervene in conflicts on the worlds of the Material Plane. When they act, they lead vast angelic hosts and wield holy weapons capable of laying low the wickedest Fiends.
 
 Solars can resurrect the dead and often use that power to enlist mortal aid. They bestow grand, new purposes on those they return to life. Solars don't enforce these destinies, but they trust in the potential of mortals to achieve great things.
+
+%%
 ```statblock
 "name": "Solar (XMM)"
 "size": "Large"
@@ -61,13 +63,11 @@ Solars can resurrect the dead and often use that power to enlist mortal aid. The
   - !!int "30"
 "speed": "50 ft., fly 150 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+14"
 "damage_immunities": "poison, radiant"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 24"
+"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"senses": "Truesight 120 ft., passive Perception 24"
 "languages": "all; telepathy 120 ft."
 "cr": "21"
 "traits":
@@ -127,6 +127,8 @@ Solars can resurrect the dead and often use that power to enlist mortal aid. The
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Solar.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

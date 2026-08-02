@@ -69,6 +69,8 @@ Treants defend and are shaped by secrets of the forest. Roll on or choose a resu
 | 5 | Rooted on a hero's burial mound and animates trees that look like questing knights. |
 | 6 | Scarred by a fire and holds the bones of the arsonist who started it in a hollow. |
 ^treant-secrets
+
+%%
 ```statblock
 "name": "Treant (XMM)"
 "size": "Huge"
@@ -116,6 +118,8 @@ Treants defend and are shaped by secrets of the forest. Roll on or choose a resu
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Treant.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -18,6 +18,8 @@ aliases:
 *Source: Phandelver and Below: The Shattered Obelisk p. 139*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Infected%20Townsperson.webp#center)
+
+%%
 ```statblock
 "name": "Infected Townsperson (PaBTSO)"
 "size": "Medium"
@@ -25,7 +27,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any Chaotic alignment"
 "ac": !!int "13"
-"ac_class": "[hide armor](3.Mechanics/items/hide-armor-xphb.md)"
+"ac_class": "hide armor"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
 "modifier": !!int "1"
@@ -38,7 +40,7 @@ aliases:
   - !!int "9"
 "speed": "30 ft."
 "gear":
-  - "[greataxe](3.Mechanics/items/greataxe-xphb.md)"
+  - "greataxe"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "2"
@@ -56,3 +58,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Infected%20Townsperson.webp"
 ```
 ^statblock
+%%

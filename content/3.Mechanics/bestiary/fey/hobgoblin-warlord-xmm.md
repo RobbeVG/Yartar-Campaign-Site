@@ -95,6 +95,7 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Hobgoblins.webp#center)
 
+%%
 ```statblock
 "name": "Hobgoblin Warlord (XMM)"
 "size": "Medium"
@@ -123,8 +124,7 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
   - "[longsword](3.Mechanics/items/longsword-xphb.md)"
   - "[plate armor](3.Mechanics/items/plate-armor-xphb.md)"
   - "[shield](3.Mechanics/items/shield-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
 "cr": "6"
 "traits":
@@ -153,6 +153,8 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hobgoblin%20Warlord.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

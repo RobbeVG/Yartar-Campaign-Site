@@ -17,6 +17,8 @@ aliases:
 # [Avatar of Death](3.Mechanics/bestiary/undead/avatar-of-death-xdmg.md)
 *Source: Dungeon Master's Guide (2024) p. 252*  
 
+
+%%
 ```statblock
 "name": "Avatar of Death (XDMG)"
 "size": "Medium"
@@ -34,12 +36,9 @@ aliases:
   - !!int "16"
 "speed": "60 ft., fly 60 ft. (hover)"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 60 ft., passive Perception\
-  \ 13"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned,\
+  \ unconscious"
+"senses": "Truesight 60 ft., passive Perception 13"
 "languages": "all languages known to its summoner"
 "traits":
   - "desc": "The avatar can move through other creatures and objects as if they were\
@@ -58,3 +57,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XDMG/Avatar%20of%20Death.webp"
 ```
 ^statblock
+%%

@@ -61,6 +61,8 @@ Beholders are a particular threat to adventurers because both gravitate toward m
 ### Beholder Lairs
 
 Beholders lurk in cavern complexes they've carved using their eye rays deep in the Underdark or in lairs created for them by their servants.
+
+%%
 ```statblock
 "name": "Beholder (XMM)"
 "size": "Large"
@@ -82,11 +84,10 @@ Beholders lurk in cavern complexes they've carved using their eye rays deep in t
   - "constitution": !!int "9"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+12"
-"condition_immunities": "[prone](3.Mechanics/rules/conditions.md#Prone)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 22"
+"condition_immunities": "prone"
+"senses": "Darkvision 120 ft., passive Perception 22"
 "languages": "Deep Speech, Undercommon"
 "cr": "13"
 "traits":
@@ -176,6 +177,8 @@ Beholders lurk in cavern complexes they've carved using their eye rays deep in t
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Beholder.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

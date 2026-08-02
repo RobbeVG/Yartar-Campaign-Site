@@ -69,6 +69,8 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
 | 5 | Taking trophies from their victims. |
 | 6 | Using poison with a distinctive color or smell. |
 ^assassin-modus-operandi
+
+%%
 ```statblock
 "name": "Assassin (XMM)"
 "size": "Small or Medium"
@@ -90,11 +92,11 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
   - "dexterity": !!int "7"
   - "intelligence": !!int "6"
 "skillsaves":
-  - "name": "[Acrobatics](3.Mechanics/rules/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+7"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+10"
 "damage_resistances": "poison"
 "gear":
@@ -131,6 +133,8 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Assassin.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

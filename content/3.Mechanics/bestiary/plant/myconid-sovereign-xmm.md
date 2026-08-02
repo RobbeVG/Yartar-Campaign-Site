@@ -42,6 +42,7 @@ Myconid sovereigns resemble towering myconid adults with elaborate fungal growth
 
 Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. These ambulatory fungal creatures tend to their sanctuaries and avoid becoming embroiled in the conflicts of other creatures. They use specialized spores to communicate, to alert one another to danger, and to defend themselves. When myconids encounter others beings, they use mind-linking spores to allow nearby creatures to telepathically share thoughts. Nevertheless, myconids' goals remain mysterious to most non-fungal creatures.
 
+%%
 ```statblock
 "name": "Myconid Sovereign (XMM)"
 "size": "Large"
@@ -59,8 +60,7 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
   - !!int "15"
   - !!int "10"
 "speed": "30 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"senses": "Darkvision 120 ft., passive Perception 12"
 "languages": "telepathy 240 ft."
 "cr": "2"
 "traits":
@@ -95,6 +95,8 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Myconid%20Sovereign.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

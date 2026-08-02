@@ -198,7 +198,7 @@ plugins:
         linkDistance: 30
         fontSize: 0.6
         opacityScale: 1
-        removeTags: [ttrpg-cli/**]
+        removeTags: []
         showTags: true
         enableRadial: false
       globalGraph:
@@ -211,8 +211,8 @@ plugins:
         linkDistance: 30
         fontSize: 0.6
         opacityScale: 1
-        removeTags: [ttrpg-cli/**]
-        showTags: true
+        removeTags: []
+        showTags: false
         focusOnHover: true
         enableRadial: true
     layout:
@@ -307,7 +307,6 @@ plugins:
       includedProperties:
         - description
         - tags
-        - aliases
       excludedProperties: []
       hidePropertiesView: true
       delimiters: ---

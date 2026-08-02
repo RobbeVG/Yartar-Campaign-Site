@@ -70,6 +70,8 @@ While many hydras claim their own territories, wicked deities might use them to 
 | 3 | Guard a magical herb that blooms once a year. |
 | 4 | Protect a font of poison that pollutes a river. |
 ^hydra-lairs
+
+%%
 ```statblock
 "name": "Hydra (XMM)"
 "size": "Huge"
@@ -88,13 +90,10 @@ While many hydras claim their own territories, wicked deities might use them to 
   - !!int "7"
 "speed": "40 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [deafened](3.Mechanics/rules/conditions.md#Deafened), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [stunned](3.Mechanics/rules/conditions.md#Stunned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 16"
+"condition_immunities": "blinded, charmed, deafened, frightened, stunned, unconscious"
+"senses": "Darkvision 60 ft., passive Perception 16"
 "languages": ""
 "cr": "8"
 "traits":
@@ -121,6 +120,8 @@ While many hydras claim their own territories, wicked deities might use them to 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hydra.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -17,6 +17,8 @@ aliases:
 *Source: Player's Handbook (2024) p. 124*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Beast%20of%20the%20Sea.webp#center)
+
+%%
 ```statblock
 "name": "Beast of the Sea (XPHB)"
 "size": "Medium"
@@ -34,8 +36,7 @@ aliases:
   - !!int "14"
   - !!int "11"
 "speed": "5 ft., swim 60 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 ft., passive Perception\
-  \ 12"
+"senses": "Darkvision 90 ft., passive Perception 12"
 "languages": "understands the languages you know"
 "traits":
   - "desc": "The beast can breathe air and water."
@@ -54,3 +55,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Beast%20of%20the%20Sea.webp"
 ```
 ^statblock
+%%

@@ -73,6 +73,8 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
 > 
 > I hunt evil like the great cat hunts its prey, but evil will not long yield to blade alone. It takes strength, honor, and sometimes a little more.
 
+
+%%
 ```statblock
 "name": "Weretiger (XMM)"
 "size": "Small or Medium"
@@ -92,14 +94,13 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
   - !!int "11"
 "speed": "30 ft., 40 ft. (tiger form only)"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "gear":
   - "[longbow](3.Mechanics/items/longbow-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "Darkvision 60 ft., passive Perception 15"
 "languages": "Common (can't speak in tiger form)"
 "cr": "4"
 "actions":
@@ -134,6 +135,8 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Weretiger.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

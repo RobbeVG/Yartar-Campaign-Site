@@ -44,6 +44,7 @@ Satyr revelmasters use magical music to change the moods of other creatures. The
 
 Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merrymaking—eating, drinking, performing, fighting, and frolicking.
 
+%%
 ```statblock
 "name": "Satyr Revelmaster (XMM)"
 "size": "Medium"
@@ -65,11 +66,11 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
   - "dexterity": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Acrobatics](3.Mechanics/rules/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+7"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Performance](3.Mechanics/rules/skills.md#Performance)"
+  - "name": "Performance"
     "desc": "+9"
 "senses": "passive Perception 15"
 "languages": "Common, Elvish, Sylvan"
@@ -102,6 +103,8 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Satyr%20Revelmaster.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

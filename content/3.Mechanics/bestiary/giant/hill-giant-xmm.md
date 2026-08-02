@@ -45,6 +45,8 @@ Hill giants live among rugged bluffs and highlands. Standing three times the siz
 Among hidden valleys, pristine waterfalls, and game-filled slopes, hill giants usually find their needs met by nature's bounty. What the wilderness doesn't provide, hill giants make, crafting clothes, tools, and weapons from rocks, wood, and hides. When they encounter strangers, hill giants might be suspicious and protective of their territories, but some might be convinced to share their bounties with travelers willing to entertain them.
 
 Disaster, invasion, or want might drive hill giants from their homes into other people's lands. Some displaced hill giants might steal what they need or seek revenge for their losses by causing ruin among smaller beings. Others might take up lives of raiding or serve other giants in return for protection.
+
+%%
 ```statblock
 "name": "Hill Giant (XMM)"
 "size": "Huge"
@@ -63,7 +65,7 @@ Disaster, invasion, or want might drive hill giants from their homes into other 
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Giant"
@@ -84,6 +86,8 @@ Disaster, invasion, or want might drive hill giants from their homes into other 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hill%20Giant.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

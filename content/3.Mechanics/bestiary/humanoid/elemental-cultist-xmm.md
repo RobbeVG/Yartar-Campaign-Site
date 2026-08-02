@@ -142,6 +142,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Cultists.webp#center)
 
+%%
 ```statblock
 "name": "Elemental Cultist (XMM)"
 "size": "Small or Medium"
@@ -163,11 +164,11 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   - "constitution": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+5"
 "gear":
   - "[chain mail](3.Mechanics/items/chain-mail-xphb.md)"
@@ -200,6 +201,8 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Elemental%20Cultist.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

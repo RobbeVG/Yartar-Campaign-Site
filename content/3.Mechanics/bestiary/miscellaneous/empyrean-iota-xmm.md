@@ -80,6 +80,7 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 > One day I might be the god of storms—mind countless followers, answer prayers, change whole worlds—but, until then, I do what I please.
 
 
+%%
 ```statblock
 "name": "Empyrean Iota (XMM)"
 "size": "Medium"
@@ -98,16 +99,15 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
   - !!int "16"
 "speed": "5 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+  - "name": "History"
     "desc": "+4"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[prone](3.Mechanics/rules/conditions.md#Prone)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 30 ft., passive Perception\
-  \ 15"
+"condition_immunities": "prone"
+"senses": "Truesight 30 ft., passive Perception 15"
 "languages": "all"
 "cr": "1"
 "traits":
@@ -136,6 +136,8 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Empyrean%20Iota.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

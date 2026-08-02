@@ -82,6 +82,7 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 | 6 | Takes what they need to survive. |
 ^bandit-motivations
 
+%%
 ```statblock
 "name": "Bandit Captain (XMM)"
 "size": "Small or Medium"
@@ -104,9 +105,9 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
   - "dexterity": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+4"
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+4"
 "gear":
   - "[pistol](3.Mechanics/items/pistol-xphb.md)"
@@ -133,6 +134,8 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bandit%20Captain.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

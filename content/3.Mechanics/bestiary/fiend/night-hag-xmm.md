@@ -42,6 +42,8 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
 Night hags seek mortals to torment and turn to evil. By day, night hags use supernatural deceptions to plague their victims, shape-shifting to pose as other creatures and make their targets believe the world has turned against them. By night, these hags reinforce their tortures with terrifying dreams. Once they force their targets to desperate limits, night hags claim their victims' tormented spirits, capturing them in sinister traps called soul bags. The hags then slip between planes of existence to barter stolen souls to vile magic-users and fiendish entities.
 
 Night hags maintain networks of nefarious customers and collect rumors from across the Lower Planes. These hags might part with their secrets in exchange for magic items and other wicked prices.
+
+%%
 ```statblock
 "name": "Night Hag (XMM)"
 "size": "Medium"
@@ -60,18 +62,17 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+6"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_resistances": "cold, fire"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 15"
+"condition_immunities": "charmed"
+"senses": "Darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal, Common, Infernal, Primordial"
 "cr": "5"
 "traits":
@@ -127,6 +128,8 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Night%20Hag.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

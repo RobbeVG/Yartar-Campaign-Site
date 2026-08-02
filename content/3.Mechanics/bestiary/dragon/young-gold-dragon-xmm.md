@@ -55,6 +55,7 @@ Gold dragons favor grasslands and pristine forests, frequently dwelling near awe
 
 Gold dragons make their homes in places of natural and magical wonder.
 
+%%
 ```statblock
 "name": "Young Gold Dragon (XMM)"
 "size": "Large"
@@ -77,17 +78,16 @@ Gold dragons make their homes in places of natural and magical wonder.
   - "dexterity": !!int "6"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+9"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+9"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "damage_immunities": "fire"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 19"
+"senses": "Blindsight 30 ft., Darkvision 120 ft., passive Perception 19"
 "languages": "Common, Draconic"
 "cr": "10"
 "traits":
@@ -116,6 +116,8 @@ Gold dragons make their homes in places of natural and magical wonder.
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Young%20Gold%20Dragon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

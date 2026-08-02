@@ -44,6 +44,7 @@ Revenants possess the bodies they had in life, using them to hunt down their kil
 
 Wrathful spirits bent on revenge, revenants possess corpses and other materials, using them to seek justice or vent their rage on those who wronged them. Revenants refuse to rest until those they seek to punish are no more. If their bodies are destroyed, revenants claim new forms and continue their ruthless quests.
 
+%%
 ```statblock
 "name": "Revenant (XMM)"
 "size": "Medium"
@@ -68,11 +69,8 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
   - "charisma": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [stunned](3.Mechanics/rules/conditions.md#Stunned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
+"senses": "Darkvision 60 ft., passive Perception 13"
 "languages": "Common plus one other language"
 "cr": "5"
 "traits":
@@ -113,6 +111,8 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Revenant.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

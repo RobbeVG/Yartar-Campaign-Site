@@ -45,6 +45,8 @@ Invoking mysterious rites involving four beholder eyestalks, a spellcaster can m
 A spectator serves its conjurer for 101 years by guarding something of the spellcaster's choice—typically a treasure or location. The spectator is a reliable guardian and allows only its summoner access to what it protects. A spectator might converse with other creatures, openly discussing its orders and the magic-user who conjured it, but it has no ambitions of its own and won't abandon its post. Should an intruder ignore its warnings, a spectator attempts to drive away the intruder with its magical eye rays.
 
 At the end of its service, a spectator might discorporate back into nothingness or wander away, seeking to learn more of the multiverse.
+
+%%
 ```statblock
 "name": "Spectator (XMM)"
 "size": "Medium"
@@ -64,12 +66,10 @@ At the end of its service, a spectator might discorporate back into nothingness 
   - !!int "11"
 "speed": "5 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"condition_immunities": "exhaustion, prone"
+"senses": "Darkvision 120 ft., passive Perception 16"
 "languages": "Deep Speech, Undercommon; telepathy 120 ft."
 "cr": "3"
 "actions":
@@ -105,6 +105,8 @@ At the end of its service, a spectator might discorporate back into nothingness 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Spectator.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

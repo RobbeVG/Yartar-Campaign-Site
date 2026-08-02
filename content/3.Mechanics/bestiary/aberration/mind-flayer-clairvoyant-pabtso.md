@@ -35,13 +35,14 @@ Instead of heeding an elder brain, a mind flayer clairvoyant listens to the whis
 
 Mind flayers, also known as illithids, feast on the brains of Humanoids across the multiverse. They are distinguished by their purple-toned skin and octopus-like heads, from which extend writhing tentacles.
 
+%%
 ```statblock
 "name": "Mind Flayer Clairvoyant (PaBTSO)"
 "size": "Medium"
 "type": "aberration"
 "alignment": "typically  Lawful Evil"
 "ac": !!int "15"
-"ac_class": "[breastplate](3.Mechanics/items/breastplate-xphb.md)"
+"ac_class": "breastplate"
 "hp": !!int "156"
 "hit_dice": "24d8 + 48"
 "modifier": !!int "1"
@@ -58,19 +59,17 @@ Mind flayers, also known as illithids, feast on the brains of Humanoids across t
   - "wisdom": !!int "7"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+9"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+7"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_resistances": "psychic"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., [truesight](3.Mechanics/rules/senses.md#Truesight)\
-  \ 15 ft., passive Perception 17"
+"condition_immunities": "blinded, charmed, frightened"
+"senses": "darkvision 120 ft., truesight 15 ft., passive Perception 17"
 "languages": "Deep Speech, telepathy 120 ft., Undercommon"
 "cr": "11"
 "traits":
@@ -84,15 +83,13 @@ Mind flayers, also known as illithids, feast on the brains of Humanoids across t
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 21\
       \ (3d10 + 5) psychic damage. If the target is Medium or smaller, it has the\
-      \ [grappled](3.Mechanics/rules/conditions.md#Grappled) condition (escape DC\
-      \ 17) and must succeed on a DC 17 Intelligence saving throw or have the [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition until the grapple ends."
+      \ grappled condition (escape DC 17) and must succeed on a DC 17 Intelligence\
+      \ saving throw or have the incapacitated condition until the grapple ends."
     "name": "Tentacle"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ Humanoid [grappled](3.Mechanics/rules/conditions.md#Grappled) by the mind\
-      \ flayer. *Hit:* 55 (10d10) piercing damage. If this damage reduces the target\
-      \ to 0 hit points, the mind flayer kills it by extracting and devouring its\
-      \ brain."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one incapacitated Humanoid\
+      \ grappled by the mind flayer. *Hit:* 55 (10d10) piercing damage. If this damage\
+      \ reduces the target to 0 hit points, the mind flayer kills it by extracting\
+      \ and devouring its brain."
     "name": "Extract Brain"
   - "desc": "The mind flayer opens a rift into the Far Realm, centered on a point\
       \ the mind flayer can see within 60 feet of itself, and a tentacle lashes across\
@@ -100,19 +97,15 @@ Mind flayers, also known as illithids, feast on the brains of Humanoids across t
       \ of the rift must make a DC 17 Intelligence saving throw, after which the tentacle\
       \ disappears and the rift closes. On a failed save, a creature takes 18 (4d8)\
       \ cold damage from the rift plus 18 (4d8) psychic damage from the tentacle and\
-      \ has the [stunned](3.Mechanics/rules/conditions.md#Stunned) condition for 1\
-      \ minute. On a successful save, a creature takes half as much damage only. A\
-      \ [stunned](3.Mechanics/rules/conditions.md#Stunned) creature can repeat the\
-      \ saving throw at the end of each of its turns, ending the effect on itself\
-      \ on a success."
+      \ has the stunned condition for 1 minute. On a successful save, a creature takes\
+      \ half as much damage only. A stunned creature can repeat the saving throw at\
+      \ the end of each of its turns, ending the effect on itself on a success."
     "name": "Unleash Void (Recharge 5-6)"
   - "desc": "The mind flayer casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 17):\n\n**At will:** [detect magic](3.Mechanics/spells/detect-magic-xphb.md),\
-      \ [detect thoughts](3.Mechanics/spells/detect-thoughts-xphb.md), [mage hand](3.Mechanics/spells/mage-hand-xphb.md)\
-      \ (the hand is invisible)\n\n**3/day each:** [clairvoyance](3.Mechanics/spells/clairvoyance-xphb.md)\
-      \ (as an action), [dispel magic](3.Mechanics/spells/dispel-magic-xphb.md)\n\n\
-      **1/day:** [plane shift](3.Mechanics/spells/plane-shift-xphb.md) (self only)"
+      \ DC 17):\n\n**At will:** detect magic, detect thoughts, mage hand (the hand\
+      \ is invisible)\n\n**3/day each:** clairvoyance (as an action), dispel magic\n\
+      \n**1/day:** plane shift (self only)"
     "name": "Spellcasting (Psionics)"
 "reactions":
   - "desc": "When hit by an attack roll, the mind flayer gains a +4 bonus to its AC\
@@ -125,3 +118,4 @@ Mind flayers, also known as illithids, feast on the brains of Humanoids across t
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Mind%20Flayer%20Clairvoyant.webp"
 ```
 ^statblock
+%%

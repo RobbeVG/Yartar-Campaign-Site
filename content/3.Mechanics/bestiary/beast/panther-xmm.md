@@ -32,6 +32,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!gallery]
 ![Aquatic animals swim alongside a druid exploring the sea](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Aquatic.webp)
 ![Inhabitants of the rain forest answer a druid's summons](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Animals%20Rainforest.webp)
+
+%%
 ```statblock
 "name": "Panther (XMM)"
 "size": "Medium"
@@ -50,12 +52,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "7"
 "speed": "50 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "Darkvision 60 ft., passive Perception 14"
 "languages": ""
 "cr": "1/4"
 "actions":
@@ -71,6 +72,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Panther.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

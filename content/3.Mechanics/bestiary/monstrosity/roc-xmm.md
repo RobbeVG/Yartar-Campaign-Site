@@ -73,6 +73,8 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
 | 5 | Someone marooned in the nest. |
 | 6 | A statue of a knight riding a rearing steed. |
 ^roc-nest-remnants
+
+%%
 ```statblock
 "name": "Roc (XMM)"
 "size": "Gargantuan"
@@ -94,7 +96,7 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
   - "dexterity": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
 "senses": "passive Perception 18"
 "languages": ""
@@ -122,6 +124,8 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Roc.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

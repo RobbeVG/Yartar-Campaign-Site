@@ -27,6 +27,8 @@ Glasstaff puts on airs of gentility and courteous manners, addressing his bandit
 A former member of the Lords' Alliance, Glasstaff seized an opportunity in Phandalin to line his own pockets. Originally tasked with setting up a constabulary, he instead assembled a group of outlaws and local ruffians to secure his own position in town.
 
 Glasstaff puts on airs of gentility and courteous manners, addressing his bandits and ruffians as "my good fellows," and referring to sordid acts such as kidnapping or arson as "that unpleasant little business" or "those unfortunate events." He may refer to the characters as his "honored guests," and expresses regret that he cannot provide suitable entertainment for the occasion of their visit. Beneath his genteel demeanor, however, Glasstaff is just as violent and arrogant as any of the Redbrands.
+
+%%
 ```statblock
 "name": "Iarno \"Glasstaff\" Albrek (PaBTSO)"
 "size": "Medium"
@@ -34,8 +36,7 @@ Glasstaff puts on airs of gentility and courteous manners, addressing his bandit
 "subtype": "human, wizard"
 "alignment": "Lawful Evil"
 "ac": !!int "12"
-"ac_class": "16 with [mage armor](3.Mechanics/spells/mage-armor-xphb.md) and [staff\
-  \ of defense](3.Mechanics/items/staff-of-defense-pabtso.md)"
+"ac_class": "16 with mage armor and [staff of defense](3.Mechanics/items/staff-of-defense-pabtso.md)"
 "hp": !!int "22"
 "hit_dice": "5d8"
 "modifier": !!int "2"
@@ -51,9 +52,9 @@ Glasstaff puts on airs of gentility and courteous manners, addressing his bandit
   - "intelligence": !!int "5"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+5"
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+  - "name": "History"
     "desc": "+5"
 "senses": "passive Perception 11"
 "languages": "Common, Draconic, Dwarvish, Elvish"
@@ -61,8 +62,7 @@ Glasstaff puts on airs of gentility and courteous manners, addressing his bandit
 "traits":
   - "desc": "Glasstaff wields a [staff of defense](3.Mechanics/items/staff-of-defense-pabtso.md)\
       \ (see appendix B). With the staff in hand, he can use an action to cast the\
-      \ [mage armor](3.Mechanics/spells/mage-armor-xphb.md) spell and use his reaction\
-      \ to cast the [shield](3.Mechanics/spells/shield-xphb.md) spell."
+      \ mage armor spell and use his reaction to cast the shield spell."
     "name": "Special Equipment"
 "actions":
   - "desc": "Glasstaff makes two Shocking Burst attacks."
@@ -72,9 +72,8 @@ Glasstaff puts on airs of gentility and courteous manners, addressing his bandit
     "name": "Shocking Burst"
   - "desc": "Glasstaff casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\n\
-      **At will:** [light](3.Mechanics/spells/light-xphb.md), [mage hand](3.Mechanics/spells/mage-hand-xphb.md)\n\
-      \n**1/day each:** [charm person](3.Mechanics/spells/charm-person-xphb.md), [hold\
-      \ person](3.Mechanics/spells/hold-person-xphb.md), [magic missile](3.Mechanics/spells/magic-missile-xphb.md)"
+      **At will:** light, mage hand\n\n**1/day each:** charm person, hold person,\
+      \ magic missile"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Glasstaff magically teleports, along with any equipment he is wearing\
@@ -85,3 +84,4 @@ Glasstaff puts on airs of gentility and courteous manners, addressing his bandit
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Iarno%20Glasstaff%20Albrek.webp"
 ```
 ^statblock
+%%

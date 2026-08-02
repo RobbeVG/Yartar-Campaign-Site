@@ -42,6 +42,7 @@ Berserkers might fight for personal glory or form motivated forces or howling ho
 
 Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fighters, and other ferocious warriors.
 
+%%
 ```statblock
 "name": "Berserker (XMM)"
 "size": "Small or Medium"
@@ -78,6 +79,8 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Berserker.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

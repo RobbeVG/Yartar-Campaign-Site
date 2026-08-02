@@ -66,6 +66,8 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
 | 3 | Putting them to sleep, then stealing mounts or supplies. |
 | 4 | Sharing the location of hidden treasure, which turns out to be sunlight on sand or water. |
 ^jackalwere-tricks
+
+%%
 ```statblock
 "name": "Jackalwere (XMM)"
 "size": "Small"
@@ -84,14 +86,13 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+4"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 ft., passive Perception\
-  \ 14"
+"senses": "Darkvision 90 ft., passive Perception 14"
 "languages": "Common"
 "cr": "1/2"
 "traits":
@@ -125,6 +126,8 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Jackalwere.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

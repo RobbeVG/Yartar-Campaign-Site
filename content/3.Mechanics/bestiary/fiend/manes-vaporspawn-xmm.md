@@ -43,6 +43,7 @@ Vaporspawn arise from evil souls shattered by unspeakable torments or the depred
 
 The lowest form of demons, manes appear when truly loathsome souls are condemned to the Abyss. These misshapen demons have distorted features and bodies that crawl with Abyssal parasites. Overwhelmed by demonic urges and constant terror, manes know only shock and frenzied outbursts.
 
+%%
 ```statblock
 "name": "Manes Vaporspawn (XMM)"
 "size": "Medium"
@@ -63,11 +64,8 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
 "speed": "30 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [restrained](3.Mechanics/rules/conditions.md#Restrained)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "charmed, exhaustion, frightened, grappled, poisoned, restrained"
+"senses": "Darkvision 60 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "1"
 "traits":
@@ -94,6 +92,8 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Manes%20Vaporspawn.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

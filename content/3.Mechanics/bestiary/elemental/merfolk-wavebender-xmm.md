@@ -43,6 +43,7 @@ These merfolk mages use magic to manipulate water, storms, and sea creatures to 
 
 Beneath the waves dwell merfolk, mysterious creatures that merge the features of humans and sea creatures. Some are curious about land dwellers, while others view them with suspicion.
 
+%%
 ```statblock
 "name": "Merfolk Wavebender (XMM)"
 "size": "Medium"
@@ -66,7 +67,7 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
   - "wisdom": !!int "7"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
 "damage_resistances": "cold"
 "senses": "passive Perception 17"
@@ -99,6 +100,8 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Merfolk%20Wavebender.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

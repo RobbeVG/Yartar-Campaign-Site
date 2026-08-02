@@ -83,6 +83,8 @@ Wraiths might arise from a single powerfully evil soul or other baleful forces. 
 | 9 | The vile dreams of a slumbering god. |
 | 10 | The voracity of a life-hungry realm, such as the Shadowfell or Negative Plane. |
 ^wraith-manifestations
+
+%%
 ```statblock
 "name": "Wraith (XMM)"
 "size": "Small or Medium"
@@ -102,13 +104,9 @@ Wraiths might arise from a single powerfully evil soul or other baleful forces. 
 "speed": "5 ft., fly 60 ft. (hover)"
 "damage_resistances": "acid, bludgeoning, cold, fire, piercing, slashing"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned,\
+  \ prone, restrained, unconscious"
+"senses": "Darkvision 60 ft., passive Perception 12"
 "languages": "Common plus two other languages"
 "cr": "5"
 "traits":
@@ -135,6 +133,8 @@ Wraiths might arise from a single powerfully evil soul or other baleful forces. 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Wraith.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

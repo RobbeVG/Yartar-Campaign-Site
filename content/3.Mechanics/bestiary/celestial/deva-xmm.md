@@ -70,6 +70,8 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
 | 5 | A seedling that wilts if exposed to anger. |
 | 6 | Someone from another world with a prophesied purpose but no memory. |
 ^deva-messages
+
+%%
 ```statblock
 "name": "Deva (XMM)"
 "size": "Medium"
@@ -92,15 +94,13 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+9"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+9"
 "damage_resistances": "radiant"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 19"
+"condition_immunities": "charmed, exhaustion, frightened"
+"senses": "Darkvision 120 ft., passive Perception 19"
 "languages": "all; telepathy 120 ft."
 "cr": "10"
 "traits":
@@ -138,6 +138,8 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Deva.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

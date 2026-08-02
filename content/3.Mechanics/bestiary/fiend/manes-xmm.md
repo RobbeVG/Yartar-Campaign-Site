@@ -43,6 +43,7 @@ Manes lash out at creatures that appear weaker than themselves—or that react t
 
 The lowest form of demons, manes appear when truly loathsome souls are condemned to the Abyss. These misshapen demons have distorted features and bodies that crawl with Abyssal parasites. Overwhelmed by demonic urges and constant terror, manes know only shock and frenzied outbursts.
 
+%%
 ```statblock
 "name": "Manes (XMM)"
 "size": "Small"
@@ -63,10 +64,8 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "charmed, frightened, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "1/8"
 "actions":
@@ -77,6 +76,8 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Manes.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

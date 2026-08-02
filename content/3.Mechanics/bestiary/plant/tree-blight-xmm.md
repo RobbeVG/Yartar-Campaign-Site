@@ -52,6 +52,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
 
 
+%%
 ```statblock
 "name": "Tree Blight (XMM)"
 "size": "Huge"
@@ -69,9 +70,8 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
   - !!int "10"
   - !!int "3"
 "speed": "30 ft."
-"condition_immunities": "[deafened](3.Mechanics/rules/conditions.md#Deafened)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "deafened"
+"senses": "Blindsight 60 ft., passive Perception 10"
 "languages": "understands Common and Druidic but can't speak"
 "cr": "7"
 "actions":
@@ -95,6 +95,8 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Tree%20Blight.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

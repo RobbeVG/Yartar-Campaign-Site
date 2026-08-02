@@ -58,6 +58,8 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
 > 
 > Some sages say you unknowingly occupy the same ethereally coterminous point as a phase spider an average of four times each year.
 
+
+%%
 ```statblock
 "name": "Phase Spider (XMM)"
 "size": "Large"
@@ -76,10 +78,9 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
   - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "3"
 "traits":
@@ -112,6 +113,8 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Phase%20Spider.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

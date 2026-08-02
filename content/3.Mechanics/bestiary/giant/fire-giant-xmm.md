@@ -46,6 +46,8 @@ Fire giants inhabit the hollow vaults and molten rivers of mountainous depths. T
 Fire giants have broad frames, skin tones in a variety of rocklike shades, and hair like flame.
 
 Most fire giants dwell in volcanically active mountains or cavernous depths that house their fortress-forges. Evil fire giants tend to be martially minded, and they craft mighty arms to conquer their neighbors and seize valuable resources. More temperate fire giants trade their works for what they need, and they might share the ancient techniques of Giant artisans with other craftspeople. In either case, fire giants are prone to undertaking ambitious designs, and they rarely appreciate interruptions in their titanic workshops.
+
+%%
 ```statblock
 "name": "Fire Giant (XMM)"
 "size": "Huge"
@@ -68,9 +70,9 @@ Most fire giants dwell in volcanically active mountains or cavernous depths that
   - "constitution": !!int "10"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+11"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
 "damage_immunities": "fire"
 "senses": "passive Perception 16"
@@ -93,6 +95,8 @@ Most fire giants dwell in volcanically active mountains or cavernous depths that
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Fire%20Giant.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

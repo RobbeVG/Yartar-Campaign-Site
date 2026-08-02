@@ -22,6 +22,8 @@ Lowarnizel is a young amethyst dragon, and his companion is a lawful neutral hum
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Lowarnizel.webp#right)
 
 Lowarnizel is a young amethyst dragon, and his companion is a lawful neutral human mage named Gossa. Both hate the Far Realm and anything tainted by it.
+
+%%
 ```statblock
 "name": "Lowarnizel (PaBTSO)"
 "size": "Large"
@@ -47,19 +49,17 @@ Lowarnizel is a young amethyst dragon, and his companion is a lawful neutral hum
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+12"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+10"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+8"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_resistances": "force, psychic"
-"condition_immunities": "[frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone)"
-"senses": "[blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 20"
+"condition_immunities": "frightened, prone"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 20"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "9"
 "traits":
@@ -82,9 +82,7 @@ Lowarnizel is a young amethyst dragon, and his companion is a lawful neutral hum
     "name": "Singularity Breath (Recharge 5-6)"
   - "desc": "Lowarnizel casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      **1/day each:** [dispel magic](3.Mechanics/spells/dispel-magic-xphb.md), [haste](3.Mechanics/spells/haste-xphb.md),\
-      \ [protection from evil and good](3.Mechanics/spells/protection-from-evil-and-good-xphb.md),\
-      \ [sending](3.Mechanics/spells/sending-xphb.md)"
+      **1/day each:** dispel magic, haste, protection from evil and good, sending"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "Lowarnizel magically transforms into any creature that is Medium or Small,\
@@ -97,3 +95,4 @@ Lowarnizel is a young amethyst dragon, and his companion is a lawful neutral hum
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Lowarnizel.webp"
 ```
 ^statblock
+%%

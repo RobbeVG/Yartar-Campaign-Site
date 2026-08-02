@@ -47,6 +47,7 @@ Cyclops oracles gaze through history to learn hidden truths. Many share these se
 
 Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vision, cyclopes can witness how future events are likely to occur.
 
+%%
 ```statblock
 "name": "Cyclops Oracle (XMM)"
 "size": "Huge"
@@ -68,12 +69,11 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
   - "constitution": !!int "9"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+  - "name": "History"
     "desc": "+11"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+12"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 30 ft., passive Perception\
-  \ 22"
+"senses": "Truesight 30 ft., passive Perception 22"
 "languages": "Giant"
 "cr": "10"
 "actions":
@@ -102,6 +102,8 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cyclops%20Oracle.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

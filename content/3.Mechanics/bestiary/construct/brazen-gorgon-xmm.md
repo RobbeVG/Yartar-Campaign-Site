@@ -96,6 +96,7 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Gorgons.webp#center)
 
+%%
 ```statblock
 "name": "Brazen Gorgon (XMM)"
 "size": "Large"
@@ -114,13 +115,11 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+10"
 "damage_immunities": "fire"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 20"
+"condition_immunities": "exhaustion, petrified"
+"senses": "Darkvision 60 ft., passive Perception 20"
 "languages": ""
 "cr": "9"
 "traits":
@@ -155,6 +154,8 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Brazen%20Gorgon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

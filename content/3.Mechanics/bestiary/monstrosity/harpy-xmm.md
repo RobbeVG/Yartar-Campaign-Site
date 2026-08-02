@@ -48,6 +48,8 @@ Hate-filled creatures, harpies strive to cause pain and bring an end to love and
 Harpies dwell in remote, dismal places tainted by tragedy and despair. Some tales claim harpies offended the gods and were transformed as a punishment; harpies might also be the descendants of such cursed souls.
 
 Every harpy sings a distinct song. While some songs are said to be heartbreaking in their beauty, others are wretched squawking and compel only the magically enthralled.
+
+%%
 ```statblock
 "name": "Harpy (XMM)"
 "size": "Medium"
@@ -91,6 +93,8 @@ Every harpy sings a distinct song. While some songs are said to be heartbreaking
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Harpy.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

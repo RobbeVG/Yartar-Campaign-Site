@@ -95,6 +95,8 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
 > 
 > A kraken dreams of casting its tentacles into the heavens and strangling that which birthed it, and when its dream exceeds its reach, it settles for the occasional passing ship.
 
+
+%%
 ```statblock
 "name": "Kraken (XMM)"
 "size": "Gargantuan"
@@ -119,16 +121,13 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
   - "constitution": !!int "15"
   - "wisdom": !!int "11"
 "skillsaves":
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+  - "name": "History"
     "desc": "+13"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+11"
 "damage_immunities": "cold, lightning"
-"condition_immunities": "[frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [restrained](3.Mechanics/rules/conditions.md#Restrained)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 21"
+"condition_immunities": "frightened, grappled, paralyzed, restrained"
+"senses": "Truesight 120 ft., passive Perception 21"
 "languages": "understands Abyssal, Celestial, Infernal, and Primordial but can't speak;\
   \ telepathy 120 ft."
 "cr": "23"
@@ -203,6 +202,8 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Kraken.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

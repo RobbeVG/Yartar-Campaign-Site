@@ -86,6 +86,8 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
 | 7 | A stray farm or woodland animal. |
 | 8 | A viciously mauled scarecrow. |
 ^ankheg-tunnel-discoveries
+
+%%
 ```statblock
 "name": "Ankheg (XMM)"
 "size": "Large"
@@ -103,8 +105,7 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
   - !!int "13"
   - !!int "6"
 "speed": "30 ft., burrow 10 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., Tremorsense\
-  \ 60 ft., passive Perception 11"
+"senses": "Darkvision 60 ft., Tremorsense 60 ft., passive Perception 11"
 "languages": ""
 "cr": "2"
 "traits":
@@ -127,6 +128,8 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ankheg.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

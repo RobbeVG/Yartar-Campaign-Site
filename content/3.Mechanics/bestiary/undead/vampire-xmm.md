@@ -95,6 +95,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 
 ![A vampire familiar provides a meal for a vampire spawn](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Vampires.webp#center)
 
+%%
 ```statblock
 "name": "Vampire (XMM)"
 "size": "Small or Medium"
@@ -118,13 +119,12 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+9"
 "damage_resistances": "necrotic"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 17"
+"senses": "Darkvision 120 ft., passive Perception 17"
 "languages": "Common plus two other languages"
 "cr": "13"
 "traits":
@@ -228,6 +228,8 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Vampire.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

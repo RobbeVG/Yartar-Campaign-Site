@@ -43,6 +43,7 @@ Merfolk skirmishers defend their homes from aquatic monsters and invaders from t
 
 Beneath the waves dwell merfolk, mysterious creatures that merge the features of humans and sea creatures. Some are curious about land dwellers, while others view them with suspicion.
 
+%%
 ```statblock
 "name": "Merfolk Skirmisher (XMM)"
 "size": "Medium"
@@ -78,6 +79,8 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Merfolk%20Skirmisher.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

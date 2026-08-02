@@ -66,6 +66,7 @@ Spies gather information and disseminate lies, manipulating people to gain the r
 | 4 | A visitor from a different time or world. |
 ^spy-personas
 
+%%
 ```statblock
 "name": "Spy (XMM)"
 "size": "Small or Medium"
@@ -84,17 +85,17 @@ Spies gather information and disseminate lies, manipulating people to gain the r
   - !!int "16"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+5"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+4"
-  - "name": "[Investigation](3.Mechanics/rules/skills.md#Investigation)"
+  - "name": "Investigation"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Sleight of Hand](3.Mechanics/rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "Sleight of Hand"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "gear":
   - "[hand crossbow](3.Mechanics/items/hand-crossbow-xphb.md)"
@@ -119,6 +120,8 @@ Spies gather information and disseminate lies, manipulating people to gain the r
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Spy.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

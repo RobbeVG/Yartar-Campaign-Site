@@ -65,6 +65,8 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
 | 5 | Skeleton belonging to a famous adventurer. |
 | 6 | Tablet bearing a mysterious message. |
 ^gelatinous-cube-debris
+
+%%
 ```statblock
 "name": "Gelatinous Cube (XMM)"
 "size": "Large"
@@ -83,11 +85,8 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
   - !!int "1"
 "speed": "15 ft."
 "damage_immunities": "acid"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [deafened](3.Mechanics/rules/conditions.md#Deafened), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [prone](3.Mechanics/rules/conditions.md#Prone)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 8"
+"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, prone"
+"senses": "Blindsight 60 ft., passive Perception 8"
 "languages": ""
 "cr": "2"
 "traits":
@@ -130,6 +129,8 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gelatinous%20Cube.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -79,6 +79,8 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 | 7 | A traumatic past event. |
 | 8 | A visitor with an eerie or enigmatic message. |
 ^incubus-nightmares
+
+%%
 ```statblock
 "name": "Incubus (XMM)"
 "size": "Medium"
@@ -97,19 +99,18 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
   - !!int "20"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+9"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+9"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_resistances": "cold, fire, poison, psychic"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "Darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Infernal; telepathy 60 ft."
 "cr": "4"
 "traits":
@@ -143,6 +144,8 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Incubus.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

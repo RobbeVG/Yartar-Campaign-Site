@@ -55,6 +55,8 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 > 
 > You'll never reach it, but at least your last thoughts will be warm.
 
+
+%%
 ```statblock
 "name": "Winter Wolf (XMM)"
 "size": "Large"
@@ -73,9 +75,9 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
   - !!int "8"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_immunities": "cold"
 "senses": "passive Perception 15"
@@ -100,6 +102,8 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Winter%20Wolf.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

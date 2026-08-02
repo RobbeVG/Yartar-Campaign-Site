@@ -86,6 +86,8 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 > 
 > The foundations of our homes, the strength of our weapons, the vaults of our greatest secrets—earth is nothing less than the grip of reality itself. It is the mightiest element. This cannot be denied.
 
+
+%%
 ```statblock
 "name": "Earth Elemental (XMM)"
 "size": "Large"
@@ -105,11 +107,8 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 "speed": "30 ft., burrow 30 ft."
 "damage_vulnerabilities": "thunder"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., Tremorsense\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "exhaustion, paralyzed, petrified, poisoned, unconscious"
+"senses": "Darkvision 60 ft., Tremorsense 60 ft., passive Perception 10"
 "languages": "Primordial (Terran)"
 "cr": "5"
 "traits":
@@ -133,6 +132,8 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Earth%20Elemental.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -26,6 +26,8 @@ Oculorbs resemble a slimy conglomeration of eyes in many sizes and shapes. They 
 Many oculorbs are dreamed into existence by beholders. The Far Realm's strange power can pervade a beholder's dreams, resulting in the birth of an oculorb.
 
 Oculorbs resemble a slimy conglomeration of eyes in many sizes and shapes. They are dreaded even by the beholders that birth them. An oculorb is a tangle of negative emotions—the fury, melancholy, and obsession of its creator, all given gruesome, corporeal form. Like a beholder, an oculorb can fire beams of energy from its eyes, but an oculorb's eyes lack the more sophisticated magical nature of a beholder's eyestalks. Instead, an oculorb unleashes powerful waves of energy charged with negative emotions, cowing its foes with despair and ire.
+
+%%
 ```statblock
 "name": "Oculorb (PaBTSO)"
 "size": "Large"
@@ -49,13 +51,12 @@ Oculorbs resemble a slimy conglomeration of eyes in many sizes and shapes. They 
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Investigation](3.Mechanics/rules/skills.md#Investigation)"
+  - "name": "Investigation"
     "desc": "+6"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+10"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [prone](3.Mechanics/rules/conditions.md#Prone)"
-"senses": "[truesight](3.Mechanics/rules/senses.md#Truesight) 60 ft., passive Perception\
-  \ 20"
+"condition_immunities": "blinded, prone"
+"senses": "truesight 60 ft., passive Perception 20"
 "languages": "Deep Speech, telepathy 120 ft."
 "cr": "9"
 "traits":
@@ -69,7 +70,7 @@ Oculorbs resemble a slimy conglomeration of eyes in many sizes and shapes. They 
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 14\
       \ (3d6 + 4) psychic damage, or 25 (6d6 + 4) psychic damage if the target has\
-      \ the [frightened](3.Mechanics/rules/conditions.md#Frightened) condition."
+      \ the frightened condition."
     "name": "Dreadful Contact"
   - "desc": "*Ranged Spell Attack:* +8 to hit, range 120 ft., one creature. *Hit:*\
       \ 14 (3d6 + 4) psychic damage."
@@ -80,17 +81,15 @@ Oculorbs resemble a slimy conglomeration of eyes in many sizes and shapes. They 
   - "desc": "The oculorb weeps, releasing a wave of crushing despair. Each creature\
       \ within 30 feet of the oculorb must make a DC 16 Constitution saving throw.\
       \ On a failed save, a creature's speed is reduced to 0 feet until the end of\
-      \ the oculorb's next turn, and if the creature was [concentrating](3.Mechanics/rules/conditions.md#Concentration),\
-      \ its [concentration](3.Mechanics/rules/conditions.md#Concentration) is broken."
+      \ the oculorb's next turn, and if the creature was concentrating, its concentration\
+      \ is broken."
     "name": "Weeping Eyes"
   - "desc": "The oculorb's eyes unleash furious scarlet energy in a 60-foot cone.\
       \ Each creature in that area must make a DC 16 Wisdom saving throw. On a failed\
-      \ save, a creature takes 33 (6d10) necrotic damage and has the [frightened](3.Mechanics/rules/conditions.md#Frightened)\
-      \ condition for 1 minute. On a successful save, a creature takes half as much\
-      \ damage and isn't [frightened](3.Mechanics/rules/conditions.md#Frightened).\
-      \ A [frightened](3.Mechanics/rules/conditions.md#Frightened) creature can repeat\
-      \ the saving throw at the end of each of its turns, ending the effect on itself\
-      \ on a successful save."
+      \ save, a creature takes 33 (6d10) necrotic damage and has the frightened condition\
+      \ for 1 minute. On a successful save, a creature takes half as much damage and\
+      \ isn't frightened. A frightened creature can repeat the saving throw at the\
+      \ end of each of its turns, ending the effect on itself on a successful save."
     "name": "Withering Glare"
 "reactions":
   - "desc": "When the oculorb is damaged by a creature it can see within 60 feet of\
@@ -103,3 +102,4 @@ Oculorbs resemble a slimy conglomeration of eyes in many sizes and shapes. They 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Oculorb.webp"
 ```
 ^statblock
+%%

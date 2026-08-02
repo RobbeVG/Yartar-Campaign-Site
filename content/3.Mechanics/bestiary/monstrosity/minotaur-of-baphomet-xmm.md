@@ -65,6 +65,8 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
 | 3 | A poisonous swamp with labyrinthine paths. |
 | 4 | The ruins of a buried palace or temple. |
 ^minotaur-mazes
+
+%%
 ```statblock
 "name": "Minotaur of Baphomet (XMM)"
 "size": "Large"
@@ -83,12 +85,11 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
   - !!int "9"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Survival](3.Mechanics/rules/skills.md#Survival)"
+  - "name": "Survival"
     "desc": "+7"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 17"
+"senses": "Darkvision 60 ft., passive Perception 17"
 "languages": "Abyssal"
 "cr": "3"
 "actions":
@@ -106,6 +107,8 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Minotaur%20of%20Baphomet.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

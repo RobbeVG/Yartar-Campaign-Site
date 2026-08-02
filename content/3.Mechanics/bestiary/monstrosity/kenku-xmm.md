@@ -44,6 +44,8 @@ The curse affecting kenku allows them to vocally communicate only by mimicking s
 Kenku are birdlike folk who once soared the skies and sang enchanted songs, but a curse stole their wings and transformed their voices. Now kenku slip through the shadows of cities and the Shadowfell, trying to recover what they've lost. To some, this means seeking an end to their curse; others search for magic or contraptions to enable them to fly and sing again.
 
 The curse affecting kenku allows them to vocally communicate only by mimicking sounds they've heard. Kenku can supernaturally re-create vast varieties of noises, from crying babies to running water and short phrases in others' voices. Cunning kenku use their mimicry to deceive foes, lure creatures into ambushes, and signal to allies.
+
+%%
 ```statblock
 "name": "Kenku (XMM)"
 "size": "Medium"
@@ -62,14 +64,13 @@ The curse affecting kenku allows them to vocally communicate only by mimicking s
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+4"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "Darkvision 60 ft., passive Perception 12"
 "languages": "Common, Primordial (Auran)"
 "cr": "1/4"
 "traits":
@@ -91,6 +92,8 @@ The curse affecting kenku allows them to vocally communicate only by mimicking s
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Kenku.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -142,6 +142,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Cultists.webp#center)
 
+%%
 ```statblock
 "name": "Fiend Cultist (XMM)"
 "size": "Small or Medium"
@@ -163,15 +164,14 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   - "constitution": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+4"
 "gear":
   - "[breastplate](3.Mechanics/items/breastplate-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 ft. (unimpeded\
-  \ by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive\
-  \ Perception 17"
+"senses": "Darkvision 90 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 17"
 "languages": "Abyssal, Common, Infernal"
 "cr": "8"
 "actions":
@@ -196,6 +196,8 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Fiend%20Cultist.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -69,6 +69,8 @@ Various supernatural conditions might bring black puddings into being. Roll on o
 | 5 | Forbidden or industrialized magic. |
 | 6 | Necrotic material animated by aimless spirits. |
 ^black-pudding-sources
+
+%%
 ```statblock
 "name": "Black Pudding (XMM)"
 "size": "Large"
@@ -87,12 +89,9 @@ Various supernatural conditions might bring black puddings into being. Roll on o
   - !!int "1"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "acid, cold, lightning, slashing"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened),\
-  \ [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [prone](3.Mechanics/rules/conditions.md#Prone),\
-  \ [restrained](3.Mechanics/rules/conditions.md#Restrained)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 8"
+"condition_immunities": "charmed, deafened, exhaustion, frightened, grappled, prone,\
+  \ restrained"
+"senses": "Blindsight 60 ft., passive Perception 8"
 "languages": ""
 "cr": "4"
 "traits":
@@ -132,6 +131,8 @@ Various supernatural conditions might bring black puddings into being. Roll on o
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Black%20Pudding.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

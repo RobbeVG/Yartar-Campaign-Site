@@ -170,6 +170,8 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
 | 9 | Turtle |
 | 10 | Whale |
 ^sage-animal-lord-appearances
+
+%%
 ```statblock
 "name": "Animal Lord (XMM)"
 "size": "Medium"
@@ -191,19 +193,17 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
   - "constitution": !!int "11"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "[Acrobatics](3.Mechanics/rules/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+13"
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+13"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+18"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+13"
 "damage_resistances": "cold, fire, necrotic, psychic, radiant"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [stunned](3.Mechanics/rules/conditions.md#Stunned)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 28"
+"condition_immunities": "charmed, frightened, stunned"
+"senses": "Truesight 120 ft., passive Perception 28"
 "languages": "all"
 "cr": "20"
 "traits":
@@ -278,6 +278,8 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Animal%20Lord.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

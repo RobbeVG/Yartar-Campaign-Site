@@ -81,6 +81,8 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
 | 7 | Serve a creature as a steed until the sun sets. |
 | 8 | Try to locate something from its vantage point in the sky. |
 ^manticore-negotiations
+
+%%
 ```statblock
 "name": "Manticore (XMM)"
 "size": "Large"
@@ -98,8 +100,7 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
   - !!int "12"
   - !!int "8"
 "speed": "30 ft., fly 50 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "Darkvision 60 ft., passive Perception 11"
 "languages": "Common"
 "cr": "3"
 "actions":
@@ -115,6 +116,8 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Manticore.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

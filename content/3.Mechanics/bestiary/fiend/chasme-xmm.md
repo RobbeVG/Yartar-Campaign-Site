@@ -38,6 +38,8 @@ Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitat
 - **Treasure.** [Relics](3.Mechanics/tables/random-magic-items-relics.md)  
 
 Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitate foes by producing a mind-numbing droning, then use their proboscises to drain victims of life. In the Abyss, most chasmes obsequiously serve more powerful demons and search for captives to press into demonic hordes.
+
+%%
 ```statblock
 "name": "Chasme (XMM)"
 "size": "Large"
@@ -60,13 +62,12 @@ Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitat
   - "dexterity": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 15"
+"condition_immunities": "poisoned"
+"senses": "Blindsight 10 ft., Darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "6"
 "traits":
@@ -99,6 +100,8 @@ Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitat
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Chasme.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

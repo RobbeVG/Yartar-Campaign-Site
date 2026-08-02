@@ -38,6 +38,8 @@ Among the tallest giants, storm giants live amid extreme forces of nature. In pa
 - **Treasure.** [Armaments](3.Mechanics/tables/random-magic-items-armaments.md)  
 
 Among the tallest giants, storm giants live amid extreme forces of nature. In palaces at the bottom of the sea and castles floating amid the clouds, they revel in the power of mighty storms. When angered, they can shape the weather and call down devastating lightning. More often, though, these giants watch the rise and fall of nations and interpret supernatural omens, interfering in the world only when they're needed most.
+
+%%
 ```statblock
 "name": "Storm Giant (XMM)"
 "size": "Huge"
@@ -61,18 +63,17 @@ Among the tallest giants, storm giants live amid extreme forces of nature. In pa
   - "wisdom": !!int "10"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+8"
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+14"
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+  - "name": "History"
     "desc": "+8"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+10"
 "damage_resistances": "cold"
 "damage_immunities": "lightning, thunder"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., [Truesight](3.Mechanics/rules/senses.md#Truesight)\
-  \ 30 ft., passive Perception 20"
+"senses": "Darkvision 120 ft., Truesight 30 ft., passive Perception 20"
 "languages": "Common, Giant"
 "cr": "13"
 "traits":
@@ -105,6 +106,8 @@ Among the tallest giants, storm giants live amid extreme forces of nature. In pa
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Storm%20Giant.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

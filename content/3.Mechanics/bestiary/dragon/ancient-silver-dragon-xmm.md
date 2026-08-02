@@ -59,6 +59,7 @@ Silver dragons take inspiration from legendary heroes and have grand ambitions. 
 
 Silver dragons typically lair in picturesque mountain retreats or on sculpted cloud "islands."
 
+%%
 ```statblock
 "name": "Ancient Silver Dragon (XMM)"
 "size": "Gargantuan"
@@ -81,15 +82,14 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
   - "dexterity": !!int "7"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+  - "name": "History"
     "desc": "+11"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+16"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_immunities": "cold"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 26"
+"senses": "Blindsight 60 ft., Darkvision 120 ft., passive Perception 26"
 "languages": "Common, Draconic"
 "cr": "23"
 "traits":
@@ -156,6 +156,8 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ancient%20Silver%20Dragon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

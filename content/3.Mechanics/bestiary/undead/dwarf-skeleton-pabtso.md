@@ -17,13 +17,15 @@ aliases:
 # [Dwarf Skeleton](3.Mechanics/bestiary/undead/dwarf-skeleton-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 123*  
 
+
+%%
 ```statblock
 "name": "Dwarf Skeleton (PaBTSO)"
 "size": "Medium"
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "13"
-"ac_class": "[chain shirt](3.Mechanics/items/chain-shirt-xphb.md)"
+"ac_class": "chain shirt"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "modifier": !!int "0"
@@ -37,18 +39,15 @@ aliases:
 "speed": "25 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
+"condition_immunities": "exhaustion, poisoned"
 "gear":
-  - "[battleaxe](3.Mechanics/items/battleaxe-xphb.md)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+  - "battleaxe"
+"senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Dwarvish but can't speak"
 "cr": "1/2"
 "traits":
   - "desc": "The skeleton has advantage on Strength and Dexterity saving throws made\
-      \ against effects that make it have the [prone](3.Mechanics/rules/conditions.md#Prone)\
-      \ condition."
+      \ against effects that make it have the prone condition."
     "name": "Sure-Footed"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
@@ -59,3 +58,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Dwarf%20Skeleton.webp"
 ```
 ^statblock
+%%

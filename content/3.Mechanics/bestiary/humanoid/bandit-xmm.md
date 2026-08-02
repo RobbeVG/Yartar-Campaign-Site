@@ -82,6 +82,7 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 | 6 | Takes what they need to survive. |
 ^bandit-motivations
 
+%%
 ```statblock
 "name": "Bandit (XMM)"
 "size": "Small or Medium"
@@ -117,6 +118,8 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bandit.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

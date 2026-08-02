@@ -42,6 +42,7 @@ A noble's social advantages typically grant the noble access to greater educatio
 
 Nobles encompass a variety of people with social influence. They might be rulers, wealthy merchants, callous bureaucrats, or the idle elite.
 
+%%
 ```statblock
 "name": "Noble (XMM)"
 "size": "Small or Medium"
@@ -60,11 +61,11 @@ Nobles encompass a variety of people with social influence. They might be rulers
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+5"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+4"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+5"
 "gear":
   - "[breastplate](3.Mechanics/items/breastplate-xphb.md)"
@@ -85,6 +86,8 @@ Nobles encompass a variety of people with social influence. They might be rulers
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Noble.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -71,6 +71,7 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
 
 
+%%
 ```statblock
 "name": "Red Slaad (XMM)"
 "size": "Large"
@@ -89,11 +90,10 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+1"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "Darkvision 60 ft., passive Perception 11"
 "languages": "Slaad; telepathy 60 ft."
 "cr": "5"
 "traits":
@@ -122,6 +122,8 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Red%20Slaad.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

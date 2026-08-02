@@ -54,6 +54,7 @@ Bronze dragons enjoy the power and endless possibilities of the sea, and they of
 
 Bronze dragons usually make their homes near or under the sea.
 
+%%
 ```statblock
 "name": "Young Bronze Dragon (XMM)"
 "size": "Large"
@@ -76,15 +77,14 @@ Bronze dragons usually make their homes near or under the sea.
   - "dexterity": !!int "3"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+4"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+3"
 "damage_immunities": "lightning"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 17"
+"senses": "Blindsight 30 ft., Darkvision 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "8"
 "traits":
@@ -109,6 +109,8 @@ Bronze dragons usually make their homes near or under the sea.
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Young%20Bronze%20Dragon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

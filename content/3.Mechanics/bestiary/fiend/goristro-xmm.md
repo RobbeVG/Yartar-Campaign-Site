@@ -52,6 +52,8 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 > 
 > Plot and strategize, bait and scheme, but hubris is no armor against ruin incarnate, and greater beings than you have fallen under the onslaught of the Abyss.
 
+
+%%
 ```statblock
 "name": "Goristro (XMM)"
 "size": "Huge"
@@ -76,15 +78,14 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
   - "constitution": !!int "13"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Survival](3.Mechanics/rules/skills.md#Survival)"
+  - "name": "Survival"
     "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 17"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 120 ft., passive Perception 17"
 "languages": "Abyssal"
 "cr": "17"
 "traits":
@@ -117,6 +118,8 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Goristro.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

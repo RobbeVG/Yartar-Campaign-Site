@@ -53,6 +53,7 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 > Ah, the infinite wonders of the Abyss. If there's anything you don't like, you'll find it here.
 
 
+%%
 ```statblock
 "name": "Swarm of Dretches (XMM)"
 "size": "Large"
@@ -73,13 +74,9 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, cold, fire, lightning, piercing, slashing"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
-  \ [stunned](3.Mechanics/rules/conditions.md#Stunned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, poisoned,\
+  \ prone, restrained, stunned"
+"senses": "Darkvision 60 ft., passive Perception 9"
 "languages": "Abyssal; telepathy 60 ft. (works only with creatures that understand\
   \ Abyssal)"
 "cr": "4"
@@ -107,6 +104,8 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Swarm%20of%20Dretches.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

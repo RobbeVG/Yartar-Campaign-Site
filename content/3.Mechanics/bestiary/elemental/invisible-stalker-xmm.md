@@ -79,6 +79,8 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
 > 
 > As detectives, we seek truth by eliminating the impossible, ever mindful that the impossible might also be seeking to eliminate us.
 
+
+%%
 ```statblock
 "name": "Invisible Stalker (XMM)"
 "size": "Large"
@@ -97,19 +99,15 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
   - !!int "11"
 "speed": "50 ft., fly 50 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+10"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 18"
+"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
+  \ restrained, unconscious"
+"senses": "Darkvision 60 ft., passive Perception 18"
 "languages": "Common, Primordial (Auran)"
 "cr": "6"
 "traits":
@@ -137,6 +135,8 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Invisible%20Stalker.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

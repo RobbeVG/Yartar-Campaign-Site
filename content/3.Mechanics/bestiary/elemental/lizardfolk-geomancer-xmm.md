@@ -43,6 +43,7 @@ Lizardfolk geomancers draw magic from the natural world, using it to protect the
 
 Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfolk are Humanoids with varied skills, some forge powerful bonds with the Elemental Plane of Earth, granting them magical connections to the cycle of growth and rebirth.
 
+%%
 ```statblock
 "name": "Lizardfolk Geomancer (XMM)"
 "size": "Medium"
@@ -61,11 +62,11 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
   - !!int "8"
 "speed": "30 ft., burrow 20 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Nature](3.Mechanics/rules/skills.md#Nature)"
+  - "name": "Nature"
     "desc": "+2"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": "Draconic, Primordial (Terran)"
@@ -93,6 +94,8 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Lizardfolk%20Geomancer.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

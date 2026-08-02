@@ -44,6 +44,7 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Myconids.webp#center)
 
+%%
 ```statblock
 "name": "Myconid Spore Servant (XMM)"
 "size": "Small or Medium"
@@ -62,11 +63,8 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
   - !!int "1"
 "speed": "20 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 8"
+"condition_immunities": "blinded, charmed, frightened, paralyzed, poisoned"
+"senses": "Blindsight 30 ft., passive Perception 8"
 "languages": "telepathy 30 ft."
 "cr": "1"
 "actions":
@@ -78,6 +76,8 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Myconid%20Spore%20Servant.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

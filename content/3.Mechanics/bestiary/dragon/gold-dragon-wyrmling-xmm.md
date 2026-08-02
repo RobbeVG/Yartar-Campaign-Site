@@ -55,6 +55,7 @@ Gold dragons favor grasslands and pristine forests, frequently dwelling near awe
 
 Gold dragons make their homes in places of natural and magical wonder.
 
+%%
 ```statblock
 "name": "Gold Dragon Wyrmling (XMM)"
 "size": "Medium"
@@ -77,13 +78,12 @@ Gold dragons make their homes in places of natural and magical wonder.
   - "dexterity": !!int "4"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "damage_immunities": "fire"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"senses": "Blindsight 10 ft., Darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "3"
 "traits":
@@ -110,6 +110,8 @@ Gold dragons make their homes in places of natural and magical wonder.
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gold%20Dragon%20Wyrmling.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

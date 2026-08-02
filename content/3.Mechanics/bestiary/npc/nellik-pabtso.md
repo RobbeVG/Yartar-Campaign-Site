@@ -17,6 +17,8 @@ aliases:
 # [Nellik](3.Mechanics/bestiary/npc/nellik-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 193*  
 
+
+%%
 ```statblock
 "name": "Nellik (PaBTSO)"
 "size": "Large"
@@ -37,28 +39,25 @@ aliases:
   - !!int "15"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Intimidation](3.Mechanics/rules/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+6"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
+"condition_immunities": "poisoned"
 "gear":
-  - "[greataxe](3.Mechanics/items/greataxe-xphb.md)"
-"senses": "[blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+  - "greataxe"
+"senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "9"
 "traits":
   - "desc": "Nellik's innate spellcasting ability is Charisma. Nellik can innately\
       \ cast the following spells, requiring no material components:\n\n**At will:**\
-      \ [darkness](3.Mechanics/spells/darkness-xphb.md), [detect magic](3.Mechanics/spells/detect-magic-xphb.md),\
-      \ [dispel magic](3.Mechanics/spells/dispel-magic-xphb.md), [invisibility](3.Mechanics/spells/invisibility-xphb.md)\
-      \ (self only), [mirror image](3.Mechanics/spells/mirror-image-xphb.md)"
+      \ darkness, detect magic, dispel magic, invisibility (self only), mirror image"
     "name": "Innate Spellcasting"
   - "desc": "Nellik has advantage on saving throws against spells and other magical\
       \ effects."
@@ -75,8 +74,8 @@ aliases:
       \ of each of its turns due to a fiendish wound. Each time Nellik hits the wounded\
       \ target with this attack, the damage dealt by the wound increases by 5 (2d4).\
       \ Any creature can take an action to stanch the wound with a successful DC 13\
-      \ Wisdom ([Medicine](3.Mechanics/rules/skills.md#Medicine)) check. The wound\
-      \ also closes if the target receives magical healing."
+      \ Wisdom (Medicine) check. The wound also closes if the target receives magical\
+      \ healing."
     "name": "Claw"
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19\
       \ (2d12 + 6) slashing damage; if the target is an Aberration, it takes an additional\
@@ -91,3 +90,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Nellik.webp"
 ```
 ^statblock
+%%

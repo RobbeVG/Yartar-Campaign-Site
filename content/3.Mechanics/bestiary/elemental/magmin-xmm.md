@@ -42,6 +42,8 @@ Magmins might be conjured by magic-users to harry foes or might escape the Eleme
 Magmins divide all things into two categories: things that are on fire and things that should be on fire. With bodies of flame and magmatic rock, these halfling-size creatures delight in setting fires. They do so not out of malice but out of enthusiasm for primal fire. They don't consider that objects have value beyond kindling or that creatures can be harmed by flames. If such concepts are explained to them, they find the ideas difficult to grasp and don't remember them for long. Rather, they relish every opportunity to set flammable things alight, delighting in igniting paper, wooden structures, and explosives. Magmins are dangerous even in death, since they explode when they're destroyed, their flames igniting combustible materials nearby.
 
 Magmins might be conjured by magic-users to harry foes or might escape the Elemental Plane of Fire through portals or rifts that lead to other realms. They're attracted to places of intense heat, such as volcanoes and rivers of magma. If they can't find such favored conditions, magmins eagerly burn structures or start wildfires to entertain themselves.
+
+%%
 ```statblock
 "name": "Magmin (XMM)"
 "size": "Small"
@@ -60,8 +62,7 @@ Magmins might be conjured by magic-users to harry foes or might escape the Eleme
   - !!int "10"
 "speed": "30 ft."
 "damage_immunities": "fire"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Ignan)"
 "cr": "1/2"
 "traits":
@@ -86,6 +87,8 @@ Magmins might be conjured by magic-users to harry foes or might escape the Eleme
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Magmin.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

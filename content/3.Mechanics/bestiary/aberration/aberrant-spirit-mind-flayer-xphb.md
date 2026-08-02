@@ -16,6 +16,8 @@ aliases:
 # [Aberrant Spirit (Mind Flayer)](3.Mechanics/bestiary/aberration/aberrant-spirit-mind-flayer-xphb.md)
 *Source: Player's Handbook (2024) p. 322*  
 
+
+%%
 ```statblock
 "name": "Aberrant Spirit (Mind Flayer) (XPHB)"
 "size": "Medium"
@@ -33,8 +35,7 @@ aliases:
   - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "psychic"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Deep Speech, understands the languages you know"
 "traits":
   - "desc": "At the start of each of the spirit's turns, the spirit emits psionic\
@@ -54,3 +55,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Aberrant%20Spirit%20%28Mind%20Flayer%29.webp"
 ```
 ^statblock
+%%

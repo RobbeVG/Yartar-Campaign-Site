@@ -79,6 +79,8 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
 > 
 > We thought we'd discovered a new people living deeper than we believed possible. The truth was something far worse.
 
+
+%%
 ```statblock
 "name": "Grimlock (XMM)"
 "size": "Medium"
@@ -97,14 +99,13 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
   - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 13"
+"senses": "Blindsight 30 ft., passive Perception 13"
 "languages": ""
 "cr": "1/4"
 "actions":
@@ -116,6 +117,8 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Grimlock.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

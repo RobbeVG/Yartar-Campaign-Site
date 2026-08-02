@@ -52,6 +52,7 @@ Crawling claws are severed hands that move and act of their own murderous accord
 > Is it possible for any creature, any living being, to be inherently evil? Such an assertion may itself facilitate the committing of evil acts. By defining a person as evil, we give them free rein to behave as they will, absolving them from the wickedness of their words and the evil of their hands.
 
 
+%%
 ```statblock
 "name": "Swarm of Crawling Claws (XMM)"
 "size": "Medium"
@@ -71,14 +72,9 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "speed": "30 ft., climb 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [grappled](3.Mechanics/rules/conditions.md#Grappled),\
-  \ [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
-  \ [stunned](3.Mechanics/rules/conditions.md#Stunned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, frightened, grappled, incapacitated,\
+  \ paralyzed, petrified, poisoned, prone, restrained, stunned"
+"senses": "Blindsight 30 ft., passive Perception 10"
 "languages": "understands Common but can't speak"
 "cr": "3"
 "traits":
@@ -98,6 +94,8 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Swarm%20of%20Crawling%20Claws.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -78,6 +78,8 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
 | 3 | Find someone who broke a deal with a devil. |
 | 4 | Slay someone or steal something as part of its pact with a wicked magic-user. |
 ^bone-devil-objectives
+
+%%
 ```statblock
 "name": "Bone Devil (XMM)"
 "size": "Large"
@@ -102,16 +104,15 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+7"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+6"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive\
-  \ Perception 12"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 120 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 12"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "9"
 "traits":
@@ -137,6 +138,8 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bone%20Devil.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

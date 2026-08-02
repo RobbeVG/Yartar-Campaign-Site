@@ -45,6 +45,8 @@ Cloakers are mysterious Underdark predators, named by adventurers for their rese
 Cloakers sometimes gather in Underdark enclaves, but they rarely build settlements or form social structures. Most operate as solitary predators, lurking in dismal subterranean reaches or abandoned dungeons—sometimes for months at a time—as they wait for prey to pass. They use their mottled hides to blend in with their surroundings. When unsuspecting prey nears, cloakers unfurl and attempt to latch on and then smother their victims in their powerful wings.
 
 Cloakers delight in frightening foes. In addition to their methods of ambush, cloakers can create illusory duplicates of themselves and emit surreal moans that non-cloakers find terrifying in unexplainable, primal ways. Cloakers might antagonize explorers lost in the Underdark for days, terrorizing and scattering them before attacking. They rarely converse with other beings, except to whisper eerie riddles to those they're about to consume.
+
+%%
 ```statblock
 "name": "Cloaker (XMM)"
 "size": "Large"
@@ -63,11 +65,10 @@ Cloakers delight in frightening foes. In addition to their methods of ambush, cl
   - !!int "7"
 "speed": "10 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
-"condition_immunities": "[frightened](3.Mechanics/rules/conditions.md#Frightened)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"condition_immunities": "frightened"
+"senses": "Darkvision 120 ft., passive Perception 12"
 "languages": "Deep Speech, Undercommon"
 "cr": "8"
 "traits":
@@ -106,6 +107,8 @@ Cloakers delight in frightening foes. In addition to their methods of ambush, cl
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cloaker.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -52,6 +52,7 @@ Crawling claws are severed hands that move and act of their own murderous accord
 > Is it possible for any creature, any living being, to be inherently evil? Such an assertion may itself facilitate the committing of evil acts. By defining a person as evil, we give them free rein to behave as they will, absolving them from the wickedness of their words and the evil of their hands.
 
 
+%%
 ```statblock
 "name": "Crawling Claw (XMM)"
 "size": "Tiny"
@@ -70,11 +71,8 @@ Crawling claws are severed hands that move and act of their own murderous accord
   - !!int "4"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, frightened, incapacitated, poisoned"
+"senses": "Blindsight 30 ft., passive Perception 10"
 "languages": "understands Common but can't speak"
 "cr": "0"
 "actions":
@@ -85,6 +83,8 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Crawling%20Claw.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

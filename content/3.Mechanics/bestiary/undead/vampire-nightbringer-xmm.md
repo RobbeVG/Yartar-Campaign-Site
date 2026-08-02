@@ -93,6 +93,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > Darling, you are simply delicious...
 
 
+%%
 ```statblock
 "name": "Vampire Nightbringer (XMM)"
 "size": "Small or Medium"
@@ -114,15 +115,13 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   - "dexterity": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_immunities": "cold, necrotic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 15"
+"condition_immunities": "charmed, exhaustion, frightened"
+"senses": "Darkvision 120 ft., passive Perception 15"
 "languages": "Common plus one other language"
 "cr": "8"
 "traits":
@@ -152,6 +151,8 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Vampire%20Nightbringer.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

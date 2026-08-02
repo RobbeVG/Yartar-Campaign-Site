@@ -42,6 +42,7 @@ Bolder than their smaller cousins, cockatrice regents brim with unstable magical
 
 Cockatrices combine the features of irate roosters and starving reptiles. They petrify those they bite, their slightest peck turning their prey to stone.
 
+%%
 ```statblock
 "name": "Cockatrice Regent (XMM)"
 "size": "Large"
@@ -61,9 +62,8 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
 "speed": "30 ft., fly 60 ft."
 "saves":
   - "wisdom": !!int "6"
-"condition_immunities": "[petrified](3.Mechanics/rules/conditions.md#Petrified)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 13"
+"condition_immunities": "petrified"
+"senses": "Darkvision 120 ft., passive Perception 13"
 "languages": ""
 "cr": "8"
 "traits":
@@ -94,6 +94,8 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cockatrice%20Regent.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

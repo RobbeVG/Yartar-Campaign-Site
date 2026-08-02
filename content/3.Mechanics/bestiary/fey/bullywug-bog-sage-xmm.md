@@ -42,6 +42,7 @@ Bullywug bog sages channel the magic of the swamp to sicken foes and speak with 
 
 Fey embodiments of swamplands, bullywugs protect the murky wilds and consider themselves cosmically favored for that role. These human-size, toad- or frog-like creatures have close relationships with the creatures of the swamp.
 
+%%
 ```statblock
 "name": "Bullywug Bog Sage (XMM)"
 "size": "Medium"
@@ -64,9 +65,9 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
   - "wisdom": !!int "5"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Nature](3.Mechanics/rules/skills.md#Nature)"
+  - "name": "Nature"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "gear":
   - "[component pouch](3.Mechanics/items/component-pouch-xphb.md)"
@@ -101,6 +102,8 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bullywug%20Bog%20Sage.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -65,6 +65,8 @@ Otyughs often bury themselves amid trash heaps and observe their surroundings wi
 | 3 | Telepathically transmits a message like "Happy good stuff here!" or "Help now! I'm too delicious?" |
 | 4 | Telepathically transmits an image of a large gemstone, crooked weapon, or soggy pastry. |
 ^otyugh-lures
+
+%%
 ```statblock
 "name": "Otyugh (XMM)"
 "size": "Large"
@@ -84,8 +86,7 @@ Otyughs often bury themselves amid trash heaps and observe their surroundings wi
 "speed": "30 ft."
 "saves":
   - "constitution": !!int "7"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
+"senses": "Darkvision 120 ft., passive Perception 11"
 "languages": "Otyugh; telepathy 120 ft. (doesn't allow the receiving creature to respond\
   \ telepathically)"
 "cr": "5"
@@ -116,6 +117,8 @@ Otyughs often bury themselves amid trash heaps and observe their surroundings wi
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Otyugh.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

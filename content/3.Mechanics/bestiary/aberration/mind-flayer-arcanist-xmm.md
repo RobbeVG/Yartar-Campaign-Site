@@ -82,6 +82,7 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
 | 6 | Sacrifice the mental energy of a planet's populace to take control of a githyanki bastion. |
 ^mind-flayer-machinations
 
+%%
 ```statblock
 "name": "Mind Flayer Arcanist (XMM)"
 "size": "Medium"
@@ -105,20 +106,19 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+13"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+7"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)"
+"condition_immunities": "charmed, frightened"
 "gear":
   - "[breastplate](3.Mechanics/items/breastplate-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 17"
+"senses": "Darkvision 120 ft., passive Perception 17"
 "languages": "Deep Speech, Undercommon; telepathy 120 ft."
 "cr": "11"
 "traits":
@@ -161,6 +161,8 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mind%20Flayer%20Arcanist.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

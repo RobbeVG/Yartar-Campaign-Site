@@ -66,6 +66,8 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 | 5 | The movements of extraplanar armies. |
 | 6 | Prophecies or secrets hidden by gods. |
 ^spined-devil-intelligence
+
+%%
 ```statblock
 "name": "Spined Devil (XMM)"
 "size": "Small"
@@ -86,10 +88,9 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 "speed": "20 ft., fly 40 ft."
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive\
-  \ Perception 12"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 120 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 12"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "2"
 "traits":
@@ -114,6 +115,8 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Spined%20Devil.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

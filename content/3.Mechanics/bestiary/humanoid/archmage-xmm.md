@@ -92,6 +92,7 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 > Have you gazed on the Runes of Chaos, held the Death Moon Orb in your trembling hands, entered the Devouring Portal and walked the Paths of the Doomed, or sat at the left hand of Szass Tam during the Ritual of Twin Burnings? No? Then speak not to me of wizards. Speak not to me of Thay.
 
 
+%%
 ```statblock
 "name": "Archmage (XMM)"
 "size": "Small or Medium"
@@ -114,15 +115,14 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
   - "intelligence": !!int "9"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+13"
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+  - "name": "History"
     "desc": "+9"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed) (with\
-  \ Mind Blank)"
+"condition_immunities": "charmed (with Mind Blank)"
 "gear":
   - "[wand](3.Mechanics/items/wand-xphb.md)"
 "senses": "passive Perception 16"
@@ -163,6 +163,8 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Archmage.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

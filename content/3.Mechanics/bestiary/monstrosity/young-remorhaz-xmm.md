@@ -42,6 +42,7 @@ Young remorhazes scorch and consume any creatures they can chase down and overwh
 
 Remorhazes are centipede-like terrors that burrow through snow and ice to ambush smaller creatures that trespass in their frozen territories.
 
+%%
 ```statblock
 "name": "Young Remorhaz (XMM)"
 "size": "Large"
@@ -60,8 +61,7 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
   - !!int "4"
 "speed": "30 ft., burrow 20 ft."
 "damage_immunities": "cold, fire"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., Tremorsense\
-  \ 60 ft., passive Perception 10"
+"senses": "Darkvision 60 ft., Tremorsense 60 ft., passive Perception 10"
 "languages": ""
 "cr": "5"
 "traits":
@@ -78,6 +78,8 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Young%20Remorhaz.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

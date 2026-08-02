@@ -44,6 +44,7 @@ Satyrs enjoy demonstrating their physicality through contests, evicting party po
 
 Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merrymaking—eating, drinking, performing, fighting, and frolicking.
 
+%%
 ```statblock
 "name": "Satyr (XMM)"
 "size": "Medium"
@@ -62,11 +63,11 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
   - !!int "14"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
-  - "name": "[Performance](3.Mechanics/rules/skills.md#Performance)"
+  - "name": "Performance"
     "desc": "+6"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "senses": "passive Perception 12"
 "languages": "Common, Elvish, Sylvan"
@@ -88,6 +89,8 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Satyr.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

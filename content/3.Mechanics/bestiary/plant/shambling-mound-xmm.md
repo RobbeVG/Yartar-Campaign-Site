@@ -70,6 +70,8 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
 | 5 | Mutated and leaking glowing pollution. |
 | 6 | The remains of an ancient tree or a treant. |
 ^shambling-mound-cultivation
+
+%%
 ```statblock
 "name": "Shambling Mound (XMM)"
 "size": "Large"
@@ -88,13 +90,12 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
   - !!int "5"
 "speed": "30 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+3"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning"
-"condition_immunities": "[deafened](3.Mechanics/rules/conditions.md#Deafened), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "deafened, exhaustion"
+"senses": "Blindsight 60 ft., passive Perception 10"
 "languages": ""
 "cr": "5"
 "traits":
@@ -126,6 +127,8 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Shambling%20Mound.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

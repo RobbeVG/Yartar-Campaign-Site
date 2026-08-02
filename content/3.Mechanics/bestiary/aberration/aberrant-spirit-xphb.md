@@ -17,6 +17,8 @@ aliases:
 *Source: Player's Handbook (2024) p. 322*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Aberrant%20Spirit.webp#center)
+
+%%
 ```statblock
 "name": "Aberrant Spirit (XPHB)"
 "size": "Medium"
@@ -34,8 +36,7 @@ aliases:
   - !!int "6"
 "speed": "30 ft., fly 30 ft. (hover; Beholderkin only)"
 "damage_immunities": "psychic"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Deep Speech, understands the languages you know"
 "traits":
   - "desc": "The spirit regains 5 [Hit Points](3.Mechanics/rules/variant-rules/hit-points-xphb.md)\
@@ -66,3 +67,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Aberrant%20Spirit.webp"
 ```
 ^statblock
+%%

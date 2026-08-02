@@ -17,6 +17,8 @@ aliases:
 *Source: Player's Handbook (2024) p. 124*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Beast%20of%20the%20Sky.webp#center)
+
+%%
 ```statblock
 "name": "Beast of the Sky (XPHB)"
 "size": "Small"
@@ -34,8 +36,7 @@ aliases:
   - !!int "14"
   - !!int "11"
 "speed": "10 ft., fly 60 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "Darkvision 60 ft., passive Perception 12"
 "languages": "understands the languages you know"
 "traits":
   - "desc": "The beast doesn't provoke [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack)\
@@ -53,3 +54,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Beast%20of%20the%20Sky.webp"
 ```
 ^statblock
+%%

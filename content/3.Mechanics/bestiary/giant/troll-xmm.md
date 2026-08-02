@@ -46,6 +46,8 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
 Trolls creep forth to prey on smaller creatures and drag captives back to festering lairs. These misshapen brutes can regenerate from wounds and regrow severed body parts—including their heads. A troll's severed limbs continue to move and attack. Unless they're burned by flames or acid, trolls can recover from egregious wounds and seek revenge on those who felled them.
 
 Trolls typically hunt alone, but small groups occasionally cooperate to ambush prey or raid villages. Creatures such as hags and hill giants might convince trolls to work for them in exchange for disgusting meals.
+
+%%
 ```statblock
 "name": "Troll (XMM)"
 "size": "Large"
@@ -64,10 +66,9 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "Darkvision 60 ft., passive Perception 15"
 "languages": "Giant"
 "cr": "5"
 "traits":
@@ -98,6 +99,8 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Troll.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

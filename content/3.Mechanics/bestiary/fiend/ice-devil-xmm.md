@@ -60,6 +60,8 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
 > 
 > Part of the charm of ice devils is that they always think they're smarter than you. Mmm—there are few pleasures sweeter than proving a devil wrong.
 
+
+%%
 ```statblock
 "name": "Ice Devil (XMM)"
 "size": "Large"
@@ -84,16 +86,15 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+7"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+9"
 "damage_immunities": "cold, fire, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 ft., passive Perception\
-  \ 17"
+"condition_immunities": "poisoned"
+"senses": "Blindsight 120 ft., passive Perception 17"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "14"
 "traits":
@@ -128,6 +129,8 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ice%20Devil.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

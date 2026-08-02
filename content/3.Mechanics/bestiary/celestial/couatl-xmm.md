@@ -48,6 +48,8 @@ Embodiments of prophecy and protectors of divine secrets, couatls ensure fate un
 Motivated by eternal mandates, couatls sometimes behave in inscrutable or antagonistic ways. They are inflexible and uncompromising, as their existences are fundamentally tied to their divine directives, but they harm other creatures only when absolutely necessary to achieve divine goals.
 
 Each couatl goes through a period of renewal at the end of an age. In a couatl's lifecycle, an age might correspond to a celestial calendar or some divine chronology. Near the age's end, the couatl lays a wondrous, rainbow-hued egg. When the age ends, the couatl dies. For a period—perhaps a single day, perhaps until an annual solar event—the couatl's work is unattended. Once this time passes, the same couatl that laid the egg hatches from it, fully grown and renewed to serve for another age.
+
+%%
 ```statblock
 "name": "Couatl (XMM)"
 "size": "Medium"
@@ -70,8 +72,7 @@ Each couatl goes through a period of renewal at the end of an age. In a couatl's
   - "wisdom": !!int "7"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "psychic, radiant"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 15"
+"senses": "Truesight 120 ft., passive Perception 15"
 "languages": "all; telepathy 120 ft."
 "cr": "4"
 "traits":
@@ -111,6 +112,8 @@ Each couatl goes through a period of renewal at the end of an age. In a couatl's
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Couatl.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

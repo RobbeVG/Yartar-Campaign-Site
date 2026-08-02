@@ -90,6 +90,7 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 | 10 | The will of a powerful psychic being. |
 ^animated-object-catalysts
 
+%%
 ```statblock
 "name": "Animated Rug of Smothering (XMM)"
 "size": "Large"
@@ -108,12 +109,9 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
   - !!int "1"
 "speed": "10 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened),\
-  \ [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 6"
+"condition_immunities": "charmed, deafened, exhaustion, frightened, paralyzed, petrified,\
+  \ poisoned"
+"senses": "Blindsight 60 ft., passive Perception 6"
 "languages": ""
 "cr": "2"
 "actions":
@@ -133,6 +131,8 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Animated%20Rug%20of%20Smothering.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

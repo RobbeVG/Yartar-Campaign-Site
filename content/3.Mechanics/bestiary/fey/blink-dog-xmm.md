@@ -39,6 +39,8 @@ Blink dogs glimmer with a magic that allows them to teleport, "blinking" from on
 - **Treasure.** None  
 
 Blink dogs glimmer with a magic that allows them to teleport, "blinking" from one spot to another. These dogs use this power to chase prey, baffle foes, and express joy. They're frequently found among Feywild folk, such as centaurs and pixies—often as members of rollicking hunts between worlds.
+
+%%
 ```statblock
 "name": "Blink Dog (XMM)"
 "size": "Medium"
@@ -57,12 +59,11 @@ Blink dogs glimmer with a magic that allows them to teleport, "blinking" from on
   - !!int "11"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "Darkvision 60 ft., passive Perception 15"
 "languages": "Blink Dog, understands Elvish and Sylvan but can't speak them"
 "cr": "1/4"
 "actions":
@@ -76,6 +77,8 @@ Blink dogs glimmer with a magic that allows them to teleport, "blinking" from on
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Blink%20Dog.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -113,6 +113,7 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Mummies.webp#center)
 
+%%
 ```statblock
 "name": "Mummy Lord (XMM)"
 "size": "Small or Medium"
@@ -135,19 +136,16 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
   - "intelligence": !!int "5"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+  - "name": "History"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+9"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+5"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 60 ft., passive Perception\
-  \ 19"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"senses": "Truesight 60 ft., passive Perception 19"
 "languages": "Common plus three other languages"
 "cr": "15"
 "traits":
@@ -229,6 +227,8 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Mummy%20Lord.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

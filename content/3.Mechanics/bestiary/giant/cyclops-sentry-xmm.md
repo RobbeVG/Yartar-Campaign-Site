@@ -47,6 +47,7 @@ Most cyclops sentries serve their divine progenitors and oppose those who would 
 
 Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vision, cyclopes can witness how future events are likely to occur.
 
+%%
 ```statblock
 "name": "Cyclops Sentry (XMM)"
 "size": "Huge"
@@ -88,6 +89,8 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cyclops%20Sentry.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

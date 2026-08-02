@@ -74,6 +74,8 @@ When on the Material Plane or otherwise left to their own devices, hezrous reckl
 | 5 | Hunt down a foe, destroying everything barring the demon's path. |
 | 6 | Intimidate someone into following orders. |
 ^demonic-undertakings
+
+%%
 ```statblock
 "name": "Hezrou (XMM)"
 "size": "Large"
@@ -98,9 +100,8 @@ When on the Material Plane or otherwise left to their own devices, hezrous reckl
   - "wisdom": !!int "4"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "8"
 "traits":
@@ -130,6 +131,8 @@ When on the Material Plane or otherwise left to their own devices, hezrous reckl
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hezrou.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

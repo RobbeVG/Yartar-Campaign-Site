@@ -44,6 +44,7 @@ Bulettes range under vast territories. They often threaten animal herds, and the
 
 Also called "land sharks," bulettes are single-minded predators that burrow under, leap over, and burst through obstacles in pursuit of their quarry. They burrow rapidly just below ground. On sensing movement, they erupt from below, attempting to catch prey in their oversize maws.
 
+%%
 ```statblock
 "name": "Bulette (XMM)"
 "size": "Large"
@@ -62,10 +63,9 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
   - !!int "5"
 "speed": "40 ft., burrow 40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., Tremorsense\
-  \ 120 ft., passive Perception 16"
+"senses": "Darkvision 60 ft., Tremorsense 120 ft., passive Perception 16"
 "languages": ""
 "cr": "5"
 "actions":
@@ -88,6 +88,8 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Bulette.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

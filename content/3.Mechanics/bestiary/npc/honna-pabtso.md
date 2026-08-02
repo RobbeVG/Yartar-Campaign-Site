@@ -18,6 +18,8 @@ aliases:
 *Source: Phandelver and Below: The Shattered Obelisk p. 110*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Honna.webp#center)
+
+%%
 ```statblock
 "name": "Honna (PaBTSO)"
 "size": "Medium"
@@ -37,39 +39,35 @@ aliases:
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+5"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+4"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "gear":
-  - "[longbow](3.Mechanics/items/longbow-xphb.md)"
-  - "[shortsword](3.Mechanics/items/shortsword-xphb.md)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+  - "longbow"
+  - "shortsword"
+"senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common"
 "cr": "6"
 "traits":
   - "desc": "When a creature that can see Honna's eyes starts its turn within 30 feet\
       \ of Honna, Honna can force it to make a DC 14 Constitution saving throw if\
-      \ Honna isn't [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ and can see the creature. If the saving throw fails by 5 or more, the creature\
-      \ is instantly [petrified](3.Mechanics/rules/conditions.md#Petrified). Otherwise,\
-      \ a creature that fails the save begins to turn to stone and is [restrained](3.Mechanics/rules/conditions.md#Restrained).\
-      \ The [restrained](3.Mechanics/rules/conditions.md#Restrained) creature must\
-      \ repeat the saving throw at the end of its next turn, becoming [petrified](3.Mechanics/rules/conditions.md#Petrified)\
+      \ Honna isn't incapacitated and can see the creature. If the saving throw fails\
+      \ by 5 or more, the creature is instantly petrified. Otherwise, a creature that\
+      \ fails the save begins to turn to stone and is restrained. The restrained creature\
+      \ must repeat the saving throw at the end of its next turn, becoming petrified\
       \ on a failure or ending the effect on a success. The petrification lasts until\
-      \ the creature is freed by the [greater restoration](3.Mechanics/spells/greater-restoration-xphb.md)\
-      \ spell or other magic.\n\nUnless [surprised](3.Mechanics/rules/conditions.md#Surprised),\
-      \ a creature can avert its eyes to avoid the saving throw at the start of its\
-      \ turn. If the creature does so, it can't see Honna until the start of its next\
-      \ turn, when it can avert its eyes again. If the creature looks at Honna in\
-      \ the meantime, it must immediately make the save.\n\nIf Honna sees itself reflected\
-      \ on a polished surface within 30 feet of it and in an area of bright light,\
-      \ Honna is, due to its curse, affected by its own gaze."
+      \ the creature is freed by the greater restoration spell or other magic.\n\n\
+      Unless surprised, a creature can avert its eyes to avoid the saving throw at\
+      \ the start of its turn. If the creature does so, it can't see Honna until the\
+      \ start of its next turn, when it can avert its eyes again. If the creature\
+      \ looks at Honna in the meantime, it must immediately make the save.\n\nIf Honna\
+      \ sees itself reflected on a polished surface within 30 feet of it and in an\
+      \ area of bright light, Honna is, due to its curse, affected by its own gaze."
     "name": "Petrifying Gaze"
 "actions":
   - "desc": "Honna makes either three melee attacks—one with its snake hair and two\
@@ -89,3 +87,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Honna.webp"
 ```
 ^statblock
+%%

@@ -46,6 +46,8 @@ Beings of living rock, galeb duhr seek harmony with the earth and give voice to 
 Galeb duhr are effectively immortal, with lifespans similar in length to mountains. They don't experience time or perceive danger as shorter-lived species do. Galeb duhr avoid danger by hiding from other creatures. When they do reveal themselves, they speak and act ponderously, but they often know much of the surrounding land and secrets within the earth. When motivated to action, galeb duhr slam into foes and animate nearby boulders to do the same.
 
 Some mountain dwellers view galeb duhr as aloof allies and might entrust these long-lived beings with secrets or treasures for future generations. Others speak of galeb duhr songs, barely audible harmonizations by groups of galeb duhr that are said to influence earthquakes and volcanic eruptions.
+
+%%
 ```statblock
 "name": "Galeb Duhr (XMM)"
 "size": "Medium"
@@ -64,11 +66,8 @@ Some mountain dwellers view galeb duhr as aloof allies and might entrust these l
   - !!int "11"
 "speed": "15 ft. (30 ft. when rolling, 60 ft. rolling downhill)"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., Tremorsense\
-  \ 60 ft., passive Perception 11"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"senses": "Darkvision 60 ft., Tremorsense 60 ft., passive Perception 11"
 "languages": "Primordial (Terran)"
 "cr": "6"
 "actions":
@@ -90,6 +89,8 @@ Some mountain dwellers view galeb duhr as aloof allies and might entrust these l
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Galeb%20Duhr.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

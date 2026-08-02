@@ -153,6 +153,7 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 > When the Corpse Moon rises and the Chum-Tide washes in, up rise the Gogglers from their pits beneath the waves. Burbling and noisome they come, fishing night's shores as we do dawn's waves.
 
 
+%%
 ```statblock
 "name": "Kuo-toa (XMM)"
 "size": "Medium"
@@ -171,12 +172,11 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   - !!int "8"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
 "gear":
   - "[spear](3.Mechanics/items/spear-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., [Truesight](3.Mechanics/rules/senses.md#Truesight)\
-  \ 30 ft., passive Perception 14"
+"senses": "Darkvision 120 ft., Truesight 30 ft., passive Perception 14"
 "languages": "Undercommon"
 "cr": "1/4"
 "traits":
@@ -211,6 +211,8 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Kuo-toa.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

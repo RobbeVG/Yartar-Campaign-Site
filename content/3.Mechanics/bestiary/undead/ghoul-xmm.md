@@ -54,6 +54,7 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
 > On a plain of teeth, in a temple of filth, the starving king wastes no morsel. Every coffin a banquet. Every slab a platter. Now is the time of feasting!
 
 
+%%
 ```statblock
 "name": "Ghoul (XMM)"
 "size": "Medium"
@@ -72,10 +73,8 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
   - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "1"
 "actions":
@@ -95,6 +94,8 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ghoul.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

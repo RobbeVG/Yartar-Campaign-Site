@@ -19,6 +19,8 @@ aliases:
 # [Animal Lord; Forager](3.Mechanics/bestiary/celestial/animal-lord-forager-xmm.md)
 *Source: Monster Manual (2024) p. 15*  
 
+
+%%
 ```statblock
 "name": "Animal Lord; Forager (XMM)"
 "size": "Medium"
@@ -40,19 +42,17 @@ aliases:
   - "constitution": !!int "11"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "[Acrobatics](3.Mechanics/rules/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+13"
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+13"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+18"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+13"
 "damage_resistances": "cold, fire, necrotic, psychic, radiant"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [stunned](3.Mechanics/rules/conditions.md#Stunned)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 28"
+"condition_immunities": "charmed, frightened, stunned"
+"senses": "Truesight 120 ft., passive Perception 28"
 "languages": "all"
 "cr": "20"
 "traits":
@@ -117,6 +117,8 @@ aliases:
   - "XMM"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

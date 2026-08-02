@@ -22,6 +22,8 @@ Sildar is a kindhearted human man of nearly fifty years who holds a place of hon
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Sildar%20Hallwinter.webp#right)
 
 Sildar is a kindhearted human man of nearly fifty years who holds a place of honor in the famous griffon cavalry of Waterdeep. He is an agent of the Lords' Alliance, a group of allied political powers along the Sword Coast concerned with mutual security and prosperity. The order ensures the safety of the cities and other settlements of Faerûn by proactively handling violent threats, and order members work to bring honor and glory to their leaders and their homeland.
+
+%%
 ```statblock
 "name": "Sildar Hallwinter (PaBTSO)"
 "size": "Medium"
@@ -29,7 +31,7 @@ Sildar is a kindhearted human man of nearly fifty years who holds a place of hon
 "subtype": "human"
 "alignment": "Neutral Good"
 "ac": !!int "16"
-"ac_class": "[chain mail](3.Mechanics/items/chain-mail-xphb.md)"
+"ac_class": "chain mail"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "0"
@@ -45,11 +47,11 @@ Sildar is a kindhearted human man of nearly fifty years who holds a place of hon
   - "strength": !!int "3"
   - "constitution": !!int "3"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
 "gear":
-  - "[heavy crossbow](3.Mechanics/items/heavy-crossbow-xphb.md)"
-  - "[longsword](3.Mechanics/items/longsword-xphb.md)"
+  - "heavy crossbow"
+  - "longsword"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "1"
@@ -72,3 +74,4 @@ Sildar is a kindhearted human man of nearly fifty years who holds a place of hon
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Sildar%20Hallwinter.webp"
 ```
 ^statblock
+%%

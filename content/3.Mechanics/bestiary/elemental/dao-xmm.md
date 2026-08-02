@@ -53,6 +53,8 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
 > 
 > On the Elemental Plane of Earth, galaxies of gemstones twinkle over vaults of treasure. If dao are there, so is wealth worth hunting.
 
+
+%%
 ```statblock
 "name": "Dao (XMM)"
 "size": "Large"
@@ -74,9 +76,8 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
 "saves":
   - "dexterity": !!int "5"
   - "wisdom": !!int "5"
-"condition_immunities": "[petrified](3.Mechanics/rules/conditions.md#Petrified)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
+"condition_immunities": "petrified"
+"senses": "Darkvision 120 ft., passive Perception 11"
 "languages": "Primordial (Terran)"
 "cr": "11"
 "traits":
@@ -124,6 +125,8 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Dao.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

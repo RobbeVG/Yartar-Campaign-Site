@@ -46,6 +46,8 @@ Yochlols embody the pernicious will and infectious philosophies of the Abyss. In
 Most yochlols serve Lolth. The Demon Queen of Spiders claims all yochlols as minions and orders any yochlols that disagree destroyed. In rare cases, yochlols might serve other demon lords, particularly manipulative or changeable ones like Graz'zt, Juiblex, and Zuggtmoy.
 
 Despite their service to demon lords, yochlols harbor their own vicious whims and ambitions. They might claim to speak for their overlords to further their own ambitions or seek to reveal rivals' selfish goals to gain standing with their demonic masters.
+
+%%
 ```statblock
 "name": "Yochlol (XMM)"
 "size": "Medium"
@@ -70,15 +72,14 @@ Despite their service to demon lords, yochlols harbor their own vicious whims an
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+11"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+6"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 120 ft., passive Perception 12"
 "languages": "Abyssal, Elvish, Undercommon"
 "cr": "10"
 "traits":
@@ -128,6 +129,8 @@ Despite their service to demon lords, yochlols harbor their own vicious whims an
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Yochlol.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

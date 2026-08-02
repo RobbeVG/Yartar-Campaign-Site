@@ -193,6 +193,8 @@ Town crier
 Weaver
 
 Youngster
+
+%%
 ```statblock
 "name": "Commoner (XMM)"
 "size": "Small or Medium"
@@ -228,6 +230,8 @@ Youngster
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Commoner.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

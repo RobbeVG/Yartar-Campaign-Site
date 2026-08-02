@@ -91,6 +91,7 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 > Great magic, twisted and corrupted... Malice beyond reckoning... Flesh reshaped, becoming serpentine horrors...
 
 
+%%
 ```statblock
 "name": "Yuan-ti Infiltrator (XMM)"
 "size": "Medium"
@@ -109,18 +110,17 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+3"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
+"condition_immunities": "poisoned"
 "gear":
-  - "[scimitar](3.Mechanics/items/scimitar-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+  - "scimitar"
+"senses": "Darkvision 60 ft., passive Perception 14"
 "languages": "Abyssal, Common, Draconic"
 "cr": "1"
 "traits":
@@ -144,6 +144,8 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Yuan-ti%20Infiltrator.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

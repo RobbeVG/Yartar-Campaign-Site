@@ -111,6 +111,8 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
 > 
 > Ambition can become an addiction of the mind and spirit. It builds beyond a driving flame into an insidious inferno that burns a mage hollow until only the desire for more magical power remains
 
+
+%%
 ```statblock
 "name": "Lich (XMM)"
 "size": "Medium"
@@ -135,23 +137,20 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
   - "intelligence": !!int "12"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+19"
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+  - "name": "History"
     "desc": "+12"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+9"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+9"
 "damage_resistances": "cold, lightning"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
 "gear":
   - "[component pouch](3.Mechanics/items/component-pouch-xphb.md)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 19"
+"senses": "Truesight 120 ft., passive Perception 19"
 "languages": "all"
 "cr": "21"
 "traits":
@@ -224,6 +223,8 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Lich.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

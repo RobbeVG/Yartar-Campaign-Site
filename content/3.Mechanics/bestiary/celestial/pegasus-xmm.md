@@ -79,6 +79,8 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
 > 
 > Pegasi are the cherished steeds of our creator, Corellon. To see one is a blessing, but to ride one proves nothing less than the love of the gods.
 
+
+%%
 ```statblock
 "name": "Pegasus (XMM)"
 "size": "Large"
@@ -102,7 +104,7 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
   - "wisdom": !!int "4"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "understands Celestial, Common, Elvish, and Sylvan but can't speak"
@@ -116,6 +118,8 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Pegasus.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

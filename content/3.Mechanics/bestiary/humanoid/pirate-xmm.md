@@ -88,6 +88,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Pirates.webp#center)
 
+%%
 ```statblock
 "name": "Pirate (XMM)"
 "size": "Small or Medium"
@@ -130,6 +131,8 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Pirate.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

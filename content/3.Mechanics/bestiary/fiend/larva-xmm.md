@@ -47,6 +47,7 @@ Souls condemned to the Lower Planes often become larvae—repulsive, maggot-like
 
 Larvae that survive on the Lower Planes long enough can eventually transform into other sorts of lesser Fiends.
 
+%%
 ```statblock
 "name": "Larva (XMM)"
 "size": "Medium"
@@ -64,8 +65,7 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
   - !!int "10"
   - !!int "2"
 "speed": "20 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "0"
 "actions":
@@ -76,6 +76,8 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Larva.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -38,6 +38,8 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
 - **Treasure.** [Armaments](3.Mechanics/tables/random-magic-items-armaments.md)  
 
 Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged blades. With these cursed weapons and experience from countless battles, they lead other demons to slaughter virtuous souls. They often command droves of weaker demons.
+
+%%
 ```statblock
 "name": "Marilith (XMM)"
 "size": "Large"
@@ -62,13 +64,12 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
   - "wisdom": !!int "8"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 18"
+"condition_immunities": "poisoned"
+"senses": "Truesight 120 ft., passive Perception 18"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "16"
 "traits":
@@ -107,6 +108,8 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Marilith.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

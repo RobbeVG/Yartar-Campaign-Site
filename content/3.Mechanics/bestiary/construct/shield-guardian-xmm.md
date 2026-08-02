@@ -41,6 +41,8 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
 An intimidating magical automaton, a shield guardian obeys its master's commands and protects its master from danger. When such a guardian is created, the magic that animates it is intertwined with a bonded command amulet. Any creature that has a shield guardian's command amulet can control that Construct and, in the case of magic-users, imbue it with a spell to unleash under predetermined circumstances. Yet a shield guardian's primary goal is to protect its master. It escorts whoever bears its command amulet and intercedes between the bearer and any threat. Although it isn't mindless, a shield guardian has no sense of self preservation and will sacrifice itself to protect its master.
 
 Shield guardians are typically constructed of steel, stone, and wood in the shape of watchful soldiers. More fanciful designs exist, reflecting the tastes of their creators. Given their resilience, it's common for shield guardians to eventually serve creatures other than their creators. A shield guardian's command amulet might be passed down through a magic-using society or family for generations.
+
+%%
 ```statblock
 "name": "Shield Guardian (XMM)"
 "size": "Large"
@@ -59,11 +61,8 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
   - !!int "3"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"senses": "Blindsight 10 ft., Darkvision 60 ft., passive Perception 10"
 "languages": "understands commands given in any language but can't speak"
 "cr": "7"
 "traits":
@@ -102,6 +101,8 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Shield%20Guardian.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

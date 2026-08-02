@@ -84,6 +84,7 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 > One day I might be the god of storms—mind countless followers, answer prayers, change whole worlds—but, until then, I do what I please.
 
 
+%%
 ```statblock
 "name": "Empyrean (XMM)"
 "size": "Huge"
@@ -105,14 +106,13 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
   - "strength": !!int "17"
   - "wisdom": !!int "13"
 "skillsaves":
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+13"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+13"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "necrotic, radiant"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 23"
+"senses": "Truesight 120 ft., passive Perception 23"
 "languages": "all"
 "cr": "23"
 "traits":
@@ -166,6 +166,8 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Empyrean.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

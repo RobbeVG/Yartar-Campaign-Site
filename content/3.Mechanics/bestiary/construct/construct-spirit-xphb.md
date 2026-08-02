@@ -17,6 +17,8 @@ aliases:
 *Source: Player's Handbook (2024) p. 324*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Construct%20Spirit.webp#center)
+
+%%
 ```statblock
 "name": "Construct Spirit (XPHB)"
 "size": "Medium"
@@ -34,11 +36,8 @@ aliases:
   - !!int "5"
 "speed": "30 ft."
 "damage_resistances": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Understands the languages you know"
 "traits":
   - "desc": "A creature that hits the spirit with a melee attack or that starts its\
@@ -68,3 +67,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Construct%20Spirit.webp"
 ```
 ^statblock
+%%

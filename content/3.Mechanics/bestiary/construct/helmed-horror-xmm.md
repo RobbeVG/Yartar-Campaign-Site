@@ -69,6 +69,8 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
 | 5 | Serve in a legion formed from the armors of a land's ancient defenders. |
 | 6 | Stand sentry in a gallery of mundane armors. |
 ^helmed-horror-directives
+
+%%
 ```statblock
 "name": "Helmed Horror (XMM)"
 "size": "Medium"
@@ -87,18 +89,14 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
   - !!int "10"
 "speed": "30 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [deafened](3.Mechanics/rules/conditions.md#Deafened), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [stunned](3.Mechanics/rules/conditions.md#Stunned)"
+"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
+  \ petrified, poisoned, stunned"
 "gear":
   - "[shield](3.Mechanics/items/shield-xphb.md)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 14"
+"senses": "Blindsight 60 ft., passive Perception 14"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "4"
 "traits":
@@ -120,6 +118,8 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Helmed%20Horror.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -71,6 +71,8 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
 | 5 | Patches of brown mold or green slime. |
 | 6 | Quicksand or pools covered in thin ice. |
 ^will-o-wisp-ambushes
+
+%%
 ```statblock
 "name": "Will-o'-Wisp (XMM)"
 "size": "Tiny"
@@ -90,13 +92,9 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
 "speed": "5 ft., fly 50 ft. (hover)"
 "damage_resistances": "acid, bludgeoning, cold, fire, necrotic, piercing, slashing"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
-  \ [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
+  \ restrained, unconscious"
+"senses": "Darkvision 120 ft., passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "2"
 "traits":
@@ -128,6 +126,8 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Will-o%27-Wisp.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

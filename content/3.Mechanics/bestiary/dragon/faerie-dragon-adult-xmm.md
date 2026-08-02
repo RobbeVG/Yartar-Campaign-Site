@@ -42,6 +42,7 @@ The pranks of faerie dragon adults tend to lead others to people in need or wron
 
 Faerie dragons are cat-size pranksters with draconic features, butterfly-like wings, and scales of warm hues as youths and cool hues as adults.
 
+%%
 ```statblock
 "name": "Faerie Dragon Adult (XMM)"
 "size": "Tiny"
@@ -60,14 +61,13 @@ Faerie dragons are cat-size pranksters with draconic features, butterfly-like wi
   - !!int "16"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+4"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"senses": "Darkvision 60 ft., passive Perception 13"
 "languages": "Draconic, Sylvan; telepathy 60 ft. (faerie dragons only)"
 "cr": "2"
 "traits":
@@ -102,6 +102,8 @@ Faerie dragons are cat-size pranksters with draconic features, butterfly-like wi
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Faerie%20Dragon%20Adult.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

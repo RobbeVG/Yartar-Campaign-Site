@@ -41,6 +41,8 @@ Hook horrors feed opportunistically on plants, fungi, and any creatures that com
 Hook horrors are beaked predators whose forelimbs end in massive, hook-like claws. They flourish in the cavernous mazes of the Underdark, with its miles-deep trenches and stalactite forests suspended over empty darkness, where they barrel through caves and swing across cavern ceilings.
 
 Hook horrors feed opportunistically on plants, fungi, and any creatures that come close enough to hook. To perceive their surroundings, hook horrors echolocate via a range of noises, from banging on rocks and their own bodies to vocalizations that sound like strange squawks, screams, or clicks. Only hook horrors know the meaning of these noises, but many people who explore the Underdark or live near deep-reaching caves have sought the sources of such sounds only to fall victim to hungry hook horrors.
+
+%%
 ```statblock
 "name": "Hook Horror (XMM)"
 "size": "Large"
@@ -61,10 +63,9 @@ Hook horrors feed opportunistically on plants, fungi, and any creatures that com
 "saves":
   - "constitution": !!int "4"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 15"
+"senses": "Blindsight 60 ft., Darkvision 120 ft., passive Perception 15"
 "languages": "Hook Horror"
 "cr": "3"
 "actions":
@@ -79,6 +80,8 @@ Hook horrors feed opportunistically on plants, fungi, and any creatures that com
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Hook%20Horror.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

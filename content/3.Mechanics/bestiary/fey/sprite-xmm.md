@@ -56,6 +56,8 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
 > 
 > The tree had a wee village nestled in its boughs, I swear. Next thing I knew, I was lyin' face-down in the dirt. My head was full of stars, an' when I stood up an' looked around, both the tree an' the wee village were gone.
 
+
+%%
 ```statblock
 "name": "Sprite (XMM)"
 "size": "Tiny"
@@ -74,9 +76,9 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
   - !!int "11"
 "speed": "10 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+8"
 "senses": "passive Perception 13"
 "languages": "Common, Elvish, Sylvan"
@@ -102,6 +104,8 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Sprite.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

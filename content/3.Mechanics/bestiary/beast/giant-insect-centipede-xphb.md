@@ -16,6 +16,8 @@ aliases:
 # [Giant Insect (Centipede)](3.Mechanics/bestiary/beast/giant-insect-centipede-xphb.md)
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
+
+%%
 ```statblock
 "name": "Giant Insect (Centipede) (XPHB)"
 "size": "Large"
@@ -32,8 +34,7 @@ aliases:
   - !!int "14"
   - !!int "3"
 "speed": "40 ft., climb 40 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "Darkvision 60 ft., passive Perception 12"
 "languages": "understands the languages you know"
 "traits":
   - "desc": "The insect can climb difficult surfaces, including along ceilings, without\
@@ -56,3 +57,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Giant%20Insect%20%28Centipede%29.webp"
 ```
 ^statblock
+%%

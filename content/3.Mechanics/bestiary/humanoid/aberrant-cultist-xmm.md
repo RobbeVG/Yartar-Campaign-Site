@@ -144,6 +144,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Aberrant%20Cultist%20and%20Elemental%20Cultist.webp)
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Cultists.webp)
 
+%%
 ```statblock
 "name": "Aberrant Cultist (XMM)"
 "size": "Small or Medium"
@@ -165,14 +166,13 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   - "intelligence": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+6"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+6"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 90 ft., passive Perception\
-  \ 17"
+"senses": "Darkvision 90 ft., passive Perception 17"
 "languages": "Common, Deep Speech; telepathy 30 ft."
 "cr": "8"
 "actions":
@@ -204,6 +204,8 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Aberrant%20Cultist.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -70,6 +70,8 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 | 5 | A night hag herding larvae between planes. |
 | 6 | A wicked cavalier, such as a death knight, an erinyes, an incubus, or a vampire. |
 ^nightmare-riders
+
+%%
 ```statblock
 "name": "Nightmare (XMM)"
 "size": "Large"
@@ -111,6 +113,8 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Nightmare.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

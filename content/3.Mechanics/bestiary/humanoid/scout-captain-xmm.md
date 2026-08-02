@@ -42,6 +42,7 @@ Scout captains are experienced explorers and sharpshooters. They might lead band
 
 Scouts are warriors of the wilderness, trained in hunting and tracking. They might be explorers or trappers, or they could perform more martial roles as archers, bounty hunters, or outriders.
 
+%%
 ```statblock
 "name": "Scout Captain (XMM)"
 "size": "Small or Medium"
@@ -63,11 +64,11 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
   - "dexterity": !!int "5"
   - "intelligence": !!int "4"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
-  - "name": "[Survival](3.Mechanics/rules/skills.md#Survival)"
+  - "name": "Survival"
     "desc": "+6"
 "gear":
   - "[longbow](3.Mechanics/items/longbow-xphb.md)"
@@ -98,6 +99,8 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Scout%20Captain.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

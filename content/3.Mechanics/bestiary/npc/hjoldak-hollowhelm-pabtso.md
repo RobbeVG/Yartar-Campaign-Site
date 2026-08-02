@@ -18,6 +18,8 @@ aliases:
 *Source: Phandelver and Below: The Shattered Obelisk p. 93*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Hjoldak%20Hollowhelm.webp#center)
+
+%%
 ```statblock
 "name": "Hjoldak Hollowhelm (PaBTSO)"
 "size": "Medium"
@@ -42,9 +44,7 @@ aliases:
   - "intelligence": !!int "6"
   - "wisdom": !!int "5"
 "damage_resistances": "necrotic, poison, psychic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned), [unconscious](3.Mechanics/rules/conditions.md#Unconscious)"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, unconscious"
 "senses": "passive Perception 12"
 "languages": "telepathy 120 ft., understands the languages it knew in life but can't\
   \ speak"
@@ -60,20 +60,20 @@ aliases:
     "name": "Necrotic Shard"
   - "desc": "Hjoldak wreathes the head of a creature it can see within 60 feet of\
       \ itself with a crown of jagged, spectral crystals. The target must succeed\
-      \ on a DC 14 Wisdom saving throw or have the [charmed](3.Mechanics/rules/conditions.md#Charmed)\
-      \ condition for 1 minute. While [charmed](3.Mechanics/rules/conditions.md#Charmed)\
-      \ in this way, the target's thoughts are sluggish; it can't take reactions,\
-      \ its speed is halved, and it takes 9 (2d8) psychic damage at the start of each\
-      \ of its turns. The target can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success."
+      \ on a DC 14 Wisdom saving throw or have the charmed condition for 1 minute.\
+      \ While charmed in this way, the target's thoughts are sluggish; it can't take\
+      \ reactions, its speed is halved, and it takes 9 (2d8) psychic damage at the\
+      \ start of each of its turns. The target can repeat the saving throw at the\
+      \ end of each of its turns, ending the effect on itself on a success."
     "name": "Psionic Crown (Recharge 5-6)"
   - "desc": "Hjoldak casts one of the following spells, requiring no spellcasting\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 14):\n\n**At will:** [mage hand](3.Mechanics/spells/mage-hand-xphb.md)\
-      \ (the hand is invisible)\n\n**1/day:** [calm emotions](3.Mechanics/spells/calm-emotions-xphb.md)"
+      \ DC 14):\n\n**At will:** mage hand (the hand is invisible)\n\n**1/day:** calm\
+      \ emotions"
     "name": "Spellcasting (Psionics)"
 "source":
   - "PaBTSO"
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Hjoldak%20Hollowhelm.webp"
 ```
 ^statblock
+%%

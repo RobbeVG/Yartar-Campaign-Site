@@ -72,6 +72,7 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 | 6 | Stands guard at the post it protected in life. |
 ^skeleton-pantomimes
 
+%%
 ```statblock
 "name": "Skeleton (XMM)"
 "size": "Medium"
@@ -91,13 +92,11 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "speed": "30 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
+"condition_immunities": "exhaustion, poisoned"
 "gear":
   - "[shortbow](3.Mechanics/items/shortbow-xphb.md)"
   - "[shortsword](3.Mechanics/items/shortsword-xphb.md)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"senses": "Darkvision 60 ft., passive Perception 9"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "1/4"
 "actions":
@@ -112,6 +111,8 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Skeleton.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

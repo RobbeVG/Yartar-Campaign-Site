@@ -42,6 +42,8 @@ Arcanaloths possess considerable spellcasting prowess and frequently disguise th
 While all yugoloths are fiendish manifestations of wickedness and greed, arcanaloths bend their considerable intellects toward hoarding and exploiting secrets. They then deploy these secrets to ensnare countless victims and lesser villains, beguiling foes with false promises and powerful magic.
 
 Arcanaloths possess considerable spellcasting prowess and frequently disguise themselves with magic. While they prefer to let magical servants or other yugoloths do their fighting for them, arcanaloths can defend themselves with arcane might, banishing opponents into the pages of their magic tomes.
+
+%%
 ```statblock
 "name": "Arcanaloth (XMM)"
 "size": "Medium"
@@ -66,19 +68,18 @@ Arcanaloths possess considerable spellcasting prowess and frequently disguise th
   - "intelligence": !!int "9"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+9"
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+7"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+7"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 17"
+"condition_immunities": "charmed, poisoned"
+"senses": "Truesight 120 ft., passive Perception 17"
 "languages": "all; telepathy 120 ft."
 "cr": "12"
 "traits":
@@ -139,6 +140,8 @@ Arcanaloths possess considerable spellcasting prowess and frequently disguise th
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Arcanaloth.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -27,6 +27,8 @@ The Spider wants Wave Echo Cave for himself, and he's taking steps to make sure 
 The Spider—a drow mastermind named Nezznar—is searching Wave Echo Cave for the Forge of Spells, a magical forge that was used by dwarves and gnomes in bygone days to fashion powerful magic items.
 
 The Spider wants Wave Echo Cave for himself, and he's taking steps to make sure no one else knows where it is.
+
+%%
 ```statblock
 "name": "Nezznar the Spider (PaBTSO)"
 "size": "Medium"
@@ -34,7 +36,7 @@ The Spider wants Wave Echo Cave for himself, and he's taking steps to make sure 
 "subtype": "elf, wizard"
 "alignment": "Neutral Evil"
 "ac": !!int "11"
-"ac_class": "14 with [mage armor](3.Mechanics/spells/mage-armor-xphb.md)"
+"ac_class": "14 with mage armor"
 "hp": !!int "27"
 "hit_dice": "6d8"
 "modifier": !!int "1"
@@ -50,22 +52,20 @@ The Spider wants Wave Echo Cave for himself, and he's taking steps to make sure 
   - "intelligence": !!int "5"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+5"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+3"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 14"
+"senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Common, Elvish, Undercommon"
 "cr": "2"
 "traits":
-  - "desc": "Nezznar has a fully charged [spider staff](3.Mechanics/items/spider-staff-pabtso.md)\
-      \ (see appendix B)."
+  - "desc": "Nezznar has a fully charged spider staff (see appendix B)."
     "name": "Special Equipment"
-  - "desc": "Nezznar has advantage on saving throws to avoid or end the [charmed](3.Mechanics/rules/conditions.md#Charmed)\
-      \ condition on himself, and magic can't put him to sleep."
+  - "desc": "Nezznar has advantage on saving throws to avoid or end the charmed condition\
+      \ on himself, and magic can't put him to sleep."
     "name": "Fey Ancestry"
   - "desc": "Nezznar has disadvantage on attack rolls while he or his target is in\
       \ sunlight."
@@ -78,15 +78,13 @@ The Spider wants Wave Echo Cave for himself, and he's taking steps to make sure 
     "name": "Poison Blast"
   - "desc": "Nezznar casts one of the following spells, using Intelligence as the\
       \ spellcasting ability (spell save DC 13 unless otherwise noted):\n\n**At will:**\
-      \ [dancing lights](3.Mechanics/spells/dancing-lights-xphb.md), [mage hand](3.Mechanics/spells/mage-hand-xphb.md),\
-      \ [spider climb](3.Mechanics/spells/spider-climb-xphb.md) (from spider staff),\
-      \ [web](3.Mechanics/spells/web-xphb.md) (from spider staff; save DC 15)\n\n\
-      **1/day each:** [darkness](3.Mechanics/spells/darkness-xphb.md), [faerie fire](3.Mechanics/spells/faerie-fire-xphb.md),\
-      \ [invisibility](3.Mechanics/spells/invisibility-xphb.md), [mage armor](3.Mechanics/spells/mage-armor-xphb.md),\
-      \ [magic missile](3.Mechanics/spells/magic-missile-xphb.md), [suggestion](3.Mechanics/spells/suggestion-xphb.md)"
+      \ dancing lights, mage hand, spider climb (from spider staff), web (from spider\
+      \ staff; save DC 15)\n\n**1/day each:** darkness, faerie fire, invisibility,\
+      \ mage armor, magic missile, suggestion"
     "name": "Spellcasting"
 "source":
   - "PaBTSO"
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Nezznar%20the%20Spider.webp"
 ```
 ^statblock
+%%

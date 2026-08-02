@@ -105,6 +105,7 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 > The guide swore "beep boop" meant "hello, friend." I don't know why they're after us!
 
 
+%%
 ```statblock
 "name": "Modron Tridrone (XMM)"
 "size": "Medium"
@@ -122,9 +123,8 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - !!int "10"
   - !!int "9"
 "speed": "30 ft."
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed"
+"senses": "Truesight 120 ft., passive Perception 10"
 "languages": "Modron"
 "cr": "1/2"
 "traits":
@@ -143,6 +143,8 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Modron%20Tridrone.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

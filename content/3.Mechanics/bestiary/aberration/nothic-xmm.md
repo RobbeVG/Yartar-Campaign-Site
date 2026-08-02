@@ -51,6 +51,8 @@ Some nothics seek to end the curse that warped them into their bizarre forms, bu
 > 
 > Deeper. Deeper and Deeper. Deeper and creeper. Creeping they come. Up from the place that isn't a place. They come to feed. Feed on what I know. So I hide. I hide away. Away in the secret dark. Secret and dark, like all that I know I shouldn't know!
 
+
+%%
 ```statblock
 "name": "Nothic (XMM)"
 "size": "Medium"
@@ -69,16 +71,15 @@ Some nothics seek to end the curse that warped them into their bizarre forms, bu
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](3.Mechanics/rules/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+3"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+4"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 14"
+"senses": "Truesight 120 ft., passive Perception 14"
 "languages": "Undercommon"
 "cr": "2"
 "actions":
@@ -99,6 +100,8 @@ Some nothics seek to end the curse that warped them into their bizarre forms, bu
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Nothic.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

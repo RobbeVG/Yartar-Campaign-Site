@@ -142,6 +142,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Cultists.webp#center)
 
+%%
 ```statblock
 "name": "Cultist Hierophant (XMM)"
 "size": "Small or Medium"
@@ -163,11 +164,11 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+9"
-  - "name": "[Religion](3.Mechanics/rules/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+5"
 "gear":
   - "[breastplate](3.Mechanics/items/breastplate-xphb.md)"
@@ -195,6 +196,8 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Cultist%20Hierophant.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

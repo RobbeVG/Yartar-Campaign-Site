@@ -18,6 +18,8 @@ aliases:
 *Source: Phandelver and Below: The Shattered Obelisk p. 70*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Mormesk%20the%20Wraith.webp#center)
+
+%%
 ```statblock
 "name": "Mormesk the Wraith (PaBTSO)"
 "size": "Medium"
@@ -38,12 +40,9 @@ aliases:
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks that aren't silvered"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned,\
+  \ prone, restrained"
+"senses": "darkvision 60 ft., passive Perception 12"
 "languages": "the languages it knew in life"
 "cr": "5"
 "traits":
@@ -52,8 +51,7 @@ aliases:
       \ an object."
     "name": "Incorporeal Movement"
   - "desc": "While in sunlight, Mormesk has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) checks\
-      \ that rely on sight."
+      \ as on Wisdom (Perception) checks that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 21\
@@ -64,13 +62,13 @@ aliases:
     "name": "Life Drain"
   - "desc": "Mormesk targets a humanoid within 10 feet of it that has been dead for\
       \ no longer than 1 minute and died violently. The target's spirit rises as a\
-      \ [specter](3.Mechanics/bestiary/undead/specter-xmm.md) in the space of its\
-      \ corpse or in the nearest unoccupied space. The [specter](3.Mechanics/bestiary/undead/specter-xmm.md)\
-      \ is under Mormesk's control. Mormesk can have no more than seven specters under\
-      \ its control at one time."
+      \ specter in the space of its corpse or in the nearest unoccupied space. The\
+      \ specter is under Mormesk's control. Mormesk can have no more than seven specters\
+      \ under its control at one time."
     "name": "Create Specter"
 "source":
   - "PaBTSO"
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Mormesk%20the%20Wraith.webp"
 ```
 ^statblock
+%%

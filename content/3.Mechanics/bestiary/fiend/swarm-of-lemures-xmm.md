@@ -43,6 +43,7 @@ When devils drive hosts of lemures into close proximity or when lemures compress
 
 The least of all devils, lemures arise from wicked souls, their mortal memories scoured away. Only vague limbs and anguished features jut from these slurries of infernal proto-matter.
 
+%%
 ```statblock
 "name": "Swarm of Lemures (XMM)"
 "size": "Large"
@@ -63,14 +64,10 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, cold, piercing, slashing"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [grappled](3.Mechanics/rules/conditions.md#Grappled), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified), [poisoned](3.Mechanics/rules/conditions.md#Poisoned),\
-  \ [prone](3.Mechanics/rules/conditions.md#Prone), [restrained](3.Mechanics/rules/conditions.md#Restrained),\
-  \ [stunned](3.Mechanics/rules/conditions.md#Stunned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive\
-  \ Perception 11"
+"condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, poisoned,\
+  \ prone, restrained, stunned"
+"senses": "Darkvision 120 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 11"
 "languages": "understands Infernal but can't speak"
 "cr": "3"
 "traits":
@@ -94,6 +91,8 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Swarm%20of%20Lemures.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

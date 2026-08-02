@@ -35,6 +35,7 @@ When spawned, a gemmule appears as a misshapen, spindly legged, pyramid-shaped n
 
 When an illithid colony lays its eggs dangerously close to a Far Realm rift, an egg sac has a chance to mutate into what is known as an encephalon cluster—a ravenous, slimy, psionic, brain-shaped mass that spawns horrors called encephalon gemmules.
 
+%%
 ```statblock
 "name": "Encephalon Gemmule (PaBTSO)"
 "size": "Tiny"
@@ -53,9 +54,8 @@ When an illithid colony lays its eggs dangerously close to a Far Realm rift, an 
   - !!int "7"
 "speed": "40 ft."
 "damage_resistances": "psychic"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded)"
-"senses": "[blindsight](3.Mechanics/rules/senses.md#Blindsight) 30 ft. (can't see\
-  \ beyond this radius), passive Perception 11"
+"condition_immunities": "blinded"
+"senses": "blindsight 30 ft. (can't see beyond this radius), passive Perception 11"
 "languages": ""
 "cr": "3"
 "traits":
@@ -84,3 +84,4 @@ When an illithid colony lays its eggs dangerously close to a Far Realm rift, an 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Encephalon%20Gemmule.webp"
 ```
 ^statblock
+%%

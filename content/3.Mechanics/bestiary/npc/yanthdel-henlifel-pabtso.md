@@ -18,6 +18,8 @@ aliases:
 *Source: Phandelver and Below: The Shattered Obelisk p. 114*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/NythalynandYanthdel.webp#center)
+
+%%
 ```statblock
 "name": "Yanthdel Henlifel (PaBTSO)"
 "size": "Medium"
@@ -25,7 +27,7 @@ aliases:
 "subtype": "Drow elf"
 "alignment": "Neutral"
 "ac": !!int "18"
-"ac_class": "[studded leather](3.Mechanics/items/studded-leather-armor-xphb.md), [shield](3.Mechanics/items/shield-xphb.md)"
+"ac_class": "studded leather, shield"
 "hp": !!int "71"
 "hit_dice": "11d8 + 22"
 "modifier": !!int "4"
@@ -42,30 +44,27 @@ aliases:
   - "constitution": !!int "5"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+10"
 "gear":
-  - "[hand crossbow](3.Mechanics/items/hand-crossbow-xphb.md)"
-  - "[shortsword](3.Mechanics/items/shortsword-xphb.md)"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 14"
+  - "hand crossbow"
+  - "shortsword"
+"senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Elvish, Undercommon"
 "cr": "5"
 "traits":
   - "desc": "Yanthdel's spellcasting ability is Charisma (spell save DC 12). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [dancing lights](3.Mechanics/spells/dancing-lights-xphb.md)\n\n\
-      **1/day each:** [darkness](3.Mechanics/spells/darkness-xphb.md), [faerie fire](3.Mechanics/spells/faerie-fire-xphb.md),\
-      \ [levitate](3.Mechanics/spells/levitate-xphb.md) (self only)"
+      **At will:** dancing lights\n\n**1/day each:** darkness, faerie fire, levitate\
+      \ (self only)"
     "name": "Innate Spellcasting"
-  - "desc": "Yanthdel has advantage on saving throws against being [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-      \ and magic can't put Yanthdel to sleep."
+  - "desc": "Yanthdel has advantage on saving throws against being charmed, and magic\
+      \ can't put Yanthdel to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, Yanthdel has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) checks\
-      \ that rely on sight."
+      \ as on Wisdom (Perception) checks that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "Yanthdel makes two shortsword attacks."
@@ -75,11 +74,10 @@ aliases:
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 30/120 ft., one target. *Hit:*\
       \ 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be [poisoned](3.Mechanics/rules/conditions.md#Poisoned) for\
-      \ 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](3.Mechanics/rules/conditions.md#Unconscious)\
-      \ while [poisoned](3.Mechanics/rules/conditions.md#Poisoned) in this way. The\
-      \ target wakes up if it takes damage or if another creature takes an action\
-      \ to shake it awake."
+      \ saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or\
+      \ more, the target is also unconscious while poisoned in this way. The target\
+      \ wakes up if it takes damage or if another creature takes an action to shake\
+      \ it awake."
     "name": "Hand Crossbow"
 "reactions":
   - "desc": "Yanthdel adds 3 to its AC against one melee attack that would hit it.\
@@ -90,3 +88,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Yanthdel%20Henlifel.webp"
 ```
 ^statblock
+%%

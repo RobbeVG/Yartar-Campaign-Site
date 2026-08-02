@@ -43,6 +43,8 @@ Owing to their draconic instincts, chimeras are greedy creatures that hoard trea
 Violent and unpredictable, chimeras combine the deadliest traits of lions, rams, and red dragons. With their fearsome claws, crushing horns, and fiery breath, chimeras are tempests of ferocity, driven by their three heads' conflicting instincts. Their heads agree on little but their desires to feed and to drive competitors from the rugged territories where these monsters make their lairs. When they spot prey, chimeras typically strafe foes with their fire breath before landing to attack with their fangs, horns, and claws.
 
 Owing to their draconic instincts, chimeras are greedy creatures that hoard treasures within cavernous lairs. They're undiscerning about what they collect, gathering shiny objects alongside trophies and bones from their recent kills. Brave souls seeking to distract or temporarily appease a chimera can do so by offering it treasure and food.
+
+%%
 ```statblock
 "name": "Chimera (XMM)"
 "size": "Large"
@@ -61,10 +63,9 @@ Owing to their draconic instincts, chimeras are greedy creatures that hoard trea
   - !!int "10"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 18"
+"senses": "Darkvision 60 ft., passive Perception 18"
 "languages": "understands Draconic but can't speak"
 "cr": "6"
 "actions":
@@ -89,6 +90,8 @@ Owing to their draconic instincts, chimeras are greedy creatures that hoard trea
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Chimera.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

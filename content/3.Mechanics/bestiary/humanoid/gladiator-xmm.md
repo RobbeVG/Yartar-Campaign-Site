@@ -65,6 +65,8 @@ Gladiators are professional fighters who pit themselves against one another, mon
 | 5 | Seeks to claim a trophy from a foe. |
 | 6 | Takes advice from the crowd, omens, or a pet. |
 ^gladiator-theatrics
+
+%%
 ```statblock
 "name": "Gladiator (XMM)"
 "size": "Small or Medium"
@@ -88,9 +90,9 @@ Gladiators are professional fighters who pit themselves against one another, mon
   - "constitution": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+10"
-  - "name": "[Performance](3.Mechanics/rules/skills.md#Performance)"
+  - "name": "Performance"
     "desc": "+5"
 "gear":
   - "[shield](3.Mechanics/items/shield-xphb.md)"
@@ -121,6 +123,8 @@ Gladiators are professional fighters who pit themselves against one another, mon
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gladiator.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -46,6 +46,7 @@ Packs of worgs roam harsh frontiers and cursed lands. They sometimes conspire wi
 
 Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These sapient predators can speak and often taunt their prey, enjoying the taste of fear in their meals.
 
+%%
 ```statblock
 "name": "Worg (XMM)"
 "size": "Large"
@@ -64,10 +65,9 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
   - !!int "8"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "Darkvision 60 ft., passive Perception 14"
 "languages": "Goblin, Worg"
 "cr": "1/2"
 "actions":
@@ -80,6 +80,8 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Worg.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

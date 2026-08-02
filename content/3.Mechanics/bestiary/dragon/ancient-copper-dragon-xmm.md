@@ -54,6 +54,7 @@ Copper dragons typically live in caverns amid picturesque hills and rock formati
 
 Copper dragons typically inhabit multi-chamber caves and renovated ruins.
 
+%%
 ```statblock
 "name": "Ancient Copper Dragon (XMM)"
 "size": "Gargantuan"
@@ -76,15 +77,14 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
   - "dexterity": !!int "8"
   - "wisdom": !!int "10"
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+13"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+17"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+8"
 "damage_immunities": "acid"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 27"
+"senses": "Blindsight 60 ft., Darkvision 120 ft., passive Perception 27"
 "languages": "Common, Draconic"
 "cr": "21"
 "traits":
@@ -152,6 +152,8 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ancient%20Copper%20Dragon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

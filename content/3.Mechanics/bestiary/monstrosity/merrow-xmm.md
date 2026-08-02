@@ -52,6 +52,8 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
 > 
 > Sages trace merrows' origins to aquatic ogres, depraved merfolk, and worse. Such broad theories reveal little about these monsters but overmuch of the dread lurking beyond our certain shores.
 
+
+%%
 ```statblock
 "name": "Merrow (XMM)"
 "size": "Large"
@@ -69,8 +71,7 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
   - !!int "10"
   - !!int "9"
 "speed": "10 ft., swim 40 ft."
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Primordial (Aquan)"
 "cr": "2"
 "traits":
@@ -94,6 +95,8 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Merrow.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

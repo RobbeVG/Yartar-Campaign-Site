@@ -70,6 +70,8 @@ Driders also appear when whole communities are transformed by a wicked god's wra
 | 5 | A mutation after exposure to chaotic planar energies or strange Underdark radiations. |
 | 6 | A punishment from a spiteful god, like Lolth or the Queen of Air and Darkness. |
 ^drider-metamorphoses
+
+%%
 ```statblock
 "name": "Drider (XMM)"
 "size": "Large"
@@ -88,12 +90,11 @@ Driders also appear when whole communities are transformed by a wicked god's wra
   - !!int "12"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+10"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"senses": "Darkvision 120 ft., passive Perception 16"
 "languages": "Elvish, Undercommon"
 "cr": "6"
 "traits":
@@ -125,6 +126,8 @@ Driders also appear when whole communities are transformed by a wicked god's wra
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Drider.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -80,6 +80,8 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
 > 
 > Meeting yourself is the surest way to realize you're not as charming as you think you are.
 
+
+%%
 ```statblock
 "name": "Doppelganger (XMM)"
 "size": "Medium"
@@ -98,13 +100,12 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+6"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+3"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "charmed"
+"senses": "Darkvision 60 ft., passive Perception 11"
 "languages": "Common plus three other languages"
 "cr": "3"
 "actions":
@@ -135,6 +136,8 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Doppelganger.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -44,6 +44,7 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Fungi.webp#center)
 
+%%
 ```statblock
 "name": "Violet Fungus Necrohulk (XMM)"
 "size": "Large"
@@ -62,11 +63,8 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
   - !!int "10"
 "speed": "40 ft."
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[blinded](3.Mechanics/rules/conditions.md#Blinded), [charmed](3.Mechanics/rules/conditions.md#Charmed),\
-  \ [deafened](3.Mechanics/rules/conditions.md#Deafened), [frightened](3.Mechanics/rules/conditions.md#Frightened),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "blinded, charmed, deafened, frightened, poisoned"
+"senses": "Blindsight 60 ft., passive Perception 12"
 "languages": ""
 "cr": "7"
 "actions":
@@ -102,6 +100,8 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Violet%20Fungus%20Necrohulk.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

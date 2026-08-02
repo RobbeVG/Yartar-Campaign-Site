@@ -77,6 +77,8 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
 | 3 | A russet scale the size of a knight's shield. |
 | 4 | A shattered mountain or diverted river. |
 ^tarrasque-evidence
+
+%%
 ```statblock
 "name": "Tarrasque (XMM)"
 "size": "Gargantuan"
@@ -101,15 +103,12 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+9"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [deafened](3.Mechanics/rules/conditions.md#Deafened),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 120 ft., passive Perception\
-  \ 19"
+"condition_immunities": "charmed, deafened, frightened, paralyzed, poisoned"
+"senses": "Blindsight 120 ft., passive Perception 19"
 "languages": ""
 "cr": "30"
 "traits":
@@ -184,6 +183,8 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Tarrasque.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

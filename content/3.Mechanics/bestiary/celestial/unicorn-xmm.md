@@ -47,6 +47,8 @@ Unicorns are majestic defenders of forests. They are revered by many Fey and oth
 ### Unicorn Lairs
 
 Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures live.
+
+%%
 ```statblock
 "name": "Unicorn (XMM)"
 "size": "Large"
@@ -65,10 +67,8 @@ Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures
   - !!int "16"
 "speed": "50 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"condition_immunities": "charmed, paralyzed, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 13"
 "languages": "Celestial, Elvish, Sylvan; telepathy 120 ft."
 "cr": "5"
 "traits":
@@ -128,6 +128,8 @@ Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Unicorn.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

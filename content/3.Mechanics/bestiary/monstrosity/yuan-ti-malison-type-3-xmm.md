@@ -101,6 +101,7 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Yuan-ti.webp#center)
 
+%%
 ```statblock
 "name": "Yuan-ti Malison (Type 3) (XMM)"
 "size": "Medium"
@@ -119,12 +120,11 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
   - !!int "12"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4 (+6 while in snake form)"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 60 ft., passive Perception 13"
 "languages": "Abyssal, Common, Draconic"
 "cr": "3"
 "traits":
@@ -159,6 +159,8 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Yuan-ti%20Malison%20%28Type%203%29.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

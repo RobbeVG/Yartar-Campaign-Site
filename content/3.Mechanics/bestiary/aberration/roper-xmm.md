@@ -83,6 +83,8 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 > 
 > Rule 9: Never trust a stalagmite.
 
+
+%%
 ```statblock
 "name": "Roper (XMM)"
 "size": "Large"
@@ -101,12 +103,11 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
   - !!int "6"
 "speed": "10 ft., climb 20 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 16"
+"senses": "Darkvision 60 ft., passive Perception 16"
 "languages": ""
 "cr": "5"
 "traits":
@@ -134,6 +135,8 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Roper.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

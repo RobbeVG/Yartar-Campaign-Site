@@ -22,13 +22,15 @@ Redbrand ruffians are ruthless enforcers skilled at intimidation and violence. T
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Redbrand%20Ruffian.webp#right)
 
 Redbrand ruffians are ruthless enforcers skilled at intimidation and violence. They work for money and have no scruples.
+
+%%
 ```statblock
 "name": "Redbrand Ruffian (PaBTSO)"
 "size": "Medium"
 "type": "humanoid"
 "alignment": "typically  Neutral Evil"
 "ac": !!int "11"
-"ac_class": "[leather armor](3.Mechanics/items/leather-armor-xphb.md)"
+"ac_class": "leather armor"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "0"
@@ -41,10 +43,10 @@ Redbrand ruffians are ruthless enforcers skilled at intimidation and violence. T
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](3.Mechanics/rules/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+2"
 "gear":
-  - "[shortsword](3.Mechanics/items/shortsword-xphb.md)"
+  - "shortsword"
 "senses": "passive Perception 9"
 "languages": "Common"
 "cr": "1/2"
@@ -57,3 +59,4 @@ Redbrand ruffians are ruthless enforcers skilled at intimidation and violence. T
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Redbrand%20Ruffian.webp"
 ```
 ^statblock
+%%

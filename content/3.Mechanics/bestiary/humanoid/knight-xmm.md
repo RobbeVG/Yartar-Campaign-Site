@@ -42,6 +42,7 @@ Knights frequently lead troops in combat or work in units that dominate the batt
 
 Knights are skilled warriors trained for war and tested in battle. Many serve the rulers of a realm, a religion, or an order devoted to a cause.
 
+%%
 ```statblock
 "name": "Knight (XMM)"
 "size": "Small or Medium"
@@ -62,7 +63,7 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
 "saves":
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
-"condition_immunities": "[frightened](3.Mechanics/rules/conditions.md#Frightened)"
+"condition_immunities": "frightened"
 "gear":
   - "[greatsword](3.Mechanics/items/greatsword-xphb.md)"
   - "[heavy crossbow](3.Mechanics/items/heavy-crossbow-xphb.md)"
@@ -90,6 +91,8 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Knight.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

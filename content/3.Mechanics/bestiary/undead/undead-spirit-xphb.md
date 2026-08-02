@@ -17,6 +17,8 @@ aliases:
 *Source: Player's Handbook (2024) p. 328*  
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XPHB/Undead%20Spirit.webp#center)
+
+%%
 ```statblock
 "name": "Undead Spirit (XPHB)"
 "size": "Medium"
@@ -35,11 +37,8 @@ aliases:
   - !!int "9"
 "speed": "30 ft., fly 40 ft. (hover; Ghostly only)"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "exhaustion, frightened, paralyzed, poisoned"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages you know"
 "traits":
   - "desc": "*Constitution Saving Throw:* DC equals your spell save DC, any creature\
@@ -75,3 +74,4 @@ aliases:
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XPHB/Undead%20Spirit.webp"
 ```
 ^statblock
+%%

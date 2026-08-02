@@ -42,6 +42,7 @@ Berserker commanders bear the scars of battle and drive their followers to match
 
 Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fighters, and other ferocious warriors.
 
+%%
 ```statblock
 "name": "Berserker Commander (XMM)"
 "size": "Small or Medium"
@@ -63,11 +64,11 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
   - "strength": !!int "7"
   - "constitution": !!int "7"
 "skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+7"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)"
+"condition_immunities": "charmed, frightened"
 "gear":
   - "[greataxe](3.Mechanics/items/greataxe-xphb.md)"
   - "six [javelins](3.Mechanics/items/javelin-xphb.md)"
@@ -102,6 +103,8 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Berserker%20Commander.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

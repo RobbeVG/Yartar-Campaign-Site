@@ -47,6 +47,8 @@ Masters of manipulation, rakshasas infiltrate communities to claim positions of 
 Rakshasas can withstand some degree of magic, but legends tell of blessed warriors felling them with crossbow bolts, arrows, or similar weapons.
 
 Rakshasas' appearances combine humanlike bodies with the features of animals and monsters. All rakshasas have a physical oddity that remains when they adopt magical disguises, such as palms where the backs of the hands would be on humans.
+
+%%
 ```statblock
 "name": "Rakshasa (XMM)"
 "size": "Medium"
@@ -65,17 +67,16 @@ Rakshasas' appearances combine humanlike bodies with the features of animals and
   - !!int "20"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+10"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+8"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
 "damage_vulnerabilities": "piercing damage from weapons wielded by creatures under\
   \ the effect of a [Bless](3.Mechanics/spells/bless-xphb.md) spell"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [frightened](3.Mechanics/rules/conditions.md#Frightened)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 60 ft., passive Perception\
-  \ 18"
+"condition_immunities": "charmed, frightened"
+"senses": "Truesight 60 ft., passive Perception 18"
 "languages": "Common, Infernal"
 "cr": "13"
 "traits":
@@ -115,6 +116,8 @@ Rakshasas' appearances combine humanlike bodies with the features of animals and
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Rakshasa.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

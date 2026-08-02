@@ -38,6 +38,8 @@ Horned devils, also known as cornugons or malebranche, are infernal warriors tha
 - **Treasure.** [Relics](3.Mechanics/tables/random-magic-items-relics.md)  
 
 Horned devils, also known as cornugons or malebranche, are infernal warriors that exact the will of diabolical generals and lead other devils in battle. Their bodies and weapons are forged in the Nine Hells, and they torment their foes with diabolical flames and pernicious wounds.
+
+%%
 ```statblock
 "name": "Horned Devil (XMM)"
 "size": "Large"
@@ -62,10 +64,9 @@ Horned devils, also known as cornugons or malebranche, are infernal warriors tha
   - "wisdom": !!int "7"
   - "charisma": !!int "8"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 150 ft. (unimpeded\
-  \ by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive\
-  \ Perception 13"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 150 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 13"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "11"
 "traits":
@@ -102,6 +103,8 @@ Horned devils, also known as cornugons or malebranche, are infernal warriors tha
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Horned%20Devil.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

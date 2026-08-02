@@ -101,6 +101,8 @@ Every arch-hag has a unique weakness tied to a fateful encounter the hag had in 
 ### Arch-hag Lairs
 
 Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop a storm cloud, or—in the case of the arch-hag Baba Yaga—a hut atop giant chicken legs. The interiors of these lairs frequently change or exhibit bewildering features.
+
+%%
 ```statblock
 "name": "Arch-hag (XMM)"
 "size": "Large"
@@ -122,17 +124,15 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
   - "dexterity": !!int "9"
   - "wisdom": !!int "11"
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+14"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+11"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+21"
 "damage_resistances": "cold, fire, psychic"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 60 ft., passive Perception\
-  \ 21"
+"condition_immunities": "charmed, exhaustion, frightened"
+"senses": "Truesight 60 ft., passive Perception 21"
 "languages": "all"
 "cr": "21"
 "traits":
@@ -219,6 +219,8 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Arch-hag.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

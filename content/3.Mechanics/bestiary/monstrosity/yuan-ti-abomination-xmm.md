@@ -97,6 +97,7 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Yuan-ti.webp#center)
 
+%%
 ```statblock
 "name": "Yuan-ti Abomination (XMM)"
 "size": "Large"
@@ -115,14 +116,13 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
   - !!int "15"
 "speed": "40 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 17"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 60 ft., passive Perception 17"
 "languages": "Abyssal, Common, Draconic"
 "cr": "7"
 "traits":
@@ -163,6 +163,8 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Yuan-ti%20Abomination.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

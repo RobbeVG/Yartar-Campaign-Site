@@ -99,6 +99,8 @@ A dracolich lurks in a corrupted version of the lair it had in life.
 > 
 > And naught will be left save shattered thrones with no rulers. But the dead dragons shall rule the world entire...
 
+
+%%
 ```statblock
 "name": "Dracolich (XMM)"
 "size": "Unknown"
@@ -120,16 +122,13 @@ A dracolich lurks in a corrupted version of the lair it had in life.
   - "dexterity": !!int "6"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+14"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3.Mechanics/rules/conditions.md#Charmed), [exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [frightened](3.Mechanics/rules/conditions.md#Frightened), [paralyzed](3.Mechanics/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 60 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 24"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"senses": "Blindsight 60 ft., Darkvision 120 ft., passive Perception 24"
 "languages": "Common, Draconic"
 "cr": "17"
 "traits":
@@ -205,6 +204,8 @@ A dracolich lurks in a corrupted version of the lair it had in life.
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Dracolich.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

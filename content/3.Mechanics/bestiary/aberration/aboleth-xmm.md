@@ -90,6 +90,8 @@ Aboleths' alien goals and methods are often mysterious to other creatures. Roll 
 ### Aboleth Lairs
 
 Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spaces for their terrestrial servants and to hold treasures that would be damaged by water.
+
+%%
 ```statblock
 "name": "Aboleth (XMM)"
 "size": "Large"
@@ -113,12 +115,11 @@ Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spac
   - "intelligence": !!int "8"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[History](3.Mechanics/rules/skills.md#History)"
+  - "name": "History"
     "desc": "+12"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+10"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 20"
+"senses": "Darkvision 120 ft., passive Perception 20"
 "languages": "Deep Speech; telepathy 120 ft."
 "cr": "10"
 "traits":
@@ -195,6 +196,8 @@ Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spac
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Aboleth.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

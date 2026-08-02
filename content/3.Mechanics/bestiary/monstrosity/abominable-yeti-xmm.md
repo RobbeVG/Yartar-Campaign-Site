@@ -60,6 +60,7 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
 > In the yeti, I find no kinship, no understanding, no mercy. Theirs is not the might of the mountain or the magic of glacial wonders. Theirs is a world where harmony lies murdered and frozen.
 
 
+%%
 ```statblock
 "name": "Abominable Yeti (XMM)"
 "size": "Huge"
@@ -78,13 +79,12 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
   - !!int "9"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+9"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+8"
 "damage_immunities": "cold"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 19"
+"senses": "Darkvision 60 ft., passive Perception 19"
 "languages": "Yeti"
 "cr": "9"
 "traits":
@@ -115,6 +115,8 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Abominable%20Yeti.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

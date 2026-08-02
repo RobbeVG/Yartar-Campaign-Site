@@ -52,6 +52,7 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
 > Just because we protect the forest doesn't mean it's defenseless.
 
 
+%%
 ```statblock
 "name": "Awakened Tree (XMM)"
 "size": "Huge"
@@ -83,6 +84,8 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Awakened%20Tree.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

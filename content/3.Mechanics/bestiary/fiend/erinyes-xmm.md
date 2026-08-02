@@ -46,6 +46,8 @@ Erinyes, also known as furies, are winged devils clad in fiendish armor. These f
 Erinyes often serve archdevils and guard the order of the Nine Hells against trespassers and escapees. Although they're prone to wrathful outbursts, erinyes cooperate well with other devils. They sometimes hunt in trios with other erinyes, forging infamous reputations for themselves.
 
 When not in the service of a diabolical master, erinyes hunt wicked souls. They pursue quarries relentlessly, across the multiverse and for ages if need be. While they might be summoned to serve evil magic-users, erinyes also listen for oaths and curses sworn in their names. In rare cases, wronged mortals who call out with just rage might be heard by an erinyes who appears to take vengeance on their behalf. Once erinyes are so summoned, they won't leave without claiming the soul of either their quarry or the mortal who summoned them.
+
+%%
 ```statblock
 "name": "Erinyes (XMM)"
 "size": "Medium"
@@ -69,15 +71,14 @@ When not in the service of a diabolical master, erinyes hunt wicked souls. They 
   - "constitution": !!int "8"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Persuasion](3.Mechanics/rules/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+8"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Truesight](3.Mechanics/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 16"
+"condition_immunities": "poisoned"
+"senses": "Truesight 120 ft., passive Perception 16"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "12"
 "traits":
@@ -118,6 +119,8 @@ When not in the service of a diabolical master, erinyes hunt wicked souls. They 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Erinyes.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

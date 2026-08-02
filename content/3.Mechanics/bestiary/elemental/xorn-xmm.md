@@ -83,6 +83,8 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
 | 7 | A piece of a meteor or moon. |
 | 8 | The stone crowning a mountain peak. |
 ^xorn-delicacies
+
+%%
 ```statblock
 "name": "Xorn (XMM)"
 "size": "Medium"
@@ -101,15 +103,13 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
   - !!int "11"
 "speed": "20 ft., burrow 20 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "damage_immunities": "poison"
-"condition_immunities": "[paralyzed](3.Mechanics/rules/conditions.md#Paralyzed), [petrified](3.Mechanics/rules/conditions.md#Petrified),\
-  \ [poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., Tremorsense\
-  \ 60 ft., passive Perception 16"
+"condition_immunities": "paralyzed, petrified, poisoned"
+"senses": "Darkvision 60 ft., Tremorsense 60 ft., passive Perception 16"
 "languages": "Primordial (Terran)"
 "cr": "5"
 "traits":
@@ -136,6 +136,8 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Xorn.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

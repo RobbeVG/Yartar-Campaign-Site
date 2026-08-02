@@ -37,6 +37,7 @@ Psionic goblins often struggle to handle the turbulent psychic energy within the
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/PaBTSO/Psionic%20Goblins.webp#center)
 
+%%
 ```statblock
 "name": "Goblin Psi Commander (PaBTSO)"
 "size": "Small"
@@ -44,7 +45,7 @@ Psionic goblins often struggle to handle the turbulent psychic energy within the
 "subtype": "goblinoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[studded leather armor](3.Mechanics/items/studded-leather-armor-xphb.md)"
+"ac_class": "studded leather armor"
 "hp": !!int "58"
 "hit_dice": "13d6 + 13"
 "modifier": !!int "4"
@@ -60,11 +61,10 @@ Psionic goblins often struggle to handle the turbulent psychic energy within the
   - "intelligence": !!int "5"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+8"
 "damage_resistances": "psychic"
-"senses": "[darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common, Goblin, telepathy 60 ft."
 "cr": "4"
 "traits":
@@ -73,8 +73,7 @@ Psionic goblins often struggle to handle the turbulent psychic energy within the
       \ saving throw or take 10 (4d4) psychic damage."
     "name": "Mental Burst"
   - "desc": "The goblin has advantage on saving throws against effects that would\
-      \ make it have the [charmed](3.Mechanics/rules/conditions.md#Charmed) or [frightened](3.Mechanics/rules/conditions.md#Frightened)\
-      \ conditions."
+      \ make it have the charmed or frightened conditions."
     "name": "Mental Fortitude"
 "actions":
   - "desc": "The goblin makes three Psychic Blade attacks."
@@ -87,20 +86,17 @@ Psionic goblins often struggle to handle the turbulent psychic energy within the
   - "desc": "The goblin unleashes a 30-foot-radius sphere of psychic energy, centered\
       \ on a point the goblin can see within 60 feet of itself. Each creature in that\
       \ area must make a DC 13 Intelligence saving throw. On a failed save, a creature\
-      \ takes 14 (4d6) psychic damage and has the [incapacitated](3.Mechanics/rules/conditions.md#Incapacitated)\
-      \ condition until the end of the goblin's next turn. On a successful save, a\
-      \ creature takes half as much damage only."
+      \ takes 14 (4d6) psychic damage and has the incapacitated condition until the\
+      \ end of the goblin's next turn. On a successful save, a creature takes half\
+      \ as much damage only."
     "name": "Synaptic Rend (Recharge 5-6)"
   - "desc": "The goblin casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\n\
-      **At will:** [mage hand](3.Mechanics/spells/mage-hand-xphb.md) (the hand is\
-      \ invisible), [minor illusion](3.Mechanics/spells/minor-illusion-xphb.md)\n\n\
-      **1/day each:** [charm person](3.Mechanics/spells/charm-person-xphb.md), [dissonant\
-      \ whispers](3.Mechanics/spells/dissonant-whispers-xphb.md), [telekinesis](3.Mechanics/spells/telekinesis-xphb.md)"
+      **At will:** mage hand (the hand is invisible), minor illusion\n\n**1/day each:**\
+      \ charm person, dissonant whispers, telekinesis"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
-  - "desc": "The goblin takes the [Disengage](3.Mechanics/rules/actions.md#Disengage)\
-      \ or [Hide](3.Mechanics/rules/actions.md#Hide) action."
+  - "desc": "The goblin takes the Disengage or Hide action."
     "name": "Nimble Escape"
 "reactions":
   - "desc": "When the goblin or one of its allies within 15 feet of it is hit by an\
@@ -113,3 +109,4 @@ Psionic goblins often struggle to handle the turbulent psychic energy within the
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/PaBTSO/Goblin%20Psi%20Commander.webp"
 ```
 ^statblock
+%%

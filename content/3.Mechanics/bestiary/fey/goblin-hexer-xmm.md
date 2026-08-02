@@ -66,6 +66,7 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 > Bree-yark!
 
 
+%%
 ```statblock
 "name": "Goblin Hexer (XMM)"
 "size": "Small"
@@ -85,12 +86,11 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Sleight of Hand](3.Mechanics/rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "Sleight of Hand"
     "desc": "+5"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "Darkvision 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
 "cr": "3"
 "actions":
@@ -115,6 +115,8 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Goblin%20Hexer.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

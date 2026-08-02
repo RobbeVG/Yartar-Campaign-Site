@@ -50,6 +50,8 @@ Imps without masters delight in manipulating other creatures and inflating their
 > 
 > I can tell you what I know, but wouldn't you rather I tell you what'll let you do what you know you're going to do anyway?
 
+
+%%
 ```statblock
 "name": "Imp (XMM)"
 "size": "Tiny"
@@ -69,18 +71,17 @@ Imps without masters delight in manipulating other creatures and inflating their
   - !!int "14"
 "speed": "20 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Deception](3.Mechanics/rules/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+4"
-  - "name": "[Insight](3.Mechanics/rules/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+3"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)), passive\
-  \ Perception 11"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 120 ft. (unimpeded by magical [Darkness](3.Mechanics/rules/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 11"
 "languages": "Common, Infernal"
 "cr": "1"
 "traits":
@@ -107,6 +108,8 @@ Imps without masters delight in manipulating other creatures and inflating their
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Imp.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

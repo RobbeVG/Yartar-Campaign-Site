@@ -58,6 +58,7 @@ Brass dragons collect eclectic objects. While such items might seem like knickkn
 
 Brass dragons usually dwell in secret caves and canyons near well-traveled routes.
 
+%%
 ```statblock
 "name": "Brass Dragon Wyrmling (XMM)"
 "size": "Medium"
@@ -80,13 +81,12 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
   - "dexterity": !!int "2"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+2"
 "damage_immunities": "fire"
-"senses": "[Blindsight](3.Mechanics/rules/senses.md#Blindsight) 10 ft., [Darkvision](3.Mechanics/rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"senses": "Blindsight 10 ft., Darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "1"
 "actions":
@@ -108,6 +108,8 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Brass%20Dragon%20Wyrmling.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

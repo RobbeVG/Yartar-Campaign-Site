@@ -48,6 +48,7 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/XMM/Quaggoths.webp#center)
 
+%%
 ```statblock
 "name": "Quaggoth Thonot (XMM)"
 "size": "Medium"
@@ -66,12 +67,11 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
   - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+5"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3.Mechanics/rules/conditions.md#Poisoned)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"condition_immunities": "poisoned"
+"senses": "Darkvision 120 ft., passive Perception 12"
 "languages": "Undercommon"
 "cr": "3"
 "traits":
@@ -102,6 +102,8 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Quaggoth%20Thonot.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

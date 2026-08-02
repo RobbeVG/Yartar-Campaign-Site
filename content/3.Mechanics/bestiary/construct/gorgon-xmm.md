@@ -94,6 +94,7 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 > Notable among my eccentric ancestor's scattered designs was a schematic of a swamp-dwelling bovine monster and an ominous note: "Do better."
 
 
+%%
 ```statblock
 "name": "Gorgon (XMM)"
 "size": "Large"
@@ -112,12 +113,10 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-"condition_immunities": "[exhaustion](3.Mechanics/rules/conditions.md#Exhaustion),\
-  \ [petrified](3.Mechanics/rules/conditions.md#Petrified)"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 17"
+"condition_immunities": "exhaustion, petrified"
+"senses": "Darkvision 60 ft., passive Perception 17"
 "languages": ""
 "cr": "5"
 "actions":
@@ -144,6 +143,8 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Gorgon.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

@@ -46,6 +46,8 @@ In cavernous depths and amid mountain canyons, stone giants contemplate the stre
 Stone giants rarely interfere in the affairs of other creatures, whether their smaller neighbors or other Giants. Most are slow to act, preferring to weather hardships or wait out perilous times. When roused to action—particularly when sites of ancient wonder or their homes are threatened—stone giants can unleash the might of mountains and crush foes with the force of an avalanche.
 
 Stone giants often ponder the mysteries of natural wonders, such as mountain spires, crystal formations, or mystical petroglyphs. Some know much about the magic and secret messages hidden within the earth. Those who confine themselves to the Underdark often regard the surface world and its inhabitants as dreams imagined into being by slumbering primordials, strange gods, or other entities.
+
+%%
 ```statblock
 "name": "Stone Giant (XMM)"
 "size": "Huge"
@@ -68,14 +70,13 @@ Stone giants often ponder the mysteries of natural wonders, such as mountain spi
   - "constitution": !!int "8"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](3.Mechanics/rules/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+12"
-  - "name": "[Perception](3.Mechanics/rules/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](3.Mechanics/rules/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
-"senses": "[Darkvision](3.Mechanics/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "Darkvision 60 ft., passive Perception 14"
 "languages": "Giant"
 "cr": "7"
 "actions":
@@ -101,6 +102,8 @@ Stone giants often ponder the mysteries of natural wonders, such as mountain spi
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Stone%20Giant.webp"
 ```
 ^statblock
+%%
+
 
 ## Environment
 

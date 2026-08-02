@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Cone [Area of Effect]"
 aliases:
 - "Cone [Area of Effect]"
 ---

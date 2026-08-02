@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Special Facilities; Special Facility Acquisition"
 aliases:
 - "Special Facilities; Special Facility Acquisition"
 ---

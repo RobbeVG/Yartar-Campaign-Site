@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/magic-initiate
+title: "Spells for Magic Initiate"
 aliases:
 - "Spells for Magic Initiate"
 ---
@@ -16,7 +17,6 @@ aliases:
 - [Chill Touch](3.Mechanics/spells/chill-touch-xphb.md "XPHB")
 - [Dancing Lights](3.Mechanics/spells/dancing-lights-xphb.md "XPHB")
 - [Druidcraft](3.Mechanics/spells/druidcraft-xphb.md "XPHB")
-- [Eldritch Blast](3.Mechanics/spells/eldritch-blast-xphb.md "XPHB")
 - [Elementalism](3.Mechanics/spells/elementalism-xphb.md "XPHB")
 - [Fire Bolt](3.Mechanics/spells/fire-bolt-xphb.md "XPHB")
 - [Friends](3.Mechanics/spells/friends-xphb.md "XPHB")
@@ -35,7 +35,6 @@ aliases:
 - [Sacred Flame](3.Mechanics/spells/sacred-flame-xphb.md "XPHB")
 - [Shillelagh](3.Mechanics/spells/shillelagh-xphb.md "XPHB")
 - [Shocking Grasp](3.Mechanics/spells/shocking-grasp-xphb.md "XPHB")
-- [Sorcerous Burst](3.Mechanics/spells/sorcerous-burst-xphb.md "XPHB")
 - [Spare the Dying](3.Mechanics/spells/spare-the-dying-xphb.md "XPHB")
 - [Starry Wisp](3.Mechanics/spells/starry-wisp-xphb.md "XPHB")
 - [Thaumaturgy](3.Mechanics/spells/thaumaturgy-xphb.md "XPHB")
@@ -43,15 +42,12 @@ aliases:
 - [Thunderclap](3.Mechanics/spells/thunderclap-xphb.md "XPHB")
 - [Toll the Dead](3.Mechanics/spells/toll-the-dead-xphb.md "XPHB")
 - [True Strike](3.Mechanics/spells/true-strike-xphb.md "XPHB")
-- [Vicious Mockery](3.Mechanics/spells/vicious-mockery-xphb.md "XPHB")
 - [Word of Radiance](3.Mechanics/spells/word-of-radiance-xphb.md "XPHB")
 
 ## 1st Level
 
 - [Alarm](3.Mechanics/spells/alarm-xphb.md "XPHB")
 - [Animal Friendship](3.Mechanics/spells/animal-friendship-xphb.md "XPHB")
-- [Armor of Agathys](3.Mechanics/spells/armor-of-agathys-xphb.md "XPHB")
-- [Arms of Hadar](3.Mechanics/spells/arms-of-hadar-xphb.md "XPHB")
 - [Bane](3.Mechanics/spells/bane-xphb.md "XPHB")
 - [Bless](3.Mechanics/spells/bless-xphb.md "XPHB")
 - [Burning Hands](3.Mechanics/spells/burning-hands-xphb.md "XPHB")
@@ -66,7 +62,6 @@ aliases:
 - [Detect Magic](3.Mechanics/spells/detect-magic-xphb.md "XPHB")
 - [Detect Poison and Disease](3.Mechanics/spells/detect-poison-and-disease-xphb.md "XPHB")
 - [Disguise Self](3.Mechanics/spells/disguise-self-xphb.md "XPHB")
-- [Dissonant Whispers](3.Mechanics/spells/dissonant-whispers-xphb.md "XPHB")
 - [Entangle](3.Mechanics/spells/entangle-xphb.md "XPHB")
 - [Expeditious Retreat](3.Mechanics/spells/expeditious-retreat-xphb.md "XPHB")
 - [Faerie Fire](3.Mechanics/spells/faerie-fire-xphb.md "XPHB")
@@ -78,9 +73,6 @@ aliases:
 - [Grease](3.Mechanics/spells/grease-xphb.md "XPHB")
 - [Guiding Bolt](3.Mechanics/spells/guiding-bolt-xphb.md "XPHB")
 - [Healing Word](3.Mechanics/spells/healing-word-xphb.md "XPHB")
-- [Hellish Rebuke](3.Mechanics/spells/hellish-rebuke-xphb.md "XPHB")
-- [Heroism](3.Mechanics/spells/heroism-xphb.md "XPHB")
-- [Hex](3.Mechanics/spells/hex-xphb.md "XPHB")
 - [Ice Knife](3.Mechanics/spells/ice-knife-xphb.md "XPHB")
 - [Identify](3.Mechanics/spells/identify-xphb.md "XPHB")
 - [Illusory Script](3.Mechanics/spells/illusory-script-xphb.md "XPHB")

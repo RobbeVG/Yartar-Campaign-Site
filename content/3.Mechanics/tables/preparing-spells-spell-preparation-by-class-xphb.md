@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Preparing Spells; Spell Preparation by Class"
 aliases:
 - "Preparing Spells; Spell Preparation by Class"
 ---

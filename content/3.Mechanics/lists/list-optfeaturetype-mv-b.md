@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/phb
+title: "Maneuver, Battle Master"
 aliases:
 - "Maneuver, Battle Master"
 ---

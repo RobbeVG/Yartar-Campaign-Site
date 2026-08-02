@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Line [Area of Effect]"
 aliases:
 - "Line [Area of Effect]"
 ---

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/oath-of-glory
+title: "Spells for Oath of Glory"
 aliases:
 - "Spells for Oath of Glory"
 ---

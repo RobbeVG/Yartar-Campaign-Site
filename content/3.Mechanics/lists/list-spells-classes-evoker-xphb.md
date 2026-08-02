@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/evoker
+title: "Spells for Evoker"
 aliases:
 - "Spells for Evoker"
 ---
@@ -12,7 +13,6 @@ aliases:
 ## Cantrip
 
 - [Acid Splash](3.Mechanics/spells/acid-splash-xphb.md "XPHB") at class level 3
-- [Dancing Lights](3.Mechanics/spells/dancing-lights-xphb.md "XPHB")
 - [Fire Bolt](3.Mechanics/spells/fire-bolt-xphb.md "XPHB") at class level 3
 - [Light](3.Mechanics/spells/light-xphb.md "XPHB") at class level 3
 - [Ray of Frost](3.Mechanics/spells/ray-of-frost-xphb.md "XPHB") at class level 3
@@ -41,13 +41,11 @@ aliases:
 - [Fireball](3.Mechanics/spells/fireball-xphb.md "XPHB") at class level 5
 - [Leomund's Tiny Hut](3.Mechanics/spells/leomunds-tiny-hut-xphb.md "XPHB") at class level 5
 - [Lightning Bolt](3.Mechanics/spells/lightning-bolt-xphb.md "XPHB") at class level 5
-- [Sending](3.Mechanics/spells/sending-xphb.md "XPHB")
 
 ## 4th Level
 
 - [Fire Shield](3.Mechanics/spells/fire-shield-xphb.md "XPHB") at class level 7
 - [Ice Storm](3.Mechanics/spells/ice-storm-xphb.md "XPHB") at class level 7
-- [Otiluke's Resilient Sphere](3.Mechanics/spells/otilukes-resilient-sphere-xphb.md "XPHB")
 - [Vitriolic Sphere](3.Mechanics/spells/vitriolic-sphere-xphb.md "XPHB") at class level 7
 - [Wall of Fire](3.Mechanics/spells/wall-of-fire-xphb.md "XPHB") at class level 7
 
@@ -62,7 +60,6 @@ aliases:
 ## 6th Level
 
 - [Chain Lightning](3.Mechanics/spells/chain-lightning-xphb.md "XPHB") at class level 11
-- [Contingency](3.Mechanics/spells/contingency-xphb.md "XPHB")
 - [Otiluke's Freezing Sphere](3.Mechanics/spells/otilukes-freezing-sphere-xphb.md "XPHB") at class level 11
 - [Sunbeam](3.Mechanics/spells/sunbeam-xphb.md "XPHB") at class level 11
 - [Wall of Ice](3.Mechanics/spells/wall-of-ice-xphb.md "XPHB") at class level 11
@@ -77,7 +74,6 @@ aliases:
 ## 8th Level
 
 - [Sunburst](3.Mechanics/spells/sunburst-xphb.md "XPHB") at class level 15
-- [Telepathy](3.Mechanics/spells/telepathy-xphb.md "XPHB")
 
 ## 9th Level
 

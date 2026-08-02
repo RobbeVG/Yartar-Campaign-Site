@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/gloom-stalker
+title: "Spells for Gloom Stalker"
 aliases:
 - "Spells for Gloom Stalker"
 ---

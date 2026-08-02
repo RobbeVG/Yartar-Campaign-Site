@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/optfeature/one-with-shadows
+title: "Spells for One with Shadows"
 aliases:
 - "Spells for One with Shadows"
 ---

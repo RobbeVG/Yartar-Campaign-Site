@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/druidic-warrior
+title: "Spells for Druidic Warrior"
 aliases:
 - "Spells for Druidic Warrior"
 ---

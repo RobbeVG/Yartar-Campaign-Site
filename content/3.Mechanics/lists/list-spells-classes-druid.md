@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/class/druid
+title: "Druid Spells"
 aliases:
 - "Druid Spells"
 ---

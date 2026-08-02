@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Wild Magic Surge"
 aliases:
 - "Wild Magic Surge"
 ---

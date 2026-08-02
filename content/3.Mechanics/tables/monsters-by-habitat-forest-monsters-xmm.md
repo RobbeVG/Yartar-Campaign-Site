@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
+draft: true
+title: "Monsters by Habitat; Forest Monsters"
 aliases:
 - "Monsters by Habitat; Forest Monsters"
 ---

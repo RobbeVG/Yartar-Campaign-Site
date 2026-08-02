@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Mounts and Vehicles; Tack, Harness, and Drawn Vehicles"
 aliases:
 - "Mounts and Vehicles; Tack, Harness, and Drawn Vehicles"
 ---

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Adjust Hit Points and Hit Point Dice; Fixed Hit Points by Class"
 aliases:
 - "Adjust Hit Points and Hit Point Dice; Fixed Hit Points by Class"
 ---

@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Settlement Tables and Tracker; Claims to Fame"
 aliases:
 - "Settlement Tables and Tracker; Claims to Fame"
 ---

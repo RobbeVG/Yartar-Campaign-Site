@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Chapter 4: Character Origins"
 aliases:
 - "Chapter 4: Character Origins"
 ---

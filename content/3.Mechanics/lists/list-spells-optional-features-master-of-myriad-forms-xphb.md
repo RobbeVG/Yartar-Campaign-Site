@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/optfeature/master-of-myriad-forms
+title: "Spells for Master of Myriad Forms"
 aliases:
 - "Spells for Master of Myriad Forms"
 ---

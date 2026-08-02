@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/fiend-patron
+title: "Spells for Fiend Patron"
 aliases:
 - "Spells for Fiend Patron"
 ---

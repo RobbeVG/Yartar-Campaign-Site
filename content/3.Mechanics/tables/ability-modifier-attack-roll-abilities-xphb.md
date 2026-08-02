@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Ability Modifier; Attack Roll Abilities"
 aliases:
 - "Ability Modifier; Attack Roll Abilities"
 ---

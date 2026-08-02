@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/reward/arcane-study-charm
+title: "Spells for Arcane Study Charm"
 aliases:
 - "Spells for Arcane Study Charm"
 ---

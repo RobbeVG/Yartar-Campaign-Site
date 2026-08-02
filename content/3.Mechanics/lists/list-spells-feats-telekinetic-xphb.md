@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/telekinetic
+title: "Spells for Telekinetic"
 aliases:
 - "Spells for Telekinetic"
 ---

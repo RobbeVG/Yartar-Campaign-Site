@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Variant: Training to Gain Levels; Training to Gain Levels"
 aliases:
 - "Variant: Training to Gain Levels; Training to Gain Levels"
 ---

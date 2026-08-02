@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/class/warlock
+title: "Warlock Spells"
 aliases:
 - "Warlock Spells"
 ---

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/school/conjuration
+title: "Conjuration Spells"
 aliases:
 - "Conjuration Spells"
 ---

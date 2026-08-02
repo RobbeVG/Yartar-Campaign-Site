@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/celestial-patron
+title: "Spells for Celestial Patron"
 aliases:
 - "Spells for Celestial Patron"
 ---

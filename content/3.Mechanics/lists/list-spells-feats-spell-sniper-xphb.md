@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/spell/list/feat/spell-sniper
+  - ttrpg-cli/spell/list/feat/spell-sniper
 aliases:
-- "Spells for Spell Sniper"
+  - Spells for Spell Sniper
+title: Spells for Spell Sniper
 ---
 # Spells for Spell Sniper
 

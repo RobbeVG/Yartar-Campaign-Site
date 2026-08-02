@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Chapter 1: Playing the Game"
 aliases:
 - "Chapter 1: Playing the Game"
 ---

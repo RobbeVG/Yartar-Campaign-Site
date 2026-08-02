@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/class/cleric
+title: "Cleric Spells"
 aliases:
 - "Cleric Spells"
 ---

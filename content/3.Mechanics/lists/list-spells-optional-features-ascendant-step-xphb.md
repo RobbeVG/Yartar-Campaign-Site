@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/optfeature/ascendant-step
+title: "Spells for Ascendant Step"
 aliases:
 - "Spells for Ascendant Step"
 ---

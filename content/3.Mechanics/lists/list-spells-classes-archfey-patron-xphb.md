@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/archfey-patron
+title: "Spells for Archfey Patron"
 aliases:
 - "Spells for Archfey Patron"
 ---

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/optfeature/pact-of-the-chain
+title: "Spells for Pact of the Chain"
 aliases:
 - "Spells for Pact of the Chain"
 ---

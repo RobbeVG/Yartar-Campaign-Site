@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/race/aasimar
+title: "Spells for Aasimar"
 aliases:
 - "Spells for Aasimar"
 ---
@@ -12,11 +13,3 @@ aliases:
 ## Cantrip
 
 - [Light](3.Mechanics/spells/light-xphb.md "XPHB") as cantrip
-
-## 2nd Level
-
-- [Lesser Restoration](3.Mechanics/spells/lesser-restoration-xphb.md "XPHB")
-
-## 3rd Level
-
-- [Daylight](3.Mechanics/spells/daylight-xphb.md "XPHB")

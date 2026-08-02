@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
+title: "Item Properties"
 aliases:
 - "Item Properties"
 ---
@@ -17,7 +18,7 @@ Attuning to an item requires you to spend a [Short Rest](3.Mechanics/rules/varia
 
 ### No More Than Three Items
 
-You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can't attune to more than one copy of an item. For example, you can't attune to more than one [Ring of Protection](3.Mechanics/items/ring-of-protection-xdmg.md) at a time.
+You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can't attune to more than one copy of an item. For example, you can't attune to more than one Ring of Protection at a time.
 
 ### Ending Attunement
 
@@ -37,14 +38,14 @@ Attunement is required for this item.
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
 You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
 
+%%
 ### Ammunition
 _Source: Dungeon Master's Guide (2024) p. 72_
 Firearm Bullets are destroyed upon use in a modern firearm. Futuristic firearms use Energy Cells that become depleted but could possibly be recharged with the proper equipment, at the GM's discretion.
-
 ### Burst Fire
 _Source: Dungeon Master's Guide (2024) p. 72_
 As an action, you can expend 10 pieces of a Burst Fire weapon's ammunition to spray shots in a 10-foot [Cube](3.Mechanics/rules/variant-rules/cube-area-of-effect-xphb.md) within the weapon's normal range. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take damage. Roll the weapon's damage once, and apply it to each creature that failed the save.
-
+%%
 ### Finesse
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
 When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
@@ -65,10 +66,11 @@ You can fire only one piece of ammunition from a Loading weapon when you use an 
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for [Opportunity Attacks](3.Mechanics/rules/actions.md#Opportunity%20Attack) with it.
 
+%%
 ### Reload
 _Source: Dungeon Master's Guide (2024) p. 72_
 You can make a limited number of shots with a Reload weapon. You must then reload the weapon as an action or a [Bonus Action](3.Mechanics/rules/variant-rules/bonus-action-xphb.md).
-
+%%
 ### Thrown
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 If a weapon has the Thrown property, you can throw the weapon to make a ranged attack, and you can draw that weapon as part of the attack. If the weapon is a Melee weapon, use the same ability modifier for the attack and damage rolls that you use for a melee attack with that weapon.
@@ -93,7 +95,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 A magic item’s description specifies whether it bears a curse. Most methods of identifying items, including the Identify spell, fail to reveal such a curse.
 
-Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [Remove Curse](3.Mechanics/spells/remove-curse-xphb.md) spell.
+Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the Remove Curse spell.
 
 ## Poison
 

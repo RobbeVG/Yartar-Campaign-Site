@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/psi-warrior
+title: "Spells for Psi Warrior"
 aliases:
 - "Spells for Psi Warrior"
 ---

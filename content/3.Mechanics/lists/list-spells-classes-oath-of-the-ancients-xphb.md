@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/oath-of-the-ancients
+title: "Spells for Oath of the Ancients"
 aliases:
 - "Spells for Oath of the Ancients"
 ---

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/optfeature/pact-of-the-tome
+title: "Spells for Pact of the Tome"
 aliases:
 - "Spells for Pact of the Tome"
 ---

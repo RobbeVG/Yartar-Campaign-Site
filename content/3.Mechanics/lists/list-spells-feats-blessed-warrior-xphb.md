@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/blessed-warrior
+title: "Spells for Blessed Warrior"
 aliases:
 - "Spells for Blessed Warrior"
 ---

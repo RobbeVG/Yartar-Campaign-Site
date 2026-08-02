@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Chapter 7: Spells"
 aliases:
 - "Chapter 7: Spells"
 ---

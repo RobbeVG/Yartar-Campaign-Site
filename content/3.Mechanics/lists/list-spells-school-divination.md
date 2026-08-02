@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/school/divination
+title: "Divination Spells"
 aliases:
 - "Divination Spells"
 ---

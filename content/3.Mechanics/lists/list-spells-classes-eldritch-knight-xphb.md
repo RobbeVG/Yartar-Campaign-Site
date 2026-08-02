@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/eldritch-knight
+title: "Spells for Eldritch Knight"
 aliases:
 - "Spells for Eldritch Knight"
 ---

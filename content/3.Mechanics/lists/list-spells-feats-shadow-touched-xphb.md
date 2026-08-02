@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/shadow-touched
+title: "Spells for Shadow-Touched"
 aliases:
 - "Spells for Shadow-Touched"
 ---

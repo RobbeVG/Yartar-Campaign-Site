@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Chapter 3: DM's Toolbox"
 aliases:
 - "Chapter 3: DM's Toolbox"
 ---

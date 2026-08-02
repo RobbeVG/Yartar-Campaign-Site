@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/draconic-sorcery
+title: "Spells for Draconic Sorcery"
 aliases:
 - "Spells for Draconic Sorcery"
 ---

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/oath-of-vengeance
+title: "Spells for Oath of Vengeance"
 aliases:
 - "Spells for Oath of Vengeance"
 ---

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/circle-of-the-moon
+title: "Spells for Circle of the Moon"
 aliases:
 - "Spells for Circle of the Moon"
 ---

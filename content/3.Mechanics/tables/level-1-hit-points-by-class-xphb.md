@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Level 1 Hit Points by Class"
 aliases:
 - "Level 1 Hit Points by Class"
 ---

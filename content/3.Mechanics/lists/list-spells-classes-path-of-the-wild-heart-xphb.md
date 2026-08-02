@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/path-of-the-wild-heart
+title: "Spells for Path of the Wild Heart"
 aliases:
 - "Spells for Path of the Wild Heart"
 ---

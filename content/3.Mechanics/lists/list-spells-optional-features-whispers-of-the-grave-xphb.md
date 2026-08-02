@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/optfeature/whispers-of-the-grave
+title: "Spells for Whispers of the Grave"
 aliases:
 - "Spells for Whispers of the Grave"
 ---

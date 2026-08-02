@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/optfeature/misty-visions
+title: "Spells for Misty Visions"
 aliases:
 - "Spells for Misty Visions"
 ---

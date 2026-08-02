@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations"
 aliases:
 - "Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations"
 ---

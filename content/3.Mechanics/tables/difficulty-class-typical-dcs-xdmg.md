@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Difficulty Class; Typical DCs"
 aliases:
 - "Difficulty Class; Typical DCs"
 ---

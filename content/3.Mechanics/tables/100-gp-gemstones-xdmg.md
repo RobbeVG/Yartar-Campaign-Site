@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "100 GP Gemstones"
 aliases:
 - "100 GP Gemstones"
 ---

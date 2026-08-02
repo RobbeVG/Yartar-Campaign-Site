@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Creature Size and Space"
 aliases:
 - "Creature Size and Space"
 ---

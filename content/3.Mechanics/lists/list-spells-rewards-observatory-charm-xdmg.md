@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/reward/observatory-charm
+title: "Spells for Observatory Charm"
 aliases:
 - "Spells for Observatory Charm"
 ---

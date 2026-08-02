@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Describe Appearance and Personality; Constitution"
 aliases:
 - "Describe Appearance and Personality; Constitution"
 ---

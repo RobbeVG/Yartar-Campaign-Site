@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/optfeature/fiendish-vigor
+title: "Spells for Fiendish Vigor"
 aliases:
 - "Spells for Fiendish Vigor"
 ---

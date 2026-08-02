@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/arcane-trickster
+title: "Spells for Arcane Trickster"
 aliases:
 - "Spells for Arcane Trickster"
 ---

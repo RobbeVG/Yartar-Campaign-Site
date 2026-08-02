@@ -12,7 +12,24 @@ configuration:
     - private
     - templates
     - .obsidian
-    - 0.dm-notes
+    - "0.DM Notes"
+    - "3.Mechanics/adventures"
+    - "3.Mechanics/bastions"
+    - "3.Mechanics/bestiary/giant"
+    - "3.Mechanics/bestiary/humanoid"
+    - "3.Mechanics/bestiary/legendary-group"
+    - "3.Mechanics/bestiary/monstrosity"
+    - "3.Mechanics/bestiary/npc"
+    - "3.Mechanics/bestiary/ooze"
+    - "3.Mechanics/bestiary/plant"
+    - "3.Mechanics/books/dungeon-masters-guide-2024"
+    - "3.Mechanics/books/dungeon-masters-screen-2024"
+    - "3.Mechanics/books/monster-manual-2025"
+    - "3.Mechanics/decks"
+    - "3.Mechanics/deities"
+    - "3.Mechanics/objects"
+    - "3.Mechanics/rewards"
+    - "3.Mechanics/vehicles"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

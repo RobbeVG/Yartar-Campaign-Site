@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/warrior-of-shadow
+title: "Spells for Warrior of Shadow"
 aliases:
 - "Spells for Warrior of Shadow"
 ---

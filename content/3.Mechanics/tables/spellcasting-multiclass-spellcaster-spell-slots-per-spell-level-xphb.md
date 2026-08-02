@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level"
 aliases:
 - "Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level"
 ---

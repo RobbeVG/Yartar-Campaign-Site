@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Random Magic Items - Arcana"
 aliases:
 - "Random Magic Items - Arcana"
 ---

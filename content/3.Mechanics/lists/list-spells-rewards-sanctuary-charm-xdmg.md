@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/reward/sanctuary-charm
+title: "Spells for Sanctuary Charm"
 aliases:
 - "Spells for Sanctuary Charm"
 ---

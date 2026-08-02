@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/great-old-one-patron
+title: "Spells for Great Old One Patron"
 aliases:
 - "Spells for Great Old One Patron"
 ---

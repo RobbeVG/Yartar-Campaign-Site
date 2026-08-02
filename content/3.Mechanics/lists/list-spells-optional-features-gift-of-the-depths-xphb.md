@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/optfeature/gift-of-the-depths
+title: "Spells for Gift of the Depths"
 aliases:
 - "Spells for Gift of the Depths"
 ---

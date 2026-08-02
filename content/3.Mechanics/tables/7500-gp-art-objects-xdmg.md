@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "7,500 GP Art Objects"
 aliases:
 - "7,500 GP Art Objects"
 ---

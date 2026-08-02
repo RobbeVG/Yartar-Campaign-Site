@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Chapter 6: Cosmology"
 aliases:
 - "Chapter 6: Cosmology"
 ---

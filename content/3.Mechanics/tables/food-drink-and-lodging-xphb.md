@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Food, Drink, and Lodging"
 aliases:
 - "Food, Drink, and Lodging"
 ---

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/phb
+title: "Eldritch Invocation"
 aliases:
 - "Eldritch Invocation"
 ---

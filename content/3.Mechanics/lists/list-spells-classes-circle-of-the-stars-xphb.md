@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/circle-of-the-stars
+title: "Spells for Circle of the Stars"
 aliases:
 - "Spells for Circle of the Stars"
 ---

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/reward/charm-of-restoration
+title: "Spells for Charm of Restoration"
 aliases:
 - "Spells for Charm of Restoration"
 ---

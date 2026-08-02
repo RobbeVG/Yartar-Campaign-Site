@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/reward/charm-of-animal-conjuring
+title: "Spells for Charm of Animal Conjuring"
 aliases:
 - "Spells for Charm of Animal Conjuring"
 ---

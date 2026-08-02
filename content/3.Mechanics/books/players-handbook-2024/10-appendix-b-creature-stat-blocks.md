@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Appendix B: Creature Stat Blocks"
 aliases:
 - "Appendix B: Creature Stat Blocks"
 ---

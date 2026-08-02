@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Item Types"
 aliases:
 - "Item Types"
 ---

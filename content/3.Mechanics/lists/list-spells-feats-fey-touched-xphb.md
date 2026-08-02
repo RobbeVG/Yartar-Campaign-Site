@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/fey-touched
+title: "Spells for Fey-Touched"
 aliases:
 - "Spells for Fey-Touched"
 ---

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/circle-of-the-land
+title: "Spells for Circle of the Land"
 aliases:
 - "Spells for Circle of the Land"
 ---

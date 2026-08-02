@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
+draft: true
+title: "Proficiency Bonus by Challenge Rating"
 aliases:
 - "Proficiency Bonus by Challenge Rating"
 ---

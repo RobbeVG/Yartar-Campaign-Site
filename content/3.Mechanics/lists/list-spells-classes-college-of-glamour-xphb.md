@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/college-of-glamour
+title: "Spells for College of Glamour"
 aliases:
 - "Spells for College of Glamour"
 ---

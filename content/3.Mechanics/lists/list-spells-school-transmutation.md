@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/school/transmutation
+title: "Transmutation Spells"
 aliases:
 - "Transmutation Spells"
 ---

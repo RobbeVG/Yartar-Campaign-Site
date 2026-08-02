@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/abjurer
+title: "Spells for Abjurer"
 aliases:
 - "Spells for Abjurer"
 ---
@@ -40,7 +41,6 @@ aliases:
 - [Banishment](3.Mechanics/spells/banishment-xphb.md "XPHB") at class level 7
 - [Mordenkainen's Private Sanctum](3.Mechanics/spells/mordenkainens-private-sanctum-xphb.md "XPHB") at class level 7
 - [Otiluke's Resilient Sphere](3.Mechanics/spells/otilukes-resilient-sphere-xphb.md "XPHB") at class level 7
-- [Stoneskin](3.Mechanics/spells/stoneskin-xphb.md "XPHB")
 
 ## 5th Level
 

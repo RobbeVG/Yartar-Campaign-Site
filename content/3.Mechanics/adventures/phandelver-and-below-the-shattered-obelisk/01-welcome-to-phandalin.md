@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
+draft: true
+title: "Welcome to Phandalin"
 aliases:
 - "Welcome to Phandalin"
 ---
@@ -43,7 +45,7 @@ This adventure is split into two halves:
 
 When this adventure dawns, the characters embark on a simple mission to Phandalin, whether it's helping a dwarf patron or following another prompt (see the "Adventure Hooks" section).
 
-The mind flayer fanatics' activities beneath Phandalin are invisible for most of this book's first four chapters. If your players don't wish to delve into themes of unseen horror, evil fanatics, or malevolent elder entities, you can easily end the adventure at the conclusion of chapter 4. If you do, replace the psionic goblins in chapters 1–4 with [goblins](3.Mechanics/bestiary/fey/goblin-warrior-xmm.md) from the "Monster Manual", and end the adventure once the characters defeat Nezznar. (The "What's Next?" section at the end of chapter 4 provides more information if you're using this option.) There's no need for the heroes to return to Phandalin and thus kick off the events of chapter 5 and beyond.
+The mind flayer fanatics' activities beneath Phandalin are invisible for most of this book's first four chapters. If your players don't wish to delve into themes of unseen horror, evil fanatics, or malevolent elder entities, you can easily end the adventure at the conclusion of chapter 4. If you do, replace the psionic goblins in chapters 1–4 with goblins from the "Monster Manual", and end the adventure once the characters defeat Nezznar. (The "What's Next?" section at the end of chapter 4 provides more information if you're using this option.) There's no need for the heroes to return to Phandalin and thus kick off the events of chapter 5 and beyond.
 
 A summary of each of the first four chapters follows.
 
@@ -158,18 +160,18 @@ The "Player's Handbook" contains "character backgrounds" that are well suited fo
 
 | Background | Character |
 |------------|-----------|
-| [Acolyte](3.Mechanics/backgrounds/acolyte-xphb.md) | The frontier town of Phandalin is resilient, but organized religious resources are scarce. Your temple in Neverwinter sent you to Phandalin to pray and offer communion with like-minded faithful. |
-| [Charlatan](3.Mechanics/backgrounds/charlatan-xphb.md) | You've planned your latest get-rich-quick scheme. The townspeople of Phandalin have never heard of what you're selling, and you hope to establish a customer base. |
-| [Criminal](3.Mechanics/backgrounds/criminal-xphb.md) | You're wanted for crimes in Neverwinter, and perhaps you're exiled from the city. Phandalin is a small bastion of civilization where you can lie low and no one will be the wiser. |
-| [Entertainer](3.Mechanics/backgrounds/entertainer-xphb.md) | You've spent time in Neverwinter and love performing for audiences, but you need new experiences from which to draw inspiration for your art. Traveling to Phandalin will provide new material for your work, and its watering holes promise eager crowds. |
+| Acolyte | The frontier town of Phandalin is resilient, but organized religious resources are scarce. Your temple in Neverwinter sent you to Phandalin to pray and offer communion with like-minded faithful. |
+| Charlatan | You've planned your latest get-rich-quick scheme. The townspeople of Phandalin have never heard of what you're selling, and you hope to establish a customer base. |
+| Criminal | You're wanted for crimes in Neverwinter, and perhaps you're exiled from the city. Phandalin is a small bastion of civilization where you can lie low and no one will be the wiser. |
+| Entertainer | You've spent time in Neverwinter and love performing for audiences, but you need new experiences from which to draw inspiration for your art. Traveling to Phandalin will provide new material for your work, and its watering holes promise eager crowds. |
 | Folk Hero | You may have humble origins, but you made your name as a hero in the wilds outside Neverwinter. You need new adventures, so you've set off for the frontier of Phandalin. |
 | Guild Artisan | You learned a useful trade in Neverwinter, but the city is home to too many artisans with that skill. Now, you're heading to Phandalin, where you hope to start a lucrative business. |
-| [Hermit](3.Mechanics/backgrounds/hermit-xphb.md) | You've spent a lot of time in the wilds outside Neverwinter, but you've always kept a home in the city. You've decided to move somewhere rural, and Phandalin seems like the perfect place. |
-| [Noble](3.Mechanics/backgrounds/noble-xphb.md) | Your family is based in Neverwinter but owns property throughout the Sword Coast region. You recently inherited a cottage in Phandalin and must inspect the place before you decide to keep or sell it. |
+| Hermit | You've spent a lot of time in the wilds outside Neverwinter, but you've always kept a home in the city. You've decided to move somewhere rural, and Phandalin seems like the perfect place. |
+| Noble | Your family is based in Neverwinter but owns property throughout the Sword Coast region. You recently inherited a cottage in Phandalin and must inspect the place before you decide to keep or sell it. |
 | Outlander | You spent your youth with a guardian who lived a simple life in the wilds outside Phandalin, but later you moved to the city. Now an adult, you've decided to return to the area where you feel most at home. |
-| [Sage](3.Mechanics/backgrounds/sage-xphb.md) | In the academic halls of Neverwinter, you studied the region's historical alliance between Phandalin and its neighbors. The fate of the lost mine of Phandelver has always fascinated you, so you're traveling to Phandalin to discover whether any locals know rumors about its fate. |
-| [Sailor](3.Mechanics/backgrounds/sailor-xphb.md) | You've sailed ships along the Sword Coast, but a brush with death made you rethink your profession. You're headed to Phandalin to decide what's next. |
-| [Soldier](3.Mechanics/backgrounds/soldier-xphb.md) | You are a member of the Neverwinter Guard, and you suffered a terrible injury in the line of duty. You healed, but you're not ready to return to work yet. Until you are, you're taking easy jobs protecting merchant wagons headed to Phandalin. |
+| Sage | In the academic halls of Neverwinter, you studied the region's historical alliance between Phandalin and its neighbors. The fate of the lost mine of Phandelver has always fascinated you, so you're traveling to Phandalin to discover whether any locals know rumors about its fate. |
+| Sailor | You've sailed ships along the Sword Coast, but a brush with death made you rethink your profession. You're headed to Phandalin to decide what's next. |
+| Soldier | You are a member of the Neverwinter Guard, and you suffered a terrible injury in the line of duty. You healed, but you're not ready to return to work yet. Until you are, you're taking easy jobs protecting merchant wagons headed to Phandalin. |
 ^character-hooks-tied-to-backgrounds
 
 ## Adventure Hooks

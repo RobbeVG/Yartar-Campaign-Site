@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/compendium/src/5e/xdmg
+title: Diseases
 aliases:
-- "Diseases"
+  - Diseases
+draft: true
 ---
 # Diseases
 

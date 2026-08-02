@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
+draft: true
+title: "Parts of a Stat Block; Hit Dice by Size"
 aliases:
 - "Parts of a Stat Block; Hit Dice by Size"
 ---

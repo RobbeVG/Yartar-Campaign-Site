@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
+draft: true
+title: "Chapter 2: Trouble in Phandalin"
 aliases:
 - "Chapter 2: Trouble in Phandalin"
 ---
@@ -65,7 +67,7 @@ The characters might be intrigued about the strange goblins with elongated skull
 
 ### Important NPCs
 
-The Phandalin NPCs table summarizes the most important NPCs in Phandalin and their relevance to the adventure. Unless otherwise noted, these NPCs are human and use the [commoner](3.Mechanics/bestiary/humanoid/commoner-xmm.md) stat block.
+The Phandalin NPCs table summarizes the most important NPCs in Phandalin and their relevance to the adventure. Unless otherwise noted, these NPCs are human and use the commoner stat block.
 
 **Phandalin NPCs**
 
@@ -129,7 +131,7 @@ The proprietor is Elmina Barthen, a young human woman with a kindly manner. She 
 
 #### Delivery
 
-If the characters began play with the "Meet Me in Phandalin" adventure hook, their orders are to deliver the wagon of supplies to Barthen's. Elmina pays the agreed amount (10 gp to each character) and takes possession of the wagon and its supplies. If the characters tell her of [Gundren Rockseeker](3.Mechanics/bestiary/npc/gundren-rockseeker-pabtso.md)'s capture, Elmina encourages the party to rescue the dwarf. She considers Gundren a friend and was excited by his talk of discovering the lost mine of the Phandelver Pact in the nearby hills. If the party hasn't already learned details of the mine from [Sildar Hallwinter](3.Mechanics/bestiary/npc/sildar-hallwinter-pabtso.md), a character who succeeds on a DC 10 Intelligence ([History](3.Mechanics/rules/skills.md#History)) check can relate the information from the first two paragraphs of chapter 1.
+If the characters began play with the "Meet Me in Phandalin" adventure hook, their orders are to deliver the wagon of supplies to Barthen's. Elmina pays the agreed amount (10 gp to each character) and takes possession of the wagon and its supplies. If the characters tell her of [Gundren Rockseeker](3.Mechanics/bestiary/npc/gundren-rockseeker-pabtso.md)'s capture, Elmina encourages the party to rescue the dwarf. She considers Gundren a friend and was excited by his talk of discovering the lost mine of the Phandelver Pact in the nearby hills. If the party hasn't already learned details of the mine from [Sildar Hallwinter](3.Mechanics/bestiary/npc/sildar-hallwinter-pabtso.md), a character who succeeds on a DC 10 Intelligence (History) check can relate the information from the first two paragraphs of chapter 1.
 
 Elmina also mentions that two more Rockseeker brothers, Nundro and Tharden, are camped somewhere outside town. Elmina hasn't seen them in a tenday and expects the brothers to return "any day now" to resupply. What Elmina doesn't know is that Tharden is dead and Nundro is a prisoner in the mine. (See chapter 4 for more information.)
 
@@ -151,7 +153,7 @@ Daran is concerned about the Redbrands, and he would like to see a group of hero
 
 #### Old Owl Trouble
 
-Daran has heard stories from prospectors in the hills northeast of Phandalin that someone is digging in the ruins known as Old Owl Well. More disturbingly, several prospectors have reported being chased from the area by foul undead. He asks the characters to head to the ruins, a couple of days' march northeast of Phandalin, and find out who's there and what they're doing. Daran knows the ruins are an old watchtower of an ancient magical empire known as Netheril, and he worries that dangerous magic might be dormant there. If the characters can ensure that no threat to the town is brewing at Old Owl Well, Daran is willing to give them his [boots of striding and springing](3.Mechanics/items/boots-of-striding-and-springing-xdmg.md). The magical boots came in handy when Daran adventured, but he no longer needs them. If the party pursues this quest, see "Old Owl Well" in chapter 3.
+Daran has heard stories from prospectors in the hills northeast of Phandalin that someone is digging in the ruins known as Old Owl Well. More disturbingly, several prospectors have reported being chased from the area by foul undead. He asks the characters to head to the ruins, a couple of days' march northeast of Phandalin, and find out who's there and what they're doing. Daran knows the ruins are an old watchtower of an ancient magical empire known as Netheril, and he worries that dangerous magic might be dormant there. If the characters can ensure that no threat to the town is brewing at Old Owl Well, Daran is willing to give them his boots of striding and springing. The magical boots came in handy when Daran adventured, but he no longer needs them. If the party pursues this quest, see "Old Owl Well" in chapter 3.
 
 > [!note] 
 > 
@@ -186,7 +188,7 @@ The guild master is a quick-witted and ruthless human woman named Halia Thornton
 
 If the characters ask about the Redbrands, Halia describes how the ruffians loiter around the Sleeping Giant tap house and have a base under Tresendar Manor, on the east edge of town. She then offers the characters 100 gp to capture the Redbrands' leader, whom the outlaws call "Glasstaff," and bring her any correspondence found in his quarters.
 
-The characters are wise to be cautious when dealing with Halia. She doesn't reveal that she wants to take over the Redbrands herself. A successful DC 15 Wisdom ([Insight](3.Mechanics/rules/skills.md#Insight)) check indicates Halia has ulterior motives for removing the Redbrands' leader.
+The characters are wise to be cautious when dealing with Halia. She doesn't reveal that she wants to take over the Redbrands herself. A successful DC 15 Wisdom (Insight) check indicates Halia has ulterior motives for removing the Redbrands' leader.
 
 Further, in chapter 4, Halia smuggles [Nezznar the Spider](3.Mechanics/bestiary/npc/nezznar-the-spider-pabtso.md) out of town and into the Zhentarim's custody, allowing the villain to escape justice.
 
@@ -221,7 +223,7 @@ The shrine is in the care of a scholarly acolyte named Sister Garaele, a zealous
 
 Recently, Garaele's superiors asked her to undertake a delicate mission. They wanted to persuade a dangerous banshee named Agatha to answer a question about a spellbook. Garaele underestimated Agatha's wrath when she attempted to approach the banshee.
 
-Before she fled for her life, Garaele noted that the banshee spoke wistfully about the beautiful baubles she owned in life. Garaele needs an intermediary to bring Agatha a suitable gift—a jeweled silver comb—and persuade the banshee to tell what she knows about the location of a spellbook belonging to a legendary mage named Bowgentle. Sister Garaele believes that a character who pays obeisance to Agatha might be able to trade the comb for an answer. She offers the mission to the characters and will give them three [potions of healing](3.Mechanics/items/potion-of-healing-xdmg.md) as payment for their efforts. If the party pursues this quest, see "Conyberry and Agatha's Lair" in chapter 3.
+Before she fled for her life, Garaele noted that the banshee spoke wistfully about the beautiful baubles she owned in life. Garaele needs an intermediary to bring Agatha a suitable gift—a jeweled silver comb—and persuade the banshee to tell what she knows about the location of a spellbook belonging to a legendary mage named Bowgentle. Sister Garaele believes that a character who pays obeisance to Agatha might be able to trade the comb for an answer. She offers the mission to the characters and will give them three potions of healing as payment for their efforts. If the party pursues this quest, see "Conyberry and Agatha's Lair" in chapter 3.
 
 > [!note] 
 > 
@@ -305,7 +307,7 @@ Four [Redbrand ruffians](3.Mechanics/bestiary/humanoid/redbrand-ruffian-pabtso.m
 
 ### Development
 
-Redbrands who are captured, persuaded, or [charmed](3.Mechanics/rules/conditions.md#Charmed) by the characters can impart useful information (see "What the Redbrands Know" below). The characters can easily convince Townmaster Harbin Wester to keep an eye on any prisoners they capture for at least a few days.
+Redbrands who are captured, persuaded, or charmed by the characters can impart useful information (see "What the Redbrands Know" below). The characters can easily convince Townmaster Harbin Wester to keep an eye on any prisoners they capture for at least a few days.
 
 If the characters kill the ruffians, the townmaster expresses his fear of retaliation.
 
@@ -334,11 +336,11 @@ Passages and chambers are 10 feet high unless otherwise indicated.
 
 All doors are made of wood with iron handles, hinges, and built-in locks. Doors are unlocked unless the text states otherwise. Glasstaff (area R12) and Nosk (area R9) each carry an iron key that locks and unlocks every door in the complex.
 
-A locked door can be picked with [thieves' tools](3.Mechanics/items/thieves-tools-xphb.md) and a successful DC 15 Dexterity check. A door can also be broken down with a successful DC 20 Strength ([Athletics](3.Mechanics/rules/skills.md#Athletics)) check.
+A locked door can be picked with thieves' tools and a successful DC 15 Dexterity check. A door can also be broken down with a successful DC 20 Strength (Athletics) check.
 
 #### Secret Doors
 
-Secret doors are made of stone and blend into the surrounding walls. If an area contains one or more secret doors, a character searching the walls in that area finds its secret doors with a successful DC 10 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check. Each search requires 1 minute.
+Secret doors are made of stone and blend into the surrounding walls. If an area contains one or more secret doors, a character searching the walls in that area finds its secret doors with a successful DC 10 Wisdom (Perception) check. Each search requires 1 minute.
 
 Secret doors swing open on hidden iron hinges and are not locked.
 
@@ -386,13 +388,13 @@ A waterproof satchel hangs from a submerged rope attached to the south wall of t
 
 ##### Development
 
-The bandits in area R2 notice if the characters make a lot of noise here. They burst into the room, gaining [surprised](3.Mechanics/rules/conditions.md#Surprised) if the characters don't know they're coming.
+The bandits in area R2 notice if the characters make a lot of noise here. They burst into the room, gaining surprised if the characters don't know they're coming.
 
 If the bandits fight in this area and two are defeated, the last bandit might reveal the secret door by fleeing in that direction.
 
 ##### Treasure
 
-The waterproof satchel hidden in the cistern contains a [potion of healing](3.Mechanics/items/potion-of-healing-xdmg.md), a [potion of invisibility](3.Mechanics/items/potion-of-invisibility-xdmg.md), 50 gp, and a clean set of ordinary [travel clothing](3.Mechanics/items/travelers-clothes-xphb.md). This is Glasstaff's emergency kit.
+The waterproof satchel hidden in the cistern contains a potion of healing, a potion of invisibility, 50 gp, and a clean set of ordinary travel clothing. This is Glasstaff's emergency kit.
 
 #### R2: Barrack
 
@@ -403,13 +405,13 @@ Most of the Redbrands' human members have lodgings in boarding houses and bunk r
 > This small storeroom has been converted into living quarters. Two double bunks stand against the wall near the door, while more barrels and crates fill the southern half of the chamber. Three humans look up as you open the door.
 ^099
 
-Three human [bandits](3.Mechanics/bestiary/humanoid/bandit-xmm.md), all members of the Redbrands, are resting in this room. If they hear noise in area R1 (including loud voices or barrels being rolled around), they prepare themselves for a fight and try to surprise intruders.
+Three human bandits, all members of the Redbrands, are resting in this room. If they hear noise in area R1 (including loud voices or barrels being rolled around), they prepare themselves for a fight and try to surprise intruders.
 
 The barrels here contain similar provisions to those in area R1.
 
 ##### Treasure
 
-All three Redbrands wear [belt pouches](3.Mechanics/items/pouch-xphb.md) holding treasure. The first holds 16 sp and 7 gp; the second holds 12 sp and 5 gp; and the third holds 20 cp, 11 ep, and two garnets worth 10 gp each. Additionally, three dirty scarlet cloaks that are the Redbrands' uniform hang from the bunks.
+All three Redbrands wear belt pouches holding treasure. The first holds 16 sp and 7 gp; the second holds 12 sp and 5 gp; and the third holds 20 cp, 11 ep, and two garnets worth 10 gp each. Additionally, three dirty scarlet cloaks that are the Redbrands' uniform hang from the bunks.
 
 #### R3: Trapped Hall
 
@@ -422,9 +424,9 @@ This area was part of Tresendar Manor's original cellars. The Redbrands dug out 
 
 ##### Trap
 
-The pit trap in the middle of the hallway is hidden under a false floor consisting of loose stone tiles laid atop breakaway timbers. The tiles and timbers collapse under 100 or more pounds of weight. A character searching the hall for traps can spot the covered pit with a successful DC 15 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check. A successful check also reveals narrow ledges on the north and south sides of the pit. A creature attempting to skirt the pit using one of these ledges must succeed on a DC 10 Dexterity ([Acrobatics](3.Mechanics/rules/skills.md#Acrobatics)) check.
+The pit trap in the middle of the hallway is hidden under a false floor consisting of loose stone tiles laid atop breakaway timbers. The tiles and timbers collapse under 100 or more pounds of weight. A character searching the hall for traps can spot the covered pit with a successful DC 15 Wisdom (Perception) check. A successful check also reveals narrow ledges on the north and south sides of the pit. A creature attempting to skirt the pit using one of these ledges must succeed on a DC 10 Dexterity (Acrobatics) check.
 
-A creature that triggers the trap or fails the Dexterity check to skirt the edge of the pit must make a DC 15 Dexterity saving throw to catch the edge. On a failed save, the creature falls 20 feet to the dirt floor of the pit, taking `dice:2d6|noform|noparens|avg` (`2d6`) bludgeoning damage and landing with the [prone](3.Mechanics/rules/conditions.md#Prone) condition.
+A creature that triggers the trap or fails the Dexterity check to skirt the edge of the pit must make a DC 15 Dexterity saving throw to catch the edge. On a failed save, the creature falls 20 feet to the dirt floor of the pit, taking `dice:2d6|noform|noparens|avg` (`2d6`) bludgeoning damage and landing with the prone condition.
 
 #### R4: Tresendar Crypts
 
@@ -435,7 +437,7 @@ The elders of the long-gone Tresendar family were laid to rest in this mausoleum
 > Three large stone sarcophagi stand within this desolate crypt, and six skeletons in rusty mail are propped against the walls as if guarding the place. False columns along the walls are carved in the image of spreading oak trees. The double door in the southeast corner is sheathed in tarnished copper plate.
 ^09f
 
-The six [skeletons](3.Mechanics/bestiary/undead/skeleton-xmm.md) are animated and under orders to attack any creature that comes within 10 feet of the door leading to area R5 or the door leading to area R6. They don't attack a creature wearing the scarlet cloak of the Redbrands or that speaks the password "Illefarn" (the name of an ancient elven nation that once spread across much of the Sword Coast).
+The six skeletons are animated and under orders to attack any creature that comes within 10 feet of the door leading to area R5 or the door leading to area R6. They don't attack a creature wearing the scarlet cloak of the Redbrands or that speaks the password "Illefarn" (the name of an ancient elven nation that once spread across much of the Sword Coast).
 
 The stone lid of each sarcophagus is carved to depict the person entombed within: two human men and one human woman, all dressed like nobles. If opened, the tombs contain mostly moldering bones and scraps of clothing, but see "Treasure" below.
 
@@ -462,7 +464,7 @@ Three [Redbrand ruffians](3.Mechanics/bestiary/humanoid/redbrand-ruffian-pabtso.
 
 ##### Cell Doors
 
-The cell doors feature simple locks requiring [thieves' tools](3.Mechanics/items/thieves-tools-xphb.md) and a successful DC 10 Dexterity check to pick. The doors can also be wrenched open by brute force with a successful DC 22 Strength ([Athletics](3.Mechanics/rules/skills.md#Athletics)) check.
+The cell doors feature simple locks requiring thieves' tools and a successful DC 10 Dexterity check to pick. The doors can also be wrenched open by brute force with a successful DC 22 Strength (Athletics) check.
 
 ##### Development
 
@@ -470,7 +472,7 @@ If two ruffians are defeated, the third tries to flee and warn the rest of the c
 
 ##### Captives
 
-The three human [commoners](3.Mechanics/bestiary/humanoid/commoner-xmm.md) imprisoned here are Mirna Dendrar and her teenage children, thirteen-year-old Nars and eighteen-year-old Nilsa. A couple days ago, the Redbrands murdered Mirna's husband, Thel. (His corpse can be found in area R8.) The gang was then going to kill his family, but Mirna promised that wealthy relatives in Neverwinter would pay a substantial sum for her and her children's safe return. The Redbrands have kept the Dendrars here while they develop a ransom plan.
+The three human commoners imprisoned here are Mirna Dendrar and her teenage children, thirteen-year-old Nars and eighteen-year-old Nilsa. A couple days ago, the Redbrands murdered Mirna's husband, Thel. (His corpse can be found in area R8.) The gang was then going to kill his family, but Mirna promised that wealthy relatives in Neverwinter would pay a substantial sum for her and her children's safe return. The Redbrands have kept the Dendrars here while they develop a ransom plan.
 
 The Dendrars are grateful to the characters for rescuing them, but they can't provide much information about the hideout. All they know is that the boss is a wizard (though they haven't met him and don't know his name), and that he has "tall, furry monsters with big ears" (bugbears) working for him.
 
@@ -491,7 +493,7 @@ The Redbrands have ambitious plans to expand their numbers in the near future, s
 
 ##### Treasure
 
-The weapon racks hold twelve [spears](3.Mechanics/items/spear-xphb.md), six [shortswords](3.Mechanics/items/shortsword-xphb.md), four [longswords](3.Mechanics/items/longsword-xphb.md), six [light crossbows](3.Mechanics/items/light-crossbow-xphb.md), and eight [quivers](3.Mechanics/items/quiver-xphb.md) holding twenty [crossbow bolts](3.Mechanics/items/bolts-20-xphb.md) each. Three of the weapons are especially well made: a shortsword whose pommel and guard are set with semiprecious stones, and two matched crossbows whose woodwork is inlaid with silver. If sold, these weapons fetch twice their normal value.
+The weapon racks hold twelve spears, six shortswords, four longswords, six light crossbows, and eight quivers holding twenty crossbow bolts each. Three of the weapons are especially well made: a shortsword whose pommel and guard are set with semiprecious stones, and two matched crossbows whose woodwork is inlaid with silver. If sold, these weapons fetch twice their normal value.
 
 #### R7: Storeroom and Work Area
 
@@ -519,7 +521,7 @@ The characters likely arrive here by one of three routes: the tunnel from area R
 > A cold breeze softly sighs in this large natural cavern, carrying the faint scent of decaying flesh. A crevasse with sloped walls divides the cavern and is flanked by two rough stone columns that support the twenty-foot-high ceiling. Two arched, wooden bridges span the chasm.
 ^0af
 
-A subterranean monster that hungers for flesh—a [nothic](3.Mechanics/bestiary/aberration/nothic-xmm.md) named Ssarnak—guards this cave. Lured by a faint magical effect emanating from the crevasse, the creature was occupying the area when Glasstaff moved in. Glasstaff struck a bargain with the monster, convincing it to help guard the stronghold in exchange for treasure and the occasional gift of fresh meat. Ssarnak is untrustworthy but loyal enough, for the moment.
+A subterranean monster that hungers for flesh—a nothic named Ssarnak—guards this cave. Lured by a faint magical effect emanating from the crevasse, the creature was occupying the area when Glasstaff moved in. Glasstaff struck a bargain with the monster, convincing it to help guard the stronghold in exchange for treasure and the occasional gift of fresh meat. Ssarnak is untrustworthy but loyal enough, for the moment.
 
 Ssarnak normally lurks near the west ends of the two bridges. If it notices intruders entering the cave, it hides behind one of the large stone columns and watches them, attempting to use its Weird Insight to discern the intruders' secrets.
 
@@ -529,7 +531,7 @@ Ssarnak communicates via telepathy. If detected, it prefers to negotiate and wil
 
 ##### Bridges
 
-These bridges are made of wooden planks and have no rails. The southern bridge is rigged to collapse when a creature weighing more than 50 pounds moves across it. A character next to the bridge can spot the rigged construction with a successful DC 10 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check. Any creature, including Ssarnak, can dislodge one end of either bridge, dropping it into the crevasse, as an action. A creature that falls into the crevasse takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage, has the [prone](3.Mechanics/rules/conditions.md#Prone) condition, and lands in a jumble of rubble that counts as "difficult terrain".
+These bridges are made of wooden planks and have no rails. The southern bridge is rigged to collapse when a creature weighing more than 50 pounds moves across it. A character next to the bridge can spot the rigged construction with a successful DC 10 Wisdom (Perception) check. Any creature, including Ssarnak, can dislodge one end of either bridge, dropping it into the crevasse, as an action. A creature that falls into the crevasse takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage, has the prone condition, and lands in a jumble of rubble that counts as "difficult terrain".
 
 ##### Dead Goblins
 
@@ -541,32 +543,32 @@ While they were looking to sow mayhem in the hideout, the goblins fell to the no
 
 This steep-sided fissure is 5 to 10 feet wide and 20 feet deep. Its rough walls are easily climbed without a check.
 
-The bottom of the crevasse feels unnaturally cold. When viewed with a [detect magic](3.Mechanics/spells/detect-magic-xphb.md) spell, the area emanates a faint necromantic aura. The magic causes all organic matter in the crevasse to age and decompose at half the normal rate.
+The bottom of the crevasse feels unnaturally cold. When viewed with a detect magic spell, the area emanates a faint necromantic aura. The magic causes all organic matter in the crevasse to age and decompose at half the normal rate.
 
 Heaped at the bottom is the skeleton of Thel Dendrar, the woodcarver of Phandalin who was murdered by the Redbrands. Ssarnak has picked the bones clean, but the body is wearing a carved wooden pendant shaped like a unicorn's head. Mirna Dendrar in area R5 of the Redbrand hideout can identify the pendant and body as her husband's.
 
 ##### Treasure
 
-The nothic keeps its hoard in a battered wooden chest hidden in a cubbyhole at the bottom of the crevasse, under the northern bridge. The chest can't be seen from the edge of the crevasse but is obvious to any character who descends into the fissure. The chest contains 160 sp, 120 gp, five malachite gems worth 12 gp each, a [potion of healing](3.Mechanics/items/potion-of-healing-xdmg.md), a [potion of climbing](3.Mechanics/items/potion-of-climbing-xdmg.md), and a [potion of growth](3.Mechanics/items/potion-of-growth-xdmg.md).
+The nothic keeps its hoard in a battered wooden chest hidden in a cubbyhole at the bottom of the crevasse, under the northern bridge. The chest can't be seen from the edge of the crevasse but is obvious to any character who descends into the fissure. The chest contains 160 sp, 120 gp, five malachite gems worth 12 gp each, a potion of healing, a potion of climbing, and a potion of growth.
 
-The chest also holds a [+1 longsword](3.Mechanics/items/1-weapon-xdmg.md) in a dusty silver-chased scabbard. The sword is inscribed with the name "Talon," and its hilt is worked in the shape of a bird of prey with outspread wings. It once belonged to a great knight named Aldith Tresendar, known as the Black Hawk. A character who succeeds on a DC 15 Intelligence ([History](3.Mechanics/rules/skills.md#History)) check recognizes the sword and recalls this lore.
+The chest also holds a +1 longsword in a dusty silver-chased scabbard. The sword is inscribed with the name "Talon," and its hilt is worked in the shape of a bird of prey with outspread wings. It once belonged to a great knight named Aldith Tresendar, known as the Black Hawk. A character who succeeds on a DC 15 Intelligence (History) check recognizes the sword and recalls this lore.
 
 Sir Aldith died fighting off the bandits that attacked through the hidden caverns below his manor. Talon was lost here until Ssarnak found it.
 
 #### R9: Guard Barrack
 
-A character who listens at this door and succeeds on DC 10 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check hears several gruff voices issuing commands in the Goblin tongue. Even if the character doesn't speak Goblin, it's clear the commands are cruel.
+A character who listens at this door and succeeds on DC 10 Wisdom (Perception) check hears several gruff voices issuing commands in the Goblin tongue. Even if the character doesn't speak Goblin, it's clear the commands are cruel.
 
 > [!readaloud] 
 > 
 > This barrack contains four roughly built wooden bunks, with heaped blankets and dirty dishes scattered about. A strong smell of unwashed bodies and rotten meat fills the air. Four tall, furry humanoids are lounging in the mess, barking orders at a goblin. Your sudden appearance causes the goblin to faint.
 ^0b5
 
-Four [bugbears](3.Mechanics/bestiary/fey/bugbear-warrior-xmm.md) and one [goblin](3.Mechanics/bestiary/fey/goblin-warrior-xmm.md) are present. The goblin, Droop, is at the bugbears' mercy. He faints at the sight of the party, but another creature can use an action to wake him. Otherwise, Droop has the [unconscious](3.Mechanics/rules/conditions.md#Unconscious) condition for `dice:1d10|noform|noparens|avg` (`1d10`) minutes.
+Four bugbears and one goblin are present. The goblin, Droop, is at the bugbears' mercy. He faints at the sight of the party, but another creature can use an action to wake him. Otherwise, Droop has the unconscious condition for `dice:1d10|noform|noparens|avg` (`1d10`) minutes.
 
 The bugbears work for the Spider and were sent here to help Glasstaff keep the Redbrands and the citizens of Phandalin in line. The leader of the group is named Nosk.
 
-The bugbears are the only ones in the Redbrands' hideout who know the location of Wave Echo Cave. They won't willingly divulge this information, since they fear the Spider more than they fear the characters, though a [charm person](3.Mechanics/spells/charm-person-xphb.md) spell might coax the information from one of them.
+The bugbears are the only ones in the Redbrands' hideout who know the location of Wave Echo Cave. They won't willingly divulge this information, since they fear the Spider more than they fear the characters, though a charm person spell might coax the information from one of them.
 
 The bugbears also know the location of Cragmaw Castle, but again, they won't share this information willingly.
 
@@ -582,7 +584,7 @@ If the bugbears are dispatched, Droop asks the party to protect him while he esc
 
 ##### Treasure
 
-Nosk carries a [belt pouch](3.Mechanics/items/pouch-xphb.md) containing 13 sp and some semiprecious stones worth 50 gp. He also has an iron key that locks and unlocks all the doors in the Redbrands' hideout.
+Nosk carries a belt pouch containing 13 sp and some semiprecious stones worth 50 gp. He also has an iron key that locks and unlocks all the doors in the Redbrands' hideout.
 
 ![The Cragmaw goblins are a threat throughout the Phandalin region](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/adventure/PaBTSO/031-02-011.cragmaw-goblins.webp#center)
 
@@ -590,7 +592,7 @@ Nosk carries a [belt pouch](3.Mechanics/items/pouch-xphb.md) containing 13 sp an
 
 This room is the headquarters and meeting room for the Redbrands. When there is no official business to discuss, it doubles as a common room where the stronghold guards can relax while off duty.
 
-A character who listens at the door and succeeds on a DC 10 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check hears the villains playing a game of knucklebones. Rattling sounds are followed by shouts and groans, and then a gabble of voices as wagers are paid. If the characters burst into the room, they surprise its occupants.
+A character who listens at the door and succeeds on a DC 10 Wisdom (Perception) check hears the villains playing a game of knucklebones. Rattling sounds are followed by shouts and groans, and then a gabble of voices as wagers are paid. If the characters burst into the room, they surprise its occupants.
 
 > [!readaloud] 
 > 
@@ -599,7 +601,7 @@ A character who listens at the door and succeeds on a DC 10 Wisdom ([Perception]
 > Four tough-looking human warriors wearing scarlet cloaks are gathered around one of the tables. A stack of coins and trinkets is heaped upon the tabletop between them.
 ^0b9
 
-Two [Redbrand ruffians](3.Mechanics/bestiary/humanoid/redbrand-ruffian-pabtso.md) and two human [bandits](3.Mechanics/bestiary/humanoid/bandit-xmm.md), all members of the Redbrands, are playing knucklebones when the characters enter. The game isn't far from turning acrimonious. The dice are loaded, and the bandit to which they belong is winning big. All four are intoxicated.
+Two [Redbrand ruffians](3.Mechanics/bestiary/humanoid/redbrand-ruffian-pabtso.md) and two human bandits, all members of the Redbrands, are playing knucklebones when the characters enter. The game isn't far from turning acrimonious. The dice are loaded, and the bandit to which they belong is winning big. All four are intoxicated.
 
 The Redbrands recognize characters wearing scarlet cloaks as impostors. However, fast-talking characters might pass themselves off as new recruits, especially if they offer to join the game.
 
@@ -609,22 +611,22 @@ The wealth in the room is all on the table, having been bet in the game. (Knocki
 
 #### R11: Wizard's Workshop
 
-Faint bubbling and dripping sounds can be heard through either door of this room with a successful DC 15 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check.
+Faint bubbling and dripping sounds can be heard through either door of this room with a successful DC 15 Wisdom (Perception) check.
 
 > [!readaloud] 
 > 
 > This room appears to be a wizard's workshop. A large worktable is set up with alembics, retorts, distillation coils, and other alchemical devices, all of them stewing and bubbling away. Bookshelves are crowded with sheaves of parchment and strange-looking tomes.
 ^0bc
 
-Though Glasstaff is in his quarters (area R12), he hasn't left his experiments untended. His evil familiar, a [quasit](3.Mechanics/bestiary/fiend/quasit-xmm.md) named [Zeond](3.Mechanics/bestiary/npc/zeond-pabtso.md), lurks here and watches over its master's work.
+Though Glasstaff is in his quarters (area R12), he hasn't left his experiments untended. His evil familiar, a quasit named [Zeond](3.Mechanics/bestiary/npc/zeond-pabtso.md), lurks here and watches over its master's work.
 
-[Zeond](3.Mechanics/bestiary/npc/zeond-pabtso.md) is [invisible](3.Mechanics/rules/conditions.md#Invisible) when the party enters and doesn't attack immediately. Rather, it watches the party closely and waits until the characters are embroiled in a battle before attacking. After it attacks, [Zeond](3.Mechanics/bestiary/npc/zeond-pabtso.md) turns [invisible](3.Mechanics/rules/conditions.md#Invisible) again and skulks about, looking for a chance to inflict harm upon a weakened character. The quasit doesn't want to find itself the target of multiple enemies.
+[Zeond](3.Mechanics/bestiary/npc/zeond-pabtso.md) is invisible when the party enters and doesn't attack immediately. Rather, it watches the party closely and waits until the characters are embroiled in a battle before attacking. After it attacks, [Zeond](3.Mechanics/bestiary/npc/zeond-pabtso.md) turns invisible again and skulks about, looking for a chance to inflict harm upon a weakened character. The quasit doesn't want to find itself the target of multiple enemies.
 
-If [Zeond](3.Mechanics/bestiary/npc/zeond-pabtso.md) follows the party to other locations within the hideout, assume that it can do so without being detected as long as it remains [invisible](3.Mechanics/rules/conditions.md#Invisible).
+If [Zeond](3.Mechanics/bestiary/npc/zeond-pabtso.md) follows the party to other locations within the hideout, assume that it can do so without being detected as long as it remains invisible.
 
 ##### Books and Notes
 
-Glasstaff is a wizard of middling skill, and he is trying to master the art of brewing potions and concocting useful alchemical mixtures. The books and notes scattered around the room are basic texts on alchemy. Any character proficient in [Arcana](3.Mechanics/rules/skills.md#Arcana) or [alchemist's supplies](3.Mechanics/items/alchemists-supplies-xphb.md) can tell the apparatus is set up to brew a [potion of invisibility](3.Mechanics/items/potion-of-invisibility-xdmg.md)—but the process has been unsuccessful so far.
+Glasstaff is a wizard of middling skill, and he is trying to master the art of brewing potions and concocting useful alchemical mixtures. The books and notes scattered around the room are basic texts on alchemy. Any character proficient in Arcana or alchemist's supplies can tell the apparatus is set up to brew a potion of invisibility—but the process has been unsuccessful so far.
 
 Among the books is a tome written in Dwarvish. The journal of an adventurer named Urmon, it describes the history of the lost mine of Phandelver and the Forge of Spells. (Share the information in the first and second paragraph of the beginning of chapter 1 if you haven't already done so.)
 
@@ -658,7 +660,7 @@ If Glasstaff is surprised, add:
 
 If the quasit in area R11 warns Glasstaff that trouble is approaching, he grabs the scrolls from his chest (see "Treasure" below) and flees via a secret door in the northeast corner of the room. In his haste, Glasstaff leaves behind a letter from the Spider (see "Development" below) and neglects to properly close the secret door. Characters gain advantage on ability checks made to find the slightly ajar secret door.
 
-If he manages to escape, Glasstaff flees to area R1 (via areas R7 and R8) and grabs the satchel hidden in the cistern if it is still there. If the nothic is still alive in area R8, Glasstaff instructs it to waylay any pursuers. If the characters catch up to Glasstaff, and he has the satchel, he quaffs the [potion of invisibility](3.Mechanics/items/potion-of-invisibility-xdmg.md) and flees the hideout.
+If he manages to escape, Glasstaff flees to area R1 (via areas R7 and R8) and grabs the satchel hidden in the cistern if it is still there. If the nothic is still alive in area R8, Glasstaff instructs it to waylay any pursuers. If the characters catch up to Glasstaff, and he has the satchel, he quaffs the potion of invisibility and flees the hideout.
 
 If he is reduced to 8 or fewer hit points and has no avenues of escape, Glasstaff surrenders. He values his life more than anything, and he remains a model prisoner in the hopes that the Spider will somehow learn of his predicament and "arrange for his freedom."
 
@@ -693,7 +695,7 @@ Various papers and notes are stacked neatly on the desk, mostly consisting of Gl
 
 ##### Treasure
 
-At the foot of the bed is a sturdy, unlocked wooden chest holding the best pickings of the Redbrands' loot over the last few months. It contains 180 sp, 130 gp, and a silk [pouch](3.Mechanics/items/pouch-xphb.md) with five carnelians worth 10 gp each and two peridots worth 15 gp each. It also contains two scrolls that Glasstaff brought with him from Neverwinter: a [spell scroll](3.Mechanics/items/spell-scroll-level-2-xdmg.md) of [hold person](3.Mechanics/spells/hold-person-xphb.md) and a [spell scroll](3.Mechanics/items/spell-scroll-level-3-xdmg.md) of [fireball](3.Mechanics/spells/fireball-xphb.md).
+At the foot of the bed is a sturdy, unlocked wooden chest holding the best pickings of the Redbrands' loot over the last few months. It contains 180 sp, 130 gp, and a silk pouch with five carnelians worth 10 gp each and two peridots worth 15 gp each. It also contains two scrolls that Glasstaff brought with him from Neverwinter: a spell scroll of hold person and a spell scroll of fireball.
 
 Glasstaff also wields a [staff of defense](3.Mechanics/items/staff-of-defense-pabtso.md).
 

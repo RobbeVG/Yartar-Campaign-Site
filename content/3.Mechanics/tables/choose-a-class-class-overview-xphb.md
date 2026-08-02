@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Choose a Class; Class Overview"
 aliases:
 - "Choose a Class; Class Overview"
 ---

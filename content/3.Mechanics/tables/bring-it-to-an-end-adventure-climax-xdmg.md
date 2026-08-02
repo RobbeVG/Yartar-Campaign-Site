@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Bring It to an End; Adventure Climax"
 aliases:
 - "Bring It to an End; Adventure Climax"
 ---

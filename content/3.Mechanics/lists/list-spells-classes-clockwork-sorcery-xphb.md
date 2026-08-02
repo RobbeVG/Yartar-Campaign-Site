@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/clockwork-sorcery
+title: "Spells for Clockwork Sorcery"
 aliases:
 - "Spells for Clockwork Sorcery"
 ---

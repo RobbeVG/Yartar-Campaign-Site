@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Holy Symbol (Varies); Holy Symbols"
 aliases:
 - "Holy Symbol (Varies); Holy Symbols"
 ---

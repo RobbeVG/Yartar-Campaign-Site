@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Mounts and Vehicles; Mounts and Other Animals"
 aliases:
 - "Mounts and Vehicles; Mounts and Other Animals"
 ---

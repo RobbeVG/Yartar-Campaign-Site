@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/class/ranger
+title: "Ranger Spells"
 aliases:
 - "Ranger Spells"
 ---

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/ritual-caster
+title: "Spells for Ritual Caster"
 aliases:
 - "Spells for Ritual Caster"
 ---

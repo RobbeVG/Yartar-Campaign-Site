@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Scribing Spell Scrolls; Spell Scroll Costs"
 aliases:
 - "Scribing Spell Scrolls; Spell Scroll Costs"
 ---

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/aberrant-sorcery
+title: "Spells for Aberrant Sorcery"
 aliases:
 - "Spells for Aberrant Sorcery"
 ---

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/college-of-lore
+title: "Spells for College of Lore"
 aliases:
 - "Spells for College of Lore"
 ---

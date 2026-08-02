@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/race/tiefling
+title: "Spells for Tiefling"
 aliases:
 - "Spells for Tiefling"
 ---

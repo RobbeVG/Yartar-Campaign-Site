@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/trickery-domain
+title: "Spells for Trickery Domain"
 aliases:
 - "Spells for Trickery Domain"
 ---

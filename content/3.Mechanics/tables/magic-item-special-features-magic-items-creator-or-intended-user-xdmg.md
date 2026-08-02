@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Magic Item Special Features; Magic Item's Creator or Intended User"
 aliases:
 - "Magic Item Special Features; Magic Item's Creator or Intended User"
 ---

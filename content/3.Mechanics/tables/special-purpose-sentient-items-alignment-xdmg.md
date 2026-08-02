@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Special Purpose; Sentient Item's Alignment"
 aliases:
 - "Special Purpose; Sentient Item's Alignment"
 ---

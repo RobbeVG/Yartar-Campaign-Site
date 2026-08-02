@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
+draft: true
+title: "Chapter 3: The Spider's Web"
 aliases:
 - "Chapter 3: The Spider's Web"
 ---
@@ -56,27 +58,27 @@ Check for random wilderness encounters once during the day and once at night by 
 
 | Day Roll | Night Roll | Result |
 |----------|------------|--------|
-| 1–2 | 1–3 | `dice:1d4+2\|noform\|noparens\|avg` (`1d4 + 2`) [stirges](3.Mechanics/bestiary/monstrosity/stirge-xmm.md) |
-| — | 4 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [ghouls](3.Mechanics/bestiary/undead/ghoul-xmm.md) |
-| 3–4 | — | 1 [ogre](3.Mechanics/bestiary/giant/ogre-xmm.md) |
+| 1–2 | 1–3 | `dice:1d4+2\|noform\|noparens\|avg` (`1d4 + 2`) stirges |
+| — | 4 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) ghouls |
+| 3–4 | — | 1 ogre |
 | 5–6 | 5 | Cragmaw goblin band (see below) |
 | 7–8 | 6 | Hobgoblin squad (see below) |
 | 9–10 | 7–8 | Bugbear scouts (see below) |
-| 11 | 9–10 | `dice:1d4+2\|noform\|noparens\|avg` (`1d4 + 2`) [wolves](3.Mechanics/bestiary/beast/wolf-xmm.md) |
-| 12 | 11–12 | 1 [owlbear](3.Mechanics/bestiary/monstrosity/owlbear-xmm.md) |
+| 11 | 9–10 | `dice:1d4+2\|noform\|noparens\|avg` (`1d4 + 2`) wolves |
+| 12 | 11–12 | 1 owlbear |
 ^triboar-trail-random-encounters
 
 #### Cragmaw Goblin Band
 
-This band of Cragmaw marauders consists of `dice:2d4|noform|noparens|avg` (`2d4`) [goblins](3.Mechanics/bestiary/fey/goblin-warrior-xmm.md) led by a [goblin boss](3.Mechanics/bestiary/fey/goblin-boss-xmm.md). They know the location of Cragmaw Castle and can provide directions if they are captured and threatened. The boss has a [pouch](3.Mechanics/items/pouch-xphb.md) containing `dice:1d10|noform|noparens|avg` (`1d10`) cp and `dice:1d10|noform|noparens|avg` (`1d10`) sp.
+This band of Cragmaw marauders consists of `dice:2d4|noform|noparens|avg` (`2d4`) goblins led by a goblin boss. They know the location of Cragmaw Castle and can provide directions if they are captured and threatened. The boss has a pouch containing `dice:1d10|noform|noparens|avg` (`1d10`) cp and `dice:1d10|noform|noparens|avg` (`1d10`) sp.
 
 #### Hobgoblin Squad
 
-This squad of `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) [hobgoblins](3.Mechanics/bestiary/fey/hobgoblin-warrior-xmm.md) seeks the adventurers, hoping to collect a bounty set by the Spider. One of the hobgoblins carries a crudely drawn sketch of one party member, with "25 gold pieces for this one" and a symbol of a spider scrawled beneath it.
+This squad of `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) hobgoblins seeks the adventurers, hoping to collect a bounty set by the Spider. One of the hobgoblins carries a crudely drawn sketch of one party member, with "25 gold pieces for this one" and a symbol of a spider scrawled beneath it.
 
 #### Bugbear Scouts
 
-These two [bugbears](3.Mechanics/bestiary/fey/bugbear-warrior-xmm.md) are part of the band based at Wyvern Tor. As they roam, they look for travelers to ambush.
+These two bugbears are part of the band based at Wyvern Tor. As they roam, they look for travelers to ambush.
 
 ## Conyberry and Agatha's Lair
 
@@ -87,7 +89,7 @@ The town of Conyberry has been abandoned for years and lies in ruins. The Triboa
 > The forest grows dark and still as the trail winds deeper into the trees. Heavy vines and thick layers of moss drape the branches, and the air is noticeably colder than it was in the ruined village. After rounding a bend in the trail, you come upon a domed shelter made from the warped, bowing branches of nearby trees. A low doorway leads inside.
 ^0d3
 
-This 10-foot-by-10-foot shelter is the lair of Agatha the [banshee](3.Mechanics/bestiary/undead/banshee-xmm.md). If the characters exercise caution and remember what they've come here for, they won't have to fight her. As such, no map is provided. If a fight breaks out, any forest map with a small structure will do.
+This 10-foot-by-10-foot shelter is the lair of Agatha the banshee. If the characters exercise caution and remember what they've come here for, they won't have to fight her. As such, no map is provided. If a fight breaks out, any forest map with a small structure will do.
 
 When the characters enter the shelter, read the following:
 
@@ -114,7 +116,7 @@ If the characters are rude, disrespectful, or threatening, Agatha tries to frigh
 
 ### Dealing with the Banshee
 
-If the characters are respectful and polite, they can persuade Agatha to help them with a successful DC 15 Charisma ([Persuasion](3.Mechanics/rules/skills.md#Persuasion)) check.
+If the characters are respectful and polite, they can persuade Agatha to help them with a successful DC 15 Charisma (Persuasion) check.
 
 The player who takes the lead in speaking with the banshee makes the check. If that player roleplays the encounter well, allow them to make the check with advantage. If any character has Sister Garaele's silver comb and presents it to Agatha as a gift, the check is automatically successful. If the check fails, Agatha attacks the characters; if it succeeds, she smiles with cold amusement and entertains their questions:
 
@@ -129,7 +131,7 @@ The characters might instead choose to ask Agatha about something else—for exa
 
 ### Sister Garaele's Quest
 
-Learning what Agatha knows about the missing spellbook completes a quest given to the party by Sister Garaele in Phandalin. The characters should report to Sister Garaele to receive their payment of three [potions of healing](3.Mechanics/items/potion-of-healing-xdmg.md).
+Learning what Agatha knows about the missing spellbook completes a quest given to the party by Sister Garaele in Phandalin. The characters should report to Sister Garaele to receive their payment of three potions of healing.
 
 ## Old Owl Well
 
@@ -150,11 +152,11 @@ Old Owl Well is shown on map 3.1. The characters can enter the site from any dir
 
 ![Map 3.1: Old Owl Well](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/adventure/PaBTSO/036-03-003.map301-old-owl-well.webp#center)
 
-Twelve [zombies](3.Mechanics/bestiary/undead/zombie-xmm.md) lurk inside the crumbled shell of the old watchtower and can't be seen from outside. However, any character who succeeds on a DC 15 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check smells a deathly odor wafting from the tower's direction.
+Twelve zombies lurk inside the crumbled shell of the old watchtower and can't be seen from outside. However, any character who succeeds on a DC 15 Wisdom (Perception) check smells a deathly odor wafting from the tower's direction.
 
-When characters approach the tower or the tent, the zombies shamble from the tower. If a battle breaks out, Hamun Kost, a human [mage](3.Mechanics/bestiary/humanoid/mage-xmm.md), emerges from his tent and asks, "What is the meaning of this?"
+When characters approach the tower or the tent, the zombies shamble from the tower. If a battle breaks out, Hamun Kost, a human mage, emerges from his tent and asks, "What is the meaning of this?"
 
-Hamun is a Red Wizard—a spellcaster from a land called Thay, far to the east. His is a red-robed figure with a shaved scalp and a tattoo on his forehead. A character who succeeds on a DC 10 Intelligence ([Arcana](3.Mechanics/rules/skills.md#Arcana)) check recognizes Hamun's tattoo as a necromantic symbol. A successful DC 15 Intelligence ([History](3.Mechanics/rules/skills.md#History)) check verifies the wizard's garb as belonging to Thay, a land of necromancers where wizards pattern their flesh with tattoos. The tattoo on the head represents a wizard's school of magic specialty, Hamun's being necromancy.
+Hamun is a Red Wizard—a spellcaster from a land called Thay, far to the east. His is a red-robed figure with a shaved scalp and a tattoo on his forehead. A character who succeeds on a DC 10 Intelligence (Arcana) check recognizes Hamun's tattoo as a necromantic symbol. A successful DC 15 Intelligence (History) check verifies the wizard's garb as belonging to Thay, a land of necromancers where wizards pattern their flesh with tattoos. The tattoo on the head represents a wizard's school of magic specialty, Hamun's being necromancy.
 
 If any character attempts to talk to Hamun, even by calling out a greeting or answering his questions during combat, he temporarily calls off his zombies. The Red Wizard is not particularly aggressive, and he is willing to strike a deal that advances his interests at the same time it helps the characters.
 
@@ -165,13 +167,13 @@ Hamun stays tight-lipped about the reason for his presence in the region. He is,
 
 ### Treasure
 
-Hamun's tent contains a comfortable traveling suite: a cot, a chair, a writing desk, supplies, and a chest of clothes. In the chest is a leather bag containing 35 sp, 20 ep, 20 gp, and 5 pp; five small agates worth 10 gp each; a [potion of healing](3.Mechanics/items/potion-of-healing-xdmg.md) and a [spell scroll](3.Mechanics/items/spell-scroll-level-2-xdmg.md) of [darkness](3.Mechanics/spells/darkness-xphb.md) in a bone tube; and a Tiny jeweled box worth 25 gp.
+Hamun's tent contains a comfortable traveling suite: a cot, a chair, a writing desk, supplies, and a chest of clothes. In the chest is a leather bag containing 35 sp, 20 ep, 20 gp, and 5 pp; five small agates worth 10 gp each; a potion of healing and a spell scroll of darkness in a bone tube; and a Tiny jeweled box worth 25 gp.
 
 The jeweled box contains the Red Wizard's most interesting discovery so far: a [ring of protection](3.Mechanics/items/netherese-ring-of-protection-pabtso.md) from ancient Netheril. The ring is made from a single piece of mystical green glass that's stronger than steel. It has the added property of making the wearer less likely to drop or lose anything held in the hand the ring is on. The wearer receives a +4 bonus to saving throws or checks made to avoid dropping or being disarmed of any item held in that hand.
 
 ### Daran Edermath's Quest
 
-Learning about the Red Wizard's presence at Old Owl Well completes a quest given to the party by Daran Edermath in Phandalin. The characters should meet with Daran in Phandalin to receive their reward of [boots of striding and springing](3.Mechanics/items/boots-of-striding-and-springing-xdmg.md).
+Learning about the Red Wizard's presence at Old Owl Well completes a quest given to the party by Daran Edermath in Phandalin. The characters should meet with Daran in Phandalin to receive their reward of boots of striding and springing.
 
 ## Ruins of Thundertree
 
@@ -221,7 +223,7 @@ The following locations are keyed to map 3.2.
 > Cowering in the shadow of an old tree is a crumbled, weed-choked stone cottage with no roof.
 ^0e5
 
-Two [twig blights](3.Mechanics/bestiary/plant/twig-blight-xmm.md) hide among the weeds that flank the cottage's open doorway. Characters who have a passive Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) score of 13 or higher spot the blights from up to 10 feet away. Alternatively, a character within 10 feet of the doorway can look for signs of danger and make a DC 13 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check, spotting the blights on a successful check.
+Two twig blights hide among the weeds that flank the cottage's open doorway. Characters who have a passive Wisdom (Perception) score of 13 or higher spot the blights from up to 10 feet away. Alternatively, a character within 10 feet of the doorway can look for signs of danger and make a DC 13 Wisdom (Perception) check, spotting the blights on a successful check.
 
 The blights remain perfectly still. They don't attack on their own (except in self-defense) but quickly come to the aid of the twig blights in area U2 if combat erupts there.
 
@@ -232,13 +234,13 @@ The blights remain perfectly still. They don't attack on their own (except in se
 > These ruined, side-by-side cottages look as though they might have been the homes of prosperous shopkeepers or well-off farmers in their time. All that remains are collapsed walls and piles of debris. Several young trees have grown within the ruins.
 ^0e7
 
-The overgrowth conceals a deadly threat: two [twig blights](3.Mechanics/bestiary/plant/twig-blight-xmm.md) lurking in the foliage. Characters who have a passive Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) score of 13 or higher spot the blights from up to 10 feet away. Alternatively, a character within 10 feet of the doorway can look for signs of danger and make a DC 13 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check, spotting the blights on a successful check.
+The overgrowth conceals a deadly threat: two twig blights lurking in the foliage. Characters who have a passive Wisdom (Perception) score of 13 or higher spot the blights from up to 10 feet away. Alternatively, a character within 10 feet of the doorway can look for signs of danger and make a DC 13 Wisdom (Perception) check, spotting the blights on a successful check.
 
-These plant monsters are hungry and fight until destroyed. One round after these blights attack, the [twig blights](3.Mechanics/bestiary/plant/twig-blight-xmm.md) in area U1 join the fray.
+These plant monsters are hungry and fight until destroyed. One round after these blights attack, the twig blights in area U1 join the fray.
 
 ##### Treasure
 
-A merchant who once lived here hid a chest under the flagstone floor. A thorough search of the interior of the eastern cottage and a successful DC 10 Intelligence ([Investigation](3.Mechanics/rules/skills.md#Investigation)) check reveals the old chest among the roots of a tree growing in the house. The chest contains 1,400 cp, 160 sp, and 90 gp.
+A merchant who once lived here hid a chest under the flagstone floor. A thorough search of the interior of the eastern cottage and a successful DC 10 Intelligence (Investigation) check reveals the old chest among the roots of a tree growing in the house. The chest contains 1,400 cp, 160 sp, and 90 gp.
 
 #### U3: The Brown Horse
 
@@ -249,7 +251,7 @@ This was formerly the Brown Horse, a taproom renowned for its excellent ale.
 > A weathered signboard by the door of this large building shows the faded image of a workhorse holding a flagon of ale. The building is sagging and dilapidated, but it is more intact than the ruins across the road.
 ^0ea
 
-Six ash [zombies](3.Mechanics/bestiary/undead/zombie-xmm.md) (see the "Ash Zombies" sidebar) lurk in the shadows in this building, slumped against the walls or under the bar. When living creatures enter, the zombies groan and stir, slowly climbing to their feet. They pursue any characters they see, attacking until destroyed.
+Six ash zombies (see the "Ash Zombies" sidebar) lurk in the shadows in this building, slumped against the walls or under the bar. When living creatures enter, the zombies groan and stir, slowly climbing to their feet. They pursue any characters they see, attacking until destroyed.
 
 The eastern half of the building was the old common room, while the western portion held the kitchens and the brewer's vats. Huge wooden tuns stand to the west, and a faint smell of yeast still permeates the air. The ale is long gone.
 
@@ -257,7 +259,7 @@ The eastern half of the building was the old common room, while the western port
 > 
 > Ash Zombies
 > 
-> These zombies were created by the magical devastation when Mount Hotenow erupted thirty years ago. They use the [zombie](3.Mechanics/bestiary/undead/zombie-xmm.md) stat block. When they die, they leave a cloud of ash that lasts for 5 minutes but does not obscure vision.
+> These zombies were created by the magical devastation when Mount Hotenow erupted thirty years ago. They use the zombie stat block. When they die, they leave a cloud of ash that lasts for 5 minutes but does not obscure vision.
 ^0eb
 
 #### U4: Druid's Watch Post
@@ -295,7 +297,7 @@ If the characters attack her for any reason, Reidoth transforms into a gray squi
 > This ruin looks as if it might once have been a farmhouse. It is now half swallowed by a dense thicket, with trees growing through its foundations. The lane continues south a short distance past the ruin before ending in an overgrown field.
 ^0f1
 
-The thicket east of this ruin is crawling with twelve [twig blights](3.Mechanics/bestiary/plant/twig-blight-xmm.md) and two [needle blights](3.Mechanics/bestiary/plant/needle-blight-xmm.md). Any disturbance in the ruined farmhouse (for example, characters rooting around in the rubble) draws the blights' ire.
+The thicket east of this ruin is crawling with twelve twig blights and two needle blights. Any disturbance in the ruined farmhouse (for example, characters rooting around in the rubble) draws the blights' ire.
 
 Each round for 3 rounds, two of the twig blights head for the south doorway while two more head for the north doorway. The needle blights follow on round 3, each one moving toward a different doorway. The blights are fearless and attack until destroyed.
 
@@ -308,17 +310,17 @@ Each round for 3 rounds, two of the twig blights head for the south doorway whil
 
 This former general store isn't a complete ruin yet; portions of its tile roof remain intact.
 
-Two [giant spiders](3.Mechanics/bestiary/beast/giant-spider-xmm.md) lurk in the building, hiding behind the walls. Thin, trailing lines from the webs in the lane outside allow the spiders to sense when likely prey moves through the webs, at which point they nimbly scuttle over the wall and attack. Allow characters who alert the spiders to make a DC 17 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check to avoid being surprised.
+Two giant spiders lurk in the building, hiding behind the walls. Thin, trailing lines from the webs in the lane outside allow the spiders to sense when likely prey moves through the webs, at which point they nimbly scuttle over the wall and attack. Allow characters who alert the spiders to make a DC 17 Wisdom (Perception) check to avoid being surprised.
 
 ##### Webs
 
-The webs are "difficult terrain", and a creature trying to move through them must succeed on a DC 8 Strength ([Athletics](3.Mechanics/rules/skills.md#Athletics)) check or have the [restrained](3.Mechanics/rules/conditions.md#Restrained) condition as the webs snare it. A [restrained](3.Mechanics/rules/conditions.md#Restrained) creature can take an action each round to make a DC 8 Strength check to break free, or it can try to cut its way free by using a light weapon that deals slashing damage. The webs have AC 10 and have 10 hit points and vulnerability to fire damage.
+The webs are "difficult terrain", and a creature trying to move through them must succeed on a DC 8 Strength (Athletics) check or have the restrained condition as the webs snare it. A restrained creature can take an action each round to make a DC 8 Strength check to break free, or it can try to cut its way free by using a light weapon that deals slashing damage. The webs have AC 10 and have 10 hit points and vulnerability to fire damage.
 
 Going around the webs is difficult because of the thickets on the north side of the road. Going around the building to the south leads to the twig blights in area U5.
 
 ##### Treasure
 
-The corpse of an unfortunate adventurer lies cocooned in spider silk in the western half of the building. The body is shriveled and dry, but it appears to have been a male elf. The corpse wears [+1 leather armor](3.Mechanics/items/1-armor-xdmg.md) and a [shortsword](3.Mechanics/items/shortsword-xphb.md) in the scabbard at its hip. A careful search also yields a [potion of healing](3.Mechanics/items/potion-of-healing-xdmg.md) in a [belt pouch](3.Mechanics/items/pouch-xphb.md), along with 23 gp and 35 sp.
+The corpse of an unfortunate adventurer lies cocooned in spider silk in the western half of the building. The body is shriveled and dry, but it appears to have been a male elf. The corpse wears +1 leather armor and a shortsword in the scabbard at its hip. A careful search also yields a potion of healing in a belt pouch, along with 23 gp and 35 sp.
 
 #### U7: Old Tower
 
@@ -333,7 +335,7 @@ The corpse of an unfortunate adventurer lies cocooned in spider silk in the west
 
 This tower was formerly the home of a human wizard, who was killed fighting the ash zombies that overran Thundertree thirty years ago.
 
-A [young green dragon](3.Mechanics/bestiary/dragon/young-green-dragon-xmm.md) named Venomfang recently claimed the tower, having passed over Thundertree while searching Neverwinter Wood for a suitable lair. The giant spider corpses in the clearing are the former residents of the tower, killed by the dragon after Venomfang tore through the roof. Since then, the dragon has been laying low.
+A young green dragon named Venomfang recently claimed the tower, having passed over Thundertree while searching Neverwinter Wood for a suitable lair. The giant spider corpses in the clearing are the former residents of the tower, killed by the dragon after Venomfang tore through the roof. Since then, the dragon has been laying low.
 
 ##### Tower
 
@@ -347,9 +349,9 @@ The cottage contains dusty furniture draped in webbing, but nothing of value. If
 
 ##### Treasure
 
-A broken, old wooden chest on the tower floor holds the last of the dead wizard's treasure: 2,100 cp, 130 gp, four silver goblets set with moonstones worth 60 gp each, a [spell scroll](3.Mechanics/items/spell-scroll-level-2-xdmg.md) of [misty step](3.Mechanics/spells/misty-step-xphb.md), and a [spell scroll](3.Mechanics/items/spell-scroll-level-3-xdmg.md) of [lightning bolt](3.Mechanics/spells/lightning-bolt-xphb.md). Venomfang spends hours each day greedily admiring the loot.
+A broken, old wooden chest on the tower floor holds the last of the dead wizard's treasure: 2,100 cp, 130 gp, four silver goblets set with moonstones worth 60 gp each, a spell scroll of misty step, and a spell scroll of lightning bolt. Venomfang spends hours each day greedily admiring the loot.
 
-The dragon has barely noticed the most interesting item in its hoard. Lying beneath the coins is a rusty old battleaxe of dwarven manufacture. Runes spell out "Hew" in Dwarvish on the axe head and the rust is misleading. [Hew](3.Mechanics/items/hew-pabtso.md) is a [+1 battleaxe](3.Mechanics/items/1-weapon-xdmg.md) that deals maximum damage when the wielder attacks a Plant creature or an object made of wood. The axe's creator used it for protection in the forest while he cut firewood.
+The dragon has barely noticed the most interesting item in its hoard. Lying beneath the coins is a rusty old battleaxe of dwarven manufacture. Runes spell out "Hew" in Dwarvish on the axe head and the rust is misleading. [Hew](3.Mechanics/items/hew-pabtso.md) is a +1 battleaxe that deals maximum damage when the wielder attacks a Plant creature or an object made of wood. The axe's creator used it for protection in the forest while he cut firewood.
 
 #### U8: Old Smithy
 
@@ -358,7 +360,7 @@ The dragon has barely noticed the most interesting item in its hoard. Lying bene
 > Based on its wide chimney and the rotted piles of firewood jumbled outside the walls, this sagging building was probably a smithy in its day.
 ^0fc
 
-Four ash [zombies](3.Mechanics/bestiary/undead/zombie-xmm.md) (see the "Ash Zombies" sidebar) are slumped on the floor. When the characters enter, the monsters climb to their feet and lurch forward to attack. Once the zombies see the characters, they pursue the characters relentlessly.
+Four ash zombies (see the "Ash Zombies" sidebar) are slumped on the floor. When the characters enter, the monsters climb to their feet and lurch forward to attack. Once the zombies see the characters, they pursue the characters relentlessly.
 
 A variety of old tools—tongs, bellows, hammers, and a pair of iron anvils—are scattered around the interior of this building.
 
@@ -375,7 +377,7 @@ A battered old cabinet is half buried beneath the partially collapsed roof. It c
 
 This was an herb and alchemy shop belonging to the family of Mirna Dendrar, now a resident in Phandalin (see area R5 in the "Redbrand Hideout Locations" section in chapter 2).
 
-All the reagents and concoctions here have long since spoiled, and the books are unreadable masses of rot. However, a small wooden case is hidden in a compartment beneath the storage shelves. A character searching through the wreckage can find the case with a successful DC 10 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check. The check succeeds automatically if Mirna sent the party to find the heirloom.
+All the reagents and concoctions here have long since spoiled, and the books are unreadable masses of rot. However, a small wooden case is hidden in a compartment beneath the storage shelves. A character searching through the wreckage can find the case with a successful DC 10 Wisdom (Perception) check. The check succeeds automatically if Mirna sent the party to find the heirloom.
 
 ##### Treasure
 
@@ -388,7 +390,7 @@ The case is worthless but contains a gold necklace with a fine emerald pendant w
 > On the east side of town, the lane opens to form a small square. Several ruined buildings surround the square, but a larger, intact structure to the north looks like a barrack. One lane leads south, another heads southwest around the hill in the middle of the town, and a third way meanders north. In the middle of the square, leaning slightly, is a badly weathered wooden statue of a warrior clutching a spear and shield.
 ^102
 
-The leaning statue is 10 feet tall, including the base. It depicts an old hero of Neverwinter named Palien, who supposedly defeated several monsters in Neverwinter Wood when Thundertree was first founded. A character who studies the statue recognizes the depiction with a successful DC 15 Intelligence ([History](3.Mechanics/rules/skills.md#History)) check.
+The leaning statue is 10 feet tall, including the base. It depicts an old hero of Neverwinter named Palien, who supposedly defeated several monsters in Neverwinter Wood when Thundertree was first founded. A character who studies the statue recognizes the depiction with a successful DC 15 Intelligence (History) check.
 
 #### U11: Old Garrison
 
@@ -399,7 +401,7 @@ The leaning statue is 10 feet tall, including the base. It depicts an old hero o
 > The barrack appears to have weathered the years better than most buildings in town. Its rooftop features a simple battlement, and arrow-slit windows indicate that it served as a small keep in times of emergency.
 ^104
 
-Five ash [zombies](3.Mechanics/bestiary/undead/zombie-xmm.md) (see the "Ash Zombies" sidebar) lurk in this building. Former members of the garrison, they still wear the remnants of rusted mail and soldiers' surcoats. These scraps of armor don't improve their Armor Class. The zombies animate and attack if any living creature disturbs their rest.
+Five ash zombies (see the "Ash Zombies" sidebar) lurk in this building. Former members of the garrison, they still wear the remnants of rusted mail and soldiers' surcoats. These scraps of armor don't improve their Armor Class. The zombies animate and attack if any living creature disturbs their rest.
 
 The interior of the building still contains furnishings, and the main room has a ladder leading through a trapdoor to the roof. The main chamber contains two double bunks, while the chamber to the south has three double bunks, providing quarters for ten soldiers altogether. To the northwest of the main area are a kitchen and pantry, which now contain piles of rotten sacks and barrels that once held salted meat. Vermin have long since devoured all the foodstuffs.
 
@@ -410,7 +412,7 @@ The interior of the building still contains furnishings, and the main room has a
 > Heaps of wreckage litter the interior of this ruin. In one corner stands a broken loom.
 ^106
 
-Four [twig blights](3.Mechanics/bestiary/plant/twig-blight-xmm.md) lurk in the thicket south of this ruin, while two [needle blights](3.Mechanics/bestiary/plant/needle-blight-xmm.md) hide in the trees on the east side of the lane. A character within 10 feet of one or more blights can make a DC 13 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check, detecting the creatures' presence on a successful check. Otherwise, the blights attack if a character comes within 5 feet of them.
+Four twig blights lurk in the thicket south of this ruin, while two needle blights hide in the trees on the east side of the lane. A character within 10 feet of one or more blights can make a DC 13 Wisdom (Perception) check, detecting the creatures' presence on a successful check. Otherwise, the blights attack if a character comes within 5 feet of them.
 
 ##### Development
 
@@ -429,7 +431,7 @@ When the characters approach this area, read the following aloud:
 
 The doors to this cottage are barred from the inside, requiring a successful DC 20 Strength check to force open. The shutters are also barred from inside and can be forced open with a successful DC 15 Strength check.
 
-Six human [cultists](3.Mechanics/bestiary/humanoid/cultist-xmm.md) hide in the house. Four stand guard at a time (two in each room) on eight-hour shifts, while the others rest in the larger chamber. The cultists wear black cloaks cut to resemble dragon wings and black leather masks with stylized dragon horns. In addition to Common, the cultists speak Draconic.
+Six human cultists hide in the house. Four stand guard at a time (two in each room) on eight-hour shifts, while the others rest in the larger chamber. The cultists wear black cloaks cut to resemble dragon wings and black leather masks with stylized dragon horns. In addition to Common, the cultists speak Draconic.
 
 The interior of the house is dusty and strung with cobwebs. The only furnishings are a small stove, a table, two chairs, and a bunk (which the cultists share).
 
@@ -441,7 +443,7 @@ If the characters talk to the cultists, Favric explains that they've come to tre
 
 ##### Treasure
 
-In addition to what he carries, Favric has a small coffer containing tribute for the green dragon: six lustrous amethysts worth 50 gp each. He also carries a [potion of flying](3.Mechanics/items/potion-of-flying-xdmg.md) in a stoppered vial around his neck.
+In addition to what he carries, Favric has a small coffer containing tribute for the green dragon: six lustrous amethysts worth 50 gp each. He also carries a potion of flying in a stoppered vial around his neck.
 
 ## Wyvern Tor
 
@@ -449,7 +451,7 @@ This crag is a prominent landmark in the rugged hills northeast of the Sword Mou
 
 ### Raider Camp
 
-Wyvern Tor is a sizable hill, with miles of rugged terrain on its flanks and slopes. Searching for the hidden raider camp takes time. The character leading the party can attempt one DC 15 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check or DC 10 Wisdom ([Survival](3.Mechanics/rules/skills.md#Survival)) check per hour to find the camp, made by the character leading the way.
+Wyvern Tor is a sizable hill, with miles of rugged terrain on its flanks and slopes. Searching for the hidden raider camp takes time. The character leading the party can attempt one DC 15 Wisdom (Perception) check or DC 10 Wisdom (Survival) check per hour to find the camp, made by the character leading the way.
 
 ![Map 3.3: Wyvern Tor](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/adventure/PaBTSO/043-03-008.map303-wyvern-tor.webp#center)
 
@@ -460,15 +462,15 @@ The camp is depicted on map 3.3. When the characters find the camp, read the fol
 > The faint smell of smoke hangs in the air as you ascend a rugged ridge on the lower slopes of the hill. Fifty yards away, a cave mouth opens up at the bottom of a ravine. Hunkered down by a boulder twenty yards outside the cave, evidently keeping watch, is a single bugbear.
 ^10e
 
-If the characters quietly take out the lone [bugbear](3.Mechanics/bestiary/fey/bugbear-warrior-xmm.md), they have a chance to [surprised](3.Mechanics/rules/conditions.md#Surprised) the raiders in the cave. If the sentry spots the characters sneaking up, or if an attack fails to take the sentry out, the sentry shouts a warning and retreats back to the cave, joining the rest of the marauders there.
+If the characters quietly take out the lone bugbear, they have a chance to surprised the raiders in the cave. If the sentry spots the characters sneaking up, or if an attack fails to take the sentry out, the sentry shouts a warning and retreats back to the cave, joining the rest of the marauders there.
 
-The marauders in the cave include Brughor Axe-Biter, an [orc](3.Mechanics/bestiary/humanoid/tough-xmm.md) with 18 hit points; four [bugbears](3.Mechanics/bestiary/fey/bugbear-warrior-xmm.md); and an [ogre](3.Mechanics/bestiary/giant/ogre-xmm.md) named Gog. Gog fights until slain, while the rest flee if Brughor is killed.
+The marauders in the cave include Brughor Axe-Biter, an orc with 18 hit points; four bugbears; and an ogre named Gog. Gog fights until slain, while the rest flee if Brughor is killed.
 
 If the characters examine the cave walls, they find a strange, scrawled drawing on the northwest wall. The drawing crudely depicts a lanky goblin with a crystal jutting from its skull. The characters can tell this isn't a Cragmaw goblin, but they can't learn anything more just yet. Psionic goblins who were off task in their search for obelisk fragments made this drawing. It attempts to depict their leader, Ruxithid, who is described more in chapter 5.
 
 #### Treasure
 
-Brughor's band plundered several homesteads farther north on their way to Wyvern Tor. An unlocked treasure chest in the cave holds 180 sp, 15 ep, and three [vials of perfume](3.Mechanics/items/perfume-xphb.md) worth 5 gp each.
+Brughor's band plundered several homesteads farther north on their way to Wyvern Tor. An unlocked treasure chest in the cave holds 180 sp, 15 ep, and three vials of perfume worth 5 gp each.
 
 #### Harbin Wester's Quest
 
@@ -521,7 +523,7 @@ The following locations are keyed to map 3.4.
 > The castle has seven crumbling towers of different sizes and heights, but the upper stories are all in varying states of collapse. A short flight of steps ascends to a terrace in front of the main entryway. Past the wreckage of a pair of sundered doors lies a shadowed hall. Round towers loom over the entranceway, with arrow slits facing the terrace.
 ^11b
 
-The main gates between areas C1 and C2 are made of bronze-covered wood, but they are corroded and collapsed. No monsters dwell here, but the goblin sentries in area C3 are supposed to be keeping watch. They glance only occasionally through the arrow slits, however, so characters who move quietly might be able to creep past them. Have each character make a Dexterity ([Stealth](3.Mechanics/rules/skills.md#Stealth)) check. The lowest check is the DC for the goblins' Wisdom checks to notice the party.
+The main gates between areas C1 and C2 are made of bronze-covered wood, but they are corroded and collapsed. No monsters dwell here, but the goblin sentries in area C3 are supposed to be keeping watch. They glance only occasionally through the arrow slits, however, so characters who move quietly might be able to creep past them. Have each character make a Dexterity (Stealth) check. The lowest check is the DC for the goblins' Wisdom checks to notice the party.
 
 ##### Development
 
@@ -538,7 +540,7 @@ If the goblin sentries in area C3 raised the alarm, then the goblins and hobgobl
 
 ##### Trap
 
-The dusty plaster and rubble before the door leading to area C8 conceal a copper tripwire connected to linchpins hidden in the ruined ceiling. Spotting the tripwire requires a search of the area and a successful DC 20 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check. Once spotted, the tripwire is easily avoided and disarmed (no ability check required).
+The dusty plaster and rubble before the door leading to area C8 conceal a copper tripwire connected to linchpins hidden in the ruined ceiling. Spotting the tripwire requires a search of the area and a successful DC 20 Wisdom (Perception) check. Once spotted, the tripwire is easily avoided and disarmed (no ability check required).
 
 Any creature that walks over or through the rubble without avoiding the tripwire triggers a cave-in of wooden beams and heavy stones. (The area of the collapse is marked on map 3.4.) Any creature in the area when the trap triggers must succeed on a DC 10 Dexterity saving throw or take `dice:2d10|noform|noparens|avg` (`2d10`) bludgeoning damage from the falling rubble (half as much damage on a successful save). The noise of the collapse puts the creatures in areas C3, C7, C8, and C9 on alert.
 
@@ -567,7 +569,7 @@ The goblins fire each round at targets outside. When characters enter the room, 
 > The southwest tower of the castle is little more than a heap of rubble. Several ragged bedrolls are scattered across the remaining floor space, and three of the bedrolls have goblins sleeping in them. A small, twisting passage leads east through the ruins.
 ^125
 
-Three [goblins](3.Mechanics/bestiary/fey/goblin-warrior-xmm.md) bunk here. Though the rubble appears dangerous, the tower is stable and the eastern passage is safe.
+Three goblins bunk here. Though the rubble appears dangerous, the tower is stable and the eastern passage is safe.
 
 ##### Development
 
@@ -584,11 +586,11 @@ Caravans raided by the Cragmaws along the High Road and the Triboar Trail supply
 
 ##### Emboldening Brandy
 
-While most of the casks are full of salted meat, one small cask is filled with an exceptional dwarven brandy, which the goblins didn't notice because it was mixed in with junk. The cask contains the equivalent of twenty glasses. A character who imbibes a glass of brandy receives 1 "temporary hit point", but a character who drinks two glasses or more within 1 hour has the [poisoned](3.Mechanics/rules/conditions.md#Poisoned) condition for 1 hour.
+While most of the casks are full of salted meat, one small cask is filled with an exceptional dwarven brandy, which the goblins didn't notice because it was mixed in with junk. The cask contains the equivalent of twenty glasses. A character who imbibes a glass of brandy receives 1 "temporary hit point", but a character who drinks two glasses or more within 1 hour has the poisoned condition for 1 hour.
 
 ##### Sildar's Gear
 
-The equipment piled among the supplies includes a bloody suit of [chain mail](3.Mechanics/items/chain-mail-xphb.md), a [shortsword](3.Mechanics/items/shortsword-xphb.md) in a leather scabbard, a [heavy crossbow](3.Mechanics/items/heavy-crossbow-xphb.md), and an unsheathed [longsword](3.Mechanics/items/longsword-xphb.md) with the emblem of Neverwinter worked into its hilt. The chain mail and weapons belong to [Sildar Hallwinter](3.Mechanics/bestiary/npc/sildar-hallwinter-pabtso.md). None of these items is magical, but Sildar is grateful if at least his longsword is returned to him.
+The equipment piled among the supplies includes a bloody suit of chain mail, a shortsword in a leather scabbard, a heavy crossbow, and an unsheathed longsword with the emblem of Neverwinter worked into its hilt. The chain mail and weapons belong to [Sildar Hallwinter](3.Mechanics/bestiary/npc/sildar-hallwinter-pabtso.md). None of these items is magical, but Sildar is grateful if at least his longsword is returned to him.
 
 #### C6: Hobgoblin Quarters
 
@@ -597,13 +599,13 @@ The equipment piled among the supplies includes a bloody suit of [chain mail](3.
 > Four plain straw pallets and bedrolls are lined up on the floor of this barrack. Brackets on the walls hold weapons: spears, swords, morningstars, and more. The north wall shows signs of damage, but the floor is swept clean of rubble. Sitting on the bedrolls are four bored, red-skinned Humanoids.
 ^12c
 
-Four [hobgoblins](3.Mechanics/bestiary/fey/hobgoblin-warrior-xmm.md) are quartered in this room. Because their goblin neighbors are always getting into fights, they don't pay attention to noise in areas C2 or C3. However, they're quick to defend their tower if any intruders appear, or to respond to an alarm raised by the goblin sentries.
+Four hobgoblins are quartered in this room. Because their goblin neighbors are always getting into fights, they don't pay attention to noise in areas C2 or C3. However, they're quick to defend their tower if any intruders appear, or to respond to an alarm raised by the goblin sentries.
 
 The Cragmaws are a mixed group of goblinoids, with a handful of bugbears lording over larger numbers of miserable goblins and a few hobgoblins. The hobgoblins plan to dispose of the bugbears and take over someday, but for now, the bugbears are too strong a threat.
 
 ##### Treasure
 
-Mounted to the walls are five [spears](3.Mechanics/items/spear-xphb.md), four [longswords](3.Mechanics/items/longsword-xphb.md), three [morningstars](3.Mechanics/items/morningstar-xphb.md), two [greatswords](3.Mechanics/items/greatsword-xphb.md), and a [quarterstaff](3.Mechanics/items/quarterstaff-xphb.md). None of the weapons is magical, but the quarterstaff is engraved with stylized feathers. The quarterstaff is surprisingly light (1 lb.) and is worth 10 gp for the craftsmanship alone.
+Mounted to the walls are five spears, four longswords, three morningstars, two greatswords, and a quarterstaff. None of the weapons is magical, but the quarterstaff is engraved with stylized feathers. The quarterstaff is surprisingly light (1 lb.) and is worth 10 gp for the craftsmanship alone.
 
 #### C7: Banquet Hall
 
@@ -614,22 +616,22 @@ Mounted to the walls are five [spears](3.Mechanics/items/spear-xphb.md), four [l
 > The western portion of this large hall ends in a wall of rubble, but the remainder is still intact. This was once the castle's banquet hall, with a soaring ceiling twenty-five feet high. Two large wooden tables with plain benches stand in the middle of the room, and a brass brazier full of glowing coals is tucked into one corner. Dirty dishes, half-full stewpots, moldy heels of bread, and gnawed bones cover the tables. Several goblins scuttle about while a tough-looking goblin barks orders.
 ^12f
 
-This hall holds six [goblins](3.Mechanics/bestiary/fey/goblin-warrior-xmm.md) and one [goblin boss](3.Mechanics/bestiary/fey/goblin-boss-xmm.md)—a cantankerous fellow named Yegg. Yegg is the primary cook for the Cragmaws, and he berates his assistants as they go about the work of putting food on the Cragmaws' table. If Yegg is killed, any goblins left alive flee to the east or west, avoiding the north door because of the trap in area C2.
+This hall holds six goblins and one goblin boss—a cantankerous fellow named Yegg. Yegg is the primary cook for the Cragmaws, and he berates his assistants as they go about the work of putting food on the Cragmaws' table. If Yegg is killed, any goblins left alive flee to the east or west, avoiding the north door because of the trap in area C2.
 
 #### C8: Dark Hall
 
-This area has no exterior light. The boxed text assumes that the characters have [darkvision](3.Mechanics/rules/senses.md#Darkvision) or a light source.
+This area has no exterior light. The boxed text assumes that the characters have darkvision or a light source.
 
 > [!readaloud] 
 > 
 > This high, narrow hall looks as if it might've been part of a chapel or shrine at one time. Angelic figures are sculpted along the room's upper reaches, overlooking the floor. To the north, heavy curtains block a matching pair of archways. Between the archways is a cracked but ornately carved stone brazier.
 ^131
 
-This chamber is home to a [grick](3.Mechanics/bestiary/aberration/grick-xmm.md), the special pet of the goblin boss Lhupo in area C9. The grick likes to climb up to ledges hidden in the shadows of the statuary in the higher reaches of the room. It quietly observes intruders that enter the area before dropping down to strike. Characters in the hall must succeed on a DC 14 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check or be surprised.
+This chamber is home to a grick, the special pet of the goblin boss Lhupo in area C9. The grick likes to climb up to ledges hidden in the shadows of the statuary in the higher reaches of the room. It quietly observes intruders that enter the area before dropping down to strike. Characters in the hall must succeed on a DC 14 Wisdom (Perception) check or be surprised.
 
 The grick knows that goblins are not to be eaten unless Lhupo says so. The rest of the Cragmaws are terrified of the grick and hurry through this room, preferably in twos or threes.
 
-A character who examines the chapel's decor can make a DC 10 Intelligence ([Religion](3.Mechanics/rules/skills.md#Religion)) check to identify the deities that were once revered here: Oghma (god of knowledge), Mystra (god of magic), Lathander (god of dawn), and Tymora (god of luck).
+A character who examines the chapel's decor can make a DC 10 Intelligence (Religion) check to identify the deities that were once revered here: Oghma (god of knowledge), Mystra (god of magic), Lathander (god of dawn), and Tymora (god of luck).
 
 ##### Development
 
@@ -639,7 +641,7 @@ If combat erupts here, the creatures in area C9 cannot be surprised.
 
 The stone brazier contains a mound of coal, under which is buried a gold [statuette](3.Mechanics/items/statuette-of-augury-pabtso.md) of an elf worth 100 gp, wrapped in crimson cloth. A goblin hid the figurine here, hoping his fellow goblins wouldn't steal it.
 
-A [detect magic](3.Mechanics/spells/detect-magic-xphb.md) spell reveals that the statuette is imbued with divination magic. A non-evil creature grasping the statue can ask it a question and receive a telepathic response, as though the creature had cast [augury](3.Mechanics/spells/augury-xphb.md). Once a creature has asked its question and received a response, it can never activate the statuette again.
+A detect magic spell reveals that the statuette is imbued with divination magic. A non-evil creature grasping the statue can ask it a question and receive a telepathic response, as though the creature had cast augury. Once a creature has asked its question and received a response, it can never activate the statuette again.
 
 #### C9: Goblin Shrine
 
@@ -650,7 +652,7 @@ The Cragmaws have been using this place as a shrine to a made-up god they call t
 > This chamber occupies the northern tower of the castle. A stone altar stands in the middle of the room, covered with bloodstained black cloth. Gold ritual implements—a chalice and a censer—are carefully arranged atop the altar. Two archways to the south are covered with heavy curtains.
 ^135
 
-This shrine is home to a [goblin boss](3.Mechanics/bestiary/fey/goblin-boss-xmm.md) named Lhupo, who styles herself as a priest, and her "acolytes," a pair of [goblins](3.Mechanics/bestiary/fey/goblin-warrior-xmm.md). They all wear robes over their armor, but none of them possess divine powers. If the goblins heard the characters fighting the grick in area C8, they hide behind the altar and attempt to surprise the characters; otherwise, all three goblins are kneeling before the altar, praying.
+This shrine is home to a goblin boss named Lhupo, who styles herself as a priest, and her "acolytes," a pair of goblins. They all wear robes over their armor, but none of them possess divine powers. If the goblins heard the characters fighting the grick in area C8, they hide behind the altar and attempt to surprise the characters; otherwise, all three goblins are kneeling before the altar, praying.
 
 A bloodstained cloth covers the stone altar, the sides of which are engraved with images of the same gods reflected in the decor found in area C8.
 
@@ -665,7 +667,7 @@ The chalice and censer are art objects worth 180 gp and 150 gp, respectively. Lh
 > On the south side of the old castle, an overgrown path leads to a passage that climbs into the wall. A large iron door stands here, sheltered from direct outside attack. Arrow slits ten feet above the ground overlook the path.
 ^138
 
-The iron door is locked. It can be opened with [thieves' tools](3.Mechanics/items/thieves-tools-xphb.md) and a successful DC 15 Dexterity check or forced open with a successful DC 25 Strength ([Athletics](3.Mechanics/rules/skills.md#Athletics)) check. Any attempt to break down the door, whether successful or not, alerts creatures in areas C7, C8, C9, C12, and C13.
+The iron door is locked. It can be opened with thieves' tools and a successful DC 15 Dexterity check or forced open with a successful DC 25 Strength (Athletics) check. Any attempt to break down the door, whether successful or not, alerts creatures in areas C7, C8, C9, C12, and C13.
 
 ##### Arrow Slits
 
@@ -680,7 +682,7 @@ Any character who pauses and listens near the arrow slits hears noise from area 
 > A heavy curtain obscures a crumbling area to the south, and an intact door leads east. To the north, a short passage through the rubble ends before a screen of canvas.
 ^13b
 
-Dusty canvas hides the northern entrance to this area, blending in with the surrounding stonework and rubble. A character who succeeds on a DC 15 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check spots a footpath leading to the hidden entrance. If the characters actively search the outside of the castle for a hidden entrance, they can make a DC 10 Wisdom ([Perception](3.Mechanics/rules/skills.md#Perception)) check to spot the hidden entrance. Otherwise, this area contains nothing of interest or value.
+Dusty canvas hides the northern entrance to this area, blending in with the surrounding stonework and rubble. A character who succeeds on a DC 15 Wisdom (Perception) check spots a footpath leading to the hidden entrance. If the characters actively search the outside of the castle for a hidden entrance, they can make a DC 10 Wisdom (Perception) check to spot the hidden entrance. Otherwise, this area contains nothing of interest or value.
 
 #### C12: Guard Quarters
 
@@ -689,7 +691,7 @@ Dusty canvas hides the northern entrance to this area, blending in with the surr
 > Four armored Humanoids stand around a stone brazier full of coals that glows in the middle of this small barrack. Four straw pallets line the east wall. The wall to the south has collapsed, but a boarded-up door in that direction is still standing. A door in better condition leads west, while a curtain hangs in an archway to the north.
 ^13d
 
-Four [hobgoblins](3.Mechanics/bestiary/fey/hobgoblin-warrior-xmm.md) stand guard in this room. They keep watch from the arrow slit, so any characters creeping around outside the east side of the castle are likely to be spotted and attacked. The hobgoblins are smart, tough, and loyal to King Grol. At the start of combat, one hobgoblin runs to warn the king in area C14, then returns 2 rounds later to rejoin the fray.
+Four hobgoblins stand guard in this room. They keep watch from the arrow slit, so any characters creeping around outside the east side of the castle are likely to be spotted and attacked. The hobgoblins are smart, tough, and loyal to King Grol. At the start of combat, one hobgoblin runs to warn the king in area C14, then returns 2 rounds later to rejoin the fray.
 
 This area was once a parlor for the castle's original occupants, though its rotted furnishings were broken up by the Cragmaws and used for firewood.
 
@@ -697,20 +699,20 @@ This area was once a parlor for the castle's original occupants, though its rott
 
 The door to this room is boarded up from the north side. It takes a few rounds to remove the boards, which the characters should take as a warning that danger lies beyond.
 
-The arrow slits here are shuttered, leaving the room dark. The boxed text assumes that the characters have [darkvision](3.Mechanics/rules/senses.md#Darkvision) or a light source.
+The arrow slits here are shuttered, leaving the room dark. The boxed text assumes that the characters have darkvision or a light source.
 
 > [!readaloud] 
 > 
 > The upper floors of this tower have collapsed to create a hollow silo thirty feet high. The upper reaches of the room are lost in shadows. It's clear that this area hasn't been used for some time. Dust, rubble, and broken glass cover the floor, and old worktables and bookshelves clutter the southern half of the room.
 ^13f
 
-The Cragmaws believe this tower is haunted, but they're wrong. The area is the lair of a [grell](3.Mechanics/bestiary/aberration/grell-xmm.md), a hideous flying monster. It can worm its way through the wreckage of the upper floors to leave the castle when it wants to hunt, but between excursions, it lurks in the shadows of the hollow tower. When the grell notices intruders in the lower portion of its tower, it silently drops from the shadows and attacks.
+The Cragmaws believe this tower is haunted, but they're wrong. The area is the lair of a grell, a hideous flying monster. It can worm its way through the wreckage of the upper floors to leave the castle when it wants to hunt, but between excursions, it lurks in the shadows of the hollow tower. When the grell notices intruders in the lower portion of its tower, it silently drops from the shadows and attacks.
 
 This room was once a library and workshop, but nothing of its original contents remains intact.
 
 ##### Treasure
 
-The grell's nest in the upper part of the tower contains a battered wooden chest the monster found in the wreckage of the room below. The chest can't be seen from the floor, and it takes a successful DC 15 Strength ([Athletics](3.Mechanics/rules/skills.md#Athletics)) check to climb up to the ledge upon which it rests. The chest is unlocked and contains 90 ep, 120 gp, a [potion of healing](3.Mechanics/items/potion-of-healing-xdmg.md), a [spell scroll](3.Mechanics/items/spell-scroll-level-2-xdmg.md) of [silence](3.Mechanics/spells/silence-xphb.md), and a [spell scroll](3.Mechanics/items/spell-scroll-level-3-xdmg.md) of [revivify](3.Mechanics/spells/revivify-xphb.md).
+The grell's nest in the upper part of the tower contains a battered wooden chest the monster found in the wreckage of the room below. The chest can't be seen from the floor, and it takes a successful DC 15 Strength (Athletics) check to climb up to the ledge upon which it rests. The chest is unlocked and contains 90 ep, 120 gp, a potion of healing, a spell scroll of silence, and a spell scroll of revivify.
 
 #### C14: King's Quarters
 
@@ -718,12 +720,12 @@ Any character who listens at the door hears two voices in a heated discussion—
 
 > [!readaloud] 
 > 
-> This chamber has been set up as a living space, with thick furs serving as carpets, old trophies hanging on the walls, and a brazier of coals burning brightly. A large bed stands to the north, and a round table with several chairs stands to the south near the door. Near the table, on the floor, is an [unconscious](3.Mechanics/rules/conditions.md#Unconscious) dwarf who looks badly beaten. Looming over the dwarf are three menacing figures: a mighty bugbear, a snarling wolf of great size, and an elf woman with white hair, gray skin, and gray robes.
+> This chamber has been set up as a living space, with thick furs serving as carpets, old trophies hanging on the walls, and a brazier of coals burning brightly. A large bed stands to the north, and a round table with several chairs stands to the south near the door. Near the table, on the floor, is an unconscious dwarf who looks badly beaten. Looming over the dwarf are three menacing figures: a mighty bugbear, a snarling wolf of great size, and an elf woman with white hair, gray skin, and gray robes.
 ^142
 
-King Grol is a fierce old [bugbear](3.Mechanics/bestiary/fey/bugbear-warrior-xmm.md). He rules the Cragmaws through pure intimidation. His fur is streaked with gray, his shoulders are stooped, and he wears a set of jeweled silver teeth over his own rotting fangs. He's agile and strong, demanding and vindictive, and no Cragmaw dares to cross him.
+King Grol is a fierce old bugbear. He rules the Cragmaws through pure intimidation. His fur is streaked with gray, his shoulders are stooped, and he wears a set of jeweled silver teeth over his own rotting fangs. He's agile and strong, demanding and vindictive, and no Cragmaw dares to cross him.
 
-Grol is attended by his pet [dire wolf](3.Mechanics/bestiary/beast/dire-wolf-xmm.md), named Snarl, and a special guest: a [doppelganger](3.Mechanics/bestiary/monstrosity/doppelganger-xmm.md) disguised as a drow woman. The [unconscious](3.Mechanics/rules/conditions.md#Unconscious) [Gundren Rockseeker](3.Mechanics/bestiary/npc/gundren-rockseeker-pabtso.md) lies nearby (see "Unconscious Dwarf"). The doppelganger, Vyerith, is a messenger from the Spider, come to transport [Gundren Rockseeker](3.Mechanics/bestiary/npc/gundren-rockseeker-pabtso.md) and the map to Wave Echo Cave. Grol wants to sell the map instead of surrendering it, and he and Vyerith are negotiating a price. Vyerith first wants to question Gundren to determine if anyone else knows the location of the mine. Then the doppelganger intends to betray the Spider by killing Gundren and destroying the map.
+Grol is attended by his pet dire wolf, named Snarl, and a special guest: a doppelganger disguised as a drow woman. The unconscious [Gundren Rockseeker](3.Mechanics/bestiary/npc/gundren-rockseeker-pabtso.md) lies nearby (see "Unconscious Dwarf"). The doppelganger, Vyerith, is a messenger from the Spider, come to transport [Gundren Rockseeker](3.Mechanics/bestiary/npc/gundren-rockseeker-pabtso.md) and the map to Wave Echo Cave. Grol wants to sell the map instead of surrendering it, and he and Vyerith are negotiating a price. Vyerith first wants to question Gundren to determine if anyone else knows the location of the mine. Then the doppelganger intends to betray the Spider by killing Gundren and destroying the map.
 
 If the villains have been warned that an attack is imminent, Vyerith hides behind the door to the northeast, leaving it open a crack in the hope of attacking intruders from the rear. Grol holds Gundren hostage, ready to kill the dwarf if the characters don't back off.
 
@@ -737,7 +739,7 @@ This partially collapsed chamber was once a comfortable bathroom. It still conta
 
 ##### Unconscious Dwarf
 
-Near the southwest corner of the room is [Gundren Rockseeker](3.Mechanics/bestiary/npc/gundren-rockseeker-pabtso.md), a dwarf [commoner](3.Mechanics/bestiary/humanoid/commoner-xmm.md). He is [unconscious](3.Mechanics/rules/conditions.md#Unconscious) but stable at 0 hit points.
+Near the southwest corner of the room is [Gundren Rockseeker](3.Mechanics/bestiary/npc/gundren-rockseeker-pabtso.md), a dwarf commoner. He is unconscious but stable at 0 hit points.
 
 ## What's Next?
 

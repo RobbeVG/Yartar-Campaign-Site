@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Months and Festivals; Days of the Week"
 aliases:
 - "Months and Festivals; Days of the Week"
 ---

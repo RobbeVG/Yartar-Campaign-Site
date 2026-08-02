@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/class/paladin
+title: "Paladin Spells"
 aliases:
 - "Paladin Spells"
 ---

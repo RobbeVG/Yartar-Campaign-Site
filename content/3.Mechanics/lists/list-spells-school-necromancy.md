@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/school/necromancy
+title: "Necromancy Spells"
 aliases:
 - "Necromancy Spells"
 ---

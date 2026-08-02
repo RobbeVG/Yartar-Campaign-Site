@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations"
 aliases:
 - "Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations"
 ---

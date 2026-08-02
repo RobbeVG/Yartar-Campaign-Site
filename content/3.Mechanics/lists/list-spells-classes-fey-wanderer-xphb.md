@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/fey-wanderer
+title: "Spells for Fey Wanderer"
 aliases:
 - "Spells for Fey Wanderer"
 ---

@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
+draft: true
+title: "How to Use a Monster"
 aliases:
 - "How to Use a Monster"
 ---

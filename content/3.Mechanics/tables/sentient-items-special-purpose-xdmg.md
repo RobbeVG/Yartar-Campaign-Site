@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Sentient Item's Special Purpose"
 aliases:
 - "Sentient Item's Special Purpose"
 ---

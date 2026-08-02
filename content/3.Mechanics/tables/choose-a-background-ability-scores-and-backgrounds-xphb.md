@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Choose a Background; Ability Scores and Backgrounds"
 aliases:
 - "Choose a Background; Ability Scores and Backgrounds"
 ---

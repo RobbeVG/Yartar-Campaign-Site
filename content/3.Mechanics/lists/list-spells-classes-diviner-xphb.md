@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/diviner
+title: "Spells for Diviner"
 aliases:
 - "Spells for Diviner"
 ---

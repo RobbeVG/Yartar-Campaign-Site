@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/class/sorcerer
+title: "Sorcerer Spells"
 aliases:
 - "Sorcerer Spells"
 ---

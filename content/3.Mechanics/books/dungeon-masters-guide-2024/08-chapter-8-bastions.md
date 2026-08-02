@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Chapter 8: Bastions"
 aliases:
 - "Chapter 8: Bastions"
 ---

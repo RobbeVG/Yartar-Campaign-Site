@@ -4,6 +4,8 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
+draft: true
+title: "Improvising Damage; Damage Severity and Level"
 aliases:
 - "Improvising Damage; Damage Severity and Level"
 ---

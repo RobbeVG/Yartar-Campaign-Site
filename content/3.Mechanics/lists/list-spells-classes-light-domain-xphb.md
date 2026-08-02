@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/light-domain
+title: "Spells for Light Domain"
 aliases:
 - "Spells for Light Domain"
 ---

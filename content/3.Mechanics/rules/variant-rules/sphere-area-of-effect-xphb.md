@@ -4,6 +4,7 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+title: "Sphere [Area of Effect]"
 aliases:
 - "Sphere [Area of Effect]"
 ---

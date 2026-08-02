@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses:
   - json5e-note
   - json5e-index
-title: Traps-hazards
+title: Traps & Hazerds
 ---
 # Index of Traps-hazards
 

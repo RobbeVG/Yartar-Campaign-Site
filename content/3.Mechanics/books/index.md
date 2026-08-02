@@ -7,4 +7,4 @@ title: Books
 ---
 # Index of Books
 
-- [Players Handbook 2024](./players-handbook-2024/players-handbook-2024.md)
+- [Players Handbook 2024](3.Mechanics/books/players-handbook-2024/index.md)

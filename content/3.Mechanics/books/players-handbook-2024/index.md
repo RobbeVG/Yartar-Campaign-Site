@@ -1,8 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
-- json5e-index
+  - json5e-note
+  - json5e-index
+title: Players Handbook 2024
 ---
 # Index of Players Handbook 2024
 

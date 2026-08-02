@@ -12,6 +12,7 @@ configuration:
     - private
     - templates
     - .obsidian
+    - scripts
     - "0.DM Notes"
     - "3.Mechanics/adventures"
     - "3.Mechanics/bastions"
@@ -174,6 +175,9 @@ plugins:
     enabled: true
   - source: "@quartz-community/folder-page"
     enabled: true
+    options:
+      showFolderCount: true
+      showSubfolders: true
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
@@ -187,27 +191,27 @@ plugins:
       localGraph:
         drag: true
         zoom: true
-        depth: 0
+        depth: 1
         scale: 1.1
         repelForce: 0.5
         centerForce: 0.3
         linkDistance: 30
         fontSize: 0.6
         opacityScale: 1
-        removeTags: []
+        removeTags: [ttrpg-cli/**]
         showTags: true
         enableRadial: false
       globalGraph:
         drag: true
         zoom: true
-        depth: 2
+        depth: -1
         scale: 0.9
-        repelForce: 0.5
+        repelForce: 0.7
         centerForce: 0.3
         linkDistance: 30
         fontSize: 0.6
         opacityScale: 1
-        removeTags: []
+        removeTags: [ttrpg-cli/**]
         showTags: true
         focusOnHover: true
         enableRadial: true

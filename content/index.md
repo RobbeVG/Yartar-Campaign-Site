@@ -13,7 +13,7 @@ Dit is een overzicht van de huidige campagne. Zo zien jullie de [[index#Avonturi
 - [[4.Sessions/index|Overzicht van de sessies]]? Geen enkel probleem.
 - Wil je een [[03-chapter-2-creating-a-character|character maken]]?
 - Soms wil je gewoon even... [[fireball-xphb|FIREBALL!!!!!]]
-- Zoek maar uit...
+- Enzovoort...
 <p style="text-align:center">
 Nu... tijd voor avontuur <br><br>
 	<img src=https://mir-s3-cdn-cf.behance.net/project_modules/source/08ed4616107631.562a57f655340.gif
@@ -44,7 +44,7 @@ views:
 ```
 # Queestes
 
-DIT IS GEEN VOORBEELD
+**DIT IS GEEN VOORBEELD**
 ```base
 filters:
   not:

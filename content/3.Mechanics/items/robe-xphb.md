@@ -13,9 +13,8 @@ aliases:
 # Robe
 *Adventuring gear*  
 
-
 - **Cost**: 1 gp
-- **Weight**: 4.0 lbs.
+- **Weight**: 4.0 lbs. ^e1bb90
 
 A Robe has vocational or ceremonial significance. Some events and locations admit only people wearing a Robe bearing certain colors or symbols.
 

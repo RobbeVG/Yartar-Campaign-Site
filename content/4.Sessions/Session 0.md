@@ -1,2 +1,0 @@
-- Klaas cast [[fireball-xphb]] 
-- Robbe heeft de [[conditions#Grappled]] 

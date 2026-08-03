@@ -1,7 +1,10 @@
 ---
 title: 4.Sessions
+unlisted: true
+hideFolderContent: true
 ---
 # Onze sessies
+
 ```base
 filters:
   and:
@@ -30,3 +33,5 @@ views:
     separator: " - "
 
 ```
+
+

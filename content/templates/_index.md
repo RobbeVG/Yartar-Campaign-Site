@@ -1,5 +1,6 @@
 ---
 title: <% tp.file.folder().charAt(0).toUpperCase() + tp.file.folder().slice(1) %>
+unlisted: true
 ---
 <%* tp.file.rename("index") -%>
 # Index of <% tp.file.folder().charAt(0).toUpperCase() + tp.file.folder().slice(1) %>

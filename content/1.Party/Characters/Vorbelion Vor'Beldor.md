@@ -25,3 +25,30 @@ WHERE file = this.file
 <!-- SerializedQuery END -->
 
 
+> [!infobox]
+> # Name
+> ![[vorbelion.png|cover hsmall]]
+> ###### Stats
+> | Type | Stat |
+> | ---- | ---- |
+> | Test | Testing |
+> | Test | Testing |
+
+Some text
+Some text
+Some text
+Some text
+Some text
+Some text
+Some text
+Some textSome text
+Some text
+Some text
+Some text
+Some text
+Some text
+Some text
+Some text
+sdsd
+
+![[d20.png|center|200]]

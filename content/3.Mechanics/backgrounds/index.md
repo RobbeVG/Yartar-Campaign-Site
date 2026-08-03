@@ -4,9 +4,9 @@ cssclasses:
   - json5e-note
   - json5e-index
 title: Backgrounds
+hideFolderContent: true
 ---
 # Index of Backgrounds
-
 - [Acolyte](./acolyte-xphb.md)
 - [Artisan](./artisan-xphb.md)
 - [Charlatan](./charlatan-xphb.md)

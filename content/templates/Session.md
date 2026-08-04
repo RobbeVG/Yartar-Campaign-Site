@@ -10,9 +10,11 @@ await tp.file.rename(newFileName)
 ^Summary
 # Vorige keer?
 
->[!summary]+ [[<% tp.user.getPrevSession(tp) %>]]
->![[<% tp.user.getPrevSession(tp) %>#^summary]]
+>[!summary] [[<% tp.user.getPrevSession(tp) %>]]
 
+%%
+![[<% tp.user.getPrevSession(tp) %>#^summary]]
+%%
 # Gebeurtenissen
 - 
 	- 

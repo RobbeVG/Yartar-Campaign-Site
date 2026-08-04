@@ -1,8 +1,8 @@
 ---
 tags:
   - NPC
-Locatie: "[[]]"
-Factie: "[[]]"
+Locatie: "[[Yartar]]"
+Factie: "[[Huis Casalanders]]"
 ---
 # Omschrijving
 

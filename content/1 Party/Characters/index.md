@@ -10,7 +10,7 @@ filters:
     - file.inFolder("0 DM Notes")
 views:
   - type: cards
-    name: Characters
+    name: Levend
     filters:
       and:
         - file.hasTag("PC")

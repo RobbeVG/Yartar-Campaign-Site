@@ -2,7 +2,7 @@
 tags:
   - Factie
 marker:
-  - coordinates: 344, 267
+  - coordinates: 370, 385
     mapName: Yartar
-    icon: lucide-star
+    icon: osmic:books-14
 ---

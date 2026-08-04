@@ -14,8 +14,8 @@ WHERE !draft AND file != this.file
 -->
 <!-- SerializedQuery: LIST WITHOUT ID link(file.link, title) FROM "3 Mechanics/bestiary/fey" WHERE !draft AND file != this.file -->
 - [[fey-spirit-fuming-xphb|Fey Spirit (Fuming)]]
-- [[fey-spirit-tricksy-xphb|Fey Spirit (Tricksy)]]
 - [[fey-spirit-mirthful-xphb|Fey Spirit (Mirthful)]]
+- [[fey-spirit-tricksy-xphb|Fey Spirit (Tricksy)]]
 - [[fey-spirit-xphb|Fey Spirit]]
 - [[otherworldly-steed-fey-xphb|Otherworldly Steed (Fey)]]
 - [[sprite-xmm|Sprite]]

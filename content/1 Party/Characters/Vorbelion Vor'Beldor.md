@@ -2,7 +2,6 @@
 tags:
   - PC
 socialImage: "[[vorbelion.png]]"
-Levend: false
 Current Items:
   - "[[potion-of-healing-xdmg|Potion of Healing]]"
   - "[[torch-xphb|5x Torch]]"
@@ -10,43 +9,47 @@ Current Items:
   - "[[pole-xphb|Pole]]"
   - "[[morningstar-xphb|Morningstar]]"
 ---
-> [!infobox]
-> # Name
+> [!infobox|content-padding-small static clear-headings]
+> # Vorbelion Vor'Beldor
 > ![[vorbelion.png|cover hsmall]]
 > ###### Stats
 > | Type | Stat |
 > | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
+> | Species | [Aasimar](aasimar-xphb) |
+> | Class | [Monk](monk-xphb) |
+> | AC zonder harnas | 13 |
+> | AC met harnas | 17 |
+> | PP | 14 |
+> # Items
+> <!-- QueryToSerialize: LIST WITHOUT ID  
+> row["current-items"] 
+> WHERE file = this.file 
+> FLATTEN current-items 
+> -->
+> <!-- SerializedQuery: LIST WITHOUT ID row["current-items"] WHERE file = this.file FLATTEN current-items -->
+> - [[potion-of-healing-xdmg|Potion of Healing]]
+> - [[torch-xphb|5x Torch]]
+> - [[waterskin-xphb|Waterskin]]
+> - [[pole-xphb|Pole]]
+> - [[morningstar-xphb|Morningstar]]
+>
+> <!-- SerializedQuery END -->
+> 
 
-<!-- QueryToSerialize: 
-TABLE WITHOUT ID
-current-items AS Items
-WHERE file = this.file
--->
-<!-- SerializedQuery: TABLE WITHOUT ID current-items AS Items WHERE file = this.file -->
+Vorbelion Vor'beldor is een zwijgzame [[aasimar-xphb|Aasimar]] [[monk-xphb|Monnik]] van de Astral Self weg. Hij is oud en wijs. Zijn lichaam is zwak, maar zijn geest is sterk. Hij roept een magisch harnas op uit zijn ziel om te vechten.
 
-| Items                                                                                                                                                                                                                                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[potion-of-healing-xdmg\|Potion of Healing]]</li><li>[[torch-xphb\|5x Torch]]</li><li>[[waterskin-xphb\|Waterskin]]</li><li>[[pole-xphb\|Pole]]</li><li>[[morningstar-xphb\|Morningstar]]</li></ul> |
+## Uiterlijk en Persoonlijkheid
 
-<!-- SerializedQuery END -->
+- **Uiterlijk:** Hij heeft een kale kop en een kalme blik. Zijn ogen stralen zacht licht uit. Zijn ziel toont een groot, zilveren wezen om hem heen.
 
-Some text
-Some text
-Some text
-Some text
-Some text
-Some text
-Some text
-Some textSome text
-Some text
-Some text
-Some text
-Some text
-Some text
-Some text
-Some text
-sdsd
+- **Rustig:** Hij praat niet veel. Hij denkt lang na voor hij iets zegt.
 
-![[d20.png|center|200]]
+- **Doel:** Hij zoekt vrede in de wereld. Hij wil kwaad bestrijden met een heldere geest.
+
+## Achtergrond
+
+- **Afkomst:** Hij komt van ver weg, hoog in de bergen. Daar leerde hij de stilte van de kosmos kennen.
+
+- **De Geest:** Zijn astrale vorm is eenoude voorvader. Die beschermt hem in nood.
+
+- **Missie:** Hij reist nu in het rond. Hij helpt zwakke mensen en leert van elk avontuur.

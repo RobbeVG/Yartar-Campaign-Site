@@ -8,15 +8,11 @@ Factie: "[[Hof Solaris]]"
 
 
 
-
 %% 
 # Eigenschappen en Motieven
-
 
 
 # Routine
 
 What does your character's normal day look like? What do they do? What do they think about?
-
-
 %%

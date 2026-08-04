@@ -13,28 +13,28 @@ configuration:
     - templates
     - .obsidian
     - scripts
-    - "0.DM Notes"
-    - "3.Mechanics/adventures"
-    - "3.Mechanics/bastions"
-    - "3.Mechanics/bestiary/giant"
-    - "3.Mechanics/bestiary/humanoid"
-    - "3.Mechanics/bestiary/legendary-group"
-    - "3.Mechanics/bestiary/monstrosity"
-    - "3.Mechanics/bestiary/npc"
-    - "3.Mechanics/bestiary/ooze"
-    - "3.Mechanics/bestiary/plant"
-    - "3.Mechanics/books/dungeon-masters-guide-2024"
-    - "3.Mechanics/books/dungeon-masters-screen-2024"
-    - "3.Mechanics/books/monster-manual-2025"
-    - "3.Mechanics/decks"
-    - "3.Mechanics/deities"
-    - "3.Mechanics/objects"
-    - "3.Mechanics/rewards"
-    - "3.Mechanics/vehicles"
+    - "0 DM Notes"
+    - "3 Mechanics/adventures"
+    - "3 Mechanics/bastions"
+    - "3 Mechanics/bestiary/giant"
+    - "3 Mechanics/bestiary/humanoid"
+    - "3 Mechanics/bestiary/legendary-group"
+    - "3 Mechanics/bestiary/monstrosity"
+    - "3 Mechanics/bestiary/npc"
+    - "3 Mechanics/bestiary/ooze"
+    - "3 Mechanics/bestiary/plant"
+    - "3 Mechanics/books/dungeon-masters-guide-2024"
+    - "3 Mechanics/books/dungeon-masters-screen-2024"
+    - "3 Mechanics/books/monster-manual-2025"
+    - "3 Mechanics/decks"
+    - "3 Mechanics/deities"
+    - "3 Mechanics/objects"
+    - "3 Mechanics/rewards"
+    - "3 Mechanics/vehicles"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
-    typography:
+    typography: 
       header: Schibsted Grotesk
       body: Source Sans Pro
       code: IBM Plex Mono
@@ -127,14 +127,19 @@ plugins:
   - source: "@quartz-community/roam"
     enabled: false
     order: 92
-  - source: "@quartz-community/quartz-fonts"
-    enabled: true
   - source: "@quartz-themes/core"
     enabled: true
     options:
       theme: its-theme
       variation: ttrpg-dnd
       mode: both
+    order: 10
+  - source: "@quartz-community/quartz-fonts"
+    enabled: false
+    options:
+      useThemeFonts: true
+      fontOrigin: googleFonts
+    order: 60
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
@@ -281,8 +286,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        5eTools: https://5e.tools
     layout:
       position: footer
       priority: 50

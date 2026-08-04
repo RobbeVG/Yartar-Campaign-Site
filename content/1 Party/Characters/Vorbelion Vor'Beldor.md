@@ -10,21 +10,6 @@ Current Items:
   - "[[pole-xphb|Pole]]"
   - "[[morningstar-xphb|Morningstar]]"
 ---
-<!-- QueryToSerialize: 
-TABLE WITHOUT ID
-embed(link(meta(socialImage).path,"300")) AS Avatar, 
-current-items AS Items
-WHERE file = this.file
--->
-<!-- SerializedQuery: TABLE WITHOUT ID embed(link(meta(socialImage).path,"300")) AS Avatar, current-items AS Items WHERE file = this.file -->
-
-| Avatar                         | Items                                                                                                                                                                                                                                                                                                                      |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[vorbelion.png\|300]] | <ul><li>[[potion-of-healing-xdmg\|Potion of Healing]]</li><li>[[torch-xphb\|5x Torch]]</li><li>[[waterskin-xphb\|Waterskin]]</li><li>[[pole-xphb\|Pole]]</li><li>[[morningstar-xphb\|Morningstar]]</li></ul> |
-
-<!-- SerializedQuery END -->
-
-
 > [!infobox]
 > # Name
 > ![[vorbelion.png|cover hsmall]]
@@ -33,6 +18,19 @@ WHERE file = this.file
 > | ---- | ---- |
 > | Test | Testing |
 > | Test | Testing |
+
+<!-- QueryToSerialize: 
+TABLE WITHOUT ID
+current-items AS Items
+WHERE file = this.file
+-->
+<!-- SerializedQuery: TABLE WITHOUT ID current-items AS Items WHERE file = this.file -->
+
+| Items                                                                                                                                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[potion-of-healing-xdmg\|Potion of Healing]]</li><li>[[torch-xphb\|5x Torch]]</li><li>[[waterskin-xphb\|Waterskin]]</li><li>[[pole-xphb\|Pole]]</li><li>[[morningstar-xphb\|Morningstar]]</li></ul> |
+
+<!-- SerializedQuery END -->
 
 Some text
 Some text

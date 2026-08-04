@@ -1,0 +1,29 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-spell
+tags:
+- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/class/paladin
+- ttrpg-cli/spell/level/5th-level
+- ttrpg-cli/spell/school/evocation
+classes:
+- Paladin
+title: "Destructive Wave"
+aliases:
+- "Destructive Wave"
+---
+# Destructive Wave
+*5th-level, Evocation*  
+
+
+- **Casting time:** 1 Action
+- **Range:** Self (30-foot Emanation)
+- **Components:** V
+- **Duration:** Instantaneous
+
+Destructive energy ripples outward from you in a 30-foot [Emanation](emanation-area-of-effect-xphb.md). Each creature you choose in the [Emanation](emanation-area-of-effect-xphb.md) makes a Constitution saving throw. On a failed save, a target takes `dice:5d6|noform|noparens|avg` (`5d6`) Thunder damage and `dice:5d6|noform|noparens|avg` (`5d6`) Radiant or Necrotic damage (your choice) and has the [Prone](conditions.md#Prone) condition. On a successful save, a target takes half as much damage only.
+
+**Classes**: [Paladin](list-spells-classes-paladin.md)
+
+*Source: Player's Handbook (2024) p. 261*

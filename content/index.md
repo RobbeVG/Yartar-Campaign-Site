@@ -10,8 +10,8 @@ unlisted: true
 
 Dit is een overzicht van de huidige campagne. Zo zien jullie de [[index#Avonturiers|Avonturiers]] alsook de huidige [[index#Queestes|Queestes]] van de groep. Deze website zal blijven groeien door de loop van de campagne, **hou hem goed in het oog**. Er valt namelijk veel meer te ontdekken dan enkel deze pagina....
 
-- Wil je meer vertrouwd geraken met de wereld rondom? Ga naar de [[2.World Almanac/index|Almanac van de wereld]]. 
-- [[4.Sessions/index|Overzicht van de sessies]]? Geen enkel probleem.
+- Wil je meer vertrouwd geraken met de wereld rondom? Ga naar de [[2 World Almanac/index|Almanac van de wereld]]. 
+- [[4 Sessions/index|Overzicht van de sessies]]? Geen enkel probleem.
 - Wil je een [[03-chapter-2-creating-a-character|character maken]]?
 - Soms wil je gewoon even... [[fireball-xphb|FIREBALL!!!!!]]
 - Enzovoort...
@@ -30,7 +30,7 @@ Dit is een voorbeeld van hoe characters afgebeeld worden.
 filters:
   not:
     - file.inFolder("templates")
-    - file.inFolder("0.DM Notes")
+    - file.inFolder("0 DM Notes")
 views:
   - type: cards
     name: Characters
@@ -50,7 +50,7 @@ views:
 filters:
   not:
     - file.inFolder("templates")
-    - file.inFolder("0.DM Notes")
+    - file.inFolder("0 DM Notes")
 views:
   - type: cards
     name: Actief

@@ -1,0 +1,15 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- ttrpg-cli/spell/list/reward/sanctuary-charm
+title: "Spells for Sanctuary Charm"
+aliases:
+- "Spells for Sanctuary Charm"
+---
+# Spells for Sanctuary Charm
+
+## 1st Level
+
+- [Healing Word](healing-word-xphb.md "XPHB")

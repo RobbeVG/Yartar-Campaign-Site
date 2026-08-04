@@ -2,8 +2,8 @@ filters:
   and:
     - and:
         - '!file.inFolder("templates")'
-        - '!file.inFolder("0.DM Notes")'
-        - '!file.inFolder("3.Mechanics")'
+        - '!file.inFolder("0 DM Notes")'
+        - '!file.inFolder("3 Mechanics")'
 views:
   - type: table
     name: Table

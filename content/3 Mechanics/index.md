@@ -1,6 +1,5 @@
 ---
 title: 3 Mechanics
-unlisted: true
 ---
 Onder deze map vinden jullie enorm veel terug wat met DnD te maken heeft. Zo vind je de huidige 2024 regels terug alsook het antwoordt op de vraag [[03-chapter-2-creating-a-character|hoe maak ik een DnD-character?]]. 
 

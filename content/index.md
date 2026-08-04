@@ -4,7 +4,6 @@ aliases:
   - overview
   - home
 title: Campaign Home
-unlisted: true
 ---
 # Gegroet
 

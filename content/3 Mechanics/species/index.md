@@ -25,3 +25,4 @@ WHERE !draft AND file != this.file
 - [[tiefling-xphb|Tiefling]]
 
 <!-- SerializedQuery END -->
+<style> .page-listing { display: none; } </style>

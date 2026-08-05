@@ -4,7 +4,6 @@ cssclasses:
   - json5e-note
   - json5e-index
 title: Backgrounds
-hideFolderContent: true
 ---
 # Index of Backgrounds
 - [Acolyte](acolyte-xphb.md)
@@ -23,3 +22,5 @@ hideFolderContent: true
 - [Scribe](scribe-xphb.md)
 - [Soldier](soldier-xphb.md)
 - [Wayfarer](wayfarer-xphb.md)
+
+<style> .page-listing { display: none; } </style>

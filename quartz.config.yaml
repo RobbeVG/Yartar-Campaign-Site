@@ -184,7 +184,7 @@ plugins:
       showFolderCount: true
       showSubfolders: true
   - source: "@quartz-community/tag-page"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
     layout:
@@ -247,7 +247,7 @@ plugins:
       position: beforeBody
       priority: 20
   - source: "@quartz-community/tag-list"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 30

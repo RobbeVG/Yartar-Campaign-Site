@@ -20,3 +20,5 @@ WHERE !draft AND file != this.file
 - [[suffocation-xphb|Suffocation]]
 
 <!-- SerializedQuery END -->
+
+<style> .page-listing { display: none; } </style>

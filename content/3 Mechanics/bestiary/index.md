@@ -17,3 +17,5 @@ title: Bestiary
 - [Fiend](3%20Mechanics/bestiary/fiend/index.md)
 - [Miscellaneous](3%20Mechanics/bestiary/miscellaneous/index.md)
 - [Undead](3%20Mechanics/bestiary/undead/index.md)
+
+<style> .page-listing { display: none; } </style>

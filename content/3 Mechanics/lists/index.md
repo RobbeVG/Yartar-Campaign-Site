@@ -103,3 +103,6 @@ SORT title ASC
 - [[list-spells-classes-wizard|Wizard Spells]]
 
 <!-- SerializedQuery END -->
+
+
+<style> .page-listing { display: none; } </style>

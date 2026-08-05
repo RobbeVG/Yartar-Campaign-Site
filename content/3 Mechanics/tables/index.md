@@ -29,16 +29,16 @@ WHERE !draft AND file != this.file
 - [[assign-ability-scores-standard-array-by-class-xphb\|Assign Ability Scores; Standard Array by Class]]
 - [[choose-a-background-ability-scores-and-backgrounds-xphb\|Choose a Background; Ability Scores and Backgrounds]]
 - [[choose-a-class-class-overview-xphb\|Choose a Class; Class Overview]]
-- [[choose-languages-rare-languages-xphb\|Choose Languages; Rare Languages]]
 - [[choose-languages-standard-languages-xphb\|Choose Languages; Standard Languages]]
+- [[choose-languages-rare-languages-xphb\|Choose Languages; Rare Languages]]
 - [[coins-coin-values-xphb\|Coins; Coin Values]]
 - [[3 Mechanics/tables/cover-xphb.md\|Cover]]
 - [[creature-size-and-space-xphb\|Creature Size and Space]]
 - [[describe-appearance-and-personality-charisma-xphb\|Describe Appearance and Personality; Charisma]]
 - [[describe-appearance-and-personality-constitution-xphb\|Describe Appearance and Personality; Constitution]]
 - [[describe-appearance-and-personality-dexterity-xphb\|Describe Appearance and Personality; Dexterity]]
-- [[describe-appearance-and-personality-strength-xphb\|Describe Appearance and Personality; Strength]]
 - [[describe-appearance-and-personality-intelligence-xphb\|Describe Appearance and Personality; Intelligence]]
+- [[describe-appearance-and-personality-strength-xphb\|Describe Appearance and Personality; Strength]]
 - [[describe-appearance-and-personality-wisdom-xphb\|Describe Appearance and Personality; Wisdom]]
 - [[determine-ability-modifiers-ability-scores-and-modifiers-xphb\|Determine Ability Modifiers; Ability Scores and Modifiers]]
 - [[druidic-focus-varies-druidic-focuses-xphb\|Druidic Focus (Varies); Druidic Focuses]]
@@ -85,3 +85,5 @@ WHERE !draft AND file != this.file
 - [[wild-magic-surge-xphb\|Wild Magic Surge]]
 
 <!-- SerializedQuery END -->
+
+<style> .page-listing { display: none; } </style>

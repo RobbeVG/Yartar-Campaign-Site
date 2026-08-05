@@ -67,3 +67,5 @@ title: Classes
 	- [Wizard: Diviner](wizard-xphb-diviner-xphb.md)
 	- [Wizard: Evoker](wizard-xphb-evoker-xphb.md)
 	- [Wizard: Illusionist](wizard-xphb-illusionist-xphb.md)
+
+<style> .page-listing { display: none; } </style>

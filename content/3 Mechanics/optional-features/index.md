@@ -65,3 +65,6 @@ title: Optional Features
 - [Visions of Distant Realms](visions-of-distant-realms-xphb.md)
 - [Whispers of the Grave](whispers-of-the-grave-xphb.md)
 - [Witch Sight](witch-sight-xphb.md)
+
+
+<style> .page-listing { display: none; } </style>

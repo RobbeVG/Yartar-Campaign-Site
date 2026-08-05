@@ -10,3 +10,8 @@ FROM "<% tp.file.folder(true)%>"
 WHERE !draft AND file != this.file
 SORT title ASC
 -->
+
+
+
+
+<style> .page-listing { display: none; } </style>

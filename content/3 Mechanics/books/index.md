@@ -8,3 +8,5 @@ title: Books
 # Index of Books
 
 - [Players Handbook 2024](3%20Mechanics/books/players-handbook-2024/index.md)
+
+<style> .page-listing { display: none; } </style>

@@ -41,3 +41,5 @@ cssclasses:
 - [Trophy Room](trophy-room.md)
 - [War Room](war-room.md)
 - [Workshop](workshop.md)
+
+<style> .page-listing { display: none; } </style>

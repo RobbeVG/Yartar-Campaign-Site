@@ -26,3 +26,5 @@ Als speler is de belangrijkste referentie hier: [[3 Mechanics/books/players-hand
 - [[3 Mechanics/tables/index|Tables]]
 - [[3 Mechanics/traps-hazards/index|Traps & Hazerds]]
 %%
+
+<style> .page-listing { display: none; } </style>

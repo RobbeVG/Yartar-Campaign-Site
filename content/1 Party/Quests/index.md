@@ -20,3 +20,5 @@ views:
 ```
 
 ^f80452
+
+<style> .page-listing { display: none; } </style>

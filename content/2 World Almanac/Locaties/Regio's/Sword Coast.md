@@ -28,7 +28,3 @@ views:
 
 ```
 # Locaties
-```dataview
-LIST
-FROM [[Sword Coast]]
-```

@@ -1,7 +1,7 @@
 ---
 title: 4 Sessions
-hideFolderContent: true
 ---
+
 # Onze sessies
 
 ```base
@@ -32,5 +32,5 @@ views:
     separator: " - "
 
 ```
-
+<style> .page-listing { display: none; } </style>
 

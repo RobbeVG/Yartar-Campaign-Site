@@ -7,3 +7,4 @@ Ik raad aan dat je als speler het meeste refereed naar de [[3 Mechanics/books/pl
 >[!info] Voorbeeld
 >- Brent doet de [[actions#Attack|Attack]] actie uit de [[actions|Actions (In deze folder)]]. 
 >- Als speler kan je verschillende [[02-chapter-1-playing-the-game#Actions|Actions]] uitvoeren.
+

@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "356c40dd43100dc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7060875ce4494a02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f9308d10a2f2cc1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12fd470221be991b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "de15d272cea06dca",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "88a79b8ae9e18be2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a0e012757270e5e6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "7b8d7c4dd48d4b3d",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "37b3aa0c550c8618",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "defdf8e48202a548",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6e651174016b20ff",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "5e3ae485d21cbd89",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "4c8c11a961842d59",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "5bf9c0bf7921203e",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "initiative-tracker",
+          "title": "Initiative Tracker"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "quartz-syncer:Quartz Syncer publication center": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4f9308d10a2f2cc1",
+  "lastOpenFiles": [
+    "test.md",
+    "Dashboard.md",
+    "Templates/Quest.md",
+    "1 Party/index.md",
+    "2 World Almanac/Locaties",
+    "Templates/NPC.md",
+    "2 World Almanac/Steden/Yartar.md",
+    "2 World Almanac/Steden",
+    "2 World Almanac/Regio's/Sword Coast.md",
+    "2 World Almanac/Regio's",
+    "2 World Almanac/Organisaties/Huis Solaris.md",
+    "2 World Almanac/Organisaties/Huis Artemis.md",
+    "2 World Almanac/Organisaties",
+    "2 World Almanac/NPCS/Vrouw Tana.md",
+    "2 World Almanac/NPCS/index.md",
+    "2 World Almanac/NPCS",
+    "3 Mechanics",
+    "Templates",
+    "index.md",
+    "4 Sessions/index.md",
+    "4 Sessions",
+    "2 World Almanac/index.md",
+    "2 World Almanac",
+    "1 Party/Overview.md",
+    "1 Party",
+    "0 DM Notes/index.md"
+  ]
+}

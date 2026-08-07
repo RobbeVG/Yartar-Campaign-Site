@@ -1,0 +1,162 @@
+{
+  "userAdmonitions": {
+    "statblock": {
+      "type": "statblock",
+      "icon": {
+        "name": "dragon",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "209, 132, 98",
+      "styleWithCss": true
+    },
+    "flowchart": {
+      "type": "flowchart",
+      "icon": {
+        "name": "map",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false,
+      "color": "19, 121, 238",
+      "styleWithCss": true
+    },
+    "gallery": {
+      "type": "gallery",
+      "icon": {
+        "name": "image",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false,
+      "color": "120, 171, 84",
+      "styleWithCss": true
+    },
+    "readaloud": {
+      "type": "readaloud",
+      "color": "249, 112, 213",
+      "icon": {
+        "name": "book-reader",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Read Aloud",
+      "styleWithCss": true,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false
+    },
+    "charm": {
+      "type": "charm",
+      "icon": {
+        "name": "magic",
+        "type": "font-awesome"
+      },
+      "title": "Charm",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "173, 209, 174",
+      "styleWithCss": true
+    },
+    "letter": {
+      "type": "letter",
+      "icon": {
+        "name": "envelope-open-text",
+        "type": "font-awesome"
+      },
+      "title": "Letter",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "59, 207, 92",
+      "styleWithCss": true
+    },
+    "npc": {
+      "type": "npc",
+      "icon": {
+        "name": "address-card",
+        "type": "font-awesome"
+      },
+      "title": "NPC",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "77, 212, 105",
+      "styleWithCss": true
+    },
+    "scene": {
+      "type": "scene",
+      "icon": {
+        "name": "archway",
+        "type": "font-awesome"
+      },
+      "title": "Scene",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "221, 209, 80",
+      "styleWithCss": true
+    },
+    "skill": {
+      "type": "skill",
+      "icon": {
+        "name": "hand-sparkles",
+        "type": "font-awesome"
+      },
+      "title": "Skill Check",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "79, 58, 24",
+      "styleWithCss": true
+    },
+    "weather": {
+      "type": "weather",
+      "icon": {
+        "name": "cloud-sun",
+        "type": "font-awesome"
+      },
+      "title": "Weather",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "169, 164, 205",
+      "styleWithCss": true
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "11.0.0",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.d1575b"
+}

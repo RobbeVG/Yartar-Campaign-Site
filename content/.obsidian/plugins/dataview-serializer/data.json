@@ -1,0 +1,15 @@
+{
+  "foldersToScan": [],
+  "ignoredFolders": [],
+  "disableAutomaticUpdates": false,
+  "showRefreshButton": true,
+  "foldersToForceUpdate": [
+    "1 Party/Characters",
+    "2 World Almanac"
+  ],
+  "showErrorNotifications": true,
+  "debugLogging": false,
+  "addTrailingNewline": false,
+  "linkFormat": "shortest",
+  "enableDataviewJS": true
+}

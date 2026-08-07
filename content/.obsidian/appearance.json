@@ -1,0 +1,11 @@
+{
+  "enabledCssSnippets": [
+    "dnd5e-compendium",
+    "hide-markdown-link-url",
+    "S - Encoded Fonts",
+    "S - Encoded Icons"
+  ],
+  "cssTheme": "ITS Theme",
+  "showRibbon": true,
+  "theme": "system"
+}

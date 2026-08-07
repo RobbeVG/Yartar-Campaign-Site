@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "unlisted": "checkbox",
+    "marker": "marker",
+    "xp": "number",
+    "pb": "text",
+    "level": "number",
+    "excluded": "checkbox"
+  }
+}

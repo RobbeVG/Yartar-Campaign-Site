@@ -1,0 +1,102 @@
+{
+  "position": "RIGHT",
+  "showFudgeIcon": false,
+  "rollLinksForTags": false,
+  "copyContentButton": true,
+  "customFormulas": [],
+  "displayFormulaForMod": true,
+  "displayResultsInline": false,
+  "displayFormulaAfter": false,
+  "escapeDiceMod": true,
+  "signed": false,
+  "displayLookupRoll": true,
+  "formulas": {},
+  "defaultRoll": 1,
+  "defaultFace": 100,
+  "renderer": true,
+  "renderAllDice": false,
+  "addToView": false,
+  "renderTime": 2000,
+  "colorfulDice": true,
+  "scaler": 1,
+  "diceColor": "#202020",
+  "textColor": "#ffffff",
+  "textFont": "Arial",
+  "showLeafOnStartup": true,
+  "narrativeSymbolSet": "Genesys",
+  "displayAsSymbols": false,
+  "displayAsEmbed": true,
+  "round": "None",
+  "initialDisplay": "Roll",
+  "icons": [
+    {
+      "id": "dice-roller-d4",
+      "shape": "Triangle",
+      "formula": "d4",
+      "text": "4"
+    },
+    {
+      "id": "dice-roller-d6",
+      "shape": "Square",
+      "formula": "d6",
+      "text": "6"
+    },
+    {
+      "id": "dice-roller-d8",
+      "shape": "Diamond",
+      "formula": "d8",
+      "text": "8"
+    },
+    {
+      "id": "dice-roller-d10",
+      "shape": "Diamond",
+      "formula": "d10",
+      "text": "10"
+    },
+    {
+      "id": "dice-roller-d12",
+      "shape": "Dodecahedron",
+      "formula": "d12",
+      "text": "12"
+    },
+    {
+      "id": "dice-roller-d20",
+      "shape": "Icosahedron",
+      "formula": "d20",
+      "text": "20"
+    },
+    {
+      "id": "dice-roller-d100",
+      "shape": "Circle",
+      "formula": "d%",
+      "text": "%"
+    }
+  ],
+  "showRenderNotice": true,
+  "diceModTemplateFolders": {},
+  "replaceDiceModInLivePreview": true,
+  "version": "11.4.2",
+  "viewResults": [
+    {
+      "result": "17",
+      "original": "1d20kh",
+      "resultText": "1d20kh\n[17]",
+      "timestamp": 1785762561975,
+      "id": "NRI7U-QMuldQ"
+    },
+    {
+      "result": "12",
+      "original": "2d20kh",
+      "resultText": "2d20kh\n[8d, 12]",
+      "timestamp": 1785762579732,
+      "id": "tQd1WF9Pdiy_"
+    },
+    {
+      "result": "16",
+      "original": "2d20kh",
+      "resultText": "2d20kh\n[16, 4d]",
+      "timestamp": 1785762602849,
+      "id": "XZZnJGmGUd4a"
+    }
+  ]
+}

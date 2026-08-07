@@ -1,8 +1,6 @@
 ---
 title: Quests
 ---
-
-# Queestes
 ```base
 filters:
   not:

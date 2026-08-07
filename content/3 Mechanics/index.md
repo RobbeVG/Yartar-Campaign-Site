@@ -11,7 +11,6 @@ Als speler is de belangrijkste referentie hier: [[3 Mechanics/books/players-hand
 > Het kan zijn dat sommige elementen niet correct geformatteerd zijn voor deze website. Normaal zou jij deze niet perse nodig hebben. Indien je toch dit wenst. Ga dan even op de website van [5eTools](https://5e.tools/) kijken.
 # Index of Mechanics
 
-%%
 - [[3 Mechanics/backgrounds/index|Backgrounds]]
 - [[3 Mechanics/bestiary/index|Bestiary]]
 - [[3 Mechanics/books/index|Books]]
@@ -25,6 +24,6 @@ Als speler is de belangrijkste referentie hier: [[3 Mechanics/books/players-hand
 - [[3 Mechanics/spells/index|Spells]]
 - [[3 Mechanics/tables/index|Tables]]
 - [[3 Mechanics/traps-hazards/index|Traps & Hazerds]]
-%%
+
 
 <style> .page-listing { display: none; } </style>

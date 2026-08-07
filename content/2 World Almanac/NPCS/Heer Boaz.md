@@ -1,8 +1,7 @@
 ---
 tags:
   - NPC
-Locatie: "[[Yartar]]"
-Factie: "[[Huis Casalanders]]"
+Locatie: "[[2 World Almanac/Sword Coast/Yartar/index|Yartar]]"
 ---
 # Omschrijving
 

@@ -1,11 +1,11 @@
 ---
 tags:
   - NPC
-Locatie: "[[Yartar]]"
-Factie: "[[Hof Solaris]]"
+Locatie: "[[2 World Almanac/Sword Coast/Yartar/index|Yartar]]"
 ---
 # Omschrijving
 
+[[Vrouw Nora]] is de leidinggevende van het [[Hof Solaris]]. Zij is een van de drie Lords. Die de stad [[2 World Almanac/Sword Coast/Yartar/index|Yartar]] runnen. 
 
 
 %% 

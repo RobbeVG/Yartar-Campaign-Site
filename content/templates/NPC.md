@@ -2,7 +2,6 @@
 tags:
   - NPC
 Locatie: "[[]]"
-Factie: "[[]]"
 ---
 <%* let characterName = await tp.system.prompt("What is the name of the character?", "character_name", true, false, true);
 await tp.file.rename(characterName)

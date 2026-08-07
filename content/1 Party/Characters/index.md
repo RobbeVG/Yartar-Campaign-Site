@@ -1,8 +1,6 @@
 ---
 title: Characters
 ---
-# Avonturiers
-
 ```base
 filters:
   not:
